@@ -1,12 +1,12 @@
 # THE FRACTURE PROTOCOL — SERIES BIBLE
 ## Series 01
-### Version 1.0
+### Version 1.1
 
 **Genre:** Sci-Fi / Dystopian / Mystery / Drama
 **Target Audience:** 13–35
 **Format:** 8–15 minute YouTube episodes, serialized, heavy mystery, character-driven
 **Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.0.md` (this document must never contradict it)
-**World canon:** `bible/Fracture_Protocol_World_Bible_v1.0.md`
+**World canon:** `bible/Fracture_Protocol_World_Bible_v1.1.md`
 **Operational process:** `studio-os/Studio_OS_v1.0.md`
 
 ---
@@ -294,9 +294,15 @@ Season One resolves **one specific mystery** — what really happened the night 
 
 **[LIVING SECTION]** — to be broken into full season bibles as each is greenlit; this table is a placeholder roadmap, not a commitment.
 
+**New Season Two character — Coda:** A Salvage Line broker and rare Static-Reader operating out of the Substrate (World Bible Section 16). Pragmatic, not ideological — doesn't trust Authority, doesn't buy the Reassembly's cause either, and deals information and recovered Root Artifacts to whoever pays. Introduced as Kael's first real contact beyond Ward Station Seven's institutional walls, once Season Two sends him tracking Aris and the network reaction into the Substrate. Not a fracture anomaly subject and not a second protagonist (World Bible Section 5, System Rule 4) — a supporting character whose pragmatism and moral flexibility give Kael his first real test of trust outside people who are bound, one way or another, to protect him.
+
+- **Want:** to stay unowned by any faction — Authority, Ward Division, or the Reassembly.
+- **Flaw:** sells information to whoever pays, which may not always be Kael.
+- **Cost already paid:** an unspecified loss tied to a past Breach or to Authority itself, reserved as a Season Two/Three reveal — not to be answered on introduction.
+
 ## 13. Long-Term Character Arcs **[LIVING SECTION]**
 
-See **Appendix A** for Kael's full five-season roadmap. Reyth's long-term arc trends toward eventual Ward Division leadership, informed by his season-one loss and alliance. Sella's undisclosed grievance (teased Episode 15) is reserved as a Season Two personal-arc anchor, not resolved in Season One.
+See **Appendix A** for Kael's full five-season roadmap. Reyth's long-term arc trends toward eventual Ward Division leadership, informed by his season-one loss and alliance. Sella's undisclosed grievance (teased Episode 15) is reserved as a Season Two personal-arc anchor, not resolved in Season One. Coda (introduced Season Two) is reserved as a recurring, morally ambiguous ally/information broker — her trustworthiness in any given scene should stay genuinely uncertain for several seasons, not resolved into simple friend-or-foe status early.
 
 ## 14. Foreshadowing Opportunities **[LIVING SECTION]**
 
@@ -492,3 +498,4 @@ Institutional distrust and active suppression of his investigation (Ossic, then 
 
 ### Changelog
 `[v1.0 — 2026-07-06] Initial Series 01 Bible established for The Fracture Protocol, replacing the retired fantasy "Kael: The Shattered Realms" Series Bible v2.0 (retained in git history only). Preserves the proven 20-episode Season One structure, twists, and cast relationships, fully reskinned to sci-fi terminology (Sigilcraft to Cipher-work, Echo/Echo-communion to Fragment/Fragment-Sync, Relic to Root Artifact, Hollowing to Burnout, the Duskmarch Wardenate to the Ward Division, Duskhollow to Ward Station Seven, the Drift to the Substrate, Kindling to the Calibration). Kael's age updated to 17-20. No plot beat, twist, or character motivation was altered from the prior version — only terminology and setting.`
+`[v1.1 — 2026-07-06] Founder-approved additive expansion: introduced Coda (Section 12), a new Season Two supporting character — a Salvage Line broker and rare Static-Reader (World Bible v1.1) — explicitly scoped as a non-competing supporting character, not a second protagonist or fracture anomaly subject. Season One's 20-episode outline, cast, and twists are unchanged. Synced World Bible reference to v1.1.`

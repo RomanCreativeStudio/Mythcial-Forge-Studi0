@@ -2,7 +2,7 @@
 ### Studio OS Version 1.0
 **Status:** Foundational — approved for operational use
 **Classification:** Internal — Company Handbook
-**Companion documents:** `bible/Fracture_Protocol_Master_System_Prompt_v1.0.md` (absolute canon lock), `bible/Fracture_Protocol_World_Bible_v1.0.md` (creative canon — this document governs how we *work*, those documents govern what we *build*)
+**Companion documents:** `bible/Fracture_Protocol_Master_System_Prompt_v1.0.md` (absolute canon lock), `bible/Fracture_Protocol_World_Bible_v1.1.md` (creative canon — this document governs how we *work*, those documents govern what we *build*)
 
 ---
 

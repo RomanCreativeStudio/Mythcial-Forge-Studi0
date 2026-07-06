@@ -38,8 +38,8 @@ Six document types exist, each with a distinct job. None should duplicate anothe
 | **Studio OS** | How the studio *works* — company-level process, workflow, standards | `studio-os/Studio_OS_v1.0.md` |
 | **Production OS** | How an episode actually gets made — step-by-step department SOPs | `production-os/Production_OS_v1.0.md` |
 | **Art Bible** | How everything *looks* — visual law across camera, light, color, materials, and system-effect VFX | `mythic-forge-art-bible/` (10 files, indexed in Section 3) |
-| **World Bible** | What the universe *is* — canon law, expanding on the Master System Prompt | `bible/Fracture_Protocol_World_Bible_v1.0.md` |
-| **Series Bible** | How one specific series tells its story within the universe | `series/01-the-fracture-protocol/Series_Bible_v1.0.md` |
+| **World Bible** | What the universe *is* — canon law, expanding on the Master System Prompt | `bible/Fracture_Protocol_World_Bible_v1.1.md` |
+| **Series Bible** | How one specific series tells its story within the universe | `series/01-the-fracture-protocol/Series_Bible_v1.1.md` |
 
 | Field | Value |
 |---|---|
@@ -63,8 +63,8 @@ Six document types exist, each with a distinct job. None should duplicate anothe
 | Studio Operating System | `studio-os/Studio_OS_v1.0.md` | Company process, workflow, standards | 1.0 | ✅ Complete |
 | Production Operating System | `production-os/Production_OS_v1.0.md` | Department-level production SOPs, pipeline, QA | 1.0 | ✅ Complete |
 | Mythic Forge Art Bible (10 files) | `mythic-forge-art-bible/` | Visual law: camera, lighting, color, materials, environment, system-effect VFX, mood, forbidden elements, consistency, prompt library | 3.0 | ✅ Complete |
-| Fracture Protocol World Bible | `bible/Fracture_Protocol_World_Bible_v1.0.md` | Universe canon | 1.0 | ✅ Complete |
-| The Fracture Protocol — Series Bible | `series/01-the-fracture-protocol/Series_Bible_v1.0.md` | Series 01 story canon | 1.0 | ✅ Complete |
+| Fracture Protocol World Bible | `bible/Fracture_Protocol_World_Bible_v1.1.md` | Universe canon | 1.1 | ✅ Complete |
+| The Fracture Protocol — Series Bible | `series/01-the-fracture-protocol/Series_Bible_v1.1.md` | Series 01 story canon | 1.1 | ✅ Complete |
 
 **[LIVING]** — every new document created for Mythic Forge Studios must be added to this table on the day it's created. An undocumented document does not count as part of the ecosystem.
 
@@ -137,7 +137,7 @@ Six document types exist, each with a distinct job. None should duplicate anothe
 Authority flows top to bottom. A lower tier may add detail; it may never contradict a higher one without going through the Review Workflow (Section 34).
 
 1. **Master System Prompt** (`bible/Fracture_Protocol_Master_System_Prompt_v1.0.md`) — the absolute anti-drift firewall; highest authority on anything, full stop
-2. **World Bible** (`bible/Fracture_Protocol_World_Bible_v1.0.md`) — highest authority on world-related detail, subordinate only to the Master System Prompt
+2. **World Bible** (`bible/Fracture_Protocol_World_Bible_v1.1.md`) — highest authority on world-related detail, subordinate only to the Master System Prompt
 3. **Studio OS** (`studio-os/`) — highest authority on company-level process
 4. **Series Bibles** (`series/`) — authoritative for their own series only; subordinate to the World Bible and Master System Prompt
 5. **Production OS** (`production-os/`) — highest authority on how episodes get made technically; implements Studio OS Section 13 and must never contradict a Series Bible's story requirements
@@ -204,8 +204,8 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 
 | Asset Type | Convention | Example |
 |---|---|---|
-| World document | `bible/{Document_Name}_v{X.X}.md` | `bible/Fracture_Protocol_World_Bible_v1.0.md` |
-| Series document | `series/{NN}-{series-slug}/{Document_Name}_v{X.X}.md` | `series/01-the-fracture-protocol/Series_Bible_v1.0.md` |
+| World document | `bible/{Document_Name}_v{X.X}.md` | `bible/Fracture_Protocol_World_Bible_v1.1.md` |
+| Series document | `series/{NN}-{series-slug}/{Document_Name}_v{X.X}.md` | `series/01-the-fracture-protocol/Series_Bible_v1.1.md` |
 | Registry entry | `registries/{type}/{zone}_{name}.md` | `registries/characters/lower-sector_kael.md` |
 | Episode script | `scripts/S{season}E{episode}_{slug}.md` | `scripts/S01E04_the-bout.md` |
 | In-world terminology | Follow the Terminology Reference | World Bible Section 13 |
@@ -232,8 +232,8 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 | Studio OS | 1.0 | ✅ Complete | 2026-07-06 | Founder |
 | Production OS | 1.0 | ✅ Complete | 2026-07-06 | Founder |
 | Mythic Forge Art Bible | 3.0 | ✅ Complete | 2026-07-06 | Founder |
-| Fracture Protocol World Bible | 1.0 | ✅ Complete | 2026-07-06 | Founder |
-| The Fracture Protocol Series Bible | 1.0 | ✅ Complete | 2026-07-06 | Founder |
+| Fracture Protocol World Bible | 1.1 | ✅ Complete | 2026-07-06 | Founder |
+| The Fracture Protocol Series Bible | 1.1 | ✅ Complete | 2026-07-06 | Founder |
 | Character Registry | — | ⬜ Not Started | — | Unassigned |
 | Root Artifact Registry | — | ⬜ Not Started | — | Unassigned |
 | Season One Scripts (S01E01–S01E20) | — | ⬜ Not Started | — | Unassigned |
@@ -248,8 +248,8 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 | Studio OS | 1.0 | Operational handbook: vision, values, workflows, QA, IP protection, roadmap |
 | Production OS | 1.0 | 48-section department-level production manual: SOPs, pipeline, QA, metrics |
 | Mythic Forge Art Bible | 3.0 | 10-file visual law: single sanctioned register (semi-realistic anime cinematic hybrid), megacity color system, system-interference VFX rules, prompt library |
-| Fracture Protocol World Bible | 1.0 | Lean world canon: the megacity's four layers, Authority System, Signal/Cipher-work/Fragments/Root Artifacts, the Reassembly, Terminology Reference |
-| The Fracture Protocol Series Bible | 1.0 | Series 01's premise, cast, and full Season One (20-episode) outline, reskinned from the studio's proven fantasy draft into sci-fi terminology |
+| Fracture Protocol World Bible | 1.1 | Lean world canon: the megacity's four layers, Authority System, Signal/Cipher-work/Fragment-Sync/Static-Reading/Fragments/Root Artifacts, the Reassembly, the Salvage Line, Terminology Reference |
+| The Fracture Protocol Series Bible | 1.1 | Series 01's premise, cast, and full Season One (20-episode) outline, plus Coda (Salvage Line broker, Static-Reader) reserved for Season Two |
 
 | Field | Value |
 |---|---|
@@ -310,10 +310,10 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 |---|---|
 | **Purpose** | Point to where every character is documented today, ahead of a dedicated registry |
 | **Owner** | Founder (Creative Director) |
-| **Primary Documents** | Master System Prompt Section 4 (Kael canon lock); `series/01-the-fracture-protocol/Series_Bible_v1.0.md` Sections 6–9 and Appendix A (full Series 01 cast) |
+| **Primary Documents** | Master System Prompt Section 4 (Kael canon lock); `series/01-the-fracture-protocol/Series_Bible_v1.1.md` Sections 6–9 and Appendix A (full Series 01 cast) |
 | **Dependencies** | Section 13 (Character Registry, planned) |
 | **Status** | 🔄 In Progress — documented inline, not yet in a standalone registry |
-| **Version** | Tracks source documents (1.0) |
+| **Version** | Tracks source documents (1.1) |
 | **Last Updated** | 2026-07-06 |
 | **Future Expansion Notes** | Migrate to `registries/characters/` once cast size makes inline documentation unwieldy — see Character Tracker below |
 
@@ -329,6 +329,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 | Technician Halvard Ossic | Lower Sector | Series Bible Section 7 | ✅ Complete |
 | Former Division Director Yselde Cray | Lower Sector | Series Bible Section 7 | ✅ Complete |
 | Aris | N/A (Fragment) | Series Bible Section 6 | ✅ Complete |
+| Coda | The Substrate | Series Bible Section 12 | ✅ Complete (reserved for Season Two) |
 
 ---
 
@@ -338,7 +339,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 |---|---|
 | **Purpose** | Point to where each of the megacity's four layers is documented |
 | **Owner** | Founder (Creative Director) |
-| **Primary Documents** | `bible/Fracture_Protocol_World_Bible_v1.0.md` Section 3 |
+| **Primary Documents** | `bible/Fracture_Protocol_World_Bible_v1.1.md` Section 3 |
 | **Dependencies** | None |
 | **Status** | ✅ Complete (framework); 🔄 deep per-Zone detail is a living section |
 | **Version** | 1.0 |
@@ -399,14 +400,14 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 
 | Field | Value |
 |---|---|
-| **Purpose** | Point to all Signal/Cipher-work/Fragment-Sync/Root Artifact canon |
+| **Purpose** | Point to all Signal/Cipher-work/Fragment-Sync/Static-Reading/Root Artifact canon |
 | **Owner** | Founder (Creative Director) |
 | **Primary Documents** | World Bible Sections 7–11 |
 | **Dependencies** | None |
-| **Status** | ✅ Complete (framework); 🔄 catalog detail (named Root Artifacts) is living |
-| **Version** | 1.0 |
+| **Status** | ✅ Complete (framework, now three disciplines); 🔄 catalog detail (named Root Artifacts) is living |
+| **Version** | 1.1 |
 | **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Root Artifact Registry (Section 13) will house individually named artifacts as they're introduced |
+| **Future Expansion Notes** | Root Artifact Registry (Section 13) will house individually named artifacts as they're introduced; Static-Reading (World Bible Section 7) is rare enough that Coda (Section 12/14) is currently its only named practitioner |
 
 ---
 
@@ -416,7 +417,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 |---|---|
 | **Purpose** | Point to all series/story-level documentation |
 | **Owner** | Founder (Creative Director / Head Writer) |
-| **Primary Documents** | `series/01-the-fracture-protocol/Series_Bible_v1.0.md` |
+| **Primary Documents** | `series/01-the-fracture-protocol/Series_Bible_v1.1.md` |
 | **Dependencies** | Section 6 (Documentation Hierarchy) |
 | **Status** | 🔄 In Progress — Series 01 fully outlined; scripts not yet written |
 | **Version** | 1.0 |
@@ -865,9 +866,10 @@ Series 02+ .............. ⬜ Not yet planned (see Section 40)
 |---|---|---|---|
 | The Fracture Protocol / Authority System | Core cosmology | Master System Prompt Sections 3–5; World Bible Sections 2, 4 | ✅ Locked |
 | Megacity Structure (4 layers) | Core cosmology | Master System Prompt Section 5; World Bible Section 3 | ✅ Locked |
-| Signal / Cipher-work / Fragment-Sync | Power system | World Bible Section 7 | ✅ Locked |
+| Signal / Cipher-work / Fragment-Sync / Static-Reading | Power system | World Bible Section 7 | ✅ Locked (three disciplines, Two-Discipline Cap) |
 | Fragments / Root Artifacts | Power system | World Bible Sections 8, 11 | ✅ Locked |
 | The Reassembly theory | Ongoing mystery | World Bible Section 9; Series Bible Section 15 | 🔄 Deliberately unresolved |
+| The Salvage Line | Faction | World Bible Section 16 | 🔄 Living — new, founder-approved (Coda is its first named member) |
 | Kael's visual/age/anomaly-subject lock | Character canon | Master System Prompt Section 4 | ✅ Locked |
 
 ### Episodes Tracker
@@ -890,3 +892,4 @@ See Sections 15, 16, 21–23, 28, 31 above — each carries its own tracker tabl
 `[v1.0 — 2026-07-06] Indexed Mythic Forge Art Bible v1.0 (10 files): added as a document type, added to Master Navigation Index (with file breakdown), Folder Structure, Documentation Hierarchy, and status trackers.`
 `[v1.0 — 2026-07-06] Synced references for the nested-reveal creative pivot (Mythic Bible v3.0, Series Bible v2.0, Art Bible v2.0, restricted True Reality Codex v1.0).`
 `[v2.0 — 2026-07-06] Full pivot to The Fracture Protocol per the final "Phase 2 Master Prompt" canon lock: retired the fantasy Mythic Bible v3.0 and the restricted True Reality Codex entirely (no more nested reveal — the sci-fi setting is now overt from Episode 1). Added the Fracture Protocol Master System Prompt v1.0 as the new top-of-hierarchy document. Replaced with the Fracture Protocol World Bible v1.0 and a fully reskinned Series Bible v1.0 (series/01-the-fracture-protocol/). Retitled "Realm Documentation Index" to "Zone Documentation Index" (four megacity layers replacing the Seven Great Realms), updated the Character Tracker's roles and titles, replaced the Lore Tracker and all dashboards accordingly, and updated Studio OS/Production OS cross-references throughout.`
+`[v2.0 — 2026-07-06] Founder-approved additive expansion: World Bible bumped to v1.1 (added Static-Reading as a third recognized discipline, and The Salvage Line as a new faction alongside Authority/Ward Division/the Reassembly); Series Bible bumped to v1.1 (added Coda, a Season Two supporting character — Salvage Line broker and Static-Reader — explicitly scoped as non-competing with Kael per System Rule 4). Season One's 20-episode outline is unchanged. Synced all cross-references, the Character Tracker, the Power System Documentation Index, and the Lore Tracker accordingly.`

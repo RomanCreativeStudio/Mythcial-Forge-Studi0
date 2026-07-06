@@ -1,9 +1,9 @@
 # THE FRACTURE PROTOCOL — WORLD BIBLE
-### Version 1.0
+### Version 1.1
 
 **Classification:** Internal — World Canon
 **Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.0.md` — this document expands on the Master Prompt and must never contradict it. Where the two disagree, the Master Prompt wins and this document is corrected.
-**Companion documents:** `series/01-the-fracture-protocol/Series_Bible_v1.0.md` (story canon), `mythic-forge-art-bible/` (visual canon), `studio-os/Studio_OS_v1.0.md` (company process)
+**Companion documents:** `series/01-the-fracture-protocol/Series_Bible_v1.1.md` (story canon), `mythic-forge-art-bible/` (visual canon), `studio-os/Studio_OS_v1.0.md` (company process)
 
 ---
 
@@ -65,7 +65,8 @@ The **Ward Division** is Authority's Lower Sector containment and monitoring bra
 - **Signal** is the raw data/energy substrate the Authority System runs on. Every resident carries a personal Signal-affinity, registered in childhood through a mandatory process called **the Calibration**.
 - **Cipher-work** is the trained discipline of writing and executing visualized system-access syntax — glyph-like command sequences rendered as glowing cyan code-patterns. It is the most common, teachable way a Ward interacts with the system directly. Ranked **Novice → Adept → Master → Root-Tier**; Root-Tier access is rare, tracked individually, and using it is a production-level event, not routine.
 - **Fragment-Sync** is the second recognized discipline: directly bonding with a Fragment (Section 8) to borrow its processing/perception. Progression is relational, not mechanical — trust between a Ward and a Fragment deepens or collapses over time.
-- **The Two-Discipline Cap:** no character may meaningfully progress in more than Cipher-work and Fragment-Sync at once. This is a hard limit, not a suggestion.
+- **Static-Reading** is the third recognized discipline: interpreting the ambient distortion at the edges of the Unknown Layer (Section 12, "the Static") to extract information Authority has no record of. Unlike Cipher-work (commanding the system) or Fragment-Sync (bonding with one specific Fragment), Static-Reading is about perceiving patterns in raw, unrendered noise. It has no formal rank ladder — progress is measured in tolerance for prolonged exposure, not certified skill — and practitioners are rare enough that most Wards will never meet one. It carries a standing reputation cost: sustained closeness to the Unknown Layer's silence unsettles people who don't have it, whether or not it's ever caused harm.
+- **The Two-Discipline Cap:** three disciplines exist in total (Cipher-work, Fragment-Sync, Static-Reading); no character may meaningfully progress in more than two of the three at once. This is a hard limit, not a suggestion.
 - **Burnout:** overuse of Signal causes a real, feared depletion condition. Severe Burnout can be permanent.
 
 ## 8. Fragments **[LOCKED]**
@@ -105,30 +106,39 @@ For continuity tracking only; not meant to be recited in-story as a glossary.
 | The Static | Sensory distortion near the Unknown Layer (Section 12) |
 | Ward Division / Ward Station Seven | Lower Sector containment institution (Section 6) |
 | The Calibration | Childhood Signal-affinity registration rite (Section 7) |
+| Static-Reading | Third discipline: perceiving patterns in the Static/Unknown Layer (Section 7) |
+| The Salvage Line | Black-market faction dealing in Root Artifacts and Fragment salvage (Section 16) |
 
 ## 14. Character Creation Rules **[LOCKED]**
 
 Every new character must be assigned, at minimum:
 - [ ] A registered Authority identity status and home zone (Upper Grid / Mid Zone / Lower Sector)
-- [ ] A Signal-affinity strength and, if relevant, a discipline (Cipher-work and/or Fragment-Sync — remember the Two-Discipline Cap)
+- [ ] A Signal-affinity strength and, if relevant, a discipline (Cipher-work, Fragment-Sync, and/or Static-Reading — remember the Two-Discipline Cap)
 - [ ] A want, a flaw, and a cost already paid before the story starts
 - [ ] Confirmation they are **not** a competing fracture anomaly subject to Kael (System Rule 4) unless founder-approved
 - [ ] A passed Originality Check (Studio OS Section 5)
 
 ## 15. World Rules **[LOCKED]**
 
-1. Every use of Cipher-work, Fragment-Sync, or a Root Artifact has a visible cost.
+1. Every use of Cipher-work, Fragment-Sync, Static-Reading, or a Root Artifact has a visible cost.
 2. No character exceeds the Two-Discipline Cap.
 3. No mystery is retroactively explained by information the audience couldn't have had.
 4. World structure (Section 3) never changes.
 5. History persists — consequences from past arcs remain valid.
-6. The world continues existing off-page — Authority, the Reassembly, and Breach activity advance whether or not Kael is on-screen.
+6. The world continues existing off-page — Authority, the Reassembly, the Salvage Line, and Breach activity advance whether or not Kael is on-screen.
+
+## 16. The Salvage Line **[LIVING]**
+
+A decentralized black-market network operating mainly in the unregulated Substrate and the fringes of the Lower Sector. The Salvage Line deals in recovered Root Artifacts, off-record identity data, and "salvage" — components and residue stripped from corrupted Fragments before they're lost entirely. It is not ideological like the Reassembly; its members are pragmatists, not believers, though individual cells sometimes trade with Reassembly contacts without buying into the cause. Authority tolerates the Salvage Line's existence more than it admits to, since shutting it down entirely would cut off one of the only channels through which Root Artifacts and Fragment data ever surface for outside study.
+
+**[LIVING SECTION]** — specific named Salvage Line contacts, cells, and territory to be developed as stories require them. The first is **Coda** (Series Bible Section 12, reserved for Season Two).
 
 ---
 
-*End of World Bible v1.0. Any change here must be checked against the Master System Prompt first and propagated to the Series Bible and Art Bible the same day.*
+*End of World Bible v1.1. Any change here must be checked against the Master System Prompt first and propagated to the Series Bible and Art Bible the same day.*
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-06] Initial World Bible established, replacing the retired fantasy Mythic Bible v3.0 and Fracture Protocol True Reality Codex v1.0 (both retained in git history only). The Fracture Protocol is now the sole, overt, non-hidden universe canon — no nested reveal, no magic, single megacity structure.`
+`[v1.1 — 2026-07-06] Founder-approved additive expansion, scoped per the Master System Prompt's Consistency Enforcement System (no Locked rule overridden): added Static-Reading as a third recognized discipline within the existing Signal framework (Section 7), updated the Two-Discipline Cap language and Terminology Reference accordingly, and added The Salvage Line as a new faction (Section 16) alongside Authority, Ward Division, and the Reassembly.`
