@@ -311,7 +311,7 @@ A running index of reusable AI prompts, to prevent re-deriving the same prompt e
 
 ## SECTION 19 — Visual Consistency Rules **[LIVING SECTION]**
 
-- Each of the Seven Realms has a defined palette, silhouette language, and architectural motif (to be formalized in a companion Visual Style Guide as production ramps up).
+- Each of the Seven Realms has a defined palette, silhouette language, and architectural motif, formalized in `mythic-forge-art-bible/color-language.md` and `mythic-forge-art-bible/environment-design-rules.md`.
 - Every recurring character requires a reference sheet before appearing in more than one piece of content.
 - No two Realms should share a dominant color palette or silhouette language — visual distinction is a continuity requirement, not just an aesthetic preference.
 
