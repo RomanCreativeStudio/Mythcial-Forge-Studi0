@@ -3,7 +3,7 @@
 ### Version 1.0
 
 **Classification:** Internal — Production Manual
-**Companion documents:** `studio-os/Studio_OS_v1.0.md` (company-level process — this document is its technical/pipeline layer), `bible/Mythic_Bible_v2.0.md` (world canon), `series/*/Series_Bible_v1.0.md` (story canon)
+**Companion documents:** `studio-os/Studio_OS_v1.0.md` (company-level process — this document is its technical/pipeline layer), `bible/Mythic_Bible_v3.0.md` (world canon), `series/*/Series_Bible_v2.0.md` (story canon)
 
 ---
 

@@ -6,7 +6,7 @@
 
 This is the central source of truth for Mythic Forge Studios' documentation ecosystem. It does not contain lore, canon, or process rules itself — it **indexes, connects, and governs how existing documents relate to each other**. When in doubt about where something lives, start here.
 
-Status legend used throughout: ✅ Complete &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; 📋 Planned &nbsp;|&nbsp; ⬜ Not Started
+Status legend used throughout: ✅ Complete &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; 📋 Planned &nbsp;|&nbsp; ⬜ Not Started &nbsp;|&nbsp; 🔒 Restricted (exists, but access/use is gated — see the document's own scope notice)
 
 ---
 
@@ -36,9 +36,9 @@ Four document types exist, each with a distinct job. None should duplicate anoth
 | **Knowledge Base** | Navigation and system rules only — never authoritative on content | This document |
 | **Studio OS** | How the studio *works* — company-level process, workflow, standards | `studio-os/Studio_OS_v1.0.md` |
 | **Production OS** | How an episode actually gets made — step-by-step department SOPs | `production-os/Production_OS_v1.0.md` |
-| **Art Bible** | How everything *looks* — visual law across camera, light, color, materials, and magic VFX | `mythic-forge-art-bible/` (10 files, indexed in Section 3) |
-| **World Bible** | What the universe *is* — canon law | `bible/Mythic_Bible_v2.0.md` |
-| **Series Bible** | How one specific series tells its story within the universe | `series/01-kael-the-shattered-realms/Series_Bible_v1.0.md` |
+| **Art Bible** | How everything *looks* — visual law across camera, light, color, materials, and magic VFX | `mythic-forge-art-bible/` (11 files, indexed in Section 3) |
+| **World Bible** | What the universe *is* — canon law | `bible/Mythic_Bible_v3.0.md` |
+| **Series Bible** | How one specific series tells its story within the universe | `series/01-kael-the-shattered-realms/Series_Bible_v2.0.md` |
 
 | Field | Value |
 |---|---|
@@ -60,9 +60,10 @@ Four document types exist, each with a distinct job. None should duplicate anoth
 | Mythic Forge Knowledge Base | `README.md` | Navigation & system rules | 1.0 | ✅ Complete |
 | Studio Operating System | `studio-os/Studio_OS_v1.0.md` | Company process, workflow, standards | 1.0 | ✅ Complete |
 | Production Operating System | `production-os/Production_OS_v1.0.md` | Department-level production SOPs, pipeline, QA | 1.0 | ✅ Complete |
-| Mythic Forge Art Bible (10 files) | `mythic-forge-art-bible/` | Visual law: camera, lighting, color, materials, environment, magic VFX, mood, forbidden elements, consistency | 1.0 | ✅ Complete |
-| Mythic Bible — The Shattered Realms | `bible/Mythic_Bible_v2.0.md` | Universe canon | 2.0 | ✅ Complete |
-| Kael: The Shattered Realms — Series Bible | `series/01-kael-the-shattered-realms/Series_Bible_v1.0.md` | Series 01 story canon | 1.0 | ✅ Complete |
+| Mythic Forge Art Bible (11 files) | `mythic-forge-art-bible/` | Visual law: camera, lighting, color, materials, environment, magic VFX, mood, forbidden elements, consistency, prompt library | 2.0 | ✅ Complete |
+| Mythic Bible — The Shattered Realms | `bible/Mythic_Bible_v3.0.md` | Universe canon | 3.0 | ✅ Complete |
+| Fracture Protocol True Reality Codex | `bible/Fracture_Protocol_TrueReality_v1.0.md` | Restricted meta-canon (Creative Director only) | 1.0 | 🔒 Restricted |
+| Kael: The Shattered Realms — Series Bible | `series/01-kael-the-shattered-realms/Series_Bible_v2.0.md` | Series 01 story canon | 2.0 | ✅ Complete |
 
 **[LIVING]** — every new document created for Mythic Forge Studios must be added to this table on the day it's created. An undocumented document does not count as part of the ecosystem.
 
@@ -80,6 +81,7 @@ Four document types exist, each with a distinct job. None should duplicate anoth
 | Cinematic Mood Guide | `mythic-forge-art-bible/cinematic-mood-guide.md` |
 | Forbidden Elements | `mythic-forge-art-bible/forbidden-elements.md` |
 | Global Consistency Rules | `mythic-forge-art-bible/global-consistency-rules.md` |
+| Prompt Library | `mythic-forge-art-bible/prompt-library.md` |
 
 ---
 
@@ -141,6 +143,8 @@ Authority flows top to bottom. A lower tier may add detail; it may never contrad
 6. **Registries / Production Docs** (`registries/`, `production/`, `scripts/`) — implementation detail; subordinate to all of the above
 7. **Knowledge Base** (this document) — authoritative on *navigation only*, never on content
 
+**Special case — the True Reality Codex (`bible/Fracture_Protocol_TrueReality_v1.0.md`):** this sits outside the normal hierarchy. It is restricted, Creative Director-only meta-canon and is never consulted for writing Season One/Two material or resolving a day-to-day contradiction — the Mythic Bible remains the operative authority for all normal writing and production work. See the Codex's own scope notice and Series Bible Section 20 ("Reveal Discipline") before treating it as relevant to any task.
+
 | Field | Value |
 |---|---|
 | **Purpose** | Resolve "which document wins" questions before they become arguments |
@@ -199,8 +203,8 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 
 | Asset Type | Convention | Example |
 |---|---|---|
-| World document | `bible/{Document_Name}_v{X.X}.md` | `bible/Mythic_Bible_v2.0.md` |
-| Series document | `series/{NN}-{series-slug}/{Document_Name}_v{X.X}.md` | `series/01-kael-the-shattered-realms/Series_Bible_v1.0.md` |
+| World document | `bible/{Document_Name}_v{X.X}.md` | `bible/Mythic_Bible_v3.0.md` |
+| Series document | `series/{NN}-{series-slug}/{Document_Name}_v{X.X}.md` | `series/01-kael-the-shattered-realms/Series_Bible_v2.0.md` |
 | Registry entry | `registries/{type}/{realm}_{name}.md` | `registries/characters/duskmarch_kael.md` |
 | Episode script | `scripts/S{season}E{episode}_{slug}.md` | `scripts/S01E04_the-bout.md` |
 | In-world proper nouns | Follow Realm phonetic profile | Bible Section 53 |
@@ -225,9 +229,10 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 | Mythic Forge Knowledge Base | 1.0 | ✅ Complete | 2026-07-06 | Founder |
 | Studio OS | 1.0 | ✅ Complete | 2026-07-06 | Founder |
 | Production OS | 1.0 | ✅ Complete | 2026-07-06 | Founder |
-| Mythic Forge Art Bible | 1.0 | ✅ Complete | 2026-07-06 | Founder |
-| Mythic Bible | 2.0 | ✅ Complete | 2026-07-06 | Founder |
-| Kael: The Shattered Realms Series Bible | 1.0 | ✅ Complete | 2026-07-06 | Founder |
+| Mythic Forge Art Bible | 2.0 | ✅ Complete | 2026-07-06 | Founder |
+| Mythic Bible | 3.0 | ✅ Complete | 2026-07-06 | Founder |
+| Fracture Protocol True Reality Codex | 1.0 | 🔒 Restricted | 2026-07-06 | Founder (Creative Director only) |
+| Kael: The Shattered Realms Series Bible | 2.0 | ✅ Complete | 2026-07-06 | Founder |
 | Character Registry | — | ⬜ Not Started | — | Unassigned |
 | Relic Registry | — | ⬜ Not Started | — | Unassigned |
 | Kingdoms & Politics companion doc | — | ⬜ Not Started | — | Unassigned |
@@ -241,15 +246,16 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 |---|---|---|
 | Studio OS | 1.0 | Operational handbook: vision, values, workflows, QA, IP protection, roadmap |
 | Production OS | 1.0 | 48-section department-level production manual: SOPs, pipeline, QA, metrics |
-| Mythic Forge Art Bible | 1.0 | 10-file visual law: camera, lighting, color, materials, environment, magic VFX, mood, forbidden elements, consistency |
-| Mythic Bible | 2.0 | 60-section world canon for The Shattered Realms, plus Kael's franchise profile |
-| Kael: The Shattered Realms Series Bible | 1.0 | Series 01's premise, cast, and full Season One (20-episode) outline |
+| Mythic Forge Art Bible | 2.0 | 11-file visual law: camera, lighting, color, materials, environment, magic VFX, mood, forbidden elements, consistency, prompt library (two-register system: Production 3D + Promotional Still) |
+| Mythic Bible | 3.0 | 60-section world canon for The Shattered Realms, plus Kael's franchise profile; scoped as the complete in-world-experienced truth, with a restricted meta-canon layer underneath |
+| Fracture Protocol True Reality Codex | 1.0 | Restricted meta-canon: the true reality underneath The Shattered Realms simulation — Creative Director planning only, never audience- or writer-facing early |
+| Kael: The Shattered Realms Series Bible | 2.0 | Series 01's premise, cast, and full Season One (20-episode) outline |
 
 | Field | Value |
 |---|---|
 | **Purpose** | Quick reference for what already exists and doesn't need to be rebuilt |
 | **Owner** | Founder |
-| **Primary Documents** | The five listed above |
+| **Primary Documents** | The six listed above |
 | **Dependencies** | None |
 | **Status** | ✅ Complete |
 | **Version** | 1.0 |
@@ -260,7 +266,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 
 ## 12. Documents In Progress
 
-**None currently.** All five foundational documents are at a stable, complete v1.0/v2.0 state.
+**None currently.** All six foundational documents are at a stable, complete state (the True Reality Codex is stable but permanently restricted-access by design, not "in progress").
 
 | Field | Value |
 |---|---|
@@ -306,7 +312,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 |---|---|
 | **Purpose** | Point to where every character is documented today, ahead of a dedicated registry |
 | **Owner** | Founder (Creative Director) |
-| **Primary Documents** | `bible/Mythic_Bible_v2.0.md` Appendix A (Kael, world-level); `series/01-kael-the-shattered-realms/Series_Bible_v1.0.md` Sections 6–9 and Appendix A (full Series 01 cast) |
+| **Primary Documents** | `bible/Mythic_Bible_v3.0.md` Appendix A (Kael, world-level); `series/01-kael-the-shattered-realms/Series_Bible_v2.0.md` Sections 6–9 and Appendix A (full Series 01 cast) |
 | **Dependencies** | Section 13 (Character Registry, planned) |
 | **Status** | 🔄 In Progress — documented inline, not yet in a standalone registry |
 | **Version** | Tracks source documents (2.0 / 1.0) |
@@ -334,7 +340,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 |---|---|
 | **Purpose** | Point to where each of the Seven Great Realms is documented |
 | **Owner** | Founder (Creative Director) |
-| **Primary Documents** | `bible/Mythic_Bible_v2.0.md` Sections 3, 5–8, 26–30 |
+| **Primary Documents** | `bible/Mythic_Bible_v3.0.md` Sections 3, 5–8, 26–30 |
 | **Dependencies** | None |
 | **Status** | 🔄 In Progress — all seven named and profiled; deep per-Realm detail is a living section |
 | **Version** | 2.0 |
@@ -417,7 +423,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 |---|---|
 | **Purpose** | Point to all series/story-level documentation |
 | **Owner** | Founder (Creative Director / Head Writer) |
-| **Primary Documents** | `series/01-kael-the-shattered-realms/Series_Bible_v1.0.md` |
+| **Primary Documents** | `series/01-kael-the-shattered-realms/Series_Bible_v2.0.md` |
 | **Dependencies** | Section 6 (Documentation Hierarchy) |
 | **Status** | 🔄 In Progress — Series 01 fully outlined; scripts not yet written |
 | **Version** | 1.0 |
@@ -789,8 +795,8 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 
 ```
 Vision & Values .......... [██████████] 100%  ✅ Complete
-Creative Canon ............ [██████████] 100%  ✅ Complete (v2.0)
-Series 01 Story Bible ...... [██████████] 100%  ✅ Complete (v1.0)
+Creative Canon ............ [██████████] 100%  ✅ Complete (v3.0)
+Series 01 Story Bible ...... [██████████] 100%  ✅ Complete (v2.0)
 Team / Roles ............... [██░░░░░░░░]  20%  🔄 Solo founder; roles mapped, unfilled
 Production Pipeline ........ [░░░░░░░░░░]   0%  ⬜ Not started
 Publishing ................. [░░░░░░░░░░]   0%  ⬜ Not started
@@ -883,3 +889,5 @@ See Sections 15, 16, 21–23, 28, 31 above — each carries its own tracker tabl
 ### Changelog
 `[v1.0 — 2026-07-06] Initial Knowledge Base established: 40-section index, dashboards, and master trackers covering Studio OS v1.0, Mythic Bible v2.0, and the Kael: The Shattered Realms Series Bible v1.0.`
 `[v1.0 — 2026-07-06] Indexed Production OS v1.0 (production-os/Production_OS_v1.0.md): added as a fifth document type, added to Master Navigation Index, Folder Structure, Documentation Hierarchy, Document Status Tracker, Current Completed Documents, Production Documentation Index, and Prompt Library Index.`
+`[v1.0 — 2026-07-06] Indexed Mythic Forge Art Bible v1.0 (mythic-forge-art-bible/, 10 files): added as a fifth document type, added to Master Navigation Index (with file breakdown), Folder Structure, Documentation Hierarchy, and status trackers.`
+`[v1.0 — 2026-07-06] Synced all references to Mythic Bible v3.0, Series Bible v2.0, and Art Bible v2.0 (now 11 files, adding prompt-library.md). Added the restricted Fracture Protocol True Reality Codex v1.0 to the Master Navigation Index, Documentation Hierarchy (as a special-case entry outside the normal authority chain), and Document Status Tracker with a new 🔒 Restricted status indicator added to the legend. This reflects the nested-reveal creative pivot: the existing fantasy cosmology is retained in full as the in-world-experienced truth, with a new restricted meta-canon layer underneath it, per Studio OS's own long-standing Originality/Canon Change process.`

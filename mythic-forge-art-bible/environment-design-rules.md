@@ -29,7 +29,7 @@ Scale and density reflect each Kingdom's governance style (Bible Sections 7, 17)
 
 ## Temples and Sacred Sites **[LIVING SECTION]**
 
-Choir Faith architecture encodes which Aurothi is being venerated, matching that Aurothi's domain (Bible Section 3): flame-spiral verticality for Ignareth's Order, wave-motif curvature for Maelith's, and so on through all seven — see `../bible/Mythic_Bible_v2.0.md` Section 54 for the associated iconographic motifs, which this document visualizes but does not redefine.
+Choir Faith architecture encodes which Aurothi is being venerated, matching that Aurothi's domain (Bible Section 3): flame-spiral verticality for Ignareth's Order, wave-motif curvature for Maelith's, and so on through all seven — see `../bible/Mythic_Bible_v3.0.md` Section 54 for the associated iconographic motifs, which this document visualizes but does not redefine.
 
 ## Environmental Storytelling Requirement **[LOCKED]**
 

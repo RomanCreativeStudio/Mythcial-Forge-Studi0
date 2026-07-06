@@ -1,12 +1,13 @@
 # MYTHIC FORGE STUDIOS — SERIES BIBLE
 ## Series 01: KAEL: THE SHATTERED REALMS
-### Version 1.0
+### Version 2.0
 
 **Studio:** Mythic Forge Studios
 **Genre:** Epic Fantasy / Adventure / Mystery / Action / Drama
 **Target Audience:** 13–35
 **Format:** 8–15 minute YouTube episodes, serialized, heavy mystery, character-driven
-**World canon:** `bible/Mythic_Bible_v2.0.md` (this document must never contradict it — see Section 20)
+**World canon:** `bible/Mythic_Bible_v3.0.md` (this document must never contradict it — see Section 20)
+**Restricted meta-canon:** `bible/Fracture_Protocol_TrueReality_v1.0.md` (Creative Director-level long-term planning only — see "Reveal Discipline" in Section 20; not required reading to write Season One or Season Two)
 **Operational process:** `studio-os/Studio_OS_v1.0.md`
 
 ---
@@ -38,6 +39,7 @@ This is a story about earning belonging in an institution that only ever valued 
 | Institutions protect themselves | Ossic's cover-up and Yselde Cray's manipulation both come from people who believed they were serving the greater good |
 | Power is earned, not given | Kael's Sigilcraft and Echo-communion progress is slow, incomplete, and costly all season |
 | Mysteries compound, they don't just resolve | Every answer this season opens a bigger question (Section 15) |
+| Identity and control | What it means to become who you are when your circumstances were shaped by forces you didn't choose — the same question underlies Kael's Wardenate identity and, at a level no Season One character can see, something deeper (Section 20, "Reveal Discipline") |
 
 ## 4. Audience Experience **[LIVING SECTION]**
 
@@ -47,7 +49,7 @@ The audience should feel like an investigator alongside Kael — never ahead of 
 
 ## 5. Main Character **[LOCKED — see Appendix A for full profile]**
 
-**Kael** — Duskmarch Wardenate cadet, Umbral-Essence affinity (average strength), Sigilcraft Path (Novice → Adept across the season), Echo-Sensitivity (Rare Condition, Mythic Bible Section 22). Driftborn orphan of the Rift flare that is this season's central mystery. See **Appendix A** for the full protagonist profile, including his five-season growth roadmap.
+**Kael** — Duskmarch Wardenate cadet, Umbral-Essence affinity (average strength), Sigilcraft Path (Novice → Adept across the season), Echo-Sensitivity (Rare Condition, Mythic Bible Section 22). Driftborn orphan of the Rift flare that is this season's central mystery. See **Appendix A** for the full protagonist profile, including his five-season growth roadmap and his physical eye-glow signature.
 
 ---
 
@@ -295,9 +297,13 @@ Season One resolves **one specific mystery** — what really happened the night 
 
 **[LIVING SECTION]** — to be broken into full season bibles as each is greenlit; this table is a placeholder roadmap, not a commitment.
 
+*(Internal planning note: the Vaelbridge envoy introduced in Episode 20 is, per the restricted True Reality Codex, the first thread that — many seasons from now — could lead toward Layer Zero. This is not scheduled and should not be treated as a Season Two obligation; Season Two's job per the table above is the Aris/cross-Realm mystery, nothing more.)*
+
 ## 13. Long-Term Character Arcs **[LIVING SECTION]**
 
 See **Appendix A** for Kael's full five-season roadmap. Reyth's long-term arc trends toward eventual Wardenate leadership, informed by his season-one loss and alliance. Sella's undisclosed grievance (teased Episode 15) is reserved as a Season Two personal-arc anchor, not resolved in Season One.
+
+*(Internal planning note — Character Archetype System mapping, True Reality Codex Section 5: this is production-facing only and never affects how a scene is written. Aris fits the **Guide** archetype unusually cleanly — a mysterious, partial-truth giver with inconsistent presence — and can be written with that lens without any change to her Season One material. High Warden Serath and, more pointedly, Yselde Cray occupy **Authority**-adjacent narrative space within Duskhollow's own institutional hierarchy — this is a storytelling parallel, not a claim that either character "is" Authority in the True Reality Codex sense. The **Mirror** archetype — a future version or alternate outcome of Kael — has no Season One or Season Two candidate and should not be forced; it is reserved for whenever the story is ready to introduce it.)*
 
 ## 14. Foreshadowing Opportunities **[LIVING SECTION]**
 
@@ -313,6 +319,8 @@ See **Appendix A** for Kael's full five-season roadmap. Reyth's long-term arc tr
 - Was the Duskaris-network reaction felt in other Realms? *(Reserved for Season Two.)*
 - What is Sella's undisclosed grievance against the Wardenate? *(Reserved for Season Two.)*
 - Who else, beyond Yselde, was part of the original Reassembly cell that manipulated Ossic? *(Reserved for Season Three.)*
+
+*(Internal planning note: several of these connect to answers reserved in the restricted True Reality Codex — see Mythic Bible Section 60's matching note. No writer needs that document to handle these mysteries correctly in Season One or Two; the table above and the Reveal Discipline in Section 20 are sufficient.)*
 
 ## 16. Hidden Lore **[LIVING SECTION]**
 
@@ -336,10 +344,11 @@ Small details for attentive viewers, never explained on-screen:
 
 ## 19. Rules for Future Writers **[LOCKED]**
 
-- Never contradict the world canon (`bible/Mythic_Bible_v2.0.md`) without a logged Canon Change (Bible Section 56).
+- Never contradict the world canon (`bible/Mythic_Bible_v3.0.md`) without a logged Canon Change (Bible Section 56).
 - Never resolve a Running Mystery (Section 15) without founder/Creative Director sign-off.
 - Every episode must answer one question while creating at least one new one (ideally two).
 - No episode may exist purely as filler — if an episode doesn't advance plot, character, or world understanding, cut or merge it.
+- Do not consult or reference the restricted True Reality Codex when writing Season One or Season Two material — see Section 20, "Reveal Discipline."
 
 ## 20. Things Never To Change **[LOCKED]**
 
@@ -347,6 +356,9 @@ Small details for attentive viewers, never explained on-screen:
 - The requirement that all power costs something visible on-page.
 - Yselde Cray's and Ossic's core motivations, once established (Section 7) — they may act, but should not retroactively become simpler or more evil than written here.
 - The unresolved status of the Reassembly's theory (world canon Section 60).
+- Kael's eye-glow signature (Appendix A) — cyan/icy-blue, intensity tied to Echo-Sensitivity state — is a fixed physical trait, not a costume choice, and must render identically whether he's calm, in an early Path lesson, or in the Season One finale.
+
+**Reveal Discipline:** the restricted `bible/Fracture_Protocol_TrueReality_v1.0.md` exists for founder/Creative Director long-term planning only. No detail from it may appear in any script, storyboard, or published material before it has been earned through story and explicitly approved via the Canon Change process (Bible Section 56). This is a hard boundary, not a style preference — premature disclosure would collapse the mystery structure the entire franchise is built on.
 
 ## 21. Things Allowed To Evolve **[LIVING SECTION]**
 
@@ -404,7 +416,7 @@ Small details for attentive viewers, never explained on-screen:
 
 # APPENDIX A — KAEL: FULL PROTAGONIST PROFILE
 
-*(Expands on `bible/Mythic_Bible_v2.0.md` Appendix A with series-specific detail and the five-season growth roadmap.)*
+*(Expands on `bible/Mythic_Bible_v3.0.md` Appendix A with series-specific detail and the five-season growth roadmap.)*
 
 ### Biography
 Kael was born in a small Duskmarch border settlement destroyed by a Rift flare in his early childhood — officially a natural catastrophe, actually (as Season One reveals) a covered-up Relic experiment. Taken in as a ward of the Duskmarch Wardenate, he grew up at Duskhollow among cadets who tolerated him without ever fully trusting him.
@@ -436,6 +448,19 @@ Dry, understated, often self-deflecting — a coping mechanism more than a natur
 ### Habits
 Tends to go quiet rather than argue when overwhelmed; obsessively re-checks Archive records once he's found a thread worth pulling; avoids physical contact with unfamiliar Echoes out of old trauma, even clean ones.
 
+### Physical Signature — Eyes **[LOCKED, see Mythic Bible Appendix A]**
+
+Kael's eyes carry a subtle, naturally icy blue-cyan cast, intensifying into a visible glow whenever his Echo-Sensitivity activates:
+
+| State | Glow |
+|---|---|
+| Calm | Soft, stable glow |
+| Conflict | Flickering, unstable glow |
+| Activation (active communion or a strong Sigilcraft cast) | Intense, sharp glow |
+| Breakdown (a bond fraying, Hollowing onset) | Fragmented, unstable glow |
+
+This must appear consistently from Episode 1 onward — it is not a Season One "unlock," it has always been true of him, and its intensity simply becomes more legible to the audience (and to Kael himself) as the season progresses.
+
 ### Relationships
 See Section 8 for the full relationship map — Reyth (rival to ally), Sella (closest trust), Aris (fragile communion bond), Warden Vray (earned respect), High Warden Serath (cautious alliance), Ossic (devastating sympathy).
 
@@ -459,9 +484,10 @@ Institutional distrust and active suppression of his investigation (Ossic, then 
 
 ---
 
-*End of Series Bible Version 1.0. Update section-by-section as Season One is produced and as future seasons are broken — this document should reflect production learnings by v1.1, not be treated as untouchable.*
+*End of Series Bible Version 2.0. Update section-by-section as Season One is produced and as future seasons are broken — this document should reflect production learnings, not be treated as untouchable.*
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-06] Initial Series 01 Bible established: full 30-section structure, Season One 20-episode outline, and Kael's five-season growth roadmap.`
+`[v2.0 — 2026-07-06] Synced to Mythic Bible v3.0. Added Kael's eye-glow Physical Signature (Section 20, Appendix A) as a fixed, always-true trait. Added Reveal Discipline (Section 20) governing the restricted True Reality Codex. Added internal planning notes cross-referencing the Character Archetype System (Section 13) and the True Reality Codex (Sections 12, 15) — none of which change any Season One or Season Two writing. No episode outline content, twist, or character beat was altered.`

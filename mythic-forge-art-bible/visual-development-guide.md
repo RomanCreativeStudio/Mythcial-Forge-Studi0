@@ -1,16 +1,22 @@
 # MYTHIC FORGE STUDIOS — ART BIBLE
 ## Visual Development Guide
-### Version 1.0 — Master Index
+### Version 2.0 — Master Index
 
 **Classification:** Internal — Visual Law
 **Scope:** Governs the visual rendering of every Mythic Forge Studios property, starting with *Kael: The Shattered Realms*.
-**Relationship to other documents:** The Mythic Bible (`bible/Mythic_Bible_v2.0.md`) and Series Bibles are authoritative on *what things mean*. This Art Bible is authoritative on *how everything looks*. Where a production decision is purely visual, this document outranks personal taste — "what looks cool" loses to "what this document specifies" (see `global-consistency-rules.md`).
+**Relationship to other documents:** The Mythic Bible (`bible/Mythic_Bible_v3.0.md`) and Series Bibles are authoritative on *what things mean*. This Art Bible is authoritative on *how everything looks*. Where a production decision is purely visual, this document outranks personal taste — "what looks cool" loses to "what this document specifies" (see `global-consistency-rules.md`).
 
 ---
 
-### Core Visual Identity
+### Core Visual Identity — Two Registers
 
-**Register: Painterly Cinematic 3D.** Semi-stylized 3D rendering with painterly light and texture treatment — visible brushwork-like surface quality, soft directional light falloff, atmospheric depth. This sits deliberately between flat cel-shading and photoreal hyperrealism: prestige animated-feature realism, not a video-game or anime look. No shot may shift render register without a documented, deliberate exception (`global-consistency-rules.md`).
+Mythic Forge Studios uses **two deliberately distinct visual registers**, each with its own job. Neither replaces the other; using the wrong one for the wrong purpose is a Quality Assurance failure (Production OS Section 38).
+
+**1. Production Render Register — Painterly Cinematic 3D.** Governs the actual animated footage. Semi-stylized 3D rendering with painterly light and texture treatment — visible brushwork-like surface quality, soft directional light falloff, atmospheric depth. This sits deliberately between flat cel-shading and photoreal hyperrealism: prestige animated-feature realism. No shot may shift render register without a documented, deliberate exception (`global-consistency-rules.md`).
+
+**2. Promotional Still Register — Semi-Realistic Cinematic.** Governs standalone AI-generated stills that are never part of the animated footage itself: thumbnails, character concept art, and social/marketing images. This register is detailed, painterly-lit, and cinematic like the Production register, and may carry a semi-realistic anime-influenced illustration quality — but it is not flat, TV-style cel-shading, and it still obeys every other rule in this Art Bible (color, lighting, forbidden elements). See `forbidden-elements.md` for the precise line between "anime-influenced illustration" (permitted here) and "flat anime-signature rendering" (forbidden everywhere). See `prompt-library.md` for the reusable prompt templates that implement this register.
+
+Both registers share the same Color Language, Lighting System, Materials, and Magic Visual Rules — a character or Realm must be recognizably the same subject whether seen in a rendered episode or a promotional still.
 
 ### The Five Pillars
 
@@ -33,6 +39,7 @@
 | `cinematic-mood-guide.md` | Per-Realm emotional key; brand-tone translation into visuals |
 | `forbidden-elements.md` | Strict blacklist enforced across all production |
 | `global-consistency-rules.md` | Cross-document "never changes" rules and conflict resolution |
+| `prompt-library.md` | Reusable AI image-generation prompt templates (Promotional Still Register) |
 
 ### Authority and Versioning
 
@@ -42,7 +49,8 @@ All character designs — including Kael and the full Series 01 cast — must ob
 
 ---
 
-*End of Visual Development Guide v1.0.*
+*End of Visual Development Guide v2.0.*
 
 ### Changelog
 `[v1.0 — 2026-07-06] Initial Art Bible established across all 10 files.`
+`[v2.0 — 2026-07-06] Introduced the two-register system (Production Render Register: Painterly Cinematic 3D; Promotional Still Register: Semi-Realistic Cinematic) to reconcile the animated show's painterly identity with mandatory semi-realistic anime-influenced prompt templates for thumbnails and promotional stills. Added prompt-library.md to the File Index. Synced world canon reference to Mythic Bible v3.0.`

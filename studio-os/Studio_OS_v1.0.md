@@ -2,7 +2,7 @@
 ### Studio OS Version 1.0
 **Status:** Foundational — approved for operational use
 **Classification:** Internal — Company Handbook
-**Companion document:** `bible/Mythic_Bible_v2.0.md` (creative canon — this document governs how we *work*, the Bible governs what we *build*)
+**Companion document:** `bible/Mythic_Bible_v3.0.md` (creative canon — this document governs how we *work*, the Bible governs what we *build*)
 
 ---
 

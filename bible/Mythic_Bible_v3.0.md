@@ -1,10 +1,10 @@
 # THE SHATTERED REALMS
 ### Mythic Forge Studios — Master Mythic Bible
-**Version:** 2.0
+**Version:** 3.0
 **Status:** Foundational — approved for development use
 **Classification:** Internal — Creative Bible (Series, Web Novel, Audiobook, Comic, Game, Merchandise)
-**Supersedes:** Mythic Bible v1.0 (retained in git history for reference; all active canon lives here)
-**Companion document:** `studio-os/Studio_OS_v1.0.md` (operational workflows — this document governs what we *build*, Studio OS governs how we *work*)
+**Supersedes:** Mythic Bible v2.0 (retained in git history for reference; all active canon lives here)
+**Companion documents:** `studio-os/Studio_OS_v1.0.md` (operational workflows — this document governs what we *build*, Studio OS governs how we *work*); `bible/Fracture_Protocol_TrueReality_v1.0.md` (restricted meta-canon — see "A Note on This Document's Scope" below)
 
 **Studio:** Mythic Forge Studios — *Forging Worlds. Creating Legends.*
 **Target Audience:** 13–35
@@ -27,6 +27,12 @@ Sections are tagged:
 4. Power requires sacrifice — there are no random power-ups and no plot armor.
 5. Characters grow realistically — earned, not granted.
 6. Every mystery eventually has an explanation — but "eventually" can mean seasons away (see Section 60).
+
+### A Note on This Document's Scope **[LOCKED]**
+
+This Bible documents *The Shattered Realms* exactly as it is experienced by everyone living inside it — including every named character. That account is the full and true one for storytelling purposes, and nothing below should be treated as incomplete or provisional.
+
+A restricted companion document, `bible/Fracture_Protocol_TrueReality_v1.0.md`, exists for Creative Director-level, long-term season planning only. It is not required reading to write any Season One or Season Two material, and nothing in it should be assumed by a writer working from this Bible alone. Per World Design Principle 6, some of the open questions in Section 60 have answers reserved there — but "eventually" is not scheduled here, and no writer should treat this note as a hint to go looking for them early.
 
 ---
 
@@ -432,7 +438,7 @@ Culture varies sharply by Realm (Section 6) but shares cross-Realm throughlines:
 
 ## 35. Architecture **[LIVING SECTION]**
 
-Architecture should visually encode each Realm's Aspect: Emberfall's caldera-forges (heat, verticality), Tidewrought's stilted tidal cities (impermanence, adaptation), Ironroot's carved cavern-holds (permanence, mass), Windmere's floating platforms (lightness, mobility), Duskmarch's ash-grey fortress-monasteries (defensive, austere), Solvane's terraced marble (order, hierarchy visible in the skyline), Verdant Wilds' grown-not-built living cities (organic, decentralized). **[LIVING SECTION]** — full visual style guide to be developed by production design (see Studio OS Section 19).
+Architecture should visually encode each Realm's Aspect: Emberfall's caldera-forges (heat, verticality), Tidewrought's stilted tidal cities (impermanence, adaptation), Ironroot's carved cavern-holds (permanence, mass), Windmere's floating platforms (lightness, mobility), Duskmarch's ash-grey fortress-monasteries (defensive, austere), Solvane's terraced marble (order, hierarchy visible in the skyline), Verdant Wilds' grown-not-built living cities (organic, decentralized). **[LIVING SECTION]** — full visual style guide to be developed by production design (see `mythic-forge-art-bible/`, Studio OS Section 19).
 
 ---
 
@@ -505,7 +511,7 @@ Two overlapping legal layers exist: **Concord law** (interrealm treaties — Cro
 
 ## 45. Secret Societies **[LIVING SECTION]**
 
-- **The Reassembly** — a covert, cross-Realm network (membership overlapping with, but distinct from, the Hollow Creed) that believes enough recovered Echoes could be deliberately reunited into a restored Aurothi. Directly tied to Section 18 and reserved as a long-arc antagonist/ambiguous-faction thread — never confirm whether they're right.
+- **The Reassembly** — a covert, cross-Realm network (membership overlapping with, but distinct from, the Hollow Creed) that believes enough recovered Echoes could be deliberately reunited into a restored Aurothi. Directly tied to Section 18 and reserved as a long-arc antagonist/ambiguous-faction thread — never confirm whether they're right. *(Internal planning note: the True Reality Codex has more to say about what "right" would actually mean here — restricted, Creative Director only.)*
 - **The Hollow Vigil** (also an Ancient Order, Section 10) — functions partly as a secret society in practice, given its secrecy and internal factionalism.
 
 **[LIVING SECTION]** — additional societies to be introduced sparingly; secrecy loses value if overused.
@@ -598,7 +604,7 @@ No character is created "overpowered" by default. Power must be earned on-page.
 - Each Aurothi/Realm has an associated iconographic motif used in Sigils, banners, and architecture: flame-spiral (Emberfall), wave-knot (Tidewrought), root-lattice (Ironroot), spiral-wind (Windmere), eclipse-ring (Duskmarch), radiant-bar (Solvane), branch-weave (Verdant Wilds).
 - The Concord's own emblem — a seven-point broken circle — deliberately shows the Realms as fragments still arranged in their original relative positions, a visual reminder of Elysia.
 
-**[LIVING SECTION]** — full symbol/heraldry guide to be developed alongside the visual style guide (Studio OS Section 19).
+**[LIVING SECTION]** — full symbol/heraldry guide to be developed alongside the visual style guide (`mythic-forge-art-bible/`, Studio OS Section 19).
 
 ---
 
@@ -675,6 +681,8 @@ This section exists so that "unresolved" is a tracked design decision, not an ac
 
 **Rule:** Every question on this list must eventually be answered somewhere in the franchise's run — but "eventually" is deliberately not scheduled here. Track answers as they're canonized by striking through the resolved question and logging the resolution's source (episode/chapter) in the changelog.
 
+*(Internal planning note: every question above has a corresponding answer, or the seed of one, in the restricted `bible/Fracture_Protocol_TrueReality_v1.0.md` — Creative Director reference only. This does not change how the questions are handled in any audience-facing material; see "A Note on This Document's Scope" at the top of this Bible.)*
+
 ---
 
 # APPENDIX A — KAEL: FLAGSHIP PROTAGONIST PROFILE **[LOCKED premise, LIVING detail]**
@@ -713,6 +721,19 @@ Quiet, watchful, dryly understated — the kind of person who deflects sympathy 
 ### Speech Pattern
 Plain-spoken and economical, shaped by Wardenate monastic training — clipped, functional phrasing in formal settings, loosening into something warmer and more sardonic around people he trusts. Rarely volunteers information about himself unprompted.
 
+### Physical Signature — Eyes **[LOCKED]**
+
+Kael's eyes carry a faint, naturally cool-toned icy blue-cyan cast at all times — subtle enough at rest to read as an unusual but plausible eye color, not overtly supernatural. It intensifies into a visible glow whenever his Echo-Sensitivity activates, and the glow's character is a direct, diegetic readout of his internal state (Art Bible `color-language.md`, `lighting-system.md`):
+
+| State | Glow |
+|---|---|
+| Calm proximity to an Echo | Soft, stable glow |
+| Conflict or danger | Flickering, unstable glow |
+| Full communion/activation | Intense, sharp glow |
+| A bond fraying or breaking (Section 21) | Fragmented, unstable glow |
+
+This is not decorative — it is the single physical tell that ties directly back to his Rare Condition, and it must never be used in a scene where his Echo-Sensitivity isn't actually active.
+
 ### Internal Conflict
 Wants belonging, but fears his Echo-Sensitivity marks him as fundamentally "other" — possibly even suspect of Hollow Creed corruption in the eyes of his order. Torn between the Wardenate's institutional answer (his parents' deaths were an ordinary tragedy, full stop) and his own unresolved need to know more.
 
@@ -726,12 +747,15 @@ Across the first season: Novice Sigilcraft cadet who is tolerated, not trusted, 
 
 **Rule:** Kael must never become the most powerful character in a scene without an explicit, earned reason established on-page. His value to the story is perspective and empathy, not raw power.
 
+*(Internal planning note: Kael's full true-nature profile — reserved, long-term, Creative Director only — lives in `bible/Fracture_Protocol_TrueReality_v1.0.md` Section 7. Nothing there changes how Kael is written in Season One or Season Two.)*
+
 ---
 
-*End of Version 2.0. This document is a living foundation — update section-by-section as the Concord (and the Creative Director) approves new canon, not by wholesale rewrite.*
+*End of Version 3.0. This document is a living foundation — update section-by-section as the Concord (and the Creative Director) approves new canon, not by wholesale rewrite.*
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-06] Initial 25-section Mythic Bible established.`
 `[v2.0 — 2026-07-06] Full restructure to 60-section format under the official title "The Shattered Realms." Pre-Fracture age renamed Elysia (Solenne retained as an in-world poetic/etymological term). Added Appendix A: Kael, flagship protagonist. Expanded Ancient Orders, Power Progression/Limitations, Rare Conditions, Legendary Beasts, geography detail (Biomes/Forests/Mountains/Cities/Locations), culture detail (Architecture/Fashion/Food/Transportation/Education/Military/Ranks/Laws), Criminal Organizations, Secret Societies, historical figure rosters, and full Character/Villain/Hero/Supporting/Creature design rule sets. Supersedes v1.0.`
+`[v3.0 — 2026-07-06] Added "A Note on This Document's Scope" establishing that this Bible is the complete, true account as experienced in-world, with a restricted companion meta-canon document (bible/Fracture_Protocol_TrueReality_v1.0.md) reserved for Creative Director-level long-term planning. Added internal planning cross-references (not audience-facing) to Sections 45 and 60. Added Kael's Physical Signature — Eyes to Appendix A (icy blue-cyan glow, intensity keyed to Echo-Sensitivity state: calm/conflict/activation/fraying). No Locked cosmology content was removed or contradicted. Supersedes v2.0.`
