@@ -3,7 +3,7 @@
 
 **Classification:** Internal — Non-Canon Archive
 **Status:** This entire document is **Proposed — Not Canon**. Nothing in this file may influence any official document (Master System Prompt, World Bible, Series Bible, Art Bible, Studio OS, Production OS, Knowledge Base) until the creator explicitly approves a specific entry.
-**Governed by:** `bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` Section 12 (Canon Governance System), Rules 2 and 5.
+**Governed by:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` Section 12 (Canon Governance System), Rules 2 and 5.
 
 ---
 

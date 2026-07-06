@@ -4,7 +4,7 @@
 
 **Classification:** Internal — Visual Law
 **Scope:** Governs the visual rendering of The Fracture Protocol, starting with Series 01.
-**Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` — this Art Bible expands on it and must never contradict it.
+**Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` — this Art Bible expands on it and must never contradict it.
 **Relationship to other documents:** The World Bible (`bible/Fracture_Protocol_World_Bible_v1.1.md`) and Series Bible are authoritative on *what things mean*. This Art Bible is authoritative on *how everything looks*. Where a production decision is purely visual, this document outranks personal taste — "what looks cool" loses to "what this document specifies" (see `global-consistency-rules.md`).
 
 ---

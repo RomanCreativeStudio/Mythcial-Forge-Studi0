@@ -2,7 +2,7 @@
 ### Studio OS Version 1.0
 **Status:** Foundational — approved for operational use
 **Classification:** Internal — Company Handbook
-**Companion documents:** `bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` (absolute canon lock), `bible/Fracture_Protocol_World_Bible_v1.1.md` (creative canon — this document governs how we *work*, those documents govern what we *build*)
+**Companion documents:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` (absolute canon lock), `bible/Fracture_Protocol_World_Bible_v1.1.md` (creative canon — this document governs how we *work*, those documents govern what we *build*)
 
 ---
 
@@ -295,17 +295,17 @@ A running index of reusable AI prompts, to prevent re-deriving the same prompt e
 
 ## SECTION 18 — Lore Documentation Standards **[LOCKED process]**
 
-**Authoritative procedure:** the Master System Prompt's Canon Governance System (`bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` Section 12) is the single governing procedure for all canon changes — Canon States (LOCKED CANON / PROPOSED / APPROVED CANON), Drift Detection, and the Proposal/Canon Update Workflows. This section does not define a separate or competing process; it restates the operational touchpoints that matter day-to-day at the studio level.
+**Authoritative procedure:** the Master System Prompt's Canon Governance System (`bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` Section 12) and its operational detail layer, the Founder Override Protocol (Section 13), are the single governing procedure for all canon changes — Canon States (LOCKED CANON / PROPOSED / APPROVED CANON), Drift Detection, Founder Override Commands, the Change Impact Report, Minor/Major classification, and the Proposal/Execution/Final Validation Workflows. This section does not define a separate or competing process; it restates the operational touchpoints that matter day-to-day at the studio level.
 
 **Canon Tiers** (document-tag convention, aligned with the Master System Prompt's Canon States):
 - **[LOCKED]** — founder/Creative Director approval required to change (= LOCKED CANON).
 - **[LIVING]** — open for writer expansion within existing framework, without contradicting Locked material (= APPROVED CANON, living detail).
 - A new idea that isn't yet approved is **Proposed — Not Canon** and belongs in `bible/Fracture_Protocol_Proposal_Vault_v1.0.md`, never inline in a Bible document (Master System Prompt Section 12, Rule 5).
 
-**Canon Change SOP** (studio-level restatement of Master System Prompt Section 12, Rules 5–6):
+**Canon Change SOP** (studio-level restatement of Master System Prompt Section 12 Rules 5–6 and Section 13's Execution Workflow):
 1. Proposer logs the change in the Proposal Vault using the Status/Purpose/Impact/Recommendation format — never as an inline draft inside an official document.
 2. Check against Section 5 (Originality) and existing Locked material for contradictions (Drift Detection, Master System Prompt Rule 3).
-3. Creative Director reviews; approves, rejects, or requests revision. Only explicit creator approval promotes a proposal to canon (Master System Prompt Rule 1).
+3. Creative Director reviews and approves via an explicit Founder Override Command (Master System Prompt Section 13), rejects, or requests revision; Major Canon Updates additionally require a Change Impact Report first (Section 13). Only explicit creator approval promotes a proposal to canon (Master System Prompt Rule 1).
 4. On approval, the affected document(s) are updated with a version bump and a one-line changelog entry (Section 30), and the entry is marked resolved in the Proposal Vault.
 
 ---
@@ -461,3 +461,4 @@ A running index of reusable AI prompts, to prevent re-deriving the same prompt e
 `[v1.0 — 2026-07-06] Initial Studio OS established (all 30 sections)`
 `[v1.0 — 2026-07-06] Founder-approved Locked-section edit to Section 2 (Mission Statement): removed "fantasy" from the Mission one-liner so the studio's stated mission stays open to any genre (fantasy, sci-fi, etc.) rather than committing to one. Mission Pillars unchanged — they were already genre-agnostic.`
 `[v1.0 — 2026-07-06] Phase 2 Finalization audit fixes: rewrote Section 18's Canon Tiers/Canon Change SOP to defer to the Master System Prompt's Canon Governance System (Section 12) instead of maintaining a separate, conflicting DRAFT-based process. Corrected residual fantasy-era ("Realm," "Essence affinity," "the Kindling," Emberfall/Duskmarch examples) references found in Sections 8, 10, 11, 17, 19, and 20 to current Fracture Protocol terminology (Zone, Signal-affinity, the Calibration, Lower Sector examples).`
+`[v1.0 — 2026-07-06] Synced Section 18 to the Master System Prompt's v1.2 Founder Override Protocol (Section 13): Canon Change SOP now references explicit Founder Override Commands and the Change Impact Report requirement for Major Canon Updates, alongside the existing Canon Governance System (Section 12). Cross-reference updated to `Fracture_Protocol_Master_System_Prompt_v1.2.md`.`

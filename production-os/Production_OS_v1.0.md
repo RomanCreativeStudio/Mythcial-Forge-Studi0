@@ -3,7 +3,7 @@
 ### Version 1.0
 
 **Classification:** Internal — Production Manual
-**Companion documents:** `studio-os/Studio_OS_v1.0.md` (company-level process — this document is its technical/pipeline layer), `bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` and `bible/Fracture_Protocol_World_Bible_v1.1.md` (world canon), `series/*/Series_Bible_v1.1.md` (story canon)
+**Companion documents:** `studio-os/Studio_OS_v1.0.md` (company-level process — this document is its technical/pipeline layer), `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` and `bible/Fracture_Protocol_World_Bible_v1.1.md` (world canon), `series/*/Series_Bible_v1.1.md` (story canon)
 
 ---
 

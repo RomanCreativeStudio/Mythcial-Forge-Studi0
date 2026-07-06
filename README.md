@@ -33,7 +33,7 @@ Seven document types exist, each with a distinct job. None should duplicate anot
 
 | Document Type | Job | Current Instance(s) |
 |---|---|---|
-| **Master System Prompt** | The absolute, compressed anti-drift firewall — the single source of truth every other document must never contradict, including the Canon Governance System | `bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` |
+| **Master System Prompt** | The absolute, compressed anti-drift firewall — the single source of truth every other document must never contradict, including the Canon Governance System | `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` |
 | **Proposal Vault** | Non-canon archive for future ideas — has zero authority until the creator explicitly approves an entry | `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` |
 | **Knowledge Base** | Navigation and system rules only — never authoritative on content | This document |
 | **Studio OS** | How the studio *works* — company-level process, workflow, standards | `studio-os/Studio_OS_v1.0.md` |
@@ -60,7 +60,7 @@ Seven document types exist, each with a distinct job. None should duplicate anot
 | Document | Path | Governs | Version | Status |
 |---|---|---|---|---|
 | Mythic Forge Knowledge Base | `README.md` | Navigation & system rules | 2.0 | ✅ Complete |
-| Fracture Protocol Master System Prompt | `bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` | Absolute canon lock / anti-drift firewall / Canon Governance System | 1.1 | ✅ Complete |
+| Fracture Protocol Master System Prompt | `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` | Absolute canon lock / anti-drift firewall / Canon Governance System / Founder Override Protocol | 1.2 | ✅ Complete |
 | Fracture Protocol Proposal Vault | `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` | Non-canon archive of future ideas | 1.0 | 🔄 7 entries pending decision |
 | Studio Operating System | `studio-os/Studio_OS_v1.0.md` | Company process, workflow, standards | 1.0 | ✅ Complete |
 | Production Operating System | `production-os/Production_OS_v1.0.md` | Department-level production SOPs, pipeline, QA | 1.0 | ✅ Complete |
@@ -138,7 +138,7 @@ Seven document types exist, each with a distinct job. None should duplicate anot
 
 Authority flows top to bottom. A lower tier may add detail; it may never contradict a higher one without going through the Review Workflow (Section 34).
 
-1. **Master System Prompt** (`bible/Fracture_Protocol_Master_System_Prompt_v1.1.md`) — the absolute anti-drift firewall; highest authority on anything, full stop
+1. **Master System Prompt** (`bible/Fracture_Protocol_Master_System_Prompt_v1.2.md`) — the absolute anti-drift firewall; highest authority on anything, full stop
 2. **World Bible** (`bible/Fracture_Protocol_World_Bible_v1.1.md`) — highest authority on world-related detail, subordinate only to the Master System Prompt
 3. **Studio OS** (`studio-os/`) — highest authority on company-level process
 4. **Series Bibles** (`series/`) — authoritative for their own series only; subordinate to the World Bible and Master System Prompt
@@ -232,7 +232,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 | Document | Version | Status | Last Updated | Owner |
 |---|---|---|---|---|
 | Mythic Forge Knowledge Base | 2.0 | ✅ Complete | 2026-07-06 | Founder |
-| Fracture Protocol Master System Prompt | 1.1 | ✅ Complete | 2026-07-06 | Founder |
+| Fracture Protocol Master System Prompt | 1.2 | ✅ Complete | 2026-07-06 | Founder |
 | Fracture Protocol Proposal Vault | 1.0 | 🔄 7 entries pending decision | 2026-07-06 | Founder |
 | Studio OS | 1.0 | ✅ Complete | 2026-07-06 | Founder |
 | Production OS | 1.0 | ✅ Complete | 2026-07-06 | Founder |
@@ -249,11 +249,11 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 
 | Document | Version | One-Line Summary |
 |---|---|---|
-| Fracture Protocol Master System Prompt | 1.1 | Compressed, absolute canon lock: universe identity, Kael's visual/age lock, world structure, system rules, prompt system, anti-drift firewall, and the Canon Governance System (Creator Authority, Canon States, Drift Detection, Locked Categories, Proposal/Canon Update Workflows) |
-| Fracture Protocol Proposal Vault | 1.0 | Non-canon archive for future ideas, per the Canon Governance System's Proposal Workflow — currently empty pending new proposals |
+| Fracture Protocol Master System Prompt | 1.2 | Compressed, absolute canon lock: universe identity, Kael's visual/age lock, world structure, system rules, prompt system, anti-drift firewall, the Canon Governance System (Creator Authority, Canon States, Drift Detection, Locked Categories, Proposal/Canon Update Workflows), and the Founder Override Protocol (explicit override commands, Change Impact Report, Minor/Major classification, Final Validation checklist) |
+| Fracture Protocol Proposal Vault | 1.0 | Non-canon archive for future ideas, per the Canon Governance System's Proposal Workflow — currently 7 entries pending creator decision |
 | Studio OS | 1.0 | Operational handbook: vision, values, workflows, QA, IP protection, roadmap |
 | Production OS | 1.0 | 48-section department-level production manual: SOPs, pipeline, QA, metrics |
-| Mythic Forge Art Bible | 3.0 | 10-file visual law: single sanctioned register (semi-realistic anime cinematic hybrid), megacity color system, system-interference VFX rules, prompt library |
+| Mythic Forge Art Bible | 3.0 | 11-file visual law: single sanctioned register (semi-realistic anime cinematic hybrid), megacity color system, system-interference VFX rules, prompt library |
 | Fracture Protocol World Bible | 1.1 | Lean world canon: the megacity's four layers, Authority System, Signal/Cipher-work/Fragment-Sync/Static-Reading/Fragments/Root Artifacts, the Reassembly, the Salvage Line, Terminology Reference |
 | The Fracture Protocol Series Bible | 1.1 | Series 01's premise, cast, and full Season One (20-episode) outline, plus Coda (Salvage Line broker, Static-Reader) reserved for Season Two |
 
@@ -798,9 +798,9 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 
 ```
 Vision & Values .......... [██████████] 100%  ✅ Complete
-Master System Prompt ..... [██████████] 100%  ✅ Complete (v1.0, absolute canon lock)
-Creative Canon ............ [██████████] 100%  ✅ Complete (World Bible v1.0)
-Series 01 Story Bible ...... [██████████] 100%  ✅ Complete (v1.0)
+Master System Prompt ..... [██████████] 100%  ✅ Complete (v1.2, absolute canon lock + Founder Override Protocol)
+Creative Canon ............ [██████████] 100%  ✅ Complete (World Bible v1.1)
+Series 01 Story Bible ...... [██████████] 100%  ✅ Complete (v1.1)
 Team / Roles ............... [██░░░░░░░░]  20%  🔄 Solo founder; roles mapped, unfilled
 Production Pipeline ........ [░░░░░░░░░░]   0%  ⬜ Not started
 Publishing ................. [░░░░░░░░░░]   0%  ⬜ Not started
@@ -901,3 +901,4 @@ See Sections 15, 16, 21–23, 28, 31 above — each carries its own tracker tabl
 `[v2.0 — 2026-07-06] Founder-approved additive expansion: World Bible bumped to v1.1 (added Static-Reading as a third recognized discipline, and The Salvage Line as a new faction alongside Authority/Ward Division/the Reassembly); Series Bible bumped to v1.1 (added Coda, a Season Two supporting character — Salvage Line broker and Static-Reader — explicitly scoped as non-competing with Kael per System Rule 4). Season One's 20-episode outline is unchanged. Synced all cross-references, the Character Tracker, the Power System Documentation Index, and the Lore Tracker accordingly.`
 `[v2.0 — 2026-07-06] Phase 2 Finalization / Canon Governance pass: Master System Prompt bumped to v1.1 (permanent Canon Guardian role framing; added Section 12, Canon Governance System — Rules 1-6). Added the Fracture Protocol Proposal Vault v1.0 as a new document type (non-canon, currently empty — founder confirmed no existing canon required retroactive rollback). Reconciled Studio OS Section 18's separate Canon Change SOP to defer to the new Canon Governance System instead of maintaining a competing DRAFT-based process. Full-repo audit found and fixed residual fantasy-era terminology ("Realm," "Essence affinity," "the Kindling," Emberfall/Duskmarch examples) in Studio OS Sections 8, 10, 11, 17, 19, and 20, and one stale Two-Discipline Cap phrasing in the Series Bible that pre-dated Static-Reading. Verified all cross-referenced file paths resolve and all declared versions match file headers.`
 `[v2.0 — 2026-07-06] Full continuity audit (post Proposal Vault expansion to 7 entries): corrected two stale "Art Bible (10 files)" labels (Documentation Architecture Section 2, Master Navigation Index Section 3) to the correct "(11 files)," matching the Art Bible's own 11-file breakdown table which was already accurate. Fixed a wording contradiction in Section 6 (Documentation Hierarchy) where the Proposal Vault special-case note implied approved entries are "removed from Vault status" — reworded to match the Vault's own explicit rule that entries are never deleted, only marked resolved in place. Re-verified: no Proposal Vault entry content has leaked into any canon document; all cross-document version references match current file headers; no Locked-rule contradictions or duplicate rule sets found (Studio OS Section 18 and Series Bible Section 19/20 correctly restate rather than compete with Master System Prompt Section 12 and the World/System Rules).`
+`[v2.0 — 2026-07-06] Founder-authored permanent addition: Master System Prompt bumped to v1.2 (renamed `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md`), adding Section 13, Founder Override Protocol — explicit Founder Override Command phrases, a 7-point Change Impact Report format, Minor/Major Change Classification, an expanded 9-step Execution Workflow, and a 9-point Final Validation checklist, all cross-linked to and reconciled with the existing Section 12 Canon Governance System so the two read as one non-contradictory system. Propagated the version bump across every cross-reference repo-wide (Series Bible, World Bible, Studio OS, Production OS, Art Bible files, Proposal Vault, this document). Also caught and fixed several stale version mentions this same pass that a prior file-path-only sweep had missed: Document Status Tracker and Current Completed Documents tables still showed Master System Prompt as 1.1, the Proposal Vault's one-line summary still said "currently empty" despite 7 logged entries, the Art Bible summary still said "10-file," and the Studio Progress dashboard still displayed v1.0-era version tags for the Master System Prompt, World Bible, and Series Bible.`
