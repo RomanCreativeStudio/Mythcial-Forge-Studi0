@@ -34,7 +34,8 @@ Four document types exist, each with a distinct job. None should duplicate anoth
 | Document Type | Job | Current Instance(s) |
 |---|---|---|
 | **Knowledge Base** | Navigation and system rules only — never authoritative on content | This document |
-| **Studio OS** | How the studio *works* — process, workflow, standards | `studio-os/Studio_OS_v1.0.md` |
+| **Studio OS** | How the studio *works* — company-level process, workflow, standards | `studio-os/Studio_OS_v1.0.md` |
+| **Production OS** | How an episode actually gets made — step-by-step department SOPs | `production-os/Production_OS_v1.0.md` |
 | **World Bible** | What the universe *is* — canon law | `bible/Mythic_Bible_v2.0.md` |
 | **Series Bible** | How one specific series tells its story within the universe | `series/01-kael-the-shattered-realms/Series_Bible_v1.0.md` |
 
@@ -47,7 +48,7 @@ Four document types exist, each with a distinct job. None should duplicate anoth
 | **Status** | ✅ Complete |
 | **Version** | 1.0 |
 | **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | A fifth type — **Registry** (character/relic/kingdom trackers) — is planned (Section 13) and will slot in beneath Series Bibles |
+| **Future Expansion Notes** | A sixth type — **Registry** (character/relic/kingdom trackers) — is planned (Section 13) and will slot in beneath Series Bibles |
 
 ---
 
@@ -57,6 +58,7 @@ Four document types exist, each with a distinct job. None should duplicate anoth
 |---|---|---|---|---|
 | Mythic Forge Knowledge Base | `README.md` | Navigation & system rules | 1.0 | ✅ Complete |
 | Studio Operating System | `studio-os/Studio_OS_v1.0.md` | Company process, workflow, standards | 1.0 | ✅ Complete |
+| Production Operating System | `production-os/Production_OS_v1.0.md` | Department-level production SOPs, pipeline, QA | 1.0 | ✅ Complete |
 | Mythic Bible — The Shattered Realms | `bible/Mythic_Bible_v2.0.md` | Universe canon | 2.0 | ✅ Complete |
 | Kael: The Shattered Realms — Series Bible | `series/01-kael-the-shattered-realms/Series_Bible_v1.0.md` | Series 01 story canon | 1.0 | ✅ Complete |
 
@@ -69,12 +71,13 @@ Four document types exist, each with a distinct job. None should duplicate anoth
 ```
 /                                    → this Knowledge Base (README.md)
 /bible/                              → world canon (Mythic Bible)
-/studio-os/                          → operational process documents
+/studio-os/                          → company-level operational process documents
+/production-os/                      → department-level production SOPs and pipeline manual
 /series/                             → one subfolder per series
   /01-kael-the-shattered-realms/     → Series 01 bible and future scripts
 /registries/                         → [PLANNED] living trackers: characters, relics, kingdoms, monsters
 /scripts/                            → [PLANNED] episode/chapter scripts, by season/arc
-/production/                         → [PLANNED] storyboards, VO, footage, art
+/production/                         → [PLANNED] storyboards, VO, footage, art (binary assets — see Production OS Section 31)
 /publishing/                         → [PLANNED] metadata, thumbnails, SEO records per release
 ```
 
@@ -113,10 +116,11 @@ Four document types exist, each with a distinct job. None should duplicate anoth
 Authority flows top to bottom. A lower tier may add detail; it may never contradict a higher one without going through the Review Workflow (Section 34).
 
 1. **Mythic Bible** (`bible/`) — highest authority on anything world-related
-2. **Studio OS** (`studio-os/`) — highest authority on anything process-related
+2. **Studio OS** (`studio-os/`) — highest authority on company-level process
 3. **Series Bibles** (`series/`) — authoritative for their own series only; subordinate to the Mythic Bible
-4. **Registries / Production Docs** (`registries/`, `production/`, `scripts/`) — implementation detail; subordinate to all of the above
-5. **Knowledge Base** (this document) — authoritative on *navigation only*, never on content
+4. **Production OS** (`production-os/`) — highest authority on how episodes get made technically; implements Studio OS Section 13 and must never contradict a Series Bible's story requirements
+5. **Registries / Production Docs** (`registries/`, `production/`, `scripts/`) — implementation detail; subordinate to all of the above
+6. **Knowledge Base** (this document) — authoritative on *navigation only*, never on content
 
 | Field | Value |
 |---|---|
@@ -201,6 +205,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 |---|---|---|---|---|
 | Mythic Forge Knowledge Base | 1.0 | ✅ Complete | 2026-07-06 | Founder |
 | Studio OS | 1.0 | ✅ Complete | 2026-07-06 | Founder |
+| Production OS | 1.0 | ✅ Complete | 2026-07-06 | Founder |
 | Mythic Bible | 2.0 | ✅ Complete | 2026-07-06 | Founder |
 | Kael: The Shattered Realms Series Bible | 1.0 | ✅ Complete | 2026-07-06 | Founder |
 | Character Registry | — | ⬜ Not Started | — | Unassigned |
@@ -216,6 +221,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 | Document | Version | One-Line Summary |
 |---|---|---|
 | Studio OS | 1.0 | Operational handbook: vision, values, workflows, QA, IP protection, roadmap |
+| Production OS | 1.0 | 48-section department-level production manual: SOPs, pipeline, QA, metrics |
 | Mythic Bible | 2.0 | 60-section world canon for The Shattered Realms, plus Kael's franchise profile |
 | Kael: The Shattered Realms Series Bible | 1.0 | Series 01's premise, cast, and full Season One (20-episode) outline |
 
@@ -223,7 +229,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 |---|---|
 | **Purpose** | Quick reference for what already exists and doesn't need to be rebuilt |
 | **Owner** | Founder |
-| **Primary Documents** | The three listed above |
+| **Primary Documents** | The four listed above |
 | **Dependencies** | None |
 | **Status** | ✅ Complete |
 | **Version** | 1.0 |
@@ -234,7 +240,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 
 ## 12. Documents In Progress
 
-**None currently.** All three foundational documents are at a stable, complete v1.0/v2.0 state.
+**None currently.** All four foundational documents are at a stable, complete v1.0/v2.0 state.
 
 | Field | Value |
 |---|---|
@@ -406,12 +412,12 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 |---|---|
 | **Purpose** | Point to production pipeline documentation |
 | **Owner** | Founder → future Animation/Editor leads |
-| **Primary Documents** | Studio OS Section 13 |
+| **Primary Documents** | `production-os/Production_OS_v1.0.md` (department SOPs, pipeline, QA, metrics); Studio OS Section 13 (company-level pipeline policy) |
 | **Dependencies** | Section 19 (scripts must exist before production) |
-| **Status** | ⬜ Not Started — process defined, no assets produced yet |
+| **Status** | ✅ Complete (manual); ⬜ no assets produced against it yet |
 | **Version** | 1.0 |
 | **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | `/production/` folder to be created when Episode S01E01 enters storyboard stage |
+| **Future Expansion Notes** | `/production/` folder to be created when Episode S01E01 enters storyboard stage (Production OS Section 8) |
 
 ---
 
@@ -421,7 +427,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and Mythic Bible Se
 |---|---|
 | **Purpose** | Track reusable AI prompts for lore, script, visual, and voice generation |
 | **Owner** | Founder → future role owners per prompt category |
-| **Primary Documents** | Studio OS Section 16 |
+| **Primary Documents** | Studio OS Section 16; Production OS Sections 34–35 (Prompt Management, Prompt Versioning) |
 | **Dependencies** | None |
 | **Status** | ⬜ Not Started |
 | **Version** | 1.0 (process only) |
@@ -856,3 +862,4 @@ See Sections 15, 16, 21–23, 28, 31 above — each carries its own tracker tabl
 
 ### Changelog
 `[v1.0 — 2026-07-06] Initial Knowledge Base established: 40-section index, dashboards, and master trackers covering Studio OS v1.0, Mythic Bible v2.0, and the Kael: The Shattered Realms Series Bible v1.0.`
+`[v1.0 — 2026-07-06] Indexed Production OS v1.0 (production-os/Production_OS_v1.0.md): added as a fifth document type, added to Master Navigation Index, Folder Structure, Documentation Hierarchy, Document Status Tracker, Current Completed Documents, Production Documentation Index, and Prompt Library Index.`
