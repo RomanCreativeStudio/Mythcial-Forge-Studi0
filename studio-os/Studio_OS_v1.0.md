@@ -1,0 +1,460 @@
+# MYTHIC FORGE STUDIOS — STUDIO OPERATING SYSTEM
+### Studio OS Version 1.0
+**Status:** Foundational — approved for operational use
+**Classification:** Internal — Company Handbook
+**Companion document:** `bible/Mythic_Bible_v1.0.md` (creative canon — this document governs how we *work*, the Bible governs what we *build*)
+
+---
+
+### How to use this document
+
+This is the operational rulebook for Mythic Forge Studios: how we make decisions, how we make things, and how we keep quality and originality consistent as the studio grows from a one-person, AI-assisted operation into a multi-format entertainment company. Every workflow, checklist, and standard here should be followed unless a specific project need requires an exception — and exceptions should be logged, not silently taken.
+
+Like the Mythic Bible, sections here are marked:
+- **[LOCKED]** — foundational, changes require founder/Creative Director sign-off.
+- **[LIVING SECTION]** — expected to evolve; update as the studio learns what actually works.
+
+---
+
+## SECTION 1 — Company Vision **[LOCKED]**
+
+**Studio Name:** Mythic Forge Studios
+**Tagline:** Forging Worlds. Creating Legends.
+
+**Vision Statement:** To become one of the world's leading independent AI-powered storytelling studios — a company where a single original universe can grow, over years, into a YouTube series, a web novel, a comic, games, and merchandise, without ever losing its internal consistency or creative integrity.
+
+**What "leading independent studio" means in practice, in order of priority:**
+
+| Priority | Definition | Not This |
+|---|---|---|
+| 1. Original IP ownership | We own 100% of what we create | Working in someone else's sandbox or fan-space |
+| 2. Audience trust | Viewers believe the world is internally consistent and cared for | Chasing trends at the cost of canon integrity |
+| 3. Format independence | The IP can move to any medium without being "reinvented" | A story that only works as one type of video |
+| 4. Sustainable scale | Growth funded by the work itself, not external hype cycles | Burnout-driven output |
+
+This vision should be revisited annually (see Section 26) but the four priorities above should not reorder without founder sign-off.
+
+---
+
+## SECTION 2 — Mission Statement **[LOCKED]**
+
+**Mission:** Create unforgettable original fantasy worlds and stories that inspire imagination, emotional connection, and long-term audience loyalty.
+
+**Mission Pillars:**
+
+1. **Originality first** — every world, character, power system, and creature must be traceably original (see Section 5, Section 27).
+2. **Emotional truth** — spectacle serves character, never the reverse.
+3. **Long-term thinking** — every piece of content should make sense to a viewer joining in year one or year five.
+4. **Cross-format integrity** — the story should feel like the same universe whether it's a YouTube episode, a novel chapter, or a comic page.
+
+---
+
+## SECTION 3 — Core Values **[LOCKED]**
+
+| Value | Definition | In Practice |
+|---|---|---|
+| **Originality** | Nothing is copied, traced, or "inspired" to the point of resemblance | Every new asset passes the Originality Check (Section 14) before approval |
+| **Craft** | We'd rather publish less, done well, than more, done sloppily | QA checklist is mandatory, not optional, even under deadline pressure |
+| **Consistency** | Canon is a promise to the audience | All lore changes go through the Lore Documentation SOP (Section 18) |
+| **Patience** | Franchises are built in years, not weeks | Roadmap decisions (Section 28) are evaluated on 3–5 year payoff, not just next month's views |
+| **Transparency (internal)** | Decisions and canon changes are documented, not tribal knowledge | Every process in this document produces a written artifact |
+| **Adaptability** | The studio's tools and workflows are expected to change | Sections marked [LIVING SECTION] are reviewed, not frozen |
+
+---
+
+## SECTION 4 — Brand Personality **[LIVING SECTION]**
+
+**Brand voice, in one line:** *Cinematic, sincere, and a little mythic — never ironic about its own world.*
+
+| Attribute | We are | We are not |
+|---|---|---|
+| Tone | Earnest, emotionally grounded | Cynical, meme-first |
+| Confidence | Quietly confident in the world's depth | Over-explaining or over-hyping lore |
+| Humor | Character-driven, warm | Snark aimed at the audience or genre |
+| Visuals | Painterly, cinematic, high-contrast | Generic stock-fantasy or asset-flip aesthetics |
+| Voice (marketing copy) | Inviting, a little mysterious | Clickbait, all-caps urgency |
+
+**Brand Do / Don't Checklist (for all public-facing copy):**
+- [ ] Does this sound like it belongs in *Solenne*, not a generic fantasy ad?
+- [ ] Does it respect the audience's intelligence (no manufactured urgency)?
+- [ ] Would this line still feel right in Season 5?
+
+---
+
+## SECTION 5 — Creative Philosophy **[LOCKED]**
+
+**Core rule: Inspiration, never imitation.**
+
+Strong storytelling principles (three-act structure, hero's journey beats, found-family dynamics, etc.) are craft tools available to everyone and are fair game. Specific worlds, characters, magic systems, named creatures, or visual designs from existing IP are never fair game, even in modified form.
+
+**Originality Decision Framework** — apply to any new creative element before it enters the Bible or a script:
+
+```
+1. Could a familiar audience member name the specific existing IP this resembles?
+   YES → reject or substantially rework. NO → continue.
+2. Does it use a copied or lightly-reskinned proper noun (character name, place name,
+   power name, race name) from existing IP?
+   YES → reject, rename from scratch. NO → continue.
+3. Is the underlying *mechanic* (not just the name) an original combination, even if
+   individual pieces are genre-standard (e.g. "elemental magic")?
+   NO → rework the mechanic. YES → approved.
+4. Log the element and its originality rationale in the relevant Bible section's
+   revision note (Section 18).
+```
+
+**Guiding principle for AI-assisted creation:** AI tools are used for drafting, iteration speed, and exploration — never as a substitute for the originality check above. Any AI-generated concept is a first draft, not a final approval.
+
+---
+
+## SECTION 6 — Storytelling Principles **[LIVING SECTION]**
+
+Non-negotiable narrative pillars for all Mythic Forge stories, regardless of format:
+
+1. **Cost is real.** Power, victory, and progress always cost something the audience can see.
+2. **Nobody is purely decorative.** Every named character should want something, even in a single scene.
+3. **Foreshadow before you pay off.** No twist should retroactively require information the audience couldn't have had.
+4. **Escalate the world, not just the stakes.** Bigger threats should reveal more of *Solenne*, not just raise numbers.
+5. **Respect the Bible's ambiguity.** Sections of the Mythic Bible are deliberately unresolved (e.g., the true cause of the Fracture) — writers must preserve that ambiguity unless a formal canon decision resolves it (Section 18).
+
+**Story Health Checklist (apply before greenlighting any script):**
+- [ ] Clear POV character and want in this piece
+- [ ] At least one cost/consequence tied to this piece's central action
+- [ ] No contradiction with locked Bible sections
+- [ ] No unresolved Bible ambiguity is accidentally "resolved" in passing dialogue
+
+---
+
+## SECTION 7 — Worldbuilding Standards **[LOCKED framework]**
+
+All worldbuilding lives in `bible/`, governed by the Mythic Bible. This section defines *how* Studio OS and Bible interact:
+
+- The Bible is canon law. Studio OS is process law. When in doubt about lore, defer to the Bible; when in doubt about workflow, defer to Studio OS.
+- **[LOCKED]** Bible sections may not be contradicted in any published material without going through the Canon Change SOP (Section 18).
+- **[LIVING]** Bible sections may be expanded freely by any writer, subject to the review process in Section 18, as long as they don't contradict locked material.
+- New Realms, Aurothi, or core cosmology elements are **founder-approval-only** — this is the single highest bar in the studio's creative process, since it affects everything downstream.
+
+---
+
+## SECTION 8 — Character Design Standards **[LIVING SECTION]**
+
+**New Character Checklist:**
+- [ ] Name follows the Realm's naming-convention profile (Section 17)
+- [ ] Essence affinity and Path (if any) assigned and logged
+- [ ] Clear want, clear flaw, clear relationship to at least one other character or faction
+- [ ] Visual silhouette is distinguishable in solid black silhouette alone (readability test)
+- [ ] Passed Originality Check (Section 5) — no resemblance to existing published characters
+- [ ] Logged in the character registry (`bible/registries/characters.md` — to be created when the roster grows beyond a handful)
+
+**Design Principle:** A character should be identifiable by silhouette, by voice, and by one signature prop/detail — before a single line of dialogue.
+
+---
+
+## SECTION 9 — Episode Structure Standards **[LIVING SECTION]**
+
+| Episode Type | Target Length | Purpose |
+|---|---|---|
+| Mainline Episode | 8–14 min | Core season arc progression |
+| Side Story | 4–8 min | Character/world texture, lower continuity risk |
+| Lore Drop | 2–5 min | Direct-to-camera or narrated worldbuilding, ties to Bible sections |
+| Short | Under 60 sec | Top-of-funnel hook content (Section 10) |
+
+**Standard Mainline Episode Template:**
+1. Cold open (hook, ≤ 30 sec)
+2. Title card
+3. Act I — situation + want established
+4. Act II — complication, cost incurred
+5. Act III — resolution + a forward-looking hook (never a full reset)
+6. End card / next-episode tease
+
+---
+
+## SECTION 10 — Shorts Strategy **[LIVING SECTION]**
+
+**Purpose:** Shorts are top-of-funnel discovery tools, not diluted mainline content. Every Short should drive a viewer toward a mainline episode or the web novel.
+
+**Short Content Buckets:**
+| Bucket | Example | Cadence Target |
+|---|---|---|
+| Lore Hook | 30-second cold open into a Bible mystery | 2–3 / week |
+| Character Moment | Single beat, high emotion, no context needed | 1–2 / week |
+| World Detail | A Sigil, creature, or Realm visual, captioned | 1–2 / week |
+
+**Shorts Checklist:**
+- [ ] Hook in first 1.5 seconds
+- [ ] No canon contradiction with mainline
+- [ ] Clear CTA (comment, next-episode link, or web novel chapter link)
+
+---
+
+## SECTION 11 — YouTube Strategy **[LIVING SECTION]**
+
+**Content funnel:** Shorts → Mainline Episodes → Web Novel / Comic → Community (Discord/comments) → Merch & future formats.
+
+**Upload cadence (baseline, to be revised per Section 26 review):**
+
+| Format | Cadence |
+|---|---|
+| Shorts | 3–5 / week |
+| Mainline episodes | 1 / week (minimum sustainable target) |
+| Lore drops | 1–2 / month |
+
+**Channel Strategy Principles:**
+- Playlist structure should mirror in-world structure (by Realm, by Season/Arc) so new viewers can self-select an entry point.
+- Every video description links back to the Bible-adjacent public wiki/lore hub (once built) and the current chapter of the web novel.
+
+---
+
+## SECTION 12 — Publishing Workflow **[LIVING SECTION]**
+
+**Cross-format release sequencing (default model):**
+
+1. Story beat is written once at the "master narrative" level (internal doc).
+2. Adapted first to whichever format is fastest to produce for that beat (typically YouTube script or web novel chapter).
+3. Adapted to remaining formats on a staggered schedule — never simultaneous premieres until the studio has the capacity to support multiple formats without quality loss.
+4. Comic adaptation follows animation/novel by at least one arc, giving it room to add detail rather than race the primary format.
+
+**Rule:** No format should contradict another. If a discrepancy is found, the Bible (not any single format) is the source of truth, and the offending format issues a corrected reprint/edit where feasible.
+
+---
+
+## SECTION 13 — Production Workflow **[LIVING SECTION]**
+
+**Standard Production Pipeline (Mainline Episode):**
+
+| Stage | Output | Owner (current: Founder + AI tools; future: role in Section 29) |
+|---|---|---|
+| 1. Concept | One-paragraph beat, tied to season arc | Creative Director |
+| 2. Script | Full script, Bible-checked | Writer |
+| 3. Storyboard | Shot list / panel sequence | Storyboard Artist |
+| 4. Voice | Recorded/generated VO | Voice Lead |
+| 5. Animation/Art | Final visuals | Animation Lead |
+| 6. Edit | Assembled cut with music/SFX | Editor |
+| 7. QA | Checklist pass (Section 14) | QA Owner |
+| 8. Publish | Uploaded with metadata (Sections 22–23) | Publishing Owner |
+
+**SOP:** No stage begins before the prior stage's output is checked against the Bible for contradictions. A single person may hold multiple roles today — the pipeline stages stay the same regardless of headcount.
+
+---
+
+## SECTION 14 — Quality Assurance Checklist **[LIVING SECTION]**
+
+**Pre-Publish QA Checklist (all formats):**
+- [ ] Originality Check passed (Section 5)
+- [ ] No contradiction with locked Bible sections
+- [ ] Story Health Checklist passed (Section 6)
+- [ ] Naming conventions followed (Section 17)
+- [ ] Audio levels normalized, no clipping (Section 20)
+- [ ] Thumbnail/cover meets Visual Consistency Rules (Section 19, 22)
+- [ ] SEO metadata complete (Section 23)
+- [ ] Spelling/grammar pass complete
+- [ ] Final watch/read-through by someone other than the primary creator, when feasible
+
+---
+
+## SECTION 15 — File Organization Standards **[LOCKED structure, LIVING detail]**
+
+```
+/bible/                  → canon lore (Mythic Bible and future registries)
+/studio-os/              → this document and operational SOPs
+/scripts/                → episode and chapter scripts, by season/arc
+/production/             → storyboards, VO files, raw footage/art (as they're introduced)
+/publishing/             → metadata, thumbnails, SEO records per release
+/registries/             → living trackers: characters, Relics, Kingdoms, etc. (created as needed)
+```
+
+**Rule:** Nothing "canon" lives outside `/bible/`. Nothing "operational" lives outside `/studio-os/`. Production assets are never treated as canon until reflected back into the Bible.
+
+---
+
+## SECTION 16 — Prompt Library Index **[LIVING SECTION]**
+
+A running index of reusable AI prompts, to prevent re-deriving the same prompt engineering repeatedly and to keep AI output on-brand.
+
+| Prompt Category | Purpose | Location (to be created) |
+|---|---|---|
+| Lore drafting | Extending Bible sections in-voice | `studio-os/prompts/lore.md` |
+| Script drafting | Episode/chapter first drafts | `studio-os/prompts/scripts.md` |
+| Visual generation | Character/environment concept art | `studio-os/prompts/visual.md` |
+| Voice generation | VO direction and tone notes | `studio-os/prompts/voice.md` |
+
+**Rule:** Every prompt added to the library must include (a) its purpose, (b) an example output, and (c) known failure modes (e.g., "tends to drift toward generic fantasy names — always run Section 5 check on output").
+
+---
+
+## SECTION 17 — Naming Conventions **[LIVING SECTION]**
+
+| Asset Type | Convention | Example |
+|---|---|---|
+| Episode file | `S{season}E{episode}_{slug}.md` | `S01E04_the-kindling.md` |
+| Character entry | `bible/registries/characters/{realm}_{name}.md` | `emberfall_ignareth-vael.md` |
+| Branch (dev/creative) | `mfs/{workstream}-{short-desc}` | `mfs/bible-v1-1-duskmarch` |
+| Realm-tongue names | Follow phonetic profile in Bible Section 23 | Emberfall: hard consonants; Tidewrought: vowel-heavy |
+
+**Rule:** Never reuse a proper noun across Realms unless it's a deliberate in-world echo (documented as such).
+
+---
+
+## SECTION 18 — Lore Documentation Standards **[LOCKED process]**
+
+**Canon Tiers (mirrors Bible tags):**
+- **[LOCKED]** — founder/Creative Director approval required to change.
+- **[LIVING]** — open for writer expansion within existing framework.
+- **[DRAFT]** — proposed addition, not yet canon, tracked separately until approved.
+
+**Canon Change SOP:**
+1. Proposer writes the change as a **[DRAFT]** addition, citing which Bible section it touches.
+2. Check against Section 5 (Originality) and existing locked material for contradictions.
+3. Creative Director reviews; approves, rejects, or requests revision.
+4. On approval, the Bible is updated with a version bump and a one-line changelog entry (Section 30).
+
+---
+
+## SECTION 19 — Visual Consistency Rules **[LIVING SECTION]**
+
+- Each of the Seven Realms has a defined palette, silhouette language, and architectural motif (to be formalized in a companion Visual Style Guide as production ramps up).
+- Every recurring character requires a reference sheet before appearing in more than one piece of content.
+- No two Realms should share a dominant color palette or silhouette language — visual distinction is a continuity requirement, not just an aesthetic preference.
+
+**Checklist before any new visual asset is finalized:**
+- [ ] Matches its Realm's established palette/motif
+- [ ] Doesn't visually echo a known existing-IP design
+- [ ] Reference sheet created/updated if character is recurring
+
+---
+
+## SECTION 20 — Music & Audio Standards **[LIVING SECTION]**
+
+- Each Realm should eventually have a signature musical motif/leitmotif (to be composed as production budget allows); until then, temp music must be fully licensed or original, never a copyrighted-IP soundalike.
+- Standard mix targets: dialogue intelligibility first, music/SFX supporting, no clipping, consistent loudness across episodes (streaming-standard normalization).
+- All original compositions and licenses logged in `publishing/audio-licenses.md` (to be created with first production pass).
+
+---
+
+## SECTION 21 — Voice Acting Standards **[LIVING SECTION]**
+
+- Casting (human or AI-voice) should reflect each Realm's phonetic/naming identity (Section 17) without leaning on real-world accent stereotypes as a shortcut for "foreign" or "other."
+- Direction notes accompany every VO session: character want, emotional baseline, and any Bible-specific pronunciation guide (e.g., Aurothi names).
+- Audition/direction template: Character name → Realm → one-line want → 2–3 reference line reads → pronunciation notes.
+
+---
+
+## SECTION 22 — Thumbnail Standards **[LIVING SECTION]**
+
+- Consistent brand frame/template across all mainline episodes (logo placement, title treatment) while allowing per-episode art to vary.
+- No misleading thumbnails — the depicted moment must occur in the episode.
+- A/B test no more than two variants per upload, and log results to inform the next cycle (feeds Section 24).
+
+**Checklist:**
+- [ ] Readable at mobile thumbnail size
+- [ ] On-brand palette/typography
+- [ ] Accurately represents episode content
+
+---
+
+## SECTION 23 — SEO Standards **[LIVING SECTION]**
+
+- Title formula: `{Hook/Event} | {Series} {Season/Episode marker}` — keep proper nouns consistent so search compounds over time.
+- Description template: 2-line hook, then a spoiler-safe synopsis, then links (previous episode, novel chapter, Discord/community).
+- Tags: series name, Realm name(s) featured, genre tags, recurring character names.
+- Keyword research reviewed quarterly against the Analytics Review Process (Section 24).
+
+---
+
+## SECTION 24 — Analytics Review Process **[LIVING SECTION]**
+
+| Metric | Reviewed | Decision Trigger |
+|---|---|---|
+| Retention curve | Weekly | Sharp drop-off point → review pacing at that timestamp |
+| CTR (thumbnail/title) | Weekly | Below channel average → revisit Section 22/23 approach |
+| Shorts → mainline conversion | Monthly | Low conversion → revisit Shorts CTA strategy (Section 10) |
+| Subscriber growth vs. views | Monthly | Views up, subs flat → review hook/branding clarity |
+
+**SOP:** Analytics inform iteration, not canon. Never let a metric override an Originality Check or a locked Bible element.
+
+---
+
+## SECTION 25 — Weekly Sprint Planning **[LIVING SECTION]**
+
+**Weekly Sprint Template:**
+1. Review prior week's publishing calendar vs. actual output.
+2. Identify current pipeline stage (Section 13) for each in-flight piece.
+3. Set this week's top 3 priorities (max — avoid overcommitment).
+4. Flag any blocked item and its blocker.
+5. Confirm next publish date(s) are still realistic.
+
+**Weekly Sprint Log format:** `Date | Priorities (3) | Completed | Blocked | Carried Over`
+
+---
+
+## SECTION 26 — Monthly Review Process **[LIVING SECTION]**
+
+**Monthly Review Agenda:**
+1. Analytics summary (Section 24) — what changed and why.
+2. Canon changes approved that month (Section 18 changelog).
+3. Pipeline health — where are bottlenecks recurring?
+4. Vision/Mission check-in — are we still aligned with Section 1–2? (Deep revisit annually, light check monthly.)
+5. Roadmap adjustment — does Section 28's phase timeline still hold?
+
+---
+
+## SECTION 27 — Intellectual Property Protection Guidelines **[LOCKED principles, LIVING process]**
+
+- All original names, characters, and world elements should be documented with creation dates in version control (this repository's commit history serves as a timestamped authorship record).
+- Before public release of a major IP element (studio name, series title, flagship character names/logos), run a basic trademark/conflict search; escalate to legal counsel for registration once revenue or investment justifies the cost.
+- Maintain a clean chain of originality: every asset's Originality Check (Section 5) result should be retrievable, not just assumed.
+- Any third-party contractor or collaborator agreement must include clear IP assignment to Mythic Forge Studios — no ambiguity on ownership.
+- Never incorporate fan submissions or community content into official canon without a written contribution/release agreement.
+
+---
+
+## SECTION 28 — Future Expansion Strategy **[LIVING SECTION]**
+
+**Phased Roadmap (indicative, revisited every Monthly/Annual review):**
+
+| Phase | Focus | Gate to Next Phase |
+|---|---|---|
+| Phase 1 | YouTube shorts + mainline episodes, web novel chapters | Consistent upload cadence + baseline retention achieved |
+| Phase 2 | Comic adaptation, community hub (Discord/wiki) | Phase 1 audience base sustains engagement without founder's constant push |
+| Phase 3 | Game exploration (narrative-driven, small scope) | Phase 2 IP proven stable across two formats without contradiction |
+| Phase 4 | Merchandise, licensing conversations | Demonstrated fan demand (not just internal enthusiasm) |
+
+**Rule:** Do not open a new phase while a prior phase's quality standards (Section 14) are slipping. Growth in format count should never come at the cost of canon integrity.
+
+---
+
+## SECTION 29 — Studio Roles (Current and Future) **[LIVING SECTION]**
+
+**Current state:** Solo founder acting as Creative Director + COO, supported by AI tools across writing, art, and voice.
+
+**Future role map (to be filled as the studio scales):**
+
+| Role | Responsibility | Status |
+|---|---|---|
+| Creative Director | Canon authority, story direction | Filled (Founder) |
+| COO / Operations | This document's processes | Filled (Founder) |
+| Writer(s) | Scripts, novel chapters | Future hire/collaborator |
+| Storyboard/Animation Lead | Visual production | Future hire/collaborator |
+| Voice Lead | Casting/direction | Future hire/collaborator |
+| Editor | Assembly, pacing | Future hire/collaborator |
+| Community Manager | Discord, comments, fan engagement | Future hire/collaborator |
+| Publishing/SEO Owner | Metadata, scheduling, analytics | Future hire/collaborator |
+
+**Rule:** As roles are filled, this table's "Status" column is the single source of truth for who owns what — update it the day a role changes hands.
+
+---
+
+## SECTION 30 — Version Control & Documentation Update Process **[LOCKED]**
+
+- Both `bible/` and `studio-os/` documents use semantic-style versioning: **v{major}.{minor}** (e.g., v1.0 → v1.1 for additive living-section updates; v1.0 → v2.0 for a locked-section overhaul).
+- Every version bump requires a one-line changelog entry appended to the bottom of the changed document, in the format: `[vX.X — YYYY-MM-DD] Summary of change (Section(s) affected)`.
+- Locked-section changes always require founder/Creative Director sign-off, logged in the same changelog.
+- This repository's git history is the canonical audit trail — commit messages should be descriptive enough to serve as a secondary changelog on their own.
+
+---
+
+*End of Studio OS Version 1.0. Update section-by-section as workflows are tested in practice — this document should look different, and better, by v2.0.*
+
+---
+
+### Changelog
+`[v1.0 — 2026-07-06] Initial Studio OS established (all 30 sections)`
