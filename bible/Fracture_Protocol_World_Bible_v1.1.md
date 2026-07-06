@@ -2,7 +2,7 @@
 ### Version 1.1
 
 **Classification:** Internal — World Canon
-**Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.0.md` — this document expands on the Master Prompt and must never contradict it. Where the two disagree, the Master Prompt wins and this document is corrected.
+**Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` — this document expands on the Master Prompt and must never contradict it. Where the two disagree, the Master Prompt wins and this document is corrected.
 **Companion documents:** `series/01-the-fracture-protocol/Series_Bible_v1.1.md` (story canon), `mythic-forge-art-bible/` (visual canon), `studio-os/Studio_OS_v1.0.md` (company process)
 
 ---

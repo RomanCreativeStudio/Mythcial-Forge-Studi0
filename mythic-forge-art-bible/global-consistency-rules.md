@@ -1,7 +1,7 @@
 # Global Consistency Rules
 ### Mythic Forge Art Bible v3.0
 
-**Governs:** the master rules that apply across every file in this Art Bible, and how conflicts between documents (or between a document and a production impulse) are resolved. Subordinate to `bible/Fracture_Protocol_Master_System_Prompt_v1.0.md` in all cases.
+**Governs:** the master rules that apply across every file in this Art Bible, and how conflicts between documents (or between a document and a production impulse) are resolved. Subordinate to `bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` in all cases.
 
 ---
 

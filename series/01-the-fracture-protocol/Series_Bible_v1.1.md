@@ -5,7 +5,7 @@
 **Genre:** Sci-Fi / Dystopian / Mystery / Drama
 **Target Audience:** 13–35
 **Format:** 8–15 minute YouTube episodes, serialized, heavy mystery, character-driven
-**Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.0.md` (this document must never contradict it)
+**Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` (this document must never contradict it)
 **World canon:** `bible/Fracture_Protocol_World_Bible_v1.1.md`
 **Operational process:** `studio-os/Studio_OS_v1.0.md`
 
@@ -350,7 +350,7 @@ Small details for attentive viewers, never explained on-screen:
 
 ## 20. Things Never To Change **[LOCKED]**
 
-- Kael's Two-Discipline Cap (Cipher-work + Fragment-Sync only) — World Bible Section 7.
+- Kael's disciplines are Cipher-work and Fragment-Sync — his two, under the Two-Discipline Cap (World Bible Section 7). He does not pursue Static-Reading; that discipline belongs to other characters (e.g., Coda, Section 12).
 - The requirement that all power costs something visible on-page.
 - Yselde Cray's and Ossic's core motivations, once established (Section 7) — they may act, but should not retroactively become simpler or more evil than written here.
 - The unresolved status of the Reassembly's theory.

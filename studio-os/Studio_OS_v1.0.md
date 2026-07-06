@@ -2,7 +2,7 @@
 ### Studio OS Version 1.0
 **Status:** Foundational — approved for operational use
 **Classification:** Internal — Company Handbook
-**Companion documents:** `bible/Fracture_Protocol_Master_System_Prompt_v1.0.md` (absolute canon lock), `bible/Fracture_Protocol_World_Bible_v1.1.md` (creative canon — this document governs how we *work*, those documents govern what we *build*)
+**Companion documents:** `bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` (absolute canon lock), `bible/Fracture_Protocol_World_Bible_v1.1.md` (creative canon — this document governs how we *work*, those documents govern what we *build*)
 
 ---
 
@@ -138,8 +138,7 @@ All worldbuilding lives in `bible/`, governed by the Master System Prompt and Wo
 ## SECTION 8 — Character Design Standards **[LIVING SECTION]**
 
 **New Character Checklist:**
-- [ ] Name follows the Realm's naming-convention profile (Section 17)
-- [ ] Essence affinity and Path (if any) assigned and logged
+- [ ] Home Zone and Signal-affinity assigned; discipline (if any) logged (World Bible Sections 7, 14)
 - [ ] Clear want, clear flaw, clear relationship to at least one other character or faction
 - [ ] Visual silhouette is distinguishable in solid black silhouette alone (readability test)
 - [ ] Passed Originality Check (Section 5) — no resemblance to existing published characters
@@ -177,7 +176,7 @@ All worldbuilding lives in `bible/`, governed by the Master System Prompt and Wo
 |---|---|---|
 | Lore Hook | 30-second cold open into a Bible mystery | 2–3 / week |
 | Character Moment | Single beat, high emotion, no context needed | 1–2 / week |
-| World Detail | A Sigil, creature, or Realm visual, captioned | 1–2 / week |
+| World Detail | A Cipher, Fragment, or Zone visual, captioned | 1–2 / week |
 
 **Shorts Checklist:**
 - [ ] Hook in first 1.5 seconds
@@ -199,7 +198,7 @@ All worldbuilding lives in `bible/`, governed by the Master System Prompt and Wo
 | Lore drops | 1–2 / month |
 
 **Channel Strategy Principles:**
-- Playlist structure should mirror in-world structure (by Realm, by Season/Arc) so new viewers can self-select an entry point.
+- Playlist structure should mirror in-world structure (by Zone, by Season/Arc) so new viewers can self-select an entry point.
 - Every video description links back to the Bible-adjacent public wiki/lore hub (once built) and the current chapter of the web novel.
 
 ---
@@ -285,38 +284,40 @@ A running index of reusable AI prompts, to prevent re-deriving the same prompt e
 
 | Asset Type | Convention | Example |
 |---|---|---|
-| Episode file | `S{season}E{episode}_{slug}.md` | `S01E04_the-kindling.md` |
-| Character entry | `bible/registries/characters/{realm}_{name}.md` | `emberfall_ignareth-vael.md` |
-| Branch (dev/creative) | `mfs/{workstream}-{short-desc}` | `mfs/bible-v1-1-duskmarch` |
-| Realm-tongue names | Follow phonetic profile in Bible Section 23 | Emberfall: hard consonants; Tidewrought: vowel-heavy |
+| Episode file | `S{season}E{episode}_{slug}.md` | `S01E04_the-bout.md` |
+| Character entry | `bible/registries/characters/{zone}_{name}.md` | `lower-sector_kael.md` |
+| Branch (dev/creative) | `mfs/{workstream}-{short-desc}` | `mfs/world-bible-v1-1-salvage-line` |
+| Canon terminology | Follow the Terminology Reference (World Bible Section 13) | Signal, Cipher-work, Fragment-Sync, Static-Reading |
 
-**Rule:** Never reuse a proper noun across Realms unless it's a deliberate in-world echo (documented as such).
+**Rule:** Never reuse a proper noun for a different character, faction, or Zone unless it's a deliberate in-world echo (documented as such).
 
 ---
 
 ## SECTION 18 — Lore Documentation Standards **[LOCKED process]**
 
-**Canon Tiers (mirrors Bible tags):**
-- **[LOCKED]** — founder/Creative Director approval required to change.
-- **[LIVING]** — open for writer expansion within existing framework.
-- **[DRAFT]** — proposed addition, not yet canon, tracked separately until approved.
+**Authoritative procedure:** the Master System Prompt's Canon Governance System (`bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` Section 12) is the single governing procedure for all canon changes — Canon States (LOCKED CANON / PROPOSED / APPROVED CANON), Drift Detection, and the Proposal/Canon Update Workflows. This section does not define a separate or competing process; it restates the operational touchpoints that matter day-to-day at the studio level.
 
-**Canon Change SOP:**
-1. Proposer writes the change as a **[DRAFT]** addition, citing which Bible section it touches.
-2. Check against Section 5 (Originality) and existing locked material for contradictions.
-3. Creative Director reviews; approves, rejects, or requests revision.
-4. On approval, the Bible is updated with a version bump and a one-line changelog entry (Section 30).
+**Canon Tiers** (document-tag convention, aligned with the Master System Prompt's Canon States):
+- **[LOCKED]** — founder/Creative Director approval required to change (= LOCKED CANON).
+- **[LIVING]** — open for writer expansion within existing framework, without contradicting Locked material (= APPROVED CANON, living detail).
+- A new idea that isn't yet approved is **Proposed — Not Canon** and belongs in `bible/Fracture_Protocol_Proposal_Vault_v1.0.md`, never inline in a Bible document (Master System Prompt Section 12, Rule 5).
+
+**Canon Change SOP** (studio-level restatement of Master System Prompt Section 12, Rules 5–6):
+1. Proposer logs the change in the Proposal Vault using the Status/Purpose/Impact/Recommendation format — never as an inline draft inside an official document.
+2. Check against Section 5 (Originality) and existing Locked material for contradictions (Drift Detection, Master System Prompt Rule 3).
+3. Creative Director reviews; approves, rejects, or requests revision. Only explicit creator approval promotes a proposal to canon (Master System Prompt Rule 1).
+4. On approval, the affected document(s) are updated with a version bump and a one-line changelog entry (Section 30), and the entry is marked resolved in the Proposal Vault.
 
 ---
 
 ## SECTION 19 — Visual Consistency Rules **[LIVING SECTION]**
 
-- Each of the Seven Realms has a defined palette, silhouette language, and architectural motif, formalized in `mythic-forge-art-bible/color-language.md` and `mythic-forge-art-bible/environment-design-rules.md`.
+- Each of the four Zones has a defined palette, silhouette language, and architectural motif, formalized in `mythic-forge-art-bible/color-language.md` and `mythic-forge-art-bible/environment-design-rules.md`.
 - Every recurring character requires a reference sheet before appearing in more than one piece of content.
-- No two Realms should share a dominant color palette or silhouette language — visual distinction is a continuity requirement, not just an aesthetic preference.
+- No two Zones should share a dominant color palette or silhouette language — visual distinction is a continuity requirement, not just an aesthetic preference.
 
 **Checklist before any new visual asset is finalized:**
-- [ ] Matches its Realm's established palette/motif
+- [ ] Matches its Zone's established palette/motif
 - [ ] Doesn't visually echo a known existing-IP design
 - [ ] Reference sheet created/updated if character is recurring
 
@@ -324,7 +325,7 @@ A running index of reusable AI prompts, to prevent re-deriving the same prompt e
 
 ## SECTION 20 — Music & Audio Standards **[LIVING SECTION]**
 
-- Each Realm should eventually have a signature musical motif/leitmotif (to be composed as production budget allows); until then, temp music must be fully licensed or original, never a copyrighted-IP soundalike.
+- Each Zone should eventually have a signature musical motif/leitmotif (to be composed as production budget allows); until then, temp music must be fully licensed or original, never a copyrighted-IP soundalike.
 - Standard mix targets: dialogue intelligibility first, music/SFX supporting, no clipping, consistent loudness across episodes (streaming-standard normalization).
 - All original compositions and licenses logged in `publishing/audio-licenses.md` (to be created with first production pass).
 
@@ -355,7 +356,7 @@ A running index of reusable AI prompts, to prevent re-deriving the same prompt e
 
 - Title formula: `{Hook/Event} | {Series} {Season/Episode marker}` — keep proper nouns consistent so search compounds over time.
 - Description template: 2-line hook, then a spoiler-safe synopsis, then links (previous episode, novel chapter, Discord/community).
-- Tags: series name, Realm name(s) featured, genre tags, recurring character names.
+- Tags: series name, Zone name(s) featured, genre tags, recurring character names.
 - Keyword research reviewed quarterly against the Analytics Review Process (Section 24).
 
 ---
@@ -459,3 +460,4 @@ A running index of reusable AI prompts, to prevent re-deriving the same prompt e
 ### Changelog
 `[v1.0 — 2026-07-06] Initial Studio OS established (all 30 sections)`
 `[v1.0 — 2026-07-06] Founder-approved Locked-section edit to Section 2 (Mission Statement): removed "fantasy" from the Mission one-liner so the studio's stated mission stays open to any genre (fantasy, sci-fi, etc.) rather than committing to one. Mission Pillars unchanged — they were already genre-agnostic.`
+`[v1.0 — 2026-07-06] Phase 2 Finalization audit fixes: rewrote Section 18's Canon Tiers/Canon Change SOP to defer to the Master System Prompt's Canon Governance System (Section 12) instead of maintaining a separate, conflicting DRAFT-based process. Corrected residual fantasy-era ("Realm," "Essence affinity," "the Kindling," Emberfall/Duskmarch examples) references found in Sections 8, 10, 11, 17, 19, and 20 to current Fracture Protocol terminology (Zone, Signal-affinity, the Calibration, Lower Sector examples).`
