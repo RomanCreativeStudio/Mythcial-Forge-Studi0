@@ -38,7 +38,7 @@ This vision should be revisited annually (see Section 26) but the four prioritie
 
 ## SECTION 2 — Mission Statement **[LOCKED]**
 
-**Mission:** Create unforgettable original fantasy worlds and stories that inspire imagination, emotional connection, and long-term audience loyalty.
+**Mission:** Create unforgettable original worlds and stories that inspire imagination, emotional connection, and long-term audience loyalty.
 
 **Mission Pillars:**
 
@@ -458,3 +458,4 @@ A running index of reusable AI prompts, to prevent re-deriving the same prompt e
 
 ### Changelog
 `[v1.0 — 2026-07-06] Initial Studio OS established (all 30 sections)`
+`[v1.0 — 2026-07-06] Founder-approved Locked-section edit to Section 2 (Mission Statement): removed "fantasy" from the Mission one-liner so the studio's stated mission stays open to any genre (fantasy, sci-fi, etc.) rather than committing to one. Mission Pillars unchanged — they were already genre-agnostic.`
