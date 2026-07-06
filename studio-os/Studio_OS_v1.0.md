@@ -2,7 +2,7 @@
 ### Studio OS Version 1.0
 **Status:** Foundational — approved for operational use
 **Classification:** Internal — Company Handbook
-**Companion document:** `bible/Mythic_Bible_v3.0.md` (creative canon — this document governs how we *work*, the Bible governs what we *build*)
+**Companion documents:** `bible/Fracture_Protocol_Master_System_Prompt_v1.0.md` (absolute canon lock), `bible/Fracture_Protocol_World_Bible_v1.0.md` (creative canon — this document governs how we *work*, those documents govern what we *build*)
 
 ---
 
@@ -10,7 +10,7 @@
 
 This is the operational rulebook for Mythic Forge Studios: how we make decisions, how we make things, and how we keep quality and originality consistent as the studio grows from a one-person, AI-assisted operation into a multi-format entertainment company. Every workflow, checklist, and standard here should be followed unless a specific project need requires an exception — and exceptions should be logged, not silently taken.
 
-Like the Mythic Bible, sections here are marked:
+Like the World Bible, sections here are marked:
 - **[LOCKED]** — foundational, changes require founder/Creative Director sign-off.
 - **[LIVING SECTION]** — expected to evolve; update as the studio learns what actually works.
 
@@ -75,7 +75,7 @@ This vision should be revisited annually (see Section 26) but the four prioritie
 | Voice (marketing copy) | Inviting, a little mysterious | Clickbait, all-caps urgency |
 
 **Brand Do / Don't Checklist (for all public-facing copy):**
-- [ ] Does this sound like it belongs in *Solenne*, not a generic fantasy ad?
+- [ ] Does this sound like it belongs in *The Fracture Protocol*, not a generic ad?
 - [ ] Does it respect the audience's intelligence (no manufactured urgency)?
 - [ ] Would this line still feel right in Season 5?
 
@@ -114,7 +114,7 @@ Non-negotiable narrative pillars for all Mythic Forge stories, regardless of for
 2. **Nobody is purely decorative.** Every named character should want something, even in a single scene.
 3. **Foreshadow before you pay off.** No twist should retroactively require information the audience couldn't have had.
 4. **Escalate the world, not just the stakes.** Bigger threats should reveal more of *Solenne*, not just raise numbers.
-5. **Respect the Bible's ambiguity.** Sections of the Mythic Bible are deliberately unresolved (e.g., the true cause of the Fracture) — writers must preserve that ambiguity unless a formal canon decision resolves it (Section 18).
+5. **Respect the Bible's ambiguity.** Sections of the World Bible are deliberately unresolved (e.g., what caused the founding Fracture event) — writers must preserve that ambiguity unless a formal canon decision resolves it (Section 18).
 
 **Story Health Checklist (apply before greenlighting any script):**
 - [ ] Clear POV character and want in this piece
@@ -126,12 +126,12 @@ Non-negotiable narrative pillars for all Mythic Forge stories, regardless of for
 
 ## SECTION 7 — Worldbuilding Standards **[LOCKED framework]**
 
-All worldbuilding lives in `bible/`, governed by the Mythic Bible. This section defines *how* Studio OS and Bible interact:
+All worldbuilding lives in `bible/`, governed by the Master System Prompt and World Bible. This section defines *how* Studio OS and the Bible interact:
 
-- The Bible is canon law. Studio OS is process law. When in doubt about lore, defer to the Bible; when in doubt about workflow, defer to Studio OS.
+- The Master System Prompt and World Bible are canon law. Studio OS is process law. When in doubt about lore, defer to the Bible; when in doubt about workflow, defer to Studio OS.
 - **[LOCKED]** Bible sections may not be contradicted in any published material without going through the Canon Change SOP (Section 18).
-- **[LIVING]** Bible sections may be expanded freely by any writer, subject to the review process in Section 18, as long as they don't contradict locked material.
-- New Realms, Aurothi, or core cosmology elements are **founder-approval-only** — this is the single highest bar in the studio's creative process, since it affects everything downstream.
+- **[LIVING]** Bible sections may be expanded freely by any writer, subject to the review process in Section 18, as long as they don't contradict locked material or the Master System Prompt's "reject unauthorized expansions" rule.
+- New Zones, Authority structures, or core cosmology elements are **founder-approval-only** — this is the single highest bar in the studio's creative process, since it affects everything downstream.
 
 ---
 
@@ -254,7 +254,7 @@ All worldbuilding lives in `bible/`, governed by the Mythic Bible. This section 
 ## SECTION 15 — File Organization Standards **[LOCKED structure, LIVING detail]**
 
 ```
-/bible/                  → canon lore (Mythic Bible and future registries)
+/bible/                  → canon lore (Master System Prompt, World Bible, and future registries)
 /studio-os/              → this document and operational SOPs
 /scripts/                → episode and chapter scripts, by season/arc
 /production/             → storyboards, VO files, raw footage/art (as they're introduced)
@@ -332,9 +332,9 @@ A running index of reusable AI prompts, to prevent re-deriving the same prompt e
 
 ## SECTION 21 — Voice Acting Standards **[LIVING SECTION]**
 
-- Casting (human or AI-voice) should reflect each Realm's phonetic/naming identity (Section 17) without leaning on real-world accent stereotypes as a shortcut for "foreign" or "other."
-- Direction notes accompany every VO session: character want, emotional baseline, and any Bible-specific pronunciation guide (e.g., Aurothi names).
-- Audition/direction template: Character name → Realm → one-line want → 2–3 reference line reads → pronunciation notes.
+- Casting (human or AI-voice) should reflect each character's established identity (Section 17) without leaning on real-world accent stereotypes as a shortcut for "foreign" or "other."
+- Direction notes accompany every VO session: character want, emotional baseline, and any Bible-specific pronunciation guide (e.g., in-world terminology from the World Bible's Terminology Reference).
+- Audition/direction template: Character name → Zone → one-line want → 2–3 reference line reads → pronunciation notes.
 
 ---
 

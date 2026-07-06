@@ -3,7 +3,7 @@
 ### Version 1.0
 
 **Classification:** Internal — Production Manual
-**Companion documents:** `studio-os/Studio_OS_v1.0.md` (company-level process — this document is its technical/pipeline layer), `bible/Mythic_Bible_v3.0.md` (world canon), `series/*/Series_Bible_v2.0.md` (story canon)
+**Companion documents:** `studio-os/Studio_OS_v1.0.md` (company-level process — this document is its technical/pipeline layer), `bible/Fracture_Protocol_Master_System_Prompt_v1.0.md` and `bible/Fracture_Protocol_World_Bible_v1.0.md` (world canon), `series/*/Series_Bible_v1.0.md` (story canon)
 
 ---
 
@@ -21,7 +21,7 @@ Every SOP in this document lists: **Purpose, Inputs, Outputs, Responsible Role, 
 
 ## 1. Production Overview **[LOCKED]**
 
-Mythic Forge Studios produces original animated episodes for *Kael: The Shattered Realms* (Series 01) and future series within the same or future universes, using an AI-assisted pipeline supervised at every stage by a human creative authority. This document governs everything from "episode outline exists" (Series Bible Section 11) through "episode is published and measured" (Studio OS Sections 23–24). It does not govern *what* the story is — only *how it gets made*.
+Mythic Forge Studios produces original animated episodes for *The Fracture Protocol* (Series 01, featuring protagonist Kael) and future series within the same or future universes, using an AI-assisted pipeline supervised at every stage by a human creative authority. This document governs everything from "episode outline exists" (Series Bible Section 11) through "episode is published and measured" (Studio OS Sections 23–24). It does not govern *what* the story is — only *how it gets made*.
 
 ## 2. Production Philosophy **[LOCKED]**
 
@@ -105,7 +105,7 @@ Each numbered stage below maps to an SOP in this document (Sections 6–28).
 | Field | Value |
 |---|---|
 | **Purpose** | Expand a Series Bible episode entry into a full shootable script |
-| **Inputs** | Pre-production brief; Mythic Bible; Series Bible cast/relationship data |
+| **Inputs** | Pre-production brief; World Bible; Series Bible cast/relationship data |
 | **Outputs** | Versioned script file (`scripts/S{season}E{episode}_{slug}.md`) |
 | **Responsible Role** | Writer / Creative Director |
 | **Checklist** | ☐ Follows Series Bible's Objective/Conflict/Growth/Twist/Cliffhanger for the episode ☐ Passes Originality Check (Studio OS Section 5) ☐ No contradiction with Locked Bible or Series Bible sections ☐ Dialogue meets Dialogue Standards (Series Bible Section 23) ☐ Runtime estimate within target (8–15 min) |
@@ -136,7 +136,7 @@ Each numbered stage below maps to an SOP in this document (Sections 6–28).
 | **Inputs** | Approved storyboard |
 | **Outputs** | Scene plan (shot durations, transitions, blocking notes) |
 | **Responsible Role** | Storyboard Artist / Editor |
-| **Checklist** | ☐ Scene durations sum to target runtime ☐ Pacing Standards followed (Studio OS Section 24 / Series Bible Section 24) ☐ Every scene assigned to a specific Realm's Visual Consistency Rules (Bible Section 6, Studio OS Section 19) |
+| **Checklist** | ☐ Scene durations sum to target runtime ☐ Pacing Standards followed (Studio OS Section 24 / Series Bible Section 24) ☐ Every scene assigned to a specific Zone's Visual Consistency Rules (World Bible Section 3, Art Bible `environment-design-rules.md`, Studio OS Section 19) |
 | **Estimated Time** | 1–2 hrs |
 | **Quality Standard** | No scene's planned duration is later found to require significant rework in Editing (Section 20) |
 | **Dependencies** | Section 8 |
@@ -161,10 +161,10 @@ Each numbered stage below maps to an SOP in this document (Sections 6–28).
 | Field | Value |
 |---|---|
 | **Purpose** | Produce a new character's visual reference sheet |
-| **Inputs** | Character Creation Rules (Bible Section 48), Series Bible character description |
+| **Inputs** | Character Creation Rules (World Bible Section 14), Series Bible character description |
 | **Outputs** | Reference sheet (turnaround, expression sheet, signature prop/detail) |
 | **Responsible Role** | Animation Lead |
-| **Checklist** | ☐ Silhouette readability test passed (Bible Section 8 Character Design Standards) ☐ Originality Check passed ☐ Matches Realm's visual motif (Bible Sections 6, 35, 54) ☐ Logged in Character Registry (Knowledge Base Section 14) |
+| **Checklist** | ☐ Silhouette readability test passed ☐ Originality Check passed ☐ Matches megacity visual identity (Art Bible `color-language.md`, `materials-and-textures.md`) ☐ Logged in Character Registry (Knowledge Base Section 14) |
 | **Estimated Time** | 2–4 hrs |
 | **Quality Standard** | Character is identifiable in solid-black silhouette alone |
 | **Dependencies** | Section 10 |
@@ -175,12 +175,12 @@ Each numbered stage below maps to an SOP in this document (Sections 6–28).
 | Field | Value |
 |---|---|
 | **Purpose** | Produce a new environment/location asset |
-| **Inputs** | Bible Sections 6, 26–30 (Realm profiles, biomes, locations) |
+| **Inputs** | World Bible Section 3 (Megacity Structure) |
 | **Outputs** | Environment concept art / background plate |
 | **Responsible Role** | Animation Lead |
-| **Checklist** | ☐ Matches assigned Realm's palette/architecture (Bible Section 35) ☐ No silhouette/palette overlap with another Realm's established environments (Studio OS Section 19) ☐ Logged in Asset Registry (Knowledge Base Section 22) |
+| **Checklist** | ☐ Matches assigned Zone's palette/architecture (Art Bible `environment-design-rules.md`) ☐ No silhouette/palette overlap with another Zone's established environments (Studio OS Section 19) ☐ Logged in Asset Registry (Knowledge Base Section 22) |
 | **Estimated Time** | 2–4 hrs |
-| **Quality Standard** | Recognizable as its Realm without a caption |
+| **Quality Standard** | Recognizable as its Zone without a caption |
 | **Dependencies** | Section 10 |
 | **Version** | 1.0 |
 
@@ -188,11 +188,11 @@ Each numbered stage below maps to an SOP in this document (Sections 6–28).
 
 | Field | Value |
 |---|---|
-| **Purpose** | Produce a new prop, Sigil, or Relic visual |
-| **Inputs** | Bible Sections 17 (Sigils), 19 (Relics), 54 (Symbol Meanings) |
+| **Purpose** | Produce a new prop, Cipher, or Root Artifact visual |
+| **Inputs** | World Bible Sections 7 (Cipher-work), 11 (Root Artifacts) |
 | **Outputs** | Prop concept art |
 | **Responsible Role** | Animation Lead |
-| **Checklist** | ☐ Sigil marks match the correct Essence Aspect iconography (Bible Section 54) ☐ Named Relics logged in the Relic Registry (Knowledge Base Section 13) with their cost/limitation documented (Bible Section 21) |
+| **Checklist** | ☐ Cipher marks match the cyan/icy-blue color language (Art Bible `color-language.md`) ☐ Named Root Artifacts logged in the Relic Registry (Knowledge Base Section 13) with their cost/limitation documented (World Bible Section 7) |
 | **Estimated Time** | 1–3 hrs |
 | **Quality Standard** | A recurring prop is visually identical across every future appearance |
 | **Dependencies** | Section 10 |
@@ -206,7 +206,7 @@ Each numbered stage below maps to an SOP in this document (Sections 6–28).
 | **Inputs** | Approved character/environment/prop reference sheets; storyboard |
 | **Outputs** | Final or near-final frame art per shot |
 | **Responsible Role** | Animation Lead |
-| **Checklist** | ☐ Reference sheet used as the generation anchor for every recurring character/asset ☐ Originality Check passed on final output, not just the prompt ☐ No visible AI-generation artifacts (extra limbs, garbled text, inconsistent Sigil marks) ☐ Prompt logged per Section 34 |
+| **Checklist** | ☐ Reference sheet used as the generation anchor for every recurring character/asset ☐ Originality Check passed on final output, not just the prompt ☐ No visible AI-generation artifacts (extra limbs, garbled text, inconsistent Cipher marks) ☐ Prompt logged per Section 34 |
 | **Estimated Time** | Varies by shot count; budget 5–15 min per shot including review |
 | **Quality Standard** | A character/asset is visually identical to its reference sheet across every shot in the episode |
 | **Dependencies** | Sections 11–13, Section 34 |
@@ -230,7 +230,7 @@ Each numbered stage below maps to an SOP in this document (Sections 6–28).
 
 ```
 STATIC SHOT ──▶ used for dialogue-heavy, emotional beats
-PAN / TILT  ──▶ used for environment reveals (new Realm, new location)
+PAN / TILT  ──▶ used for environment reveals (new Zone, new location)
 PUSH-IN     ──▶ used to land an emotional beat or a twist reveal
 TRACKING    ──▶ used for action/movement sequences only
 ```
@@ -245,7 +245,7 @@ TRACKING    ──▶ used for action/movement sequences only
 | **Inputs** | Script; character voice/speech-pattern notes (Series Bible Appendix A, Studio OS Section 21) |
 | **Outputs** | Final voice audio files per character per episode |
 | **Responsible Role** | Voice Lead |
-| **Checklist** | ☐ Casting/direction template completed (character, Realm, want, reference reads, pronunciation notes — Studio OS Section 21) ☐ Pronunciation of in-world proper nouns confirmed against Bible Section 31/53 ☐ No accent used as a lazy "foreign/other" shortcut |
+| **Checklist** | ☐ Casting/direction template completed (character, Zone, want, reference reads, pronunciation notes — Studio OS Section 21) ☐ Pronunciation of in-world proper nouns confirmed against World Bible Section 13 (Terminology Reference) ☐ No accent used as a lazy "foreign/other" shortcut |
 | **Estimated Time** | 1–2 hrs per episode (recording + selects) |
 | **Quality Standard** | Performance matches the character's documented Speech Style without deviation |
 | **Dependencies** | Section 7 |
@@ -256,10 +256,10 @@ TRACKING    ──▶ used for action/movement sequences only
 | Field | Value |
 |---|---|
 | **Purpose** | Score episodes with original or fully licensed music |
-| **Inputs** | Rough cut; Realm/character musical motifs (Studio OS Section 20) |
+| **Inputs** | Rough cut; Zone/character musical motifs (Studio OS Section 20) |
 | **Outputs** | Final music stems |
 | **Responsible Role** | Audio Lead |
-| **Checklist** | ☐ No unlicensed or IP-soundalike temp music makes it to final ☐ Realm leitmotif used consistently where established ☐ Logged in `publishing/audio-licenses.md` |
+| **Checklist** | ☐ No unlicensed or IP-soundalike temp music makes it to final ☐ Zone leitmotif used consistently where established ☐ Logged in `publishing/audio-licenses.md` |
 | **Estimated Time** | 2–5 hrs per episode |
 | **Quality Standard** | Dialogue intelligibility is never compromised by the score (Studio OS Section 20) |
 | **Dependencies** | Section 20 (rough cut) |
@@ -269,11 +269,11 @@ TRACKING    ──▶ used for action/movement sequences only
 
 | Field | Value |
 |---|---|
-| **Purpose** | Add and maintain a consistent SFX library (Sigil activation sounds, Rift ambience, Realm-specific ambience) |
+| **Purpose** | Add and maintain a consistent SFX library (Cipher activation sounds, Breach ambience, Zone-specific ambience) |
 | **Inputs** | Rough cut; existing SFX library |
 | **Outputs** | Final SFX layer |
 | **Responsible Role** | Audio Lead |
-| **Checklist** | ☐ Recurring effects (a specific Sigil, a Rift flare) reuse the same source file every time ☐ New SFX logged into the library with a clear name (Section 29) |
+| **Checklist** | ☐ Recurring effects (a specific Cipher, a Breach) reuse the same source file every time ☐ New SFX logged into the library with a clear name (Section 29) |
 | **Estimated Time** | 1–3 hrs per episode |
 | **Quality Standard** | The same in-world phenomenon sounds identical across every episode it appears in |
 | **Dependencies** | Section 20 |
@@ -297,13 +297,13 @@ TRACKING    ──▶ used for action/movement sequences only
 
 | Field | Value |
 |---|---|
-| **Purpose** | Apply final color treatment consistent with each Realm's visual identity |
-| **Inputs** | Locked cut; Realm palette guide (Bible Section 35, Studio OS Section 19) |
+| **Purpose** | Apply final color treatment consistent with each Zone's visual identity |
+| **Inputs** | Locked cut; Zone palette guide (Art Bible `color-language.md`, Studio OS Section 19) |
 | **Outputs** | Color-graded final picture |
 | **Responsible Role** | Editor / Colorist |
-| **Checklist** | ☐ Palette matches the episode's Realm(s) ☐ No two Realms appear visually identical in the same episode ☐ Consistent grade across all shots (no scene-to-scene color drift) |
+| **Checklist** | ☐ Palette matches the episode's Zone(s) ☐ No two Zones appear visually identical in the same episode ☐ Consistent grade across all shots (no scene-to-scene color drift) |
 | **Estimated Time** | 1–2 hrs per episode |
-| **Quality Standard** | A muted-color screenshot from any point in the episode is still identifiable by Realm |
+| **Quality Standard** | A muted-color screenshot from any point in the episode is still identifiable by Zone |
 | **Dependencies** | Section 20 |
 | **Version** | 1.0 |
 
@@ -315,7 +315,7 @@ TRACKING    ──▶ used for action/movement sequences only
 | **Inputs** | Locked script; final audio |
 | **Outputs** | Caption file (SRT/VTT) |
 | **Responsible Role** | Editor |
-| **Checklist** | ☐ Timed to final audio, not the script draft ☐ In-world proper nouns spelled per Bible Section 31/53 ☐ Reviewed for reading speed (no more than ~2 lines / ~40 characters per line held on screen too briefly) |
+| **Checklist** | ☐ Timed to final audio, not the script draft ☐ In-world proper nouns spelled per World Bible Section 13 (Terminology Reference) ☐ Reviewed for reading speed (no more than ~2 lines / ~40 characters per line held on screen too briefly) |
 | **Estimated Time** | 30–60 min per episode |
 | **Quality Standard** | Zero misspelled proper nouns; captions match final audio exactly |
 | **Dependencies** | Section 20 |
@@ -357,7 +357,7 @@ TRACKING    ──▶ used for action/movement sequences only
 | **Inputs** | Final episode; SEO Standards (Studio OS Section 23) |
 | **Outputs** | Publish-ready metadata |
 | **Responsible Role** | Publishing/SEO Owner |
-| **Checklist** | ☐ Title formula followed ☐ Description includes spoiler-safe synopsis and cross-links ☐ Tags include series, Realm(s), recurring characters |
+| **Checklist** | ☐ Title formula followed ☐ Description includes spoiler-safe synopsis and cross-links ☐ Tags include series, Zone(s), recurring characters |
 | **Estimated Time** | 20–30 min |
 | **Quality Standard** | Metadata accurately represents episode content — no clickbait |
 | **Dependencies** | Section 20 |
@@ -414,8 +414,8 @@ Extends Knowledge Base Section 9 with production-specific file types:
 | Asset Type | Convention | Example |
 |---|---|---|
 | Script | `scripts/S{season}E{episode}_{slug}.md` | `scripts/S01E04_the-bout.md` |
-| Character reference sheet | `production/assets/characters/{realm}_{name}_v{X.X}.png` | `production/assets/characters/duskmarch_kael_v1.0.png` |
-| Environment plate | `production/assets/environments/{realm}_{location-slug}_v{X.X}.png` | `production/assets/environments/duskmarch_duskhollow_v1.0.png` |
+| Character reference sheet | `production/assets/characters/{zone}_{name}_v{X.X}.png` | `production/assets/characters/lower-sector_kael_v1.0.png` |
+| Environment plate | `production/assets/environments/{zone}_{location-slug}_v{X.X}.png` | `production/assets/environments/lower-sector_ward-station-seven_v1.0.png` |
 | Raw render | `production/renders/S{season}E{episode}_v{X.X}.mp4` | `production/renders/S01E04_v1.0.mp4` |
 | SFX file | `production/audio/sfx/{category}_{name}.wav` | `production/audio/sfx/sigil_ember-cast.wav` |
 | Thumbnail | `publishing/thumbnails/S{season}E{episode}_v{variant}.png` | `publishing/thumbnails/S01E04_vA.png` |
@@ -726,3 +726,4 @@ Draft Prompt → Test Output → Originality Framework Check → Log in Prompt L
 
 ### Changelog
 `[v1.0 — 2026-07-06] Initial Production Operating System established: 48-section pipeline manual covering pre-production through publishing, asset/prompt management, version control, QA, metrics, and studio expansion triggers.`
+`[v1.0 — 2026-07-06] Synced terminology to The Fracture Protocol pivot: "Realm" references changed to "Zone," Sigil/Relic/Rift references changed to Cipher/Root Artifact/Breach, and stale numbered citations to the retired fantasy Mythic Bible corrected to point at the new World Bible and Art Bible files.`

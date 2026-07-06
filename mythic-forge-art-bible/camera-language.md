@@ -1,5 +1,5 @@
 # Camera Language
-### Mythic Forge Art Bible v1.0
+### Mythic Forge Art Bible v2.0
 
 **Governs:** lens choice, framing, composition, and camera movement across all production. Implemented operationally by Production OS Section 16 (Camera Movement Standards) — this document is the source rule set; that one is the execution checklist.
 
@@ -8,13 +8,13 @@
 ## Lens Philosophy **[LOCKED]**
 
 - **Character/dialogue work:** natural, human-eye-equivalent focal lengths (roughly 35–50mm equivalent). Preserves intimacy and avoids distortion that would read as stylized or artificial.
-- **Realm/environment reveals:** wider focal lengths (roughly 18–24mm equivalent), used specifically to establish scale and Realm identity — never used for routine coverage.
+- **Layer/environment reveals:** wider focal lengths (roughly 18–24mm equivalent), used specifically to establish scale and which layer of the megacity we're in — never used for routine coverage.
 - **Forbidden:** extreme fisheye distortion, artificial "speed-warp" anime-style lens effects, or any lens choice that calls attention to itself as a gimmick rather than serving story.
 
 ## Framing Rules **[LOCKED]**
 
 - Default composition follows the rule of thirds.
-- **Centered symmetry is reserved** for ceremonial, ritual, or Aurothi-adjacent significance (the Kindling rite, Choir Faith ceremony, any scene touching the reawakening-Aurothi thread). Centering a frame is a signal to the audience that something sacred or cosmologically weighted is happening — it must not be used decoratively.
+- **Centered symmetry is reserved** for ceremonial or system-significant moments (the Calibration rite, an Authority Central inspection, any scene touching the Unknown Layer). Centering a frame is a signal to the audience that something structurally significant is happening — it must not be used decoratively.
 
 ## Composition **[LIVING SECTION]**
 
@@ -26,7 +26,7 @@
 
 ```
 STATIC SHOT  → dialogue-heavy, emotional beats
-PAN / TILT   → environment reveals (new Realm, new location)
+PAN / TILT   → environment reveals (new layer of the megacity, new location)
 PUSH-IN      → landing an emotional beat or a twist reveal
 TRACKING     → action/movement sequences only
 ```
@@ -35,8 +35,12 @@ TRACKING     → action/movement sequences only
 
 ## Handheld / Camera Instability **[LOCKED]**
 
-Handheld shake or deliberate camera instability is reserved **exclusively** for sequences depicting Rift activity, Fracture-adjacent chaos, or a character's Hollowing (Bible Section 21). It must never be used as a generic "intensity" stylistic tic — instability in the camera itself is a visual language reserved for reality breaking down, matching the world's own cosmology.
+Handheld shake or deliberate camera instability is reserved **exclusively** for sequences depicting Breach activity, Fracture-adjacent chaos, or a character's Burnout (World Bible Section 7). It must never be used as a generic "intensity" stylistic tic — instability in the camera itself is a visual language reserved for the system breaking down.
 
 ---
 
 *Cross-references: `lighting-system.md`, `cinematic-mood-guide.md`, `global-consistency-rules.md`.*
+
+### Changelog
+`[v1.0 — 2026-07-06] Initial camera language established (fantasy Seven Realms version).`
+`[v2.0 — 2026-07-06] Replaced Realm/Aurothi references with megacity-layer and Authority/Unknown Layer equivalents; Hollowing renamed to Burnout.`

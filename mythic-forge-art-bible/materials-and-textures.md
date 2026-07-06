@@ -1,24 +1,24 @@
 # Materials and Textures
-### Mythic Forge Art Bible v1.0
+### Mythic Forge Art Bible v2.0
 
-**Governs:** surface behavior for stone, cloth, metal, and wood; imperfection requirements; realism constraints.
+**Governs:** surface behavior for concrete, tech-fabric, alloy, and composite; imperfection requirements; realism constraints.
 
 ---
 
 ## Surface Rules **[LOCKED]**
 
-- **Stone:** weathered, porous, visible mineral veining and erosion. Never rendered smooth or "clean CG" — even monumental architecture (Section `environment-design-rules.md`) should show age.
-- **Cloth:** visible weave, natural draping physics, and wear concentrated at stress points (elbows, hems, shoulder seams). Wear level scales with the wearer's social class and occupation (Bible Section 24) — a Sovereign-Born noble's clothing shows deliberate, decorative wear at most; a Driftborn cadet's shows real, functional wear.
-- **Metal:** forged imperfection is required — hammer marks, oxidation, edge wear. Mirror-chrome, factory-perfect metal is forbidden for ordinary crafted objects.
-- **Wood:** grain always visible, weathering appropriate to the Realm's climate (e.g., salt-bleached in the Tidewrought, heat-cracked in Emberfall).
+- **Concrete / composite architecture:** weathered, stained, visible wear and repair patchwork. Never rendered smooth or "clean CG" — even Upper Grid architecture (Section `environment-design-rules.md`) should show some age, if less than Lower Sector.
+- **Tech-fabric / clothing:** visible weave and seams, natural draping physics, wear concentrated at stress points (elbows, hems, collar). Wear level scales with zone and role — an Upper Grid official's uniform shows deliberate, minimal wear at most; a Ward Cadet's shows real, functional wear.
+- **Metal / alloy:** forged and machined imperfection is required — scuffs, oxidation, edge wear. Mirror-chrome, factory-perfect metal is forbidden for ordinary equipment.
+- **Glass / display surfaces:** grime, scratches, and fingerprint wear appropriate to the zone (cleaner in Upper Grid, worn and cracked in Lower Sector).
 
-## The Relic Exception **[LOCKED]**
+## The Root Artifact Exception **[LOCKED]**
 
-Relics (Bible Section 19) are the **one deliberate exception** to the imperfection rule: they may render with an impossibly perfect, "too clean" material quality that no modern craft could replicate. This isn't a lapse in the realism rule — it *is* the visual rule for Relics: their material perfection is precisely what marks them as pre-Fracture and irreplaceable, and it should read as slightly uncanny next to everything else on screen.
+Root Artifacts (World Bible Section 11) are the **one deliberate exception** to the imperfection rule: they may render with an impossibly perfect, "too clean" material quality that no modern fabrication could replicate. This isn't a lapse in the realism rule — it *is* the visual rule for Root Artifacts: their material perfection is precisely what marks them as founding-era and irreplaceable, and it should read as slightly uncanny next to everything else on screen.
 
 ## Imperfection Requirement **[LOCKED]**
 
-Every hero asset (named character, recurring prop, recurring location) requires at least one visible "wear" detail — a scuff, a patch, a repair, an asymmetry. Nothing should read as factory-fresh except explicitly ceremonial or Concord-official objects (minted coins, Sigil House regalia, Wardenate dress uniforms), where uniformity is itself the intended visual statement about institutional order.
+Every hero asset (named character, recurring prop, recurring location) requires at least one visible "wear" detail — a scuff, a patch, a repair, an asymmetry. Nothing should read as factory-fresh except explicitly official Authority objects (Upper Grid signage, Ward Division dress uniforms), where uniformity is itself the intended visual statement about system control.
 
 ## Realism Constraint **[LOCKED]**
 
@@ -27,3 +27,7 @@ Textures are always grounded in physically plausible material behavior. Stylizat
 ---
 
 *Cross-references: `color-language.md`, `environment-design-rules.md`, `global-consistency-rules.md`.*
+
+### Changelog
+`[v1.0 — 2026-07-06] Initial materials rules established (fantasy stone/cloth/metal/wood + Relic Exception version).`
+`[v2.0 — 2026-07-06] Replaced fantasy material categories with megacity equivalents (concrete/composite, tech-fabric, alloy, glass); renamed the Relic Exception to the Root Artifact Exception; replaced social-class framing with zone/role framing per the Master System Prompt.`
