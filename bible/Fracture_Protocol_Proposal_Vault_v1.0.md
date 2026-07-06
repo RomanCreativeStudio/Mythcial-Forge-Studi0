@@ -81,6 +81,18 @@ Entries are never deleted once logged — a rejected or shelved proposal stays h
 **Impact:** New World Bible Living-section addition (extends Section 3's Mid Zone entry). No Locked rule conflict.
 **Recommendation:** Low-risk, moderate value. Not urgent, but cheap to add whenever another proposal in this batch is being drafted, since it's texture rather than structure.
 
+### Continuum Recovery Group (new faction)
+
+**Status:** Proposed — Not Canon
+**Date Logged:** 2026-07-06
+**Purpose:** Requested as a new faction. Every existing organization occupies a distinct lane — Authority (state governance), Ward Division (state containment institution), the Reassembly (ideological resistance), the Salvage Line (illegal, pragmatic black market) — but nothing represents *legal* commercial interest. A licensed corporate contractor fills that gap without duplicating any existing faction's role or ideology, and introduces a genuinely new thematic axis: corporate profit motive operating alongside, and sometimes against, state and ideological interests.
+**Concept sketch:**
+- **Continuum Recovery Group** holds an exclusive Authority contract to recover, catalog, and "process" Root Artifacts and Breach-site salvage on Authority's behalf — the legal, sanctioned counterpart to what the Salvage Line does illegally.
+- Not evil, not heroic: profit-driven. Continuum's incentive is to keep Breach recovery contracts profitable and renewable, which means it has a quiet interest in Breaches continuing to happen at a manageable rate — not too many (bad PR, contract risk), not too few (no work). This is a distinct moral shape from any existing faction: Authority wants control, Ward Division wants genuine containment, the Reassembly wants change, the Salvage Line wants to stay unowned. Continuum wants steady, renewable business.
+- Plausible friction points: Continuum quietly redacting or burying inconvenient Root Artifact findings that would embarrass Authority or complicate a contract renewal; competing with the Salvage Line over the same salvage sites (legal vs. illegal claim to the same recovered material); a Continuum technician being a far more mundane, bureaucratic obstacle for Kael than any ideological antagonist.
+**Impact:** New World Bible section (would sit near Section 16, the Salvage Line, for easy contrast). Would need a Character Creation Rules note if named Continuum personnel are introduced. No Locked rule conflict — doesn't touch Authority's core immutability, doesn't compete with the Reassembly's central mystery, doesn't require resolving anything currently unresolved.
+**Recommendation:** Approve-ready as concepts go — this is the cleanest of the batch precisely because it doesn't overlap with anything that already exists. If approved, recommend introducing it in Season Two or later (matching the Salvage Line/Coda timeline) rather than retrofitting it into Season One's locked outline.
+
 ---
 
 ## Entry Template (copy for new proposals)
@@ -105,3 +117,4 @@ Entries are never deleted once logged — a rejected or shelved proposal stays h
 `[v1.0 — 2026-07-06] Initial Proposal Vault established as part of the Phase 2 Finalization / Canon Governance System pass. No entries logged yet.`
 `[v1.0 — 2026-07-06] Logged first entry: "A Hidden Organization Secretly Controlling the Authority System," flagged by Drift Detection (Master System Prompt Section 12, Rule 3) as adding a new organization with direct implications for a Locked System Rule. Awaiting creator decision.`
 `[v1.0 — 2026-07-06] Logged five gap-analysis entries per a "what's missing, improve it" request: Currency & Economic System, Formalize "Authority Central," Named Locations, Zone Enforcement Beyond Ward Division, and Mid Zone Daily Life/Culture Note. None implemented — Rule 1 (Creator Authority) requires explicit approval before any of these enter canon. All six entries now awaiting creator decision.`
+`[v1.0 — 2026-07-06] Logged a seventh entry, "Continuum Recovery Group," per a direct "create a new faction" request. Flagged by Drift Detection (Rule 3, adds a new organization) rather than implemented directly. Designed specifically to avoid overlap with all four existing organizations by occupying the one open lane (legal commercial interest) none of them cover.`
