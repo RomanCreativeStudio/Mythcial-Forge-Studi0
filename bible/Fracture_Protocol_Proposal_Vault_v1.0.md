@@ -29,9 +29,17 @@ Entries are never deleted once logged — a rejected or shelved proposal stays h
 
 ## Current Entries
 
-*(None yet.)*
+### A Hidden Organization Secretly Controlling the Authority System
 
-Per founder decision on the Phase 2 Finalization pass (2026-07-06), no existing canon content was retroactively moved into this Vault — everything currently in the World Bible, Series Bible, and Art Bible was confirmed as already creator-approved, since every major addition to date was steered by explicit creator decisions at the time it was made. This Vault begins empty and holds only genuinely new proposals from this point forward.
+**Status:** Proposed — Not Canon
+**Date Logged:** 2026-07-06
+**Purpose:** Requested as a new faction that secretly controls the Authority System — presumably to add a deeper "who really holds power" layer beneath the visible Ward Division / Authority / Reassembly structure, and to seed a higher-tier antagonist force for later seasons.
+**Impact:** This would touch more of the locked framework than a typical new-faction proposal:
+- **Master System Prompt, System Rule 2 (Locked):** "Authority is always active. The system cannot be removed, destroyed, or ignored." A faction literally *controlling* Authority risks contradicting this outright — Authority would need to remain autonomous and permanent regardless of this group's existence. At most, a compatible version would have the group *influencing specific decisions or personnel from within* (e.g., manipulating individual Division Directors or Authority Central inspectors), never controlling the system itself.
+- **World Bible Section 4 (Authority System) and Section 9 (the Reassembly):** real risk of redundancy. The Reassembly already occupies the "secret network with an agenda about the system's true nature" narrative space, and its central ambiguity — would reassembling Fragments liberate the city or produce a more total form of control? — is Locked scaffolding not to be resolved early. A second, similarly-shaped secret organization needs a clearly distinct goal, method, and relationship to Authority, or it dilutes rather than deepens that existing mystery.
+- **World Bible Section 2 (The Fracture, founding event — deliberately unresolved):** this is exactly the kind of idea that could either enrich or prematurely resolve "what caused the Fracture" and "who/what is in the Unknown Layer." High risk of answering a question the franchise is explicitly built to keep open for now.
+- Would require a new World Bible section, likely Series Bible Running Mysteries updates, and possibly Character Creation Rule adjustments if it introduces named members.
+**Recommendation:** Hold, don't implement now. If pursued, it should (a) be framed as *influence from within*, never *control of*, Authority, to stay compatible with System Rule 2; (b) be explicitly differentiated from the Reassembly's goals and methods so the two don't collapse into the same idea; and (c) be reserved for a later season (Season 3+, where Series Bible Section 12 already plans "the Reassembly as an ecosystem of cells, not a single enemy" — this could slot in there rather than as a standalone new faction) rather than introduced immediately. Recommend the creator clarify intent (is this meant to replace/reframe the Reassembly, sit above it, or be something else entirely) before any drafting begins.
 
 ---
 
@@ -55,3 +63,4 @@ Per founder decision on the Phase 2 Finalization pass (2026-07-06), no existing 
 
 ### Changelog
 `[v1.0 — 2026-07-06] Initial Proposal Vault established as part of the Phase 2 Finalization / Canon Governance System pass. No entries logged yet.`
+`[v1.0 — 2026-07-06] Logged first entry: "A Hidden Organization Secretly Controlling the Authority System," flagged by Drift Detection (Master System Prompt Section 12, Rule 3) as adding a new organization with direct implications for a Locked System Rule. Awaiting creator decision.`

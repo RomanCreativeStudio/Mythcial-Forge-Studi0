@@ -61,7 +61,7 @@ Seven document types exist, each with a distinct job. None should duplicate anot
 |---|---|---|---|---|
 | Mythic Forge Knowledge Base | `README.md` | Navigation & system rules | 2.0 | ✅ Complete |
 | Fracture Protocol Master System Prompt | `bible/Fracture_Protocol_Master_System_Prompt_v1.1.md` | Absolute canon lock / anti-drift firewall / Canon Governance System | 1.1 | ✅ Complete |
-| Fracture Protocol Proposal Vault | `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` | Non-canon archive of future ideas | 1.0 | ✅ Complete (empty) |
+| Fracture Protocol Proposal Vault | `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` | Non-canon archive of future ideas | 1.0 | 🔄 1 entry pending decision |
 | Studio Operating System | `studio-os/Studio_OS_v1.0.md` | Company process, workflow, standards | 1.0 | ✅ Complete |
 | Production Operating System | `production-os/Production_OS_v1.0.md` | Department-level production SOPs, pipeline, QA | 1.0 | ✅ Complete |
 | Mythic Forge Art Bible (10 files) | `mythic-forge-art-bible/` | Visual law: camera, lighting, color, materials, environment, system-effect VFX, mood, forbidden elements, consistency, prompt library | 3.0 | ✅ Complete |
@@ -233,7 +233,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 |---|---|---|---|---|
 | Mythic Forge Knowledge Base | 2.0 | ✅ Complete | 2026-07-06 | Founder |
 | Fracture Protocol Master System Prompt | 1.1 | ✅ Complete | 2026-07-06 | Founder |
-| Fracture Protocol Proposal Vault | 1.0 | ✅ Complete (empty) | 2026-07-06 | Founder |
+| Fracture Protocol Proposal Vault | 1.0 | 🔄 1 entry pending decision | 2026-07-06 | Founder |
 | Studio OS | 1.0 | ✅ Complete | 2026-07-06 | Founder |
 | Production OS | 1.0 | ✅ Complete | 2026-07-06 | Founder |
 | Mythic Forge Art Bible | 3.0 | ✅ Complete | 2026-07-06 | Founder |
