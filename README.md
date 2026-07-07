@@ -1,6 +1,6 @@
 # MYTHIC FORGE STUDIOS
 ## Studio Wiki
-### Version 3.2 — Master Navigation System
+### Version 3.3 — Master Navigation System
 
 **Forging Worlds. Creating Legends.**
 
@@ -509,7 +509,7 @@ This Wiki (README.md)
 
 | Document | Version | Status | Locked/Living | Last Updated |
 |---|---|---|---|---|
-| Studio Wiki (this document) | 3.2 | ✅ Complete | Mixed | 2026-07-07 |
+| Studio Wiki (this document) | 3.3 | ✅ Complete | Mixed | 2026-07-07 |
 | Fracture Protocol Master System Prompt | 1.2 | ✅ Complete | Locked | 2026-07-07 |
 | Fracture Protocol Proposal Vault | 1.0 | 🔄 7 entries pending | N/A | 2026-07-06 |
 | Fracture Protocol World Bible | 1.1 | ✅ Complete | Mixed | 2026-07-06 |
@@ -517,6 +517,7 @@ This Wiki (README.md)
 | Mythic Forge Art Bible | 3.0 (index) | ✅ Complete | Mixed | 2026-07-06 |
 | Studio Governance Manual | 1.0 | ✅ Complete | Mostly Locked | 2026-07-07 |
 | Studio Governance Index | 1.0 | ✅ Complete | Living | 2026-07-07 |
+| Studio Decision Log | 1.0 | 🔄 Structure only, 0 entries | Living (log) | 2026-07-07 |
 | Studio OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
 | Production OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
 | Production Bible | 1.0 | ✅ Complete | Mixed | 2026-07-07 |
@@ -621,6 +622,7 @@ Section 22 (Search Guide).
 | "Which document wins?" (canon) | Section 3 above |
 | "Which document wins?" (process/jurisdiction) | `governance/Fracture_Protocol_Studio_Governance_Manual_v1.0.md`, Section 3 |
 | One-page map of everything | `governance/Fracture_Protocol_Studio_Governance_Index_v1.0.md` |
+| Why a past decision was made | `governance/Fracture_Protocol_Studio_Decision_Log_v1.0.md` |
 
 | Field | Value |
 |---|---|
@@ -731,6 +733,18 @@ This is the authoritative source for "which process document governs what" (its 
 | **Repository Location** | `governance/Fracture_Protocol_Studio_Governance_Index_v1.0.md` |
 | **Last Updated** | 2026-07-07 |
 
+| Document Name | Fracture Protocol Studio Decision Log |
+|---|---|
+| **Purpose** | Living historical record of significant creative/technical/production decisions — the "why," alternatives considered, impact, and review date behind decisions too significant for a one-line changelog entry |
+| **Owner** | Founder |
+| **Current Version** | 1.0 |
+| **Status** | 🔄 Structure only — 0 entries logged (not backfilled by design; see the Log's own Section 7) |
+| **Locked or Living** | Structure/format Locked; the log itself is Living (append-only) |
+| **Dependencies** | Master System Prompt (canon decisions), Studio Governance Manual (process decisions, approval authority) |
+| **Related Documents** | Proposal Vault (pre-decision ideas — distinct scope, see the Log's own Section 2); every document's own changelog (routine, line-level history) |
+| **Repository Location** | `governance/Fracture_Protocol_Studio_Decision_Log_v1.0.md` |
+| **Last Updated** | 2026-07-07 |
+
 ---
 
 ## 26. Final Validation
@@ -744,7 +758,7 @@ This is the authoritative source for "which process document governs what" (its 
 
 ---
 
-*End of Studio Wiki Version 3.2. This document is the home page — update it the same day any other document changes (Section 24).*
+*End of Studio Wiki Version 3.3. This document is the home page — update it the same day any other document changes (Section 24).*
 
 ---
 
@@ -761,3 +775,4 @@ This is the authoritative source for "which process document governs what" (its 
 `[v3.0 — 2026-07-07] Full structural rewrite per the "Studio Wiki" specification: reorganized from the prior 40-section Knowledge Base into the 25 required sections (Welcome through Final Validation), converted every document entry to the full required metadata fields (Purpose, Owner, Version, Status, Locked/Living, Dependencies, Related Documents, Repository Location, Last Updated), added the new Production Bible v1.0 to the Bible/Production indices, added a Prop Index and Document Dependency Map (neither existed before), consolidated the prior Document Status Tracker and Current Completed Documents tables into a single Version History Index, and removed duplicated progress-dashboard content in favor of pointing to Production OS Section 45 (KPI Dashboard) for live production tracking once it exists. No document version other than this one was changed by this rewrite; the Production Bible/Production OS overlap flagged in the prior session remains open and is now tracked in Section 6 and this document's own Final Validation section.`
 `[v3.1 — 2026-07-07] Indexed the new Studio Governance Manual v1.0 as a new document type and tier ("Governance," alongside Canon/Studio Process/Production Process — Section 2). Added Section 25 (Governance Manual Index), bumping the former Section 25 (Final Validation) to Section 26 — the only renumbering this update required, per the revised insertion rule now stated in Section 24. Updated Sections 2, 4, 6, 17, 18, and 21 to point to the Governance Manual for jurisdiction/authority questions rather than restating them. The Governance Manual's Section 3 now formally documents the Production Bible/Production OS interim jurisdiction split as a provisional default — this remains an open founder decision, not a resolution.`
 `[v3.2 — 2026-07-07] Indexed the new Studio Governance Index v1.0 (Section 25) — a one-page diagram/table-only summary of the Governance Manual and this Wiki, built deliberately thin (cites both rather than restating them) since every element it requested already existed in full elsewhere. Added a row to Section 18 (Version History Index) and Section 21 (Quick Links).`
+`[v3.3 — 2026-07-07] Indexed the new Studio Decision Log v1.0 (Section 25) — a living historical record of significant decisions (reason, alternatives considered, impact, review date), distinct from routine changelogs and from the pre-decision Proposal Vault. Structure and guidance only; the log itself starts with zero entries by explicit instruction, not backfilled. Added a row to Section 18 (Version History Index) and Section 21 (Quick Links).`
