@@ -147,13 +147,13 @@ Each numbered stage below maps to an SOP in this document (Sections 6–28).
 | Field | Value |
 |---|---|
 | **Purpose** | Determine what new visual assets (if any) an episode requires, and check for reuse first |
-| **Inputs** | Scene plan; existing Asset/Character/Environment registries (Knowledge Base Sections 14–16, 22) |
+| **Inputs** | Scene plan; existing Asset/Character/Environment registries (Studio Wiki Sections 8–11) |
 | **Outputs** | Asset requirement list, split into "reuse" and "new build" |
 | **Responsible Role** | Asset/Visual Dev Lead (currently Founder) |
 | **Checklist** | ☐ Registry checked before requesting any new asset ☐ Every "new build" item justified by the script ☐ New characters/environments/props flagged to Sections 11–13 respectively |
 | **Estimated Time** | 30–60 min |
 | **Quality Standard** | Zero duplicate assets created for something the registry already has |
-| **Dependencies** | Section 9, Knowledge Base Section 13 |
+| **Dependencies** | Section 9, Studio Wiki Section 11 |
 | **Version** | 1.0 |
 
 ## 11. Character Asset SOP **[LIVING SECTION]**
@@ -164,7 +164,7 @@ Each numbered stage below maps to an SOP in this document (Sections 6–28).
 | **Inputs** | Character Creation Rules (World Bible Section 14), Series Bible character description |
 | **Outputs** | Reference sheet (turnaround, expression sheet, signature prop/detail) |
 | **Responsible Role** | Animation Lead |
-| **Checklist** | ☐ Silhouette readability test passed ☐ Originality Check passed ☐ Matches megacity visual identity (Art Bible `color-language.md`, `materials-and-textures.md`) ☐ Logged in Character Registry (Knowledge Base Section 14) |
+| **Checklist** | ☐ Silhouette readability test passed ☐ Originality Check passed ☐ Matches megacity visual identity (Art Bible `color-language.md`, `materials-and-textures.md`) ☐ Logged in Character Registry (Studio Wiki Section 8) |
 | **Estimated Time** | 2–4 hrs |
 | **Quality Standard** | Character is identifiable in solid-black silhouette alone |
 | **Dependencies** | Section 10 |
@@ -178,7 +178,7 @@ Each numbered stage below maps to an SOP in this document (Sections 6–28).
 | **Inputs** | World Bible Section 3 (Megacity Structure) |
 | **Outputs** | Environment concept art / background plate |
 | **Responsible Role** | Animation Lead |
-| **Checklist** | ☐ Matches assigned Zone's palette/architecture (Art Bible `environment-design-rules.md`) ☐ No silhouette/palette overlap with another Zone's established environments (Studio OS Section 19) ☐ Logged in Asset Registry (Knowledge Base Section 22) |
+| **Checklist** | ☐ Matches assigned Zone's palette/architecture (Art Bible `environment-design-rules.md`) ☐ No silhouette/palette overlap with another Zone's established environments (Studio OS Section 19) ☐ Logged in Asset Registry (Studio Wiki Section 11) |
 | **Estimated Time** | 2–4 hrs |
 | **Quality Standard** | Recognizable as its Zone without a caption |
 | **Dependencies** | Section 10 |
@@ -192,7 +192,7 @@ Each numbered stage below maps to an SOP in this document (Sections 6–28).
 | **Inputs** | World Bible Sections 7 (Cipher-work), 11 (Root Artifacts) |
 | **Outputs** | Prop concept art |
 | **Responsible Role** | Animation Lead |
-| **Checklist** | ☐ Cipher marks match the cyan/icy-blue color language (Art Bible `color-language.md`) ☐ Named Root Artifacts logged in the Relic Registry (Knowledge Base Section 13) with their cost/limitation documented (World Bible Section 7) |
+| **Checklist** | ☐ Cipher marks match the cyan/icy-blue color language (Art Bible `color-language.md`) ☐ Named Root Artifacts logged in the Prop Index (Studio Wiki Section 10) with their cost/limitation documented (World Bible Section 7) |
 | **Estimated Time** | 1–3 hrs |
 | **Quality Standard** | A recurring prop is visually identical across every future appearance |
 | **Dependencies** | Section 10 |
@@ -329,7 +329,7 @@ TRACKING    ──▶ used for action/movement sequences only
 | **Inputs** | Final episode; brand frame/template (Studio OS Section 22) |
 | **Outputs** | Thumbnail image, up to two A/B variants |
 | **Responsible Role** | Publishing/SEO Owner |
-| **Checklist** | ☐ Depicted moment actually occurs in the episode ☐ Readable at mobile thumbnail size ☐ On-brand palette/typography ☐ Logged in Thumbnail Library (Knowledge Base Section 26) |
+| **Checklist** | ☐ Depicted moment actually occurs in the episode ☐ Readable at mobile thumbnail size ☐ On-brand palette/typography ☐ Logged in the Asset Registry (Studio Wiki Section 11) |
 | **Estimated Time** | 30–60 min |
 | **Quality Standard** | Passes the mobile-size readability test at first glance |
 | **Dependencies** | Section 20 |
@@ -397,7 +397,7 @@ TRACKING    ──▶ used for action/movement sequences only
 |---|---|
 | **Purpose** | Keep every produced asset findable, versioned, and non-duplicated |
 | **Inputs** | All assets produced under Sections 11–13 |
-| **Outputs** | Up-to-date Asset Registry (Knowledge Base Section 22) |
+| **Outputs** | Up-to-date Asset Registry (Studio Wiki Section 11) |
 | **Responsible Role** | Animation Lead |
 | **Checklist** | ☐ Every new asset logged the same day it's finalized ☐ Version number attached ☐ Superseded asset versions archived, not deleted |
 | **Estimated Time** | 10–15 min per asset |
@@ -409,7 +409,7 @@ TRACKING    ──▶ used for action/movement sequences only
 
 ## 29. File Naming Standards **[LOCKED]**
 
-Extends Knowledge Base Section 9 with production-specific file types:
+Extends Studio Wiki Section 16 with production-specific file types:
 
 | Asset Type | Convention | Example |
 |---|---|---|
@@ -440,7 +440,7 @@ Extends Knowledge Base Section 9 with production-specific file types:
   /metadata/
 ```
 
-**[LIVING]** — create each subfolder at the point real content exists for it, per Knowledge Base Section 4's rule against speculative scaffolding.
+**[LIVING]** — create each subfolder at the point real content exists for it, per Studio Wiki Section 15's rule against speculative scaffolding.
 
 ## 31. Backup Strategy **[LOCKED]**
 
@@ -455,7 +455,7 @@ All production documents and assets use the studio-wide **v{major}.{minor}** con
 ## 33. GitHub Workflow **[LOCKED]**
 
 - This repository holds documentation, scripts, and lightweight text assets only (per Section 31).
-- Substantial documentation changes go through a feature branch and pull request, per Knowledge Base Section 5, before merging to `main`.
+- Substantial documentation changes go through a feature branch and pull request, per Studio Wiki Section 24, before merging to `main`.
 - Production/asset management systems for binary files (Section 31) are a separate, non-git tooling decision to be made when asset volume justifies it — not yet required at current (pre-production) scale.
 
 ## 34. Prompt Management **[LIVING SECTION]**
@@ -727,3 +727,4 @@ Draft Prompt → Test Output → Originality Framework Check → Log in Prompt L
 ### Changelog
 `[v1.0 — 2026-07-06] Initial Production Operating System established: 48-section pipeline manual covering pre-production through publishing, asset/prompt management, version control, QA, metrics, and studio expansion triggers.`
 `[v1.0 — 2026-07-06] Synced terminology to The Fracture Protocol pivot: "Realm" references changed to "Zone," Sigil/Relic/Rift references changed to Cipher/Root Artifact/Breach, and stale numbered citations to the retired fantasy Mythic Bible corrected to point at the new World Bible and Art Bible files.`
+`[v1.0 — 2026-07-07] Synced cross-references to the Knowledge Base's rework into the Studio Wiki (v3.0): every "Knowledge Base Section N" citation updated to its new "Studio Wiki Section N" equivalent (Sections 4, 9, 13, 14, 22, 26 renumbered to Sections 8, 10, 11, 15, 16, 24 respectively). Also caught a residual stale term missed by the prior terminology pass: "Relic Registry" (Section 13 checklist) corrected to "Prop Index," matching the fantasy-to-Root-Artifact rename applied everywhere else.`

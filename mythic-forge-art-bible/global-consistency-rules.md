@@ -25,7 +25,7 @@
 
 ## Cross-Document Enforcement **[LOCKED]**
 
-A change to any **[LOCKED]** rule anywhere in this Art Bible requires the same Canon Change process used for world canon (Studio OS Section 18, Knowledge Base Section 34): proposed as a draft, checked against the Master System Prompt's Consistency Enforcement System for contradiction, and signed off by the Creative Director before it takes effect. A version bump and changelog entry (per file) follows automatically once approved.
+A change to any **[LOCKED]** rule anywhere in this Art Bible requires the same Canon Change process used for world canon (Studio OS Section 18, Production Bible Section 11): proposed as a draft, checked against the Master System Prompt's Consistency Enforcement System for contradiction, and signed off by the Creative Director before it takes effect. A version bump and changelog entry (per file) follows automatically once approved.
 
 ---
 
@@ -35,3 +35,4 @@ A change to any **[LOCKED]** rule anywhere in this Art Bible requires the same C
 `[v1.0 — 2026-07-06] Initial global consistency rules established.`
 `[v2.0 — 2026-07-06] Updated Rule 1 to a two-register system to resolve a fantasy-show/promotional-prompt conflict.`
 `[v3.0 — 2026-07-06] Full pivot to The Fracture Protocol: single render register, megacity palette system, Root Artifact Exception, and an explicit "no magic exists" rule, all subordinated to the new Master System Prompt.`
+`[v3.0 — 2026-07-07] Synced cross-reference following the Knowledge Base's rework into the Studio Wiki (v3.0): "Knowledge Base Section 34" (Review Workflow, retired) corrected to "Production Bible Section 11" (Creator Review Workflow), which is now the more detailed authoritative source for this process.`

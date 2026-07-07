@@ -1,329 +1,242 @@
 # MYTHIC FORGE STUDIOS
-## Mythic Forge Knowledge Base
-### Version 2.0 — Studio Home Page
+## Studio Wiki
+### Version 3.0 — Master Navigation System
 
 **Forging Worlds. Creating Legends.**
 
-This is the central source of truth for Mythic Forge Studios' documentation ecosystem. It does not contain lore, canon, or process rules itself — it **indexes, connects, and governs how existing documents relate to each other**. When in doubt about where something lives, start here.
+This is the master navigation system for the entire Mythic Forge Studios repository. **It is not a Bible. It introduces no canon. It contains no lore. It makes no creative decisions.** Its sole purpose is to help contributors locate information quickly — where something is, who owns it, whether it's approved, what depends on it, whether it can be edited, whether it touches canon, and where to go next. Every answer here should take seconds to find. Where this document would need to restate lore, story, characters, powers, or world detail to answer a question, it links to the authoritative document instead.
 
 Status legend used throughout: ✅ Complete &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; 📋 Planned &nbsp;|&nbsp; ⬜ Not Started
 
 ---
 
-## 1. Executive Overview
+## 1. Welcome
 
-Mythic Forge Studios is building one original sci-fi dystopian universe (**The Fracture Protocol**) across YouTube animation and future web novel/comic/game/merch formats. A locked Master System Prompt anchors every other document so the universe never drifts; everything else — future series, registries, production assets — slots into the structure this Knowledge Base defines.
+If this is your first time in this repository: **start with Section 23 (Contributor Onboarding)**, not here. This page is a reference you'll return to, not a document you read start to finish.
+
+Mythic Forge Studios is building one original sci-fi dystopian universe, **The Fracture Protocol**, across YouTube animation and future web novel/comic/game/merch formats. Everything in this repository exists to either (a) define what that universe *is*, (b) define how the studio *works*, or (c) define how an episode actually gets *made*. This Wiki's only job is to tell you which of those three buckets a given question belongs to, and which exact document answers it.
 
 | Field | Value |
 |---|---|
-| **Purpose** | Single entry point for all studio documentation |
+| **Purpose** | Orient a contributor arriving at this repository for the first time |
 | **Owner** | Founder (Creative Director + COO) |
-| **Primary Documents** | This document |
 | **Dependencies** | None — this is the root |
 | **Status** | ✅ Complete |
-| **Version** | 2.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | As team roles are filled (Studio OS Section 29), ownership of individual sections below should transfer from "Founder" to the named role |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-## 2. Documentation Architecture
+## 2. Repository Overview
 
-Seven document types exist, each with a distinct job. None should duplicate another's content — if it does, that's a documentation bug, flag it via the Review Workflow (Section 34).
+Mythic Forge Studios currently maintains **nine core documents** across three tiers — canon, studio process, and production process — plus this Wiki, which indexes all of them. Nothing "canon" lives outside the Bible tier (Section 5); nothing "operational" lives outside the process tiers (Sections 6–7).
 
-| Document Type | Job | Current Instance(s) |
+**At a glance:**
+
+| Layer | Answers | Current State |
 |---|---|---|
-| **Master System Prompt** | The absolute, compressed anti-drift firewall — the single source of truth every other document must never contradict, including the Canon Governance System | `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` |
-| **Proposal Vault** | Non-canon archive for future ideas — has zero authority until the creator explicitly approves an entry | `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` |
-| **Knowledge Base** | Navigation and system rules only — never authoritative on content | This document |
-| **Studio OS** | How the studio *works* — company-level process, workflow, standards | `studio-os/Studio_OS_v1.0.md` |
-| **Production OS** | How an episode actually gets made — step-by-step department SOPs | `production-os/Production_OS_v1.0.md` |
-| **Art Bible** | How everything *looks* — visual law across camera, light, color, materials, and system-effect VFX | `mythic-forge-art-bible/` (11 files, indexed in Section 3) |
-| **World Bible** | What the universe *is* — canon law, expanding on the Master System Prompt | `bible/Fracture_Protocol_World_Bible_v1.1.md` |
-| **Series Bible** | How one specific series tells its story within the universe | `series/01-the-fracture-protocol/Series_Bible_v1.1.md` |
+| Canon (the Bibles) | What is the universe, and what happens in it? | Master System Prompt v1.2, World Bible v1.1, Series Bible v1.1 (Season One fully outlined, 20/20 episodes), Art Bible v3.0 (11 files), Proposal Vault v1.0 (7 entries pending decision) |
+| Studio Process | How does the studio operate day to day? | Studio OS v1.0 |
+| Production Process | How does an episode actually get made? | Production OS v1.0, Production Bible v1.0 *(new — see Section 6 for the current relationship between these two)* |
+| Production Output | What's actually been made? | Nothing yet — Season One is fully outlined and not yet in active production (Section 18) |
 
 | Field | Value |
 |---|---|
-| **Purpose** | Define the document types and their non-overlapping responsibilities |
+| **Purpose** | Single-glance snapshot of what exists and what stage the studio is at |
 | **Owner** | Founder (Creative Director + COO) |
-| **Primary Documents** | All completed documents (Section 11) |
 | **Dependencies** | None |
 | **Status** | ✅ Complete |
-| **Version** | 2.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | A **Registry** type (character/artifact trackers) is planned (Section 13) and will slot in beneath Series Bibles |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-## 3. Master Navigation Index
+## 3. Canon Hierarchy
 
-| Document | Path | Governs | Version | Status |
-|---|---|---|---|---|
-| Mythic Forge Knowledge Base | `README.md` | Navigation & system rules | 2.0 | ✅ Complete |
-| Fracture Protocol Master System Prompt | `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` | Absolute canon lock / anti-drift firewall / Canon Governance System / Founder Override Protocol | 1.2 | ✅ Complete |
-| Fracture Protocol Proposal Vault | `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` | Non-canon archive of future ideas | 1.0 | 🔄 7 entries pending decision |
-| Studio Operating System | `studio-os/Studio_OS_v1.0.md` | Company process, workflow, standards | 1.0 | ✅ Complete |
-| Production Operating System | `production-os/Production_OS_v1.0.md` | Department-level production SOPs, pipeline, QA | 1.0 | ✅ Complete |
-| Mythic Forge Art Bible (11 files) | `mythic-forge-art-bible/` | Visual law: camera, lighting, color, materials, environment, system-effect VFX, mood, forbidden elements, consistency, prompt library | 3.0 | ✅ Complete |
-| Fracture Protocol World Bible | `bible/Fracture_Protocol_World_Bible_v1.1.md` | Universe canon | 1.1 | ✅ Complete |
-| The Fracture Protocol — Series Bible | `series/01-the-fracture-protocol/Series_Bible_v1.1.md` | Series 01 story canon | 1.1 | ✅ Complete |
-
-**[LIVING]** — every new document created for Mythic Forge Studios must be added to this table on the day it's created. An undocumented document does not count as part of the ecosystem.
-
-**Art Bible file breakdown:**
-
-| File | Path |
-|---|---|
-| Visual Development Guide (master index) | `mythic-forge-art-bible/visual-development-guide.md` |
-| Camera Language | `mythic-forge-art-bible/camera-language.md` |
-| Lighting System | `mythic-forge-art-bible/lighting-system.md` |
-| Color Language | `mythic-forge-art-bible/color-language.md` |
-| Materials and Textures | `mythic-forge-art-bible/materials-and-textures.md` |
-| Environment Design Rules | `mythic-forge-art-bible/environment-design-rules.md` |
-| System Interference Visual Rules | `mythic-forge-art-bible/system-interference-visual-rules.md` |
-| Cinematic Mood Guide | `mythic-forge-art-bible/cinematic-mood-guide.md` |
-| Forbidden Elements | `mythic-forge-art-bible/forbidden-elements.md` |
-| Global Consistency Rules | `mythic-forge-art-bible/global-consistency-rules.md` |
-| Prompt Library | `mythic-forge-art-bible/prompt-library.md` |
-
----
-
-## 4. Folder Structure
+This is the order canon authority flows in. When two documents disagree, the higher one wins and the lower one is corrected — a disagreement is always a documentation bug, never a judgment call.
 
 ```
-/                                    → this Knowledge Base (README.md)
-/bible/                              → world canon: Master System Prompt + World Bible
-/studio-os/                          → company-level operational process documents
-/production-os/                      → department-level production SOPs and pipeline manual
-/mythic-forge-art-bible/             → visual law: camera, lighting, color, materials, environment, system-effect VFX, mood, forbidden elements, consistency, prompts
-/series/                             → one subfolder per series
-  /01-the-fracture-protocol/         → Series 01 bible and future scripts
-/registries/                         → [PLANNED] living trackers: characters, artifacts, factions
-/scripts/                            → [PLANNED] episode/chapter scripts, by season/arc
-/production/                         → [PLANNED] storyboards, VO, footage, art (binary assets — see Production OS Section 31)
-/publishing/                         → [PLANNED] metadata, thumbnails, SEO records per release
+Master System Prompt  (bible/Fracture_Protocol_Master_System_Prompt_v1.2.md)
+        │  absolute authority — includes the Canon Governance System (Sec. 12)
+        │  and the Founder Override Protocol (Sec. 13)
+        ▼
+World Bible  (bible/Fracture_Protocol_World_Bible_v1.1.md)
+        │  highest authority on world-related detail
+        ▼
+Series Bible(s)  (series/{NN}-{slug}/Series_Bible_v{X.X}.md)
+        │  authoritative for their own series only
+        ▼
+Art Bible  (mythic-forge-art-bible/)
+        │  authoritative on how canon is visually rendered — never what it means
+        ▼
+Production scripts / assets — implementation detail, subordinate to all of the above
 ```
 
-| Field | Value |
-|---|---|
-| **Purpose** | Define where every category of file belongs |
-| **Owner** | Founder (COO) |
-| **Primary Documents** | Studio OS Section 15 (File Organization Standards) |
-| **Dependencies** | None |
-| **Status** | 🔄 In Progress — core folders exist; production/publishing/registries not yet created |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Create `/registries/`, `/scripts/`, `/production/`, `/publishing/` at the point actual content exists for them — do not scaffold empty folders speculatively |
+**Special case — the Proposal Vault** (`bible/Fracture_Protocol_Proposal_Vault_v1.0.md`): sits entirely outside this hierarchy. It has zero authority over canon — every entry is "Proposed — Not Canon" until the creator explicitly approves it via the Founder Override Protocol (Master System Prompt Section 13). Approved content is then implemented in the appropriate tier above; the Vault entry itself is never deleted — it stays in place with its status updated, per the Vault's own rule.
 
----
-
-## 5. Repository Structure
-
-| Field | Value |
-|---|---|
-| **Purpose** | Define how the repository itself is used (branching, review, merge) |
-| **Owner** | Founder (COO) |
-| **Primary Documents** | Studio OS Section 30 (Version Control & Documentation Update Process) |
-| **Dependencies** | Section 2 (Documentation Architecture) |
-| **Status** | ✅ Complete |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | As team grows, define per-role branch/PR permissions in Studio OS Section 29 |
-
-**Standard practice:** `main` holds published, current documentation. Substantial revisions (new document versions, major canon changes) are developed on a feature branch and merged via pull request so changes are reviewable before they become canon — mirroring the Canon Change SOP (Studio OS Section 18).
-
----
-
-## 6. Documentation Hierarchy
-
-Authority flows top to bottom. A lower tier may add detail; it may never contradict a higher one without going through the Review Workflow (Section 34).
-
-1. **Master System Prompt** (`bible/Fracture_Protocol_Master_System_Prompt_v1.2.md`) — the absolute anti-drift firewall; highest authority on anything, full stop
-2. **World Bible** (`bible/Fracture_Protocol_World_Bible_v1.1.md`) — highest authority on world-related detail, subordinate only to the Master System Prompt
-3. **Studio OS** (`studio-os/`) — highest authority on company-level process
-4. **Series Bibles** (`series/`) — authoritative for their own series only; subordinate to the World Bible and Master System Prompt
-5. **Production OS** (`production-os/`) — highest authority on how episodes get made technically; implements Studio OS Section 13 and must never contradict a Series Bible's story requirements
-6. **Art Bible** (`mythic-forge-art-bible/`) — highest authority on how canon is visually rendered; never redefines what canon *means*, only how it looks
-7. **Registries / Production Docs** (`registries/`, `production/`, `scripts/`) — implementation detail; subordinate to all of the above
-8. **Knowledge Base** (this document) — authoritative on *navigation only*, never on content
-
-**Special case — the Proposal Vault (`bible/Fracture_Protocol_Proposal_Vault_v1.0.md`):** this sits entirely outside the hierarchy above. It has zero authority over canon — every entry in it is explicitly "Proposed — Not Canon" until the creator explicitly approves it via the Canon Update Workflow (Master System Prompt Section 12, Rule 6), at which point the approved content is implemented in the appropriate tier above. The Vault entry itself is never deleted — per the Vault's own rule, it stays in place with its status updated (e.g., "Approved — Moved to Canon") as part of the project's permanent decision record.
-
-| Field | Value |
-|---|---|
-| **Purpose** | Resolve "which document wins" questions before they become arguments |
-| **Owner** | Founder (Creative Director) |
-| **Primary Documents** | All indexed documents |
-| **Dependencies** | Section 2 |
-| **Status** | ✅ Complete |
-| **Version** | 2.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | When a second series/universe is added, define whether it shares the World Bible or introduces its own — this is a founder-level decision, not a default |
-
----
-
-## 7. Source of Truth Rules
+**Conflict resolution table:**
 
 | Conflict Type | Resolution |
 |---|---|
 | Master System Prompt vs. anything | Master System Prompt always wins |
 | World Bible vs. Series Bible | World Bible wins; Series Bible is corrected |
 | Series Bible vs. production script | Series Bible wins; script is corrected |
-| Process question (Studio OS) vs. lore question (World Bible) | Each is authoritative in its own domain — they should never actually conflict; if they appear to, it's a documentation bug |
-| Two Series Bibles (future) | World Bible arbitrates; neither Series Bible outranks the other |
+| Two Series Bibles (future) | World Bible arbitrates; neither outranks the other |
+| Studio/Production process doc vs. lore question | Each is authoritative in its own domain — an apparent conflict is a documentation bug |
+
+For the full governance mechanics (Drift Detection, Proposal Workflow, Founder Override Commands, Change Impact Reports, Minor/Major classification) see the Master System Prompt directly, Sections 12–13 — this Wiki does not restate them.
 
 | Field | Value |
 |---|---|
-| **Purpose** | Give writers/artists a fast answer when two documents disagree |
+| **Purpose** | Resolve "which document wins" before it becomes a debate |
 | **Owner** | Founder (Creative Director) |
-| **Primary Documents** | Master System Prompt Section 10, Studio OS Section 18 |
-| **Dependencies** | Section 6 |
-| **Status** | ✅ Complete |
-| **Version** | 2.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Extend this table as new document types are introduced |
-
----
-
-## 8. Version Control Standards
-
-All documents use **v{major}.{minor}** versioning (Studio OS Section 30). Major bump = locked-section/canon change requiring founder sign-off; minor bump = additive, living-section update. Every version bump appends a one-line changelog entry to the bottom of the changed document. This Knowledge Base follows the same rule and is versioned independently of the documents it indexes.
-
-| Field | Value |
-|---|---|
-| **Purpose** | Keep version history auditable across the entire documentation ecosystem |
-| **Owner** | Founder (COO) |
-| **Primary Documents** | Studio OS Section 30 |
 | **Dependencies** | None |
 | **Status** | ✅ Complete |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Once multiple contributors exist, require changelog entries to include author initials |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-## 9. Naming Conventions
+## 4. Studio Hierarchy
 
-Consolidates Studio OS Section 17 (operational asset naming) and World Bible Section 13 (in-world terminology) into one reference point.
+This Wiki does not restate role definitions or approval chains — both already have a single authoritative home:
 
-| Asset Type | Convention | Example |
-|---|---|---|
-| World document | `bible/{Document_Name}_v{X.X}.md` | `bible/Fracture_Protocol_World_Bible_v1.1.md` |
-| Series document | `series/{NN}-{series-slug}/{Document_Name}_v{X.X}.md` | `series/01-the-fracture-protocol/Series_Bible_v1.1.md` |
-| Registry entry | `registries/{type}/{zone}_{name}.md` | `registries/characters/lower-sector_kael.md` |
-| Episode script | `scripts/S{season}E{episode}_{slug}.md` | `scripts/S01E04_the-bout.md` |
-| In-world terminology | Follow the Terminology Reference | World Bible Section 13 |
+- **Team roles, responsibilities, and the approval hierarchy:** Production Bible Section 2 (Studio Organization) — this is the current, most complete version.
+- **Company-level role roadmap (future hires):** Studio OS Section 29 (Studio Roles).
+- **Creator authority over canon specifically:** Master System Prompt Section 12, Rule 1.
+
+**Current state, in one line:** solo founder holding every role (Creative Director, Production Manager, and every department lead) until roles are filled per Studio OS Section 29's future role map.
 
 | Field | Value |
 |---|---|
-| **Purpose** | One naming standard for both operational files and in-world terminology |
-| **Owner** | Founder (COO) |
-| **Primary Documents** | Studio OS Section 17, World Bible Section 13 |
-| **Dependencies** | Section 4 |
-| **Status** | ✅ Complete |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Add conventions for game-development assets when Phase 3 (Studio OS Section 28) begins |
-
----
-
-## 10. Document Status Tracker
-
-| Document | Version | Status | Last Updated | Owner |
-|---|---|---|---|---|
-| Mythic Forge Knowledge Base | 2.0 | ✅ Complete | 2026-07-06 | Founder |
-| Fracture Protocol Master System Prompt | 1.2 | ✅ Complete | 2026-07-06 | Founder |
-| Fracture Protocol Proposal Vault | 1.0 | 🔄 7 entries pending decision | 2026-07-06 | Founder |
-| Studio OS | 1.0 | ✅ Complete | 2026-07-06 | Founder |
-| Production OS | 1.0 | ✅ Complete | 2026-07-06 | Founder |
-| Mythic Forge Art Bible | 3.0 | ✅ Complete | 2026-07-06 | Founder |
-| Fracture Protocol World Bible | 1.1 | ✅ Complete | 2026-07-06 | Founder |
-| The Fracture Protocol Series Bible | 1.1 | ✅ Complete | 2026-07-06 | Founder |
-| Character Registry | — | ⬜ Not Started | — | Unassigned |
-| Root Artifact Registry | — | ⬜ Not Started | — | Unassigned |
-| Season One Scripts (S01E01–S01E20) | — | ⬜ Not Started | — | Unassigned |
-
----
-
-## 11. Current Completed Documents
-
-| Document | Version | One-Line Summary |
-|---|---|---|
-| Fracture Protocol Master System Prompt | 1.2 | Compressed, absolute canon lock: universe identity, Kael's visual/age lock, world structure, system rules, prompt system, anti-drift firewall, the Canon Governance System (Creator Authority, Canon States, Drift Detection, Locked Categories, Proposal/Canon Update Workflows), and the Founder Override Protocol (explicit override commands, Change Impact Report, Minor/Major classification, Final Validation checklist) |
-| Fracture Protocol Proposal Vault | 1.0 | Non-canon archive for future ideas, per the Canon Governance System's Proposal Workflow — currently 7 entries pending creator decision |
-| Studio OS | 1.0 | Operational handbook: vision, values, workflows, QA, IP protection, roadmap |
-| Production OS | 1.0 | 48-section department-level production manual: SOPs, pipeline, QA, metrics |
-| Mythic Forge Art Bible | 3.0 | 11-file visual law: single sanctioned register (semi-realistic anime cinematic hybrid), megacity color system, system-interference VFX rules, prompt library |
-| Fracture Protocol World Bible | 1.1 | Lean world canon: the megacity's four layers, Authority System, Signal/Cipher-work/Fragment-Sync/Static-Reading/Fragments/Root Artifacts, the Reassembly, the Salvage Line, Terminology Reference |
-| The Fracture Protocol Series Bible | 1.1 | Series 01's premise, cast, and full Season One (20-episode) outline, plus Coda (Salvage Line broker, Static-Reader) reserved for Season Two |
-
-| Field | Value |
-|---|---|
-| **Purpose** | Quick reference for what already exists and doesn't need to be rebuilt |
+| **Purpose** | Point to the single authoritative source for "who does what and who approves what" |
 | **Owner** | Founder |
-| **Primary Documents** | The seven listed above |
-| **Dependencies** | None |
+| **Dependencies** | Production Bible Section 2, Studio OS Section 29 |
 | **Status** | ✅ Complete |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Add each new document here the day it's finished, not retroactively |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-## 12. Documents In Progress
+## 5. Bible Index
 
-**None currently.** All seven foundational documents are at a stable, complete v1.0/v3.0 state.
-
-| Field | Value |
+| Document Name | Fracture Protocol Master System Prompt |
 |---|---|
-| **Purpose** | Track active documentation work so effort isn't duplicated |
-| **Owner** | Founder |
-| **Primary Documents** | N/A |
-| **Dependencies** | Section 13 (a document moves from Planned → In Progress → Complete) |
-| **Status** | ⬜ Not Started (nothing in progress) |
-| **Version** | 1.0 |
+| **Purpose** | Absolute canon lock / anti-drift firewall; Canon Governance System and Founder Override Protocol |
+| **Owner** | Founder (Creative Director) |
+| **Current Version** | 1.2 |
+| **Status** | ✅ Complete |
+| **Locked or Living** | Locked (entire document) |
+| **Dependencies** | None — this is the root of canon |
+| **Related Documents** | World Bible, Series Bible, Art Bible, Proposal Vault |
+| **Repository Location** | `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` |
+| **Last Updated** | 2026-07-07 |
+
+| Document Name | Fracture Protocol World Bible |
+|---|---|
+| **Purpose** | Universe canon — the megacity's structure, Authority System, Signal/Cipher-work/Fragment-Sync/Static-Reading, Fragments, Root Artifacts, factions, terminology reference |
+| **Owner** | Founder (Creative Director) |
+| **Current Version** | 1.1 |
+| **Status** | ✅ Complete |
+| **Locked or Living** | Mixed — see in-document `[LOCKED]` / `[LIVING]` tags per section |
+| **Dependencies** | Master System Prompt |
+| **Related Documents** | Series Bible, Art Bible, Proposal Vault |
+| **Repository Location** | `bible/Fracture_Protocol_World_Bible_v1.1.md` |
 | **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | The first candidates to enter this section are the Character and Root Artifact Registries once Season One production begins |
 
----
+| Document Name | The Fracture Protocol — Series Bible (Series 01) |
+|---|---|
+| **Purpose** | Series 01 story canon — premise, cast, villains, relationships, full 20-episode Season One outline, future season plans |
+| **Owner** | Founder (Creative Director / Head Writer) |
+| **Current Version** | 1.1 |
+| **Status** | ✅ Complete (Season One outline); scripts not yet written |
+| **Locked or Living** | Mixed — see in-document `[LOCKED]` / `[LIVING SECTION]` tags per section |
+| **Dependencies** | Master System Prompt, World Bible |
+| **Related Documents** | World Bible, Art Bible |
+| **Repository Location** | `series/01-the-fracture-protocol/Series_Bible_v1.1.md` |
+| **Last Updated** | 2026-07-06 |
 
-## 13. Planned Documents
+| Document Name | Mythic Forge Art Bible (11 files) |
+|---|---|
+| **Purpose** | Visual law — how canon is rendered: camera, lighting, color, materials, environment, system-effect VFX, mood, forbidden elements, consistency rules, prompt library |
+| **Owner** | Founder (Creative Director) |
+| **Current Version** | 3.0 (master index); individual files versioned independently — see file table below |
+| **Status** | ✅ Complete |
+| **Locked or Living** | Mixed — see in-document tags per file |
+| **Dependencies** | Master System Prompt, World Bible |
+| **Related Documents** | Prompt Library (Section 12), Production Bible Section 8 |
+| **Repository Location** | `mythic-forge-art-bible/` |
+| **Last Updated** | 2026-07-06 |
 
-| Planned Document | Purpose | Trigger to Begin |
+**Art Bible file breakdown:**
+
+| File | Version | Repository Location |
 |---|---|---|
-| Character Registry | Individual reference pages per named character | Cast grows beyond the Series 01 core six (Kael + Section 6 of Series Bible) |
-| Root Artifact Registry | Catalog named Root Artifacts as they're introduced in-story | First named Root Artifact appears in a script |
-| Fragment/Anomaly Registry | Full catalog of Fragments and corrupted-Fragment entities | Production needs grounded detail beyond World Bible Sections 8, 10 |
-| Cipher Glyph Companion | Detailed visual glyph designs implementing Art Bible `color-language.md`/`system-interference-visual-rules.md` | Art production begins |
-| Season Two Series Bible | Season Two of The Fracture Protocol | Season One is in production/nearing completion |
+| Visual Development Guide (master index) | 3.0 | `mythic-forge-art-bible/visual-development-guide.md` |
+| Camera Language | 2.0 | `mythic-forge-art-bible/camera-language.md` |
+| Lighting System | 2.0 | `mythic-forge-art-bible/lighting-system.md` |
+| Color Language | 3.0 | `mythic-forge-art-bible/color-language.md` |
+| Materials and Textures | 2.0 | `mythic-forge-art-bible/materials-and-textures.md` |
+| Environment Design Rules | 2.0 | `mythic-forge-art-bible/environment-design-rules.md` |
+| System Interference Visual Rules | 2.0 | `mythic-forge-art-bible/system-interference-visual-rules.md` |
+| Cinematic Mood Guide | 2.0 | `mythic-forge-art-bible/cinematic-mood-guide.md` |
+| Forbidden Elements | 3.0 | `mythic-forge-art-bible/forbidden-elements.md` |
+| Global Consistency Rules | 3.0 | `mythic-forge-art-bible/global-consistency-rules.md` |
+| Prompt Library | 2.0 | `mythic-forge-art-bible/prompt-library.md` |
 
-| Field | Value |
-|---|---|
-| **Purpose** | Prevent planned work from being forgotten or duplicated |
-| **Owner** | Founder (Creative Director) |
-| **Primary Documents** | World Bible Sections 8, 10–11, Series Bible Section 12 |
-| **Dependencies** | Section 12 |
-| **Status** | 📋 Planned |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Re-review this list at every Monthly Review (Section 36) |
+For what any of these documents actually *say*, open the document — this index only tells you that it exists, what it's for, and where it lives.
+
+**Planned:** a Season Two Series Bible, to be broken out once Season One is in production/nearing completion (Series Bible Section 12) — will be added as a new row above the day it's created.
 
 ---
 
-## 14. Character Documentation Index
+## 6. Production Document Index
 
-| Field | Value |
+| Document Name | Fracture Protocol Production Bible |
 |---|---|
-| **Purpose** | Point to where every character is documented today, ahead of a dedicated registry |
-| **Owner** | Founder (Creative Director) |
-| **Primary Documents** | Master System Prompt Section 4 (Kael canon lock); `series/01-the-fracture-protocol/Series_Bible_v1.1.md` Sections 6–9 and Appendix A (full Series 01 cast) |
-| **Dependencies** | Section 13 (Character Registry, planned) |
-| **Status** | 🔄 In Progress — documented inline, not yet in a standalone registry |
-| **Version** | Tracks source documents (1.1) |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Migrate to `registries/characters/` once cast size makes inline documentation unwieldy — see Character Tracker below |
+| **Purpose** | Production operating manual — philosophy, studio organization, pipeline, folder structure, naming, version control, asset management, QA, risk management, review workflow, readiness/completion checklists, archiving |
+| **Owner** | Founder (Creative Director / Production Manager) |
+| **Current Version** | 1.0 |
+| **Status** | ✅ Complete |
+| **Locked or Living** | Mixed — see in-document tags per section |
+| **Dependencies** | Master System Prompt (subordinate to it; never overrides canon) |
+| **Related Documents** | Studio OS, Production OS |
+| **Repository Location** | `production-bible/Fracture_Protocol_Production_Bible_v1.0.md` |
+| **Last Updated** | 2026-07-07 |
 
-**Character Tracker**
+| Document Name | Production Operating System |
+|---|---|
+| **Purpose** | 48-section department-level SOP manual: pre-production through publishing, asset/prompt management, version control, QA, metrics, troubleshooting |
+| **Owner** | Founder (Technical Director) |
+| **Current Version** | 1.0 |
+| **Status** | ✅ Complete |
+| **Locked or Living** | Mixed — see in-document tags per section |
+| **Dependencies** | Studio OS, Master System Prompt, World Bible |
+| **Related Documents** | Production Bible |
+| **Repository Location** | `production-os/Production_OS_v1.0.md` |
+| **Last Updated** | 2026-07-06 |
+
+**Known open item:** the Production Bible and Production OS currently cover substantially overlapping ground (both define pipeline stages, folder structure, naming, version control, asset management, and QA). This was identified at the Production Bible's creation and intentionally left unresolved as a founder decision — see Production Bible Section 15 for the three reconciliation options on the table. Until resolved, treat the Production Bible as the higher-level authority (organization, governance integration, risk management) and Production OS as the more granular department-by-department implementation detail.
+
+---
+
+## 7. Studio OS Index
+
+| Document Name | Mythic Forge Studios — Studio Operating System |
+|---|---|
+| **Purpose** | Company-level operational handbook: vision, values, creative philosophy, storytelling principles, brand, QA, IP protection, roles, roadmap |
+| **Owner** | Founder (Creative Director + COO) |
+| **Current Version** | 1.0 |
+| **Status** | ✅ Complete |
+| **Locked or Living** | Mixed — see in-document tags per section |
+| **Dependencies** | Master System Prompt, World Bible |
+| **Related Documents** | Production OS, Production Bible |
+| **Repository Location** | `studio-os/Studio_OS_v1.0.md` |
+| **Last Updated** | 2026-07-06 |
+
+Key jump points inside Studio OS, so you don't have to read all 30 sections to find one: Vision (§1), Mission (§2), Creative Philosophy / Originality Framework (§5), Worldbuilding Standards (§7), Lore Documentation Standards / Canon Change SOP (§18), Studio Roles (§29), Version Control (§30).
+
+---
+
+## 8. Character Document Index
+
+This Wiki does not restate any character's biography, personality, or arc — every row below is a pointer only.
 
 | Character | Zone | Documented In | Status |
 |---|---|---|---|
@@ -337,46 +250,7 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 | Aris | N/A (Fragment) | Series Bible Section 6 | ✅ Complete |
 | Coda | The Substrate | Series Bible Section 12 | ✅ Complete (reserved for Season Two) |
 
----
-
-## 15. Zone Documentation Index
-
-| Field | Value |
-|---|---|
-| **Purpose** | Point to where each of the megacity's four layers is documented |
-| **Owner** | Founder (Creative Director) |
-| **Primary Documents** | `bible/Fracture_Protocol_World_Bible_v1.1.md` Section 3 |
-| **Dependencies** | None |
-| **Status** | ✅ Complete (framework); 🔄 deep per-Zone detail is a living section |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Deep-dive one Zone per season of production focus, per Series Bible Section 12 |
-
-**Zone Tracker**
-
-| Zone | Function | Detail Level |
-|---|---|---|
-| Upper Grid | Authority governance infrastructure | Profiled |
-| Mid Zone | Civilian population layer | Profiled |
-| Lower Sector | Fracture zone; home to Ward Station Seven | Deepest detail (Series 01 setting) |
-| Unknown Layer | Unmapped; origin of Fractures | Deliberately undetailed — never fully explained by design |
-
----
-
-## 16. Creature / Anomaly Documentation Index
-
-| Field | Value |
-|---|---|
-| **Purpose** | Point to all Fragment/anomaly canon |
-| **Owner** | Founder (Creative Director) |
-| **Primary Documents** | World Bible Section 8 (Fragments), Section 5 (Fracture Anomaly Subjects) |
-| **Dependencies** | Section 13 (Fragment/Anomaly Registry, planned) |
-| **Status** | 🔄 In Progress — core categories defined; full catalog pending |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Expand as episodic needs arise |
-
-**Fragment/Anomaly Tracker**
+**Fragment / Anomaly tracker** (Fragments are near-character entities, not props — indexed here rather than in Section 10):
 
 | Entry | Category | Status |
 |---|---|---|
@@ -385,510 +259,455 @@ Consolidates Studio OS Section 17 (operational asset naming) and World Bible Sec
 | Aris | Named Fragment | Fully documented (Series Bible Section 6) |
 | The Hollow King | Named system-entity | Referenced/foreshadowed (Series Bible Episode 14); not yet formally defined in the World Bible — do not over-expand ahead of story need |
 
----
-
-## 17. Timeline Documentation Index
-
 | Field | Value |
 |---|---|
-| **Purpose** | Point to what's confirmed about the setting's history |
+| **Purpose** | Point to where every named character and Fragment/anomaly is documented, ahead of a dedicated Character Registry |
 | **Owner** | Founder (Creative Director) |
-| **Primary Documents** | World Bible Section 2 (The Fracture — Founding Event) |
-| **Dependencies** | None |
-| **Status** | 🔄 Deliberately minimal — the founding event's cause is permanent unresolved scaffolding, not a gap to fill |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | A detailed historical timeline was not carried over from the retired fantasy Bible — do not reintroduce one without founder sign-off, per the Master System Prompt's "reject unauthorized expansions" rule |
+| **Dependencies** | Section 10 (Prop Index shares the same registry-planned pattern), Section 16 (Naming Convention Reference) |
+| **Related Documents** | Series Bible, Master System Prompt Section 4, World Bible Sections 5, 8, 14 (Character Creation Rules) |
+| **Status** | 🔄 In Progress — documented inline; standalone Character/Fragment Registry not yet built |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-## 18. Power System Documentation Index
+## 9. Environment Document Index
+
+| Zone | Function | Documented In |
+|---|---|---|
+| Upper Grid | Authority governance infrastructure | World Bible Section 3; Art Bible `environment-design-rules.md` |
+| Mid Zone | Civilian population layer | World Bible Section 3; Art Bible `environment-design-rules.md` |
+| Lower Sector | Fracture zone; home to Ward Station Seven (Series 01 primary setting) | World Bible Section 3, Section 6; Art Bible `environment-design-rules.md` |
+| Unknown Layer | Unmapped; origin of Fractures — deliberately undetailed by design | World Bible Section 2, Section 3 |
 
 | Field | Value |
 |---|---|
-| **Purpose** | Point to all Signal/Cipher-work/Fragment-Sync/Static-Reading/Root Artifact canon |
+| **Purpose** | Point to where each of the megacity's four layers is documented |
 | **Owner** | Founder (Creative Director) |
-| **Primary Documents** | World Bible Sections 7–11 |
 | **Dependencies** | None |
-| **Status** | ✅ Complete (framework, now three disciplines); 🔄 catalog detail (named Root Artifacts) is living |
-| **Version** | 1.1 |
+| **Related Documents** | World Bible Section 3, Art Bible `environment-design-rules.md` |
+| **Status** | ✅ Complete (framework); deep per-Zone story detail is living |
 | **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Root Artifact Registry (Section 13) will house individually named artifacts as they're introduced; Static-Reading (World Bible Section 7) is rare enough that Coda (Section 12/14) is currently its only named practitioner |
 
 ---
 
-## 19. Story Documentation Index
+## 10. Prop Index
+
+No individually named props or Root Artifacts exist in canon yet. This index will populate the moment one is introduced in a script.
+
+| Entry | Type | Status |
+|---|---|---|
+| — | Named Root Artifact | None named yet |
+
+**Planned companion document:** a Cipher Glyph Companion (detailed visual glyph designs implementing Art Bible `color-language.md`/`system-interference-visual-rules.md`) is planned to begin once Art production starts — it will be indexed here and in Section 5 (Bible Index) the day it's created.
 
 | Field | Value |
 |---|---|
-| **Purpose** | Point to all series/story-level documentation |
-| **Owner** | Founder (Creative Director / Head Writer) |
-| **Primary Documents** | `series/01-the-fracture-protocol/Series_Bible_v1.1.md` |
-| **Dependencies** | Section 6 (Documentation Hierarchy) |
-| **Status** | 🔄 In Progress — Series 01 fully outlined; scripts not yet written |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Each future series gets its own `series/{NN}-{slug}/` folder; add to Master Navigation Index (Section 3) on creation |
+| **Purpose** | Point to named prop/Root Artifact canon once it exists |
+| **Owner** | Founder (Creative Director) |
+| **Dependencies** | Section 11 (Asset Registry Index — planned Root Artifact Registry) |
+| **Related Documents** | World Bible Section 11 (Root Artifacts); Art Bible `materials-and-textures.md` (Root Artifact Exception); Production Bible Section 5 (prop file naming) |
+| **Status** | 📋 Planned — populates on first named prop |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-## 20. Production Documentation Index
+## 11. Asset Registry Index
 
 | Field | Value |
 |---|---|
-| **Purpose** | Point to production pipeline documentation |
-| **Owner** | Founder → future Animation/Editor leads |
-| **Primary Documents** | `production-os/Production_OS_v1.0.md` (department SOPs, pipeline, QA, metrics); Studio OS Section 13 (company-level pipeline policy) |
-| **Dependencies** | Section 19 (scripts must exist before production) |
-| **Status** | ✅ Complete (manual); ⬜ no assets produced against it yet |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | `/production/` folder to be created when Episode S01E01 enters storyboard stage (Production OS Section 8) |
+| **Purpose** | Track visual/production assets (characters, environments, props) once they exist |
+| **Owner** | Founder → future Animation Lead |
+| **Dependencies** | Production Bible Section 7 (Asset Management — defines the Asset Registry's lifecycle: creation, review, approval, revision, retirement, archival) |
+| **Related Documents** | Production Bible Section 7, Production OS Section 28 |
+| **Status** | ⬜ Not Started — no assets produced yet |
+| **Last Updated** | 2026-07-07 |
+
+**Planned registries** (populate at the trigger noted, per Production Bible Section 7 — no reusable asset is built without checking this first):
+
+| Registry | Trigger to Begin |
+|---|---|
+| Character Registry | Cast grows beyond the Series 01 core (Kael + the six Section 6 supporting cast) |
+| Root Artifact Registry | First named Root Artifact appears in a script |
+| Fragment/Anomaly Registry | Production needs detail beyond World Bible Sections 8, 10 |
 
 ---
 
-## 21. Prompt Library Index
+## 12. Prompt Library Index
 
 | Field | Value |
 |---|---|
 | **Purpose** | Track reusable AI prompts for visual generation (and, in future, script/voice) |
 | **Owner** | Founder → future role owners per prompt category |
-| **Primary Documents** | `mythic-forge-art-bible/prompt-library.md`; Studio OS Section 16; Production OS Sections 34–35 |
-| **Dependencies** | None |
-| **Status** | 🔄 In Progress — visual prompt templates complete (Kael base, emotion modifiers, world, thumbnail); script/voice prompts not yet started |
-| **Version** | 2.0 (visual templates) |
+| **Current Version** | 2.0 |
+| **Status** | 🔄 In Progress — visual templates complete; script/voice prompts not started |
+| **Locked or Living** | Locked (base templates, per Master System Prompt Section 9) |
+| **Dependencies** | Master System Prompt Section 9 (verbatim base prompts) |
+| **Related Documents** | Production Bible Sections 8–10 |
+| **Repository Location** | `mythic-forge-art-bible/prompt-library.md` |
 | **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | First script/voice prompt entries expected once Season One production begins |
 
-**Prompt Tracker**
+| Prompt Category | Status |
+|---|---|
+| Kael Base Prompt | ✅ Complete |
+| Emotion Modifiers | ✅ Complete |
+| World Prompt Template | ✅ Complete |
+| Thumbnail Prompt Template | ✅ Complete |
+| Script drafting prompts | ⬜ Not Started |
+| Voice generation prompts | ⬜ Not Started |
 
-| Prompt Category | File | Status |
-|---|---|---|
-| Kael Base Prompt | `mythic-forge-art-bible/prompt-library.md` | ✅ Complete |
-| Emotion Modifiers | `mythic-forge-art-bible/prompt-library.md` | ✅ Complete |
-| World Prompt Template | `mythic-forge-art-bible/prompt-library.md` | ✅ Complete |
-| Thumbnail Prompt Template | `mythic-forge-art-bible/prompt-library.md` | ✅ Complete |
-| Script drafting | `studio-os/prompts/scripts.md` | ⬜ Not Started |
-| Voice generation | `studio-os/prompts/voice.md` | ⬜ Not Started |
+This Wiki does not reproduce the templates themselves — they're canon-locked verbatim in the Master System Prompt and fully detailed with modifiers/failure-modes in `prompt-library.md`. Open that file directly.
 
 ---
 
-## 22. Asset Library Index
+## 13. Proposal Vault Index
 
 | Field | Value |
 |---|---|
-| **Purpose** | Track visual/production assets once they exist |
-| **Owner** | Founder → future Animation Lead |
-| **Primary Documents** | Studio OS Section 19 |
-| **Dependencies** | Section 20 |
-| **Status** | ⬜ Not Started |
-| **Version** | N/A |
+| **Purpose** | Non-canon archive of future ideas — zero authority until the creator explicitly approves an entry |
+| **Owner** | Founder (Creative Director) |
+| **Current Version** | 1.0 |
+| **Status** | 🔄 7 entries pending decision |
+| **Locked or Living** | N/A — every entry is Proposed, not canon, by definition |
+| **Dependencies** | Master System Prompt Section 12 (Rule 5, Proposal Workflow) |
+| **Related Documents** | Master System Prompt Section 13 (Founder Override Protocol governs promotion to canon) |
+| **Repository Location** | `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` |
 | **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Populate once first character reference sheets are produced |
 
-**Asset Tracker**
+**Current entries** (status only — open the Vault directly for each entry's full Purpose/Impact/Recommendation):
 
-| Asset | Type | Status |
+| # | Entry | Logged |
 |---|---|---|
-| — | — | No assets produced yet |
+| 1 | A Hidden Organization Secretly Controlling the Authority System | 2026-07-06 |
+| 2 | Currency & Economic System | 2026-07-06 |
+| 3 | Formalize "Authority Central" | 2026-07-06 |
+| 4 | Named Locations | 2026-07-06 |
+| 5 | Zone Enforcement Beyond Ward Division | 2026-07-06 |
+| 6 | Mid Zone Daily Life / Culture Note | 2026-07-06 |
+| 7 | Continuum Recovery Group (new faction) | 2026-07-06 |
+
+All seven remain **Proposed — Not Canon**, awaiting an explicit Founder Override Command (Master System Prompt Section 13) before any could enter canon.
 
 ---
 
-## 23. Brand Asset Index
+## 14. Archive Index
+
+Nothing in this repository is ever deleted outright — superseded and retired material is preserved, either in git history or in a clearly marked retired state.
+
+| Retired Item | Superseded By | Where It Lives |
+|---|---|---|
+| Fantasy-era "Mythic Bible" (Shattered Realms cosmology, all versions) | Master System Prompt v1.0+ (The Fracture Protocol) | Git history only |
+| Fantasy-era "True Reality Codex" (nested-reveal structure) | Master System Prompt v1.0 (no nested reveal; sci-fi overt from Episode 1) | Git history only |
+| Fantasy-era Series Bible versions ("Kael: The Shattered Realms") | Series Bible v1.0+ (The Fracture Protocol) | Git history only |
+| Fantasy-era Art Bible content (Seven Realms palette, magic-visual-rules.md, etc.) | Art Bible v2.0+ per file | Git history only; each current file's changelog documents what it replaced |
+
+For production-asset archival going forward (retired character designs, deprecated prompts, superseded episode exports), see Production Bible Section 14 (Archive & Preservation) — that document defines the live process; this index only tracks documentation-level retirements.
 
 | Field | Value |
 |---|---|
-| **Purpose** | Track studio branding assets (logo, wordmark, color system) |
+| **Purpose** | Track what's been retired and where to find it if needed |
 | **Owner** | Founder |
-| **Primary Documents** | Studio OS Section 4 (Brand Personality) |
-| **Dependencies** | None |
-| **Status** | ⬜ Not Started |
-| **Version** | N/A |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | A formal brand asset kit is a reasonable Phase 1 deliverable per Studio OS Section 28 |
-
-**Brand Files Tracker**
-
-| File | Type | Status |
-|---|---|---|
-| — | — | No brand files produced yet |
+| **Dependencies** | Production Bible Section 14 |
+| **Status** | ✅ Complete (documentation retirements); 📋 asset-level archive not yet populated |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-## 24. Music & Audio Library
+## 15. Folder Structure Index
+
+**Current, on-disk structure:**
+
+```
+/                                    → this Wiki (README.md)
+/bible/                              → Master System Prompt, World Bible, Proposal Vault
+/studio-os/                          → Studio OS
+/production-os/                      → Production OS
+/production-bible/                   → Production Bible
+/mythic-forge-art-bible/             → Art Bible (11 files)
+/series/
+  /01-the-fracture-protocol/         → Series 01 Bible and future scripts
+```
+
+**Planned, not yet created** (per Section 11 above and Production Bible Section 4 — created only when real content exists for them, never scaffolded speculatively):
+
+```
+/registries/     → character, Root Artifact, and Fragment/Anomaly trackers
+/scripts/        → episode scripts, by season/arc
+/production/     → storyboards, VO, footage, art
+/publishing/     → metadata, thumbnails, SEO records
+```
+
+For the fully detailed future production-asset tree (episodes/assets/audio/prompts/thumbnails/exports/archives), see Production Bible Section 4 — this index does not duplicate it.
 
 | Field | Value |
 |---|---|
-| **Purpose** | Track compositions, licenses, and Zone-specific musical motifs |
-| **Owner** | Founder → future Audio/Voice Lead |
-| **Primary Documents** | Studio OS Section 20 |
-| **Dependencies** | Section 20 |
-| **Status** | ⬜ Not Started |
-| **Version** | N/A |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | `publishing/audio-licenses.md` to be created with first production pass (Studio OS Section 20) |
-
----
-
-## 25. Voice Library
-
-| Field | Value |
-|---|---|
-| **Purpose** | Track casting, direction notes, and pronunciation guides per character |
-| **Owner** | Founder → future Voice Lead |
-| **Primary Documents** | Studio OS Section 21 |
-| **Dependencies** | Section 14 (Character Documentation Index) |
-| **Status** | ⬜ Not Started |
-| **Version** | N/A |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | First entries expected alongside Season One VO recording |
-
----
-
-## 26. Thumbnail Library
-
-| Field | Value |
-|---|---|
-| **Purpose** | Track thumbnail assets and A/B test results per episode |
-| **Owner** | Founder → future Publishing/SEO Owner |
-| **Primary Documents** | Studio OS Section 22; `mythic-forge-art-bible/prompt-library.md` (Thumbnail Prompt Template) |
-| **Dependencies** | Section 19 |
-| **Status** | ⬜ Not Started |
-| **Version** | N/A |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Populate starting with S01E01's release |
-
----
-
-## 27. Animation Library
-
-| Field | Value |
-|---|---|
-| **Purpose** | Track finished animation assets per episode |
-| **Owner** | Founder → future Animation Lead |
-| **Primary Documents** | Studio OS Section 13, Section 19 |
-| **Dependencies** | Section 20 |
-| **Status** | ⬜ Not Started |
-| **Version** | N/A |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | — |
-
----
-
-## 28. Marketing Documentation
-
-| Field | Value |
-|---|---|
-| **Purpose** | Track launch plans, campaign copy, and cross-platform promotion |
-| **Owner** | Founder → future Community Manager |
-| **Primary Documents** | Studio OS Section 4 (Brand Personality), Section 11 (YouTube Strategy) |
-| **Dependencies** | Section 23 (Brand Asset Index) |
-| **Status** | ⬜ Not Started |
-| **Version** | N/A |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | First marketing documentation expected ahead of S01E01 launch |
-
-**Marketing Tracker**
-
-| Campaign/Asset | Status |
-|---|---|
-| — | Nothing produced yet |
-
----
-
-## 29. Analytics Documentation
-
-| Field | Value |
-|---|---|
-| **Purpose** | Track channel/content performance once published |
-| **Owner** | Founder → future Publishing/SEO Owner |
-| **Primary Documents** | Studio OS Section 24 |
-| **Dependencies** | Section 30 (Publishing Documentation) |
-| **Status** | ⬜ Not Started — no content published yet |
-| **Version** | 1.0 (process only) |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Activate the Weekly/Monthly review cadence (Sections 35–36) the day S01E01 publishes |
-
----
-
-## 30. Publishing Documentation
-
-| Field | Value |
-|---|---|
-| **Purpose** | Track release metadata, SEO records, and cross-format release sequencing |
-| **Owner** | Founder → future Publishing/SEO Owner |
-| **Primary Documents** | Studio OS Sections 12, 23 |
-| **Dependencies** | Section 20 |
-| **Status** | ⬜ Not Started |
-| **Version** | N/A |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | `/publishing/` folder to be created alongside the first scheduled release |
-
----
-
-## 31. Automation Documentation
-
-| Field | Value |
-|---|---|
-| **Purpose** | Document any scripted/automated tooling (publishing pipelines, batch asset processing, etc.) |
+| **Purpose** | Define where every category of file belongs |
 | **Owner** | Founder (COO) |
-| **Primary Documents** | None yet — new category, not covered explicitly by Studio OS v1.0 |
-| **Dependencies** | Section 20, Section 30 |
-| **Status** | ⬜ Not Started |
-| **Version** | N/A |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Once any automation exists (e.g., scheduled publishing, batch rendering), document it here before relying on it operationally |
+| **Dependencies** | Production Bible Section 4 |
+| **Status** | 🔄 In Progress — core folders exist; production/publishing/registries not yet created |
+| **Last Updated** | 2026-07-07 |
 
-**Automation Tracker**
+---
 
-| Automation | Purpose | Status |
+## 16. Naming Convention Reference
+
+The authoritative naming convention for production assets is **Production Bible Section 5** — this index does not duplicate its table, only points to it.
+
+For documentation and in-world terminology naming specifically:
+
+| Asset Type | Convention | Authoritative Source |
 |---|---|---|
-| — | — | None built yet |
-
----
-
-## 32. AI Workflow Documentation
-
-| Field | Value |
-|---|---|
-| **Purpose** | Document how AI tools are used across writing, art, and voice production, and the guardrails around them |
-| **Owner** | Founder (Creative Director) |
-| **Primary Documents** | Studio OS Section 5 (Creative Philosophy — Originality Decision Framework), Master System Prompt Section 10 (Consistency Enforcement System) |
-| **Dependencies** | Section 21 |
-| **Status** | 🔄 In Progress — governing principle defined (AI drafts, never auto-approves; Master System Prompt rejects unauthorized expansions); prompt-level detail growing |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Every AI-assisted deliverable must still pass the Originality Check before entering canon — this rule should never be relaxed as tooling scales |
-
----
-
-## 33. Quality Assurance Documentation
+| Bible/process document | `{Document_Name}_v{X.X}.md` | Studio OS Section 30 |
+| Series document | `series/{NN}-{series-slug}/{Document_Name}_v{X.X}.md` | Studio OS Section 17 |
+| In-world terminology | Follow the Terminology Reference | World Bible Section 13 |
+| Production assets (all types) | See Production Bible Section 5 in full | Production Bible Section 5 |
 
 | Field | Value |
 |---|---|
-| **Purpose** | Track the pre-publish QA checklist and its pass/fail history |
-| **Owner** | Founder → future QA Owner |
-| **Primary Documents** | Studio OS Section 14 |
-| **Dependencies** | Section 20 |
-| **Status** | ✅ Complete (checklist defined); ⬜ no items run through it yet |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | First real QA pass expected on S01E01 |
-
----
-
-## 34. Review Workflow
-
-| Field | Value |
-|---|---|
-| **Purpose** | Define how canon changes and document revisions get approved |
-| **Owner** | Founder (Creative Director) |
-| **Primary Documents** | Master System Prompt Section 10, Studio OS Section 18 (Lore Documentation Standards) |
-| **Dependencies** | Section 7 (Source of Truth Rules) |
+| **Purpose** | One entry point for every naming question, pointing to whichever document actually owns the answer |
+| **Owner** | Founder (COO) |
+| **Dependencies** | Production Bible Section 5, World Bible Section 13 |
 | **Status** | ✅ Complete |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | As more writers join, add a designated second reviewer for Locked-section changes |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-## 35. Sprint Planning
+## 17. Document Dependency Map
+
+```
+Master System Prompt
+  └── World Bible
+        └── Series Bible (per series)
+              └── Art Bible
+        └── Studio OS
+              └── Production OS
+              └── Production Bible
+  └── Proposal Vault (outside the hierarchy — see Section 3)
+
+This Wiki (README.md)
+  └── depends on every document above being current;
+      indexes all of them, authoritative on none of them
+```
+
+**Reading this map:** an arrow means "must never contradict the document above it, and is checked against it before anything changes." If you're editing any document, check what points *at* it (its dependents) before assuming a change is isolated.
 
 | Field | Value |
 |---|---|
-| **Purpose** | Weekly planning cadence and template |
-| **Owner** | Founder (COO) |
-| **Primary Documents** | Studio OS Section 25 |
-| **Dependencies** | None |
-| **Status** | ✅ Complete (process defined); ⬜ not yet run in practice |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Begin logging actual Weekly Sprint Logs once production starts |
+| **Purpose** | Show at a glance what breaks if a given document changes |
+| **Owner** | Founder (Creative Director) |
+| **Dependencies** | Section 3 (Canon Hierarchy) |
+| **Status** | ✅ Complete |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-## 36. Monthly Review System
+## 18. Version History Index
 
-| Field | Value |
-|---|---|
-| **Purpose** | Monthly retro/strategy cadence and agenda |
-| **Owner** | Founder |
-| **Primary Documents** | Studio OS Section 26 |
-| **Dependencies** | Section 35 |
-| **Status** | ✅ Complete (process defined); ⬜ not yet run in practice |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | First Monthly Review should audit this Knowledge Base's Document Status Tracker (Section 10) for drift |
+**Master document table** — the single source for every document's current version and status. When in doubt about what's live, check here first.
 
----
-
-## 37. Quarterly Planning
-
-| Field | Value |
-|---|---|
-| **Purpose** | Longer-horizon planning cadence bridging Monthly Review and the annual Vision check-in |
-| **Owner** | Founder |
-| **Primary Documents** | None yet — **identified gap**, not currently defined in Studio OS v1.0 |
-| **Dependencies** | Section 36 |
-| **Status** | ⬜ Not Started |
-| **Version** | N/A |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Recommend adding a "Quarterly Planning" section to Studio OS v1.1, sitting between Monthly Review (Section 26) and the annual Vision/Mission check-in referenced in Studio OS Section 1 |
-
----
-
-## 38. Change Log System
-
-| Field | Value |
-|---|---|
-| **Purpose** | Standardize how every document records its own history |
-| **Owner** | Founder (COO) |
-| **Primary Documents** | Studio OS Section 30 |
-| **Dependencies** | Section 8 (Version Control Standards) |
-| **Status** | ✅ Complete — already in active use (see changelog blocks in every completed document) |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | This Knowledge Base's own changelog is at the bottom of this document |
-
----
-
-## 39. Risk Register
-
-| Risk | Category | Likelihood | Impact | Mitigation |
+| Document | Version | Status | Locked/Living | Last Updated |
 |---|---|---|---|---|
-| Single-founder bottleneck across all creative and operational decisions | Operational | High | High | Studio OS Section 29 role map defines hand-off points as hiring begins |
-| Documentation drift (a doc changes but the Knowledge Base index isn't updated) | Documentation | Medium | Medium | Section 3 and Section 10 must be updated the same day any document changes |
-| Canon contradiction between a future Series Bible and the World Bible | Creative | Medium | High | Section 7 (Source of Truth Rules) and Master System Prompt Section 10 (Consistency Enforcement System) |
-| Originality drift from AI-assisted drafting | Legal / Creative | Medium | High | Studio OS Section 5 Originality Decision Framework is mandatory, not optional, on every AI-assisted asset |
-| Uncontrolled creative expansion (new factions/characters/systems introduced without sign-off) | Creative | Medium | Medium | Master System Prompt Section 10 explicitly rejects unauthorized expansions |
-| Platform dependency (YouTube algorithm/policy changes) | Business | Medium | Medium | Studio OS Section 28 phased roadmap treats YouTube as Phase 1 of several planned formats, not the sole channel |
-| IP exposure before formal registration | Legal | Low (pre-revenue) | High | Studio OS Section 27 — git history serves as a timestamped authorship record until formal registration is justified |
+| Studio Wiki (this document) | 3.0 | ✅ Complete | Mixed | 2026-07-07 |
+| Fracture Protocol Master System Prompt | 1.2 | ✅ Complete | Locked | 2026-07-07 |
+| Fracture Protocol Proposal Vault | 1.0 | 🔄 7 entries pending | N/A | 2026-07-06 |
+| Fracture Protocol World Bible | 1.1 | ✅ Complete | Mixed | 2026-07-06 |
+| The Fracture Protocol Series Bible | 1.1 | ✅ Complete | Mixed | 2026-07-06 |
+| Mythic Forge Art Bible | 3.0 (index) | ✅ Complete | Mixed | 2026-07-06 |
+| Studio OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
+| Production OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
+| Production Bible | 1.0 | ✅ Complete | Mixed | 2026-07-07 |
+
+**Production status** (kept here, not duplicated in Production OS's own KPI Dashboard — Production OS Section 45 is the authoritative live tracker once episodes enter the pipeline):
+
+| Milestone | State |
+|---|---|
+| Season One outline | ✅ Complete (20/20 episodes, Series Bible Section 11) |
+| Season One scripts | ⬜ 0/20 written |
+| Season One production | ⬜ Not started |
+| Season One publishing | ⬜ Not started |
+
+**Per-document changelogs are not restated here** — every document ends with its own changelog block; this table only tells you the current version so you know which changelog entry is "latest."
 
 | Field | Value |
 |---|---|
-| **Purpose** | Track known risks to the studio and documentation ecosystem in one place |
+| **Purpose** | Single place to check current version/status of anything without opening every document |
 | **Owner** | Founder (COO) |
-| **Primary Documents** | Studio OS Sections 5, 27, 29; Master System Prompt Section 10 |
-| **Dependencies** | None |
-| **Status** | ✅ Complete (initial register); 🔄 living — review every Monthly Review |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Add a "Date Identified" and "Date Resolved" column once the register has enough entries to need chronological tracking |
+| **Dependencies** | Studio OS Section 30 (Version Control) |
+| **Status** | ✅ Complete |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-## 40. Future Expansion Roadmap
+## 19. Glossary
+
+This is a glossary of **Wiki and production-process terms** — it does not define in-world/canon terminology (Signal, Cipher-work, Fragment, Breach, etc.). For those, go to **World Bible Section 13 (Terminology Reference)** — this Wiki never restates them.
+
+| Term | Meaning |
+|---|---|
+| **Locked** | Founder/Creative Director sign-off required to change this section |
+| **Living / Living Section** | May evolve through normal use without a full sign-off, as long as it doesn't contradict Locked material |
+| **Canon** | Official, approved story/world fact — anything in the Bible tier (Section 5) that isn't tagged Proposed |
+| **Proposed / Proposal** | An idea logged in the Proposal Vault; has zero canon authority until explicitly approved |
+| **Drift Detection** | The check (Master System Prompt Section 12, Rule 3) that flags whether a requested change adds something new or contradicts something locked |
+| **Founder Override Command** | An explicit creator phrase (Master System Prompt Section 13) required before any structural canon change is implemented |
+| **Change Impact Report** | The 7-point pre-change summary (Master System Prompt Section 13) required before a canon change is made |
+| **Minor / Major Canon Update** | The two-tier classification (Master System Prompt Section 13) determining how much process a canon change requires |
+| **Stage Gate** | The approval checkpoint between two production pipeline stages (Production Bible Section 3) |
+| **Asset Registry** | The living tracker of every produced asset's status, version, and approval (Production Bible Section 7) |
 
 | Field | Value |
 |---|---|
-| **Purpose** | Point to where long-term studio and canon roadmaps already live, rather than duplicating them here |
-| **Owner** | Founder (Creative Director + COO) |
-| **Primary Documents** | Studio OS Section 28 (Phased Roadmap), Series Bible Section 12 (Future Season Plans), Series Bible Section 15 (Running Mysteries) |
-| **Dependencies** | All prior sections |
-| **Status** | ✅ Complete (as an index — the underlying roadmaps themselves are living) |
-| **Version** | 1.0 |
-| **Last Updated** | 2026-07-06 |
-| **Future Expansion Notes** | Any expansion here must be checked against the Master System Prompt's "reject unauthorized expansions" rule before being added |
+| **Purpose** | Define the process vocabulary this Wiki and the process documents use, without duplicating in-world terminology |
+| **Owner** | Founder |
+| **Dependencies** | World Bible Section 13 (in-world terms — separate, not duplicated here) |
+| **Status** | ✅ Complete |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-## Dashboards
+## 20. FAQ
 
-### Studio Progress
+**Where do I find out what a character/Zone/faction/power is?**
+World Bible or Series Bible — see the Character/Environment indices (Sections 8–9) for the exact pointer.
 
-```
-Vision & Values .......... [██████████] 100%  ✅ Complete
-Master System Prompt ..... [██████████] 100%  ✅ Complete (v1.2, absolute canon lock + Founder Override Protocol)
-Creative Canon ............ [██████████] 100%  ✅ Complete (World Bible v1.1)
-Series 01 Story Bible ...... [██████████] 100%  ✅ Complete (v1.1)
-Team / Roles ............... [██░░░░░░░░]  20%  🔄 Solo founder; roles mapped, unfilled
-Production Pipeline ........ [░░░░░░░░░░]   0%  ⬜ Not started
-Publishing ................. [░░░░░░░░░░]   0%  ⬜ Not started
-```
+**Can I edit a Locked section?**
+No, not without founder/Creative Director sign-off. Living sections can generally be extended without one, as long as nothing Locked is contradicted (Studio OS Section 18).
 
-### Documentation Progress
+**I think something's missing from canon — what do I do?**
+Do not add it directly. Log it in the Proposal Vault (Section 13) using the Status/Purpose/Impact/Recommendation format. It has no effect on canon until explicitly approved.
 
-```
-Foundational Docs (KB, Master Prompt, OS, World Bible, Series Bible) [██████████] 100%  ✅ 6 / 6 complete
-Registries (Character, Root Artifact, Fragment/Anomaly)              [░░░░░░░░░░]   0%  ⬜ 0 / 3 planned started
-Production Companion Docs                                            [░░░░░░░░░░]   0%  ⬜ Not started
-```
+**How do I propose a new idea?**
+Same answer as above — the Proposal Vault is the only entry point for new canon ideas, regardless of how confident you are in it.
 
-### Production Progress
+**Does this change affect canon?**
+If it touches a character, faction, institution, technology, power mechanic, location, terminology, timeline, or world structure — yes, and it needs Drift Detection (Master System Prompt Section 12, Rule 3) before anything is written down as fact.
 
-```
-Season One Scripts (S01E01–S01E20) ... [░░░░░░░░░░]   0 / 20 written
-Storyboards ........................... [░░░░░░░░░░]   0 / 20
-Voice Recording ........................ [░░░░░░░░░░]   0 / 20
-Animation .............................. [░░░░░░░░░░]   0 / 20
-Edited/Final Episodes .................. [░░░░░░░░░░]   0 / 20
-```
+**Where do I go to understand how an episode actually gets made?**
+Production Bible Section 3 (Production Pipeline) for the stage-by-stage flow; Production OS for department-level SOP detail.
 
-### Publishing Progress
+**Which document is "more right" if two seem to disagree?**
+Section 3 (Canon Hierarchy) or Section 17 (Document Dependency Map) — never guess; a real disagreement between documents is itself a bug to flag, not a call to make yourself.
 
-```
-Channel Setup .......... ⬜ Not documented in this repository
-Upload Cadence Target ... 🔄 Defined (Studio OS Section 11) — not yet active
-Episodes Published ...... [░░░░░░░░░░]   0 / 20 (Season One)
-```
+**I'm not sure which document to open at all.**
+Section 22 (Search Guide).
 
-### Asset Progress
-
-```
-Brand Assets ............ [░░░░░░░░░░]   0%  ⬜ Not started
-Character Reference Sheets [░░░░░░░░░░]   0 / 8 (Series 01 named cast)
-Music/Audio ............. [░░░░░░░░░░]   0%  ⬜ Not started
-Thumbnails .............. [░░░░░░░░░░]   0 / 20
-```
-
-### Episode Progress (Season One — The Fracture Protocol)
-
-```
-Outlined ................ [██████████] 100%  20 / 20  ✅ Complete (Series Bible Section 11)
-Scripted ................. [░░░░░░░░░░]   0 / 20  ⬜ Not started
-Produced ................. [░░░░░░░░░░]   0 / 20  ⬜ Not started
-Published ................. [░░░░░░░░░░]   0 / 20  ⬜ Not started
-```
-
-### Series Progress
-
-```
-Series 01 — The Fracture Protocol (protagonist: Kael)
-  World canon ........... [██████████] 100%  ✅ Complete
-  Series Bible .......... [██████████] 100%  ✅ Complete
-  Season One outline .... [██████████] 100%  ✅ Complete (20 / 20 episodes)
-  Season One production . [░░░░░░░░░░]   0%  ⬜ Not started
-
-Series 02+ .............. ⬜ Not yet planned (see Section 40)
-```
+| Field | Value |
+|---|---|
+| **Purpose** | Answer the questions a contributor asks most often, in one place |
+| **Owner** | Founder |
+| **Dependencies** | Sections 3, 8, 9, 13, 17, 22 |
+| **Status** | ✅ Complete |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-## Master Trackers
+## 21. Quick Links
 
-### Lore Tracker (Locked Cosmology Entries)
+| I need... | Go to |
+|---|---|
+| Absolute canon lock | `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` |
+| World mechanics | `bible/Fracture_Protocol_World_Bible_v1.1.md` |
+| Season One story/cast/episodes | `series/01-the-fracture-protocol/Series_Bible_v1.1.md` |
+| Visual rules | `mythic-forge-art-bible/visual-development-guide.md` |
+| Reusable AI prompts | `mythic-forge-art-bible/prompt-library.md` |
+| Company process/values | `studio-os/Studio_OS_v1.0.md` |
+| Department-level SOPs | `production-os/Production_OS_v1.0.md` |
+| Production philosophy/pipeline/checklists | `production-bible/Fracture_Protocol_Production_Bible_v1.0.md` |
+| To propose a new idea | `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` |
+| "Which document wins?" | Section 3 above |
 
-| Entry | Type | Source | Status |
-|---|---|---|---|
-| The Fracture Protocol / Authority System | Core cosmology | Master System Prompt Sections 3–5; World Bible Sections 2, 4 | ✅ Locked |
-| Megacity Structure (4 layers) | Core cosmology | Master System Prompt Section 5; World Bible Section 3 | ✅ Locked |
-| Signal / Cipher-work / Fragment-Sync / Static-Reading | Power system | World Bible Section 7 | ✅ Locked (three disciplines, Two-Discipline Cap) |
-| Fragments / Root Artifacts | Power system | World Bible Sections 8, 11 | ✅ Locked |
-| The Reassembly theory | Ongoing mystery | World Bible Section 9; Series Bible Section 15 | 🔄 Deliberately unresolved |
-| The Salvage Line | Faction | World Bible Section 16 | 🔄 Living — new, founder-approved (Coda is its first named member) |
-| Kael's visual/age/anomaly-subject lock | Character canon | Master System Prompt Section 4 | ✅ Locked |
-
-### Episodes Tracker
-
-See **Episode Progress** dashboard above and Series Bible Section 11 for full per-episode detail (Title, Objective, Conflict, Growth, Twist, Cliffhanger).
-
-### Zones / Artifacts / Fragments / Prompts / Assets / Brand Files / Marketing / Automation Trackers
-
-See Sections 15, 16, 21–23, 28, 31 above — each carries its own tracker table to avoid duplicating the same data in two places.
+| Field | Value |
+|---|---|
+| **Purpose** | Fastest possible jump table for the most common destinations |
+| **Owner** | Founder |
+| **Dependencies** | None |
+| **Status** | ✅ Complete |
+| **Last Updated** | 2026-07-07 |
 
 ---
 
-*End of Mythic Forge Knowledge Base Version 2.0. This document is the home page — update its indexes and trackers the same day any other document changes.*
+## 22. Search Guide
+
+1. **Know the topic but not the document?** Check Sections 5–13 (the index sections) — each is scoped to one category (Bibles, Production, Studio OS, Characters, Environments, Props, Assets, Prompts, Proposals).
+2. **Know the document but not the section?** Every Bible/OS document has an internal numbered-section structure and its own table of contents at the top — open the file and scan its headers; section numbers are referenced consistently across this Wiki so a cross-reference like "World Bible Section 7" always means the same thing.
+3. **Looking for a specific term?** Grep the repository for the exact term first — in-world terms resolve fastest via World Bible Section 13 (Terminology Reference); process terms via Section 19 (Glossary) above.
+4. **Not sure if something exists yet?** Check Section 18 (Version History Index) for what's Complete vs. Planned vs. Not Started before assuming a gap needs filling.
+5. **Still stuck?** Section 20 (FAQ), then Section 3 (Canon Hierarchy) for "which document is authoritative on this."
+
+| Field | Value |
+|---|---|
+| **Purpose** | Teach the search strategy, not just list destinations |
+| **Owner** | Founder |
+| **Dependencies** | Sections 5–13, 18–20 |
+| **Status** | ✅ Complete |
+| **Last Updated** | 2026-07-07 |
+
+---
+
+## 23. Contributor Onboarding
+
+**Read in this order, regardless of your role:**
+
+1. This Wiki, Sections 1–4 (orientation + hierarchy).
+2. Master System Prompt — the whole document; it's short by design.
+3. World Bible — the whole document.
+4. Series Bible (whichever series you're working on).
+5. Art Bible `visual-development-guide.md` (master index), then whichever specific file your work touches.
+
+**Then, based on your role:**
+
+| Role | Read Next |
+|---|---|
+| Writer | Series Bible Sections 19–30 (writing/dialogue/pacing standards), Studio OS Section 5 (Originality Framework) |
+| Artist / Animator | Full Art Bible, Production Bible Sections 7–8 |
+| Voice/Audio | Production OS Sections 17–19, Production Bible Section 8 |
+| Editor/QA | Production Bible Sections 9, 11–13 |
+| Publishing/SEO | Studio OS Sections 10–12, 22–24; Production OS Sections 23–27 |
+
+**Before your first contribution touches anything Locked:** re-read Section 3 (Canon Hierarchy) and the Master System Prompt's Section 12–13 in full. This is not optional for any role — it's the one rule set every contribution is checked against regardless of department.
+
+| Field | Value |
+|---|---|
+| **Purpose** | Give a new contributor a fixed, role-aware reading order instead of an open-ended "read everything" |
+| **Owner** | Founder |
+| **Dependencies** | Sections 1–4 |
+| **Status** | ✅ Complete |
+| **Last Updated** | 2026-07-07 |
+
+---
+
+## 24. Maintenance Rules
+
+- This Wiki is updated **the same day** any indexed document changes — a new document, a version bump, a status change, or a retirement all require an update here before the change is considered complete (mirrors Production Bible Section 6, Version Control).
+- This Wiki never grows lore, character, or world content — if you find yourself about to restate something a Bible already says, stop and add a link instead (this is the single most important rule in this document).
+- New document types get a new index section, appended after Section 13 and before Section 14, with the same required fields (Document Name, Purpose, Owner, Version, Status, Locked/Living, Dependencies, Related Documents, Location, Last Updated) as every existing one.
+- A new series gets a row in Section 5 (Bible Index) and an entry in Section 17 (Document Dependency Map) the day its Series Bible is created.
+- Version this document the same way every other document is versioned (Studio OS Section 30): a structural reorganization (like this v3.0 rewrite) is a major bump; routine updates to an existing table are minor bumps.
+- Known open items (like the Production Bible/Production OS overlap, Section 6) stay visible here until the founder resolves them — they are never quietly dropped from the index.
+- **Repository branching workflow:** `main` holds published, current documentation. Substantial revisions (new document versions, major canon changes) are developed on a feature branch and merged via pull request so changes are reviewable before they become canon.
+- **Retired from this Wiki, not lost:** a standalone Risk Register and a Lore Tracker existed in the prior (v2.0) Knowledge Base structure. Both are out of scope for a pure navigation document under this rewrite's design philosophy — the Lore Tracker's content is now covered structurally by Sections 3 and 5; the Risk Register has no clean equivalent in the new structure and is recommended for relocation into Studio OS (which doesn't currently have one) rather than being silently dropped. Not yet implemented — flagged here per Section 25.
+
+| Field | Value |
+|---|---|
+| **Purpose** | Keep this Wiki from drifting out of date the way a navigation document quietly can |
+| **Owner** | Founder (COO) |
+| **Dependencies** | Studio OS Section 30 |
+| **Status** | ✅ Complete |
+| **Last Updated** | 2026-07-07 |
+
+---
+
+## 25. Final Validation
+
+1. **No canon introduced.** This document defines no character, faction, location, technology, power mechanic, or world fact — every substantive answer is a pointer to an existing Bible section, not a restatement of it.
+2. **No lore duplicated.** Character, environment, and prop entries (Sections 8–10) are pointer tables only (name, category, document, status) — no biography, personality, mechanic, or story detail is restated anywhere in this document.
+3. **Alignment with the Canon Governance System and Founder Override Protocol.** Section 3 (Canon Hierarchy) and Section 13 (Proposal Vault Index) both defer entirely to Master System Prompt Sections 12–13 for mechanics and never restate or reinterpret them; the FAQ (Section 20) directs every canon-adjacent question back to the Proposal Vault rather than answering it inline.
+4. **Compatible with all existing documents.** Every version and status listed (Section 18) was checked directly against each document's own header/changelog at time of writing; the new Production Bible (created in the prior session) is fully indexed (Sections 6, 21).
+5. **Structural future-proofing.** The index sections (5–13) are additive by design (Section 24) — a new series, a new registry, a new production document, or hundreds of new assets each get a new row or a new section without requiring this document's structure to change. Nothing here assumes a fixed number of episodes, characters, or contributors.
+6. **Open items carried forward, not hidden.** The Production Bible/Production OS overlap (Section 6) is the one unresolved structural question in the repository right now; this rewrite surfaces it rather than resolving it unilaterally, consistent with how it was originally flagged. The retired Risk Register (Section 24) is a second, smaller open item in the same category — content preserved by reference, relocation not yet implemented.
+
+---
+
+*End of Studio Wiki Version 3.0. This document is the home page — update it the same day any other document changes (Section 24).*
 
 ---
 
@@ -901,4 +720,5 @@ See Sections 15, 16, 21–23, 28, 31 above — each carries its own tracker tabl
 `[v2.0 — 2026-07-06] Founder-approved additive expansion: World Bible bumped to v1.1 (added Static-Reading as a third recognized discipline, and The Salvage Line as a new faction alongside Authority/Ward Division/the Reassembly); Series Bible bumped to v1.1 (added Coda, a Season Two supporting character — Salvage Line broker and Static-Reader — explicitly scoped as non-competing with Kael per System Rule 4). Season One's 20-episode outline is unchanged. Synced all cross-references, the Character Tracker, the Power System Documentation Index, and the Lore Tracker accordingly.`
 `[v2.0 — 2026-07-06] Phase 2 Finalization / Canon Governance pass: Master System Prompt bumped to v1.1 (permanent Canon Guardian role framing; added Section 12, Canon Governance System — Rules 1-6). Added the Fracture Protocol Proposal Vault v1.0 as a new document type (non-canon, currently empty — founder confirmed no existing canon required retroactive rollback). Reconciled Studio OS Section 18's separate Canon Change SOP to defer to the new Canon Governance System instead of maintaining a competing DRAFT-based process. Full-repo audit found and fixed residual fantasy-era terminology ("Realm," "Essence affinity," "the Kindling," Emberfall/Duskmarch examples) in Studio OS Sections 8, 10, 11, 17, 19, and 20, and one stale Two-Discipline Cap phrasing in the Series Bible that pre-dated Static-Reading. Verified all cross-referenced file paths resolve and all declared versions match file headers.`
 `[v2.0 — 2026-07-06] Full continuity audit (post Proposal Vault expansion to 7 entries): corrected two stale "Art Bible (10 files)" labels (Documentation Architecture Section 2, Master Navigation Index Section 3) to the correct "(11 files)," matching the Art Bible's own 11-file breakdown table which was already accurate. Fixed a wording contradiction in Section 6 (Documentation Hierarchy) where the Proposal Vault special-case note implied approved entries are "removed from Vault status" — reworded to match the Vault's own explicit rule that entries are never deleted, only marked resolved in place. Re-verified: no Proposal Vault entry content has leaked into any canon document; all cross-document version references match current file headers; no Locked-rule contradictions or duplicate rule sets found (Studio OS Section 18 and Series Bible Section 19/20 correctly restate rather than compete with Master System Prompt Section 12 and the World/System Rules).`
-`[v2.0 — 2026-07-06] Founder-authored permanent addition: Master System Prompt bumped to v1.2 (renamed `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md`), adding Section 13, Founder Override Protocol — explicit Founder Override Command phrases, a 7-point Change Impact Report format, Minor/Major Change Classification, an expanded 9-step Execution Workflow, and a 9-point Final Validation checklist, all cross-linked to and reconciled with the existing Section 12 Canon Governance System so the two read as one non-contradictory system. Propagated the version bump across every cross-reference repo-wide (Series Bible, World Bible, Studio OS, Production OS, Art Bible files, Proposal Vault, this document). Also caught and fixed several stale version mentions this same pass that a prior file-path-only sweep had missed: Document Status Tracker and Current Completed Documents tables still showed Master System Prompt as 1.1, the Proposal Vault's one-line summary still said "currently empty" despite 7 logged entries, the Art Bible summary still said "10-file," and the Studio Progress dashboard still displayed v1.0-era version tags for the Master System Prompt, World Bible, and Series Bible.`
+`[v2.0 — 2026-07-06] Founder-authored permanent addition: Master System Prompt bumped to v1.2 (renamed `Fracture_Protocol_Master_System_Prompt_v1.2.md`), adding Section 13, Founder Override Protocol — explicit Founder Override Command phrases, a 7-point Change Impact Report format, Minor/Major Change Classification, an expanded 9-step Execution Workflow, and a 9-point Final Validation checklist, all cross-linked to and reconciled with the existing Section 12 Canon Governance System so the two read as one non-contradictory system. Propagated the version bump across every cross-reference repo-wide. Also caught and fixed several stale version mentions a prior file-path-only sweep had missed: the Document Status Tracker and Current Completed Documents tables still showed Master System Prompt as 1.1, the Proposal Vault's one-line summary still said "currently empty" despite 7 logged entries, the Art Bible summary still said "10-file," and the Studio Progress dashboard still displayed v1.0-era version tags for the Master System Prompt, World Bible, and Series Bible.`
+`[v3.0 — 2026-07-07] Full structural rewrite per the "Studio Wiki" specification: reorganized from the prior 40-section Knowledge Base into the 25 required sections (Welcome through Final Validation), converted every document entry to the full required metadata fields (Purpose, Owner, Version, Status, Locked/Living, Dependencies, Related Documents, Repository Location, Last Updated), added the new Production Bible v1.0 to the Bible/Production indices, added a Prop Index and Document Dependency Map (neither existed before), consolidated the prior Document Status Tracker and Current Completed Documents tables into a single Version History Index, and removed duplicated progress-dashboard content in favor of pointing to Production OS Section 45 (KPI Dashboard) for live production tracking once it exists. No document version other than this one was changed by this rewrite; the Production Bible/Production OS overlap flagged in the prior session remains open and is now tracked in Section 6 and Section 25 of this document.`

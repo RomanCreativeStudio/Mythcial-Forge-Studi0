@@ -219,7 +219,7 @@ This document never defines its own canon-approval process. Anywhere production 
 ```
 
 **Rules:**
-- Nothing is created speculatively — a subfolder is created the first time real content exists for it, not in advance (matching Knowledge Base Section 4's existing rule).
+- Nothing is created speculatively — a subfolder is created the first time real content exists for it, not in advance (matching Studio Wiki Section 15's existing rule).
 - `/bibles/` holds documents only; binary production assets never live there.
 - Every asset folder (`characters/`, `environments/`, `props/`) separates the current `reference/` copy from `revisions/` — the reference copy is always the single generation anchor (Section 7).
 - `/archives/` never deletes; it is where superseded and retired material goes to remain recoverable (Section 14).
@@ -347,7 +347,7 @@ Draft → In Review → (Revision Requested → Draft, or) → Approved. An asse
 
 | Risk | Procedure |
 |---|---|
-| **Conflicting documents** (two documents appear to disagree) | Apply the Source of Truth Rules (Knowledge Base Section 7): Master System Prompt always wins; treat the lower-ranked document's content as the bug, not a decision point. Do not silently pick whichever is more convenient for the current stage. |
+| **Conflicting documents** (two documents appear to disagree) | Apply the Canon Hierarchy (Studio Wiki Section 3): Master System Prompt always wins; treat the lower-ranked document's content as the bug, not a decision point. Do not silently pick whichever is more convenient for the current stage. |
 | **Missing assets** (a needed reference doesn't exist yet) | Do not improvise a placeholder that could be mistaken for approved canon. Halt the dependent stage, route the asset need through Section 7 (Asset Management), and resume once it's Approved. |
 | **Inconsistent prompts** (a prompt drifts from its logged version, or two contributors use different unlogged variants) | Re-anchor to the Prompt Library's logged version (Art Bible `prompt-library.md`); log the drift and its fix in that file's changelog if the logged version itself needs correcting. |
 | **Version conflicts** (two contributors edit the same asset/document version in parallel) | The earlier-submitted, already-Approved version wins; the later edit is resubmitted as a new version against the current Approved baseline — never merged by guesswork. |
@@ -456,3 +456,4 @@ No option above has been applied. Two documents currently claim overlapping proc
 
 ### Changelog
 `[v1.0 — 2026-07-07] Initial Production Bible established per Phase 3A, Milestone 1: 15 sections covering production philosophy, studio organization, pipeline, folder structure, naming, version control, asset management, production standards, QA, risk management, creator review workflow, production readiness and episode completion checklists, and archive/preservation. Fulfills the "Production Bible (future, optional)" slot reserved in Master System Prompt Section 7. Introduces no new canon; all examples use neutral placeholders. Flagged, but did not resolve, a significant content overlap with the existing Production OS v1.0 (Section 15) — left as an explicit recommendation for founder decision.`
+`[v1.0 — 2026-07-07] Synced two internal cross-references to the Knowledge Base's rework into the Studio Wiki (v3.0): "Knowledge Base Section 4" (Section 4, Folder Structure) and "Knowledge Base Section 7" (Section 10, Risk Management) updated to "Studio Wiki Section 15" and "Studio Wiki Section 3" respectively.`

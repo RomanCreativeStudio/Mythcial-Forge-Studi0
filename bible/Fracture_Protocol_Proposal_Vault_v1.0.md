@@ -2,7 +2,7 @@
 ### Version 1.0
 
 **Classification:** Internal — Non-Canon Archive
-**Status:** This entire document is **Proposed — Not Canon**. Nothing in this file may influence any official document (Master System Prompt, World Bible, Series Bible, Art Bible, Studio OS, Production OS, Knowledge Base) until the creator explicitly approves a specific entry.
+**Status:** This entire document is **Proposed — Not Canon**. Nothing in this file may influence any official document (Master System Prompt, World Bible, Series Bible, Art Bible, Studio OS, Production OS, Production Bible, Studio Wiki) until the creator explicitly approves a specific entry.
 **Governed by:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` Section 12 (Canon Governance System), Rules 2 and 5.
 
 ---
@@ -118,3 +118,4 @@ Entries are never deleted once logged — a rejected or shelved proposal stays h
 `[v1.0 — 2026-07-06] Logged first entry: "A Hidden Organization Secretly Controlling the Authority System," flagged by Drift Detection (Master System Prompt Section 12, Rule 3) as adding a new organization with direct implications for a Locked System Rule. Awaiting creator decision.`
 `[v1.0 — 2026-07-06] Logged five gap-analysis entries per a "what's missing, improve it" request: Currency & Economic System, Formalize "Authority Central," Named Locations, Zone Enforcement Beyond Ward Division, and Mid Zone Daily Life/Culture Note. None implemented — Rule 1 (Creator Authority) requires explicit approval before any of these enter canon. All six entries now awaiting creator decision.`
 `[v1.0 — 2026-07-06] Logged a seventh entry, "Continuum Recovery Group," per a direct "create a new faction" request. Flagged by Drift Detection (Rule 3, adds a new organization) rather than implemented directly. Designed specifically to avoid overlap with all four existing organizations by occupying the one open lane (legal commercial interest) none of them cover.`
+`[v1.0 — 2026-07-07] Updated the protected-documents list to include the Production Bible (new) and to rename "Knowledge Base" to "Studio Wiki," matching that document's v3.0 rework. No entries changed.`
