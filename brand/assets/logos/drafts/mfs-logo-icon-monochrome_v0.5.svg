@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Monochrome Version
+  DRAFT v0.5 — FINAL OPTICAL POLISH (PRE-LOCK) — NOT YET MARKED APPROVED
+  Same refined silhouette and fracture as the v0.5 Dark Version, single color (Void Black),
+  per Brand Bible Section 3.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M15,25 L15,30 L32,44 L40,60 L24,74 L26,76 L82,76 L84,74 L70,60 L73,41 L81,41 L81,25 Z M46.92,28.8 L49.52,48.33 L50.53,50.02 L72.47,65.96 L75.41,61.92 L53.47,45.98 L54.48,47.67 L51.87,28.14 Z" fill="#0A0B0D" fill-rule="evenodd"/>
+  <path d="M72.47,65.96 L77.41,66.1 L81.22,69.23 L75.41,61.92 Z" fill="#0A0B0D"/>
+</svg>
