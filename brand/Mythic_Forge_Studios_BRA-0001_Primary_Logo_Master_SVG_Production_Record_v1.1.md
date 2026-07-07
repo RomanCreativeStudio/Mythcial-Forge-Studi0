@@ -1,8 +1,8 @@
 # BRA-0001 — Primary Logo Master SVG
-## Production Record v1.0
+## Production Record v1.1
 
 **Classification:** Internal — Brand Asset Production Record
-**Status:** In progress — Stages 1–2 complete, Stage 4 review package prepared. Concept selected and recommended; **not yet approved, not yet drafted as a final vector, not yet released or registered.**
+**Status:** In progress — Creative direction approved (Concept 5, "Weighted Line"); Stage 3 (Draft Creation) vector design specification complete. **Not yet drafted as an actual vector file, not yet reviewed against a real draft, not yet approved, not yet released or registered.**
 **Governing documents:** `brand/Mythic_Forge_Studios_Brand_Bible_v1.0.md` (identity authority — logo concept, Section 3), `brand/Mythic_Forge_Studios_YouTube_Brand_Kit_v1.0.md` (channel application — Section 2), `brand/Mythic_Forge_Studios_Brand_Asset_Production_Guide_v1.0.md` (workflow authority — this record follows its Stages 1–4), `production-bible/Fracture_Protocol_Production_Bible_v1.1.md` Sections 6–7 (versioning/registry), `governance/Fracture_Protocol_Studio_Governance_Manual_v1.1.md` Sections 5–7 (approval authority).
 **This is not itself a brand-identity document.** It defines and redefines nothing in the Brand Bible. It is a working record of one asset's progress through the Production Guide's workflow (Section 3, Stages 1–6).
 
@@ -189,11 +189,127 @@ This is a **recommendation for review, not a finalized design.** No vector file 
 
 **Not yet done:** no vector file exists; no Draft Creation self-check (Production Guide Stage 3) has been run against an actual SVG; no Approval Process (Stage 5) has occurred; no Asset Registry entry exists yet (Production Guide Section 7 — an asset is not "real" until logged, and this one is not yet Approved).
 
-**Status: AWAITING CREATIVE APPROVAL**
+**Status (as of v1.0): AWAITING CREATIVE APPROVAL** — superseded below.
 
-This record does not approve Concept 5. It recommends Concept 5 for Founder/Creative Director review. Vector production (Stage 3, Draft Creation) begins only once a direction is explicitly approved at this checkpoint.
+This record did not approve Concept 5 at v1.0. It recommended Concept 5 for Founder/Creative Director review. See Creative Review Decision, below, for the outcome.
+
+---
+
+## Creative Review Decision
+
+**Date:** 2026-07-07
+**Reviewer role:** Founder / Creative Director / Brand Strategy Reviewer
+**Outcome:** Creative direction **APPROVED** — Concept 5, "Weighted Line," selected as the direction for the Primary Logo Master SVG.
+
+**Basis:** a full creative review was performed against the locked brand principles (studio identity, "Forging Worlds. Creating Legends.," "the brand echoes the fiction; it never explains it," restraint over spectacle, professional studio-level presentation, long-term franchise scalability), scoring all five concepts against a Studio Logo Test, Iconic Value Test, Fracture Motif Review, and Differentiation Test. Concept 5 was the only concept with no disqualifying weakness across all four tests — it was the only direction where the fracture literally satisfies the required symbolism (creation/transformation/a break that creates something new) through geometry rather than metaphor, and the strongest candidate on the "two seconds now, recognized months later" recognition test.
+
+**Concepts 1–4 disposition:** Concept 1 (Struck Anvil) retained as a documented fallback reference only, not carried into Stage 3. Concepts 2 (Fault Line), 3 (Forge Mark), and 4 (Split Horn) do not proceed as primary logo candidates; Concept 3's "broken seal" symbolism and Concept 4's large-format elegance are noted for possible future secondary-asset use, not this asset.
+
+**What this approval does and does not authorize:** this approves the *creative direction* (Concept 5) for development into a full vector design specification (Stage 3, Draft Creation). It does not approve a final asset, does not authorize vector file creation, and does not constitute the Approval Process (Stage 5) that Brand Asset Production Guide Section 3 requires before any asset becomes real in the Asset Registry.
+
+---
+
+## Stage 3 — Draft Creation: Vector Design Specification
+
+*(Brand Asset Production Guide Section 3, Stage 3 — a design specification precise enough to build a final SVG from, not the final SVG itself.)*
+
+**Locked creative direction carried forward from the Concept Review:** a contained forged structure that produces something new through a fracture. The fracture is not damage — the fracture is creation. Core visual idea: a minimalist anvil silhouette with a single fracture line that escapes the original boundary, creating a new visual element beyond it.
+
+### 1. Core Geometry
+
+**Grid system:** a 100×100 unit square artboard, matching Brand Bible Section 3's rule that clear space on every side equals the icon's own height — the mass and fracture are built to leave that margin free by construction, not as an afterthought.
+
+**Overall silhouette:** a two-tier rectilinear mass, bottom-heavy, no curvature anywhere — consistent with the Concept 5 description ("horn and waist merged into one upper mass, no surface curvature at all"):
+- **Base block:** 64 units wide × 18 units tall, positioned at the bottom of the mass, horizontally centered on the artboard. Corners chamfered (flat angle cut, not rounded) at 2 units, per Brand Bible Section 6's "sharp or minimally rounded (2–4px)" corner rule.
+- **Upper block:** 40 units wide × 34 units tall, centered horizontally on the base block, sitting directly on top of it with no gap (the two blocks read as one continuous mass, not two separate shapes — this is the key geometric difference from Concept 2, which this direction explicitly rejected).
+- **Total mass footprint:** 64 units wide × 52 units tall, occupying roughly 55–58% of the artboard's total area — leaving the remainder as the required clear space (Brand Bible Section 6's 20% negative-space minimum is comfortably exceeded).
+
+**Symmetry/asymmetry:** the mass itself is bilaterally symmetric (a true left-right mirror) — this is deliberate. The fracture line is the **only** asymmetric element in the mark, so it reads unambiguously as "the one deliberate irregularity breaking an otherwise clean, orderly shape" (Brand Bible Section 6), rather than competing with any other asymmetric detail for attention.
+
+**Negative space usage:** beyond the general clear-space margin, no internal negative space is cut into the mass itself (this direction was chosen specifically over Concept 4's negative-space approach, and mixing the two would blur that distinction) — the mass stays fully solid except where the fracture crosses it.
+
+**Balance between mass and fracture:** the fracture's stroke weight is deliberately thin relative to the mass, so it reads as a line breaking a solid form rather than a second shape of comparable weight. Target stroke weight: **5 units** (5% of the 100-unit grid) — thick enough to survive minification to a 28px final render without vanishing, thinner than the 18-unit base block by more than 3:1 so the visual hierarchy (mass first, fracture second) is unambiguous.
+
+### 2. Fracture Design
+
+**Starting point:** inside the upper block, entering at the block's left edge, at approximately 60% of the block's height (upper-middle, not dead center) — this off-center entry is itself a small deliberate asymmetry, avoiding a fracture that reads as a perfectly centered, static design line.
+
+**Direction and angle:** travels diagonally downward-to-the-right at approximately **25° from horizontal** — shallow enough to read as a controlled break rather than an aggressive slash, slightly steeper than Concept 1's originally described 15–20° so the line reads as the mark's actual subject, not an afterthought accent.
+
+**Path — one deliberate deflection, not a straight cut or a jagged crack:** the line travels straight for roughly the first 60% of its course across the mass, then deflects by a small angle (approximately 10°) for the remaining course before reaching the mass's edge. One single kink — never a multi-segment jagged "lightning bolt" path, which would read as decorative rather than structural, and never a perfectly straight ruler-line, which would undersell "fracture" in favor of "diagonal stripe."
+
+**Exit point:** the line exits through the upper block's right edge, then **continues past the mass's own outer silhouette** — this is the escape, the feature the entire direction was selected for.
+
+**Escape length:** the segment of line existing *outside* the mass should be no shorter than 1.5× the stroke's own width (5 units × 1.5 = minimum ~7.5 units) — short enough to look like a rendering artifact reads as unmistakably intentional at that minimum — and no longer than 20% of the icon's total width (20 units) — long enough to encroach on the required clear-space margin reads as a design error, not a feature. **This range, not a single fixed number, is the specification** — the exact length within it is a Stage 4 visual-testing decision, not something this document can respectably fix in the abstract.
+
+**Visual weight:** uniform stroke weight throughout the contained portion (no tapering) — deliberate flatness, avoiding any hand-illustrated or organic quality that would drift toward the "AI-generated randomness" the brief explicitly rules out. The escaping segment beyond the mass's edge may taper very slightly toward its outer tip (a subtle refinement suggesting directional energy, echoing the "draws on, then settles" motion language in Brand Bible Section 8) — flagged here as optional, to be confirmed only after visual testing at Stage 4, not mandated.
+
+**Does the fracture meet the required bar?**
+- Recognizable — yes, by construction (single line, high contrast against the solid mass).
+- Avoids looking accidental — yes, the single deliberate kink and the defined escape-length minimum both exist specifically to prevent an "accidental scratch" reading.
+- Remains visible at small sizes — conditional; see Scalability Testing, below, for the specific adjustment this requires.
+- Avoids becoming decoration — yes, because the escape segment is structurally load-bearing to the concept's whole meaning (Section 3 of the Concept Review) — removing it would make the mark read as Concept 1, not Concept 5.
+
+### 3. Scalability Testing
+
+**Large (website header, video intro):** full detail holds — the single kink in the fracture's path, the chamfered corners, and the precise escape-segment length are all visible and legible. The motion/intro version may add the "settles into a steady glow" state (Brand Bible Section 8) at this size without altering the static geometry defined above.
+
+**Medium (social profile, merchandise):** the two-block mass and the escape detail both read correctly. For physical reproduction (embroidery, vinyl, single-color print), the fracture must be treated as **one continuous unbroken path** — no floating disconnected fragments — since a physical process needs a single cuttable/stitchable line, not a conceptually "broken" one rendered as literally disconnected geometry.
+
+**Small (YouTube avatar, 28px icon test):** at 28px, the single kink in the fracture's path will likely compress to visually read as one straight diagonal line — **this is an acceptable, expected degradation, not a failure**, provided the core "solid mass + escaping straight segment" still reads. Two adjustments are identified for this size specifically:
+1. **Stroke-weight bump at small sizes.** A separate small-size master (a standard, professional practice — most icon systems ship a distinct small-size-optimized file rather than one file scaled down) should increase the fracture's stroke weight beyond the 5-unit large-size target, to guarantee it doesn't fall below roughly 1px at a 28×28px final raster export. The exact bump should be confirmed against an actual 28×28px test render before finalizing — this document sets the requirement, not the final number.
+2. **Escape-length floor enforced at small size specifically.** The 1.5×-stroke-width minimum defined above must be re-verified at the small-size stroke weight (which will be thicker), not just at the large-size 5-unit stroke — a minimum that holds at large size does not automatically hold once the stroke itself changes weight.
+
+### 4. Color Application
+
+Per Brand Bible Section 3–4 — no color, hex value, or usage role is redefined here, only applied to this specific mark.
+
+**Dark background version (primary/default use, Brand Bible Section 3):** mass filled in Authority White (`#F5F7FA`); fracture line (including the escape segment) in Fracture Cyan (`#00E5FF`); background Void Black (`#0A0B0D`) or transparent.
+
+**Light background version:** mass filled in Void Black (`#0A0B0D`); fracture line remains Fracture Cyan (`#00E5FF`) unchanged — per Brand Bible Section 3's rule that "the accent is the one color that must always survive, dark or light background."
+
+**Cyan usage rule:** Fracture Cyan is applied **only** to the fracture line, never to the mass — the mass is always a neutral (Authority White or Void Black), consistent with Brand Bible Section 4's "never a large fill" rule for the accent color.
+
+**Monochrome version requirements:** single color throughout (pure Void Black or pure Authority White, per Brand Bible Section 3) — mass and fracture line rendered in the same color, distinguished from each other only by the fracture remaining a thin stroke against the solid mass fill. **Open risk, carried forward from the Concept Development stage:** removing the cyan-vs-neutral color contrast removes the easiest visual cue for finding the fracture — this must be checked against an actual monochrome render before the Monochrome Version is finalized, not assumed to work because the color version works.
+
+**No-gradient compliance:** flat fills only in every static master file — zero gradients, zero drop shadows, zero bevels, zero outer glows, per Brand Bible Section 3's Improper Usage rule. The "steady glow" state described in Brand Bible Section 8 is a **motion-time effect**, applied only in animated contexts (the Intro System, YouTube Brand Kit Section 7) — it is never baked into the static SVG master itself.
+
+### 5. Variant Planning
+
+All seven items below derive from this one master geometry — none is an independently designed shape. One naming reconciliation is noted where the requested list differs from the Brand Bible's own defined variant names, so nothing is inadvertently defined as a new, un-Locked variant type.
+
+1. **Primary Logo** — this icon + the full "MYTHIC FORGE / STUDIOS" wordmark lockup, per Brand Bible Section 3's existing spacing and typography rules (Space Grotesk Bold / Regular) — not redefined here.
+2. **Icon Only** — this mark, standalone — the direct output this specification governs.
+3. **Horizontal Lockup** — icon at left, full wordmark at right, single baseline, per Brand Bible Section 3.
+4. **Compact Mark** — **reconciliation note:** this is not a new, sixth variant type beyond the Brand Bible's Locked five (Primary, Secondary, Horizontal, Vertical/Stacked, Icon). It corresponds to the Brand Bible's existing **Vertical (Stacked) Logo** — icon centered above the two-line wordmark, used for square/portrait placements — described here as "compact" only because that's the practical use case being planned for (profile pictures, app-icon-adjacent contexts at larger-than-Icon-Only sizes), not because a new lockup is being invented.
+5. **Light Version** — per Color Application, above.
+6. **Dark Version** — per Color Application, above.
+7. **Monochrome Version** — per Color Application, above, with its open risk noted.
+
+### 6. Design Risk Review
+
+**Does it look generic?** Lower risk than Concepts 1–4 individually (per the Concept Review's Differentiation Test), conditional on the escape segment being executed with enough presence — if the stroke is too thin or the escape too short, the mark visually collapses back toward Concept 1's weaker "crossing line" reading. This is an execution risk to verify at first draft render, not a concept-level flaw.
+
+**Does the fracture still communicate creation?** Yes, by construction — the escape segment is the one part of this specification that cannot be removed without also removing the concept's entire reason for being selected (Concept Review, Section 3: this was the only concept where the fracture literally produces a new visible element rather than merely crossing or dividing the mass).
+
+**Does it work without text?** Yes — this specification is for the Icon Only variant specifically; it is designed to stand alone, per Brand Bible Section 3's requirement that the Icon Version function without the wordmark present.
+
+**Does it remain professional as a studio identity?** Yes — flat rectilinear construction, no illustrative or organic elements, no gradient/glow in the static master, consistent with "restraint over spectacle" (Brand Bible Section 1) and the Concept Review's Studio Logo Test findings.
+
+---
+
+## Review Status (Updated)
+
+**Stage reached:** Creative Review Decision recorded (Concept 5 approved as direction); Stage 3 (Draft Creation) vector design specification complete.
+
+**Not yet done:** no vector file (SVG) has been constructed; the specification above has not yet been built and test-rendered; the small-size stroke-weight bump (Scalability Testing, item 1) and the monochrome-legibility check (Color Application) both remain open items to confirm once an actual draft exists; no Stage 4 Internal Review checklist has been run against a real file; no Approval Process (Stage 5) has occurred; no Asset Registry entry exists yet.
+
+**Status: DRAFT SPECIFICATION COMPLETE — AWAITING VECTOR CONSTRUCTION**
+
+This record does not mark the logo Approved. It authorizes building an actual vector file against the specification above. That file, once constructed, still passes through Stage 3's own brand-compliance self-check, Stage 4 Internal Review, and Stage 5 Approval before it is real (Brand Asset Production Guide Section 3).
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-07] Initial Production Record for BRA-0001 (Primary Logo Master SVG) established, following Brand Asset Production Guide Stages 1–2 and preparing a Stage 4 review package ahead of vector production: Asset Request logged, five concept directions developed (Struck Anvil, Fault Line, Forge Mark, Split Horn, Weighted Line), each scored across Brand Fit/Recognition/Scalability/Longevity/Differentiation, Concept 5 ("Weighted Line") recommended with full rationale, color/typography/variant/risk notes prepared. No vector file produced. No Locked brand element (studio name, abbreviation, tagline, brand philosophy, color palette, typography) redefined. Status: Awaiting Creative Approval — not marked Approved.`
+`[v1.1 — 2026-07-07] Recorded the Creative Review Decision: Concept 5 ("Weighted Line") approved as the creative direction following a full review against locked brand principles (Studio Logo Test, Iconic Value Test, Fracture Motif Review, Differentiation Test); Concepts 1–4 dispositioned (1 retained as fallback reference, 2/3/4 not carried forward as primary candidates). Added the Stage 3 Draft Creation vector design specification: core geometry (100-unit grid, two-block mass, symmetry rules), fracture design (entry point, 25° angle, single-kink path, escape-length range), scalability testing across large/medium/small sizes with two identified small-size adjustments, color application (dark/light/monochrome, no-gradient compliance), variant planning for all seven requested lockups (with a reconciliation note that "Compact Mark" maps to the Brand Bible's existing Vertical/Stacked Logo rather than a new variant type), and a design risk review. No vector file constructed. No Locked brand element redefined. Status: Draft Specification Complete — Awaiting Vector Construction, not marked Approved.`
