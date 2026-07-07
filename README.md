@@ -1,6 +1,6 @@
 # MYTHIC FORGE STUDIOS
 ## Studio Wiki
-### Version 3.8 — Master Navigation System
+### Version 3.9 — Master Navigation System
 
 **Forging Worlds. Creating Legends.**
 
@@ -28,7 +28,7 @@ Mythic Forge Studios is building one original sci-fi dystopian universe, **The F
 
 ## 2. Repository Overview
 
-Mythic Forge Studios currently maintains **fifteen core documents** across five tiers — canon, creative philosophy, governance, studio process, and production process — plus this Wiki, the Canon Reference System, and the Story Timeline Bible, none of which belong to a tier themselves (they index or frame other documents rather than asserting content of their own). Nothing "canon" lives outside the Bible tier (Section 5); nothing "operational" lives outside the governance or process tiers (Sections 6–7, 25); nothing "why it should feel this way" lives outside the philosophy tier (Section 26).
+Mythic Forge Studios currently maintains **sixteen core documents** across six tiers — canon, creative philosophy, governance, studio process, production process, and brand identity — plus this Wiki, the Canon Reference System, and the Story Timeline Bible, none of which belong to a tier themselves (they index or frame other documents rather than asserting content of their own). Nothing "canon" lives outside the Bible tier (Section 5); nothing "operational" lives outside the governance or process tiers (Sections 6–7, 25); nothing "why it should feel this way" lives outside the philosophy tier (Section 26); nothing about the studio's own visual/verbal identity lives outside the brand tier (Section 28).
 
 **At a glance:**
 
@@ -39,8 +39,9 @@ Mythic Forge Studios currently maintains **fifteen core documents** across five 
 | Governance | Which process document governs what, who can change it, and what's the history behind past decisions? | Studio Governance Manual v1.1, Studio Governance Index v1.0, Studio Decision Log v1.0 (2 entries: `DEC-0001`, `DEC-0002`), Repository Health Guide v1.0 |
 | Studio Process | How does the studio operate day to day? | Studio OS v1.0 |
 | Production Process | How does an episode actually get made? | Production OS v2.0 (department SOP detail only), Production Bible v1.1 (production philosophy/organization/pipeline-sequence/naming/version-control/asset-management/risk/review; jurisdiction resolved, Decision Log `DEC-0001`) |
+| Brand Identity | How does the studio itself look, sound, and speak? | Brand Bible v1.0 *(new — Section 28)* — logo, color, typography, voice; introduces zero story canon |
 | Production Output | What's actually been made? | Nothing yet — Season One is fully outlined and not yet in active production (Section 18) |
-| Canon Navigation | Where is a specific canon fact defined? | Canon Reference System v1.0, Story Timeline Bible v1.0 *(new — Section 27)* — both index/frame, neither belongs to a tier |
+| Canon Navigation | Where is a specific canon fact defined? | Canon Reference System v1.0, Story Timeline Bible v1.0 — both index/frame, neither belongs to a tier |
 
 | Field | Value |
 |---|---|
@@ -427,7 +428,8 @@ For production-asset archival going forward (retired character designs, deprecat
 /bible/                              → Master System Prompt, World Bible, Proposal Vault
 /manifesto/                          → Franchise Design Manifesto
 /governance/                         → Studio Governance Manual, Governance Index, Decision Log, Repository Health Guide
-/registries/                         → Canon Reference System
+/registries/                         → Canon Reference System, Story Timeline Bible
+/brand/                              → Brand Bible
 /studio-os/                          → Studio OS
 /production-os/                      → Production OS (department SOP detail only)
 /production-bible/                   → Production Bible
@@ -439,12 +441,13 @@ For production-asset archival going forward (retired character designs, deprecat
 **Planned, not yet created** (per Section 11 above and Production Bible Section 4 — created only when real content exists for them, never scaffolded speculatively):
 
 ```
-/scripts/        → episode scripts, by season/arc
-/production/     → storyboards, VO, footage, art
-/publishing/     → metadata, thumbnails, SEO records
+/scripts/          → episode scripts, by season/arc
+/production/       → storyboards, VO, footage, art
+/publishing/       → metadata, thumbnails, SEO records
+/brand/assets/     → logo exports, brand asset files (Brand Bible Section 14) — no files yet
 ```
 
-Note: `/registries/` is now active (Canon Reference System, Section 27) — future per-asset detail pages (Character Registry, Root Artifact Registry, Fragment/Anomaly Registry, Cipher Glyph Companion) will live in this same folder once their triggers are met (Section 11).
+Note: `/registries/` is now active (Canon Reference System and Story Timeline Bible, Section 27) — future per-asset detail pages (Character Registry, Root Artifact Registry, Fragment/Anomaly Registry, Cipher Glyph Companion) will live in this same folder once their triggers are met (Section 11). `/brand/` is now active (Brand Bible, Section 28); its `/assets/` subfolder remains planned until real brand asset files exist.
 
 For the fully detailed future production-asset tree (episodes/assets/audio/prompts/thumbnails/exports/archives), see Production Bible Section 4 — this index does not duplicate it.
 
@@ -523,7 +526,7 @@ This Wiki (README.md)
 
 | Document | Version | Status | Locked/Living | Last Updated |
 |---|---|---|---|---|
-| Studio Wiki (this document) | 3.8 | ✅ Complete | Mixed | 2026-07-07 |
+| Studio Wiki (this document) | 3.9 | ✅ Complete | Mixed | 2026-07-07 |
 | Fracture Protocol Master System Prompt | 1.2 | ✅ Complete | Locked | 2026-07-07 |
 | Fracture Protocol Proposal Vault | 1.0 | 🔄 7 entries pending | N/A | 2026-07-06 |
 | Fracture Protocol World Bible | 1.1 | ✅ Complete | Mixed | 2026-07-06 |
@@ -536,6 +539,7 @@ This Wiki (README.md)
 | Repository Health Guide | 1.0 | ✅ Complete | Mixed | 2026-07-07 |
 | Canon Reference System | 1.0 | ✅ Complete | Mixed | 2026-07-07 |
 | Story Timeline Bible | 1.0 | ✅ Complete (framework); 0 entries | Mixed | 2026-07-07 |
+| Brand Bible | 1.0 | ✅ Complete (framework); 0 assets produced | Mixed | 2026-07-07 |
 | Studio OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
 | Production OS | 2.0 | ✅ Complete (narrowed scope) | Mixed | 2026-07-07 |
 | Production Bible | 1.1 | ✅ Complete | Mixed | 2026-07-07 |
@@ -644,6 +648,7 @@ Section 22 (Search Guide).
 | How to run a repository health/audit check | `governance/Fracture_Protocol_Repository_Health_Guide_v1.0.md` |
 | Where is a specific canon fact defined | `registries/Fracture_Protocol_Canon_Reference_System_v1.0.md` |
 | The framework chronology will eventually live inside | `registries/Fracture_Protocol_Story_Timeline_Bible_v1.0.md` |
+| Studio logo/color/typography/voice rules | `brand/Mythic_Forge_Studios_Brand_Bible_v1.0.md` |
 | Why the franchise should feel a certain way | `manifesto/Fracture_Protocol_Franchise_Design_Manifesto_v1.0.md` |
 
 | Field | Value |
@@ -831,7 +836,25 @@ The `/registries/` folder (previously planned but empty, Section 15) is now acti
 
 ---
 
-## 28. Final Validation
+## 28. Brand Bible Index
+
+| Document Name | Mythic Forge Studios Brand Bible |
+|---|---|
+| **Purpose** | Complete studio visual/verbal identity system — logo, color, typography, visual/motion/audio identity, platform branding, voice, merchandise, and asset standards |
+| **Owner** | Founder (Creative Director) |
+| **Current Version** | 1.0 |
+| **Status** | ✅ Complete (framework); 🔄 no brand assets produced against it yet (`/brand/assets/` not yet created) |
+| **Locked or Living** | Mixed — see in-document tags per section |
+| **Dependencies** | Master System Prompt (subordinate to it; carries no canon authority); Studio OS Sections 1–4 (Vision/Mission/Values/Brand Personality — this Bible executes them, never restates) |
+| **Related Documents** | Production Bible (parallel, non-overlapping domain — show assets vs. studio/marketing assets); Studio Governance Manual (approval authority); Art Bible (referenced for structural/tonal consistency only, never duplicated) |
+| **Repository Location** | `brand/Mythic_Forge_Studios_Brand_Bible_v1.0.md` |
+| **Last Updated** | 2026-07-07 |
+
+Introduces zero story canon — the flagship show is referenced by name only, never described or expanded. This is a sixth tier alongside Canon, Creative Philosophy, Governance, Studio Process, and Production Process — Brand Identity, sitting outside the canon-navigation companions (Section 27) since it governs the studio itself, not canon lookup.
+
+---
+
+## 29. Final Validation
 
 1. **No canon introduced.** This document defines no character, faction, location, technology, power mechanic, or world fact — every substantive answer is a pointer to an existing Bible section, not a restatement of it.
 2. **No lore duplicated.** Character, environment, and prop entries (Sections 8–10) are pointer tables only (name, category, document, status) — no biography, personality, mechanic, or story detail is restated anywhere in this document.
@@ -841,10 +864,11 @@ The `/registries/` folder (previously planned but empty, Section 15) is now acti
 6. **Resolved items reflected, not hidden.** The Production Bible/Production OS overlap, tracked since this Wiki's v3.0 rework, was resolved via the Studio Architecture Audit's approved corrections (Decision Log `DEC-0001`) — Section 6 and the Governance Manual's Section 3 both now say so explicitly rather than continuing to describe it as open. The retired Risk Register (Section 24) remains a genuinely open item — content preserved by reference, relocation not yet implemented.
 7. **Phase 3A infrastructure resolved into a real document.** The Canon Reference System (Section 27) fulfills the reserved slot noted in Section 5 — it introduces zero new canon (every named entity it cites already exists in an existing Bible) and does not duplicate this Wiki's own Character/Environment/Prop indices (Sections 8–10), pointing to them instead.
 8. **Chronology framework introduces no history.** The Story Timeline Bible (Section 27) defines only the storage/organization system for future chronology — zero dates, years, eras, episodes, or events appear anywhere in it, and it explicitly never resolves the World Bible's deliberately-unconfirmed founding event (World Bible Section 2) by implication.
+9. **Brand identity introduces no story canon.** The Brand Bible (Section 28) defines the studio's own visual/verbal identity — logo, color, typography, voice — and references the flagship show by name only, never describing or expanding it. It is positioned as the execution layer beneath Studio OS Sections 1–4, not a redefinition of them.
 
 ---
 
-*End of Studio Wiki Version 3.8. This document is the home page — update it the same day any other document changes (Section 24).*
+*End of Studio Wiki Version 3.9. This document is the home page — update it the same day any other document changes (Section 24).*
 
 ---
 
@@ -867,3 +891,4 @@ The `/registries/` folder (previously planned but empty, Section 15) is now acti
 `[v3.6 — 2026-07-07] Applied both approved corrections from the Studio Architecture Audit and prepared Phase 3A infrastructure, per direct founder instruction. (1) Production Bible/Production OS jurisdiction resolved via Option 2, Delineate — Production OS bumped to v2.0 (six duplicating sections retired as tombstones), Production Bible bumped to v1.1, Studio Governance Manual bumped to v1.1; all three file renames propagated repository-wide; logged as Decision Log DEC-0001. (2) Status-vocabulary reconciliation added to Governance Manual Section 10; logged as DEC-0002. (3) Reserved, infrastructure-only slot added for the Phase 3A Canon Reference System (Section 5, Section 15) — no structure or content defined. Updated Sections 2, 6, 17, 18, 21, 24, 25, and 27 accordingly. While correcting, also caught two additional drift bugs from prior passes: Section 24's "flagged here per Section 25" pointed at the wrong section after the Franchise Manifesto Index insertion (corrected to Section 27), and Section 15's "current, on-disk structure" diagram had never included the `/manifesto/` or `/governance/` folders since their creation.`
 `[v3.7 — 2026-07-07] Indexed the new Canon Reference System v1.0 (Section 27), resolving the Phase 3A reserved slot noted in v3.6 into a real document — a category-indexed pointer system across Universe, Characters, Disciplines, Artifacts, Technology, Locations, Organizations, History, Rules, Timeline, Terminology, Visual Rules, Episode References, and Production References. Introduces no new canon; points to (rather than duplicates) this Wiki's own Character/Environment/Prop indices where they already cover a category. Activated the previously-planned, empty `/registries/` folder (Section 15) with its first real content. Added a sixth "Canon Navigation" row to Section 2's tier table (document count now fourteen) and updated Sections 5, 15, 18, 21, and 28 accordingly.`
 `[v3.8 — 2026-07-07] Indexed the new Story Timeline Bible v1.0 (Section 27, renamed to cover both documents) — the framework defining how chronology will eventually be stored, organized, updated, and referenced. Introduces zero characters, locations, events, dates, years, eras, or episodes; explicitly never resolves the World Bible's deliberately-unconfirmed founding event by implication. Updated the Canon Reference System's own Timeline category to point to this new framework instead of only describing the absence of one. Document count now fifteen; updated Sections 2, 18, 21, and 28 accordingly.`
+`[v3.9 — 2026-07-07] Indexed the new Brand Bible v1.0 (Section 28) — a sixth document tier ("Brand Identity," alongside Canon/Creative Philosophy/Governance/Studio Process/Production Process). Defines the studio's own logo, color, typography, visual/motion/audio identity, platform branding, voice, and merchandise standards; introduces zero story canon, referencing the flagship show by name only. Added the new `/brand/` folder to Section 15's on-disk structure (alongside `/registries/`, which now also lists the Story Timeline Bible — a prior gap this pass caught). Document count now sixteen; updated Sections 2, 15, 18, 21, and renumbered Final Validation to Section 29.`
