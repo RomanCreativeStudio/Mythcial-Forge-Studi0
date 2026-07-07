@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Monochrome Version
+  DRAFT v0.1 — NOT APPROVED — NOT THE FINAL LOCKED ASSET
+  Built with the SAME overlay-stroke technique as the color versions, deliberately,
+  to test the open risk flagged in the Stage 3 spec: whether the fracture remains
+  legible with zero color contrast. See Review Package Section "Issues Found" —
+  this draft demonstrates the failure rather than pre-emptively working around it.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M30,26 L32,24 L68,24 L70,26 L70,58 L82,58 L82,74 L80,76 L20,76 L18,74 L18,58 L30,58 Z" fill="#0A0B0D"/>
+  <path d="M30,37.6 L61.2,52.2 L82,66.7 L90.2,72.4" fill="none" stroke="#0A0B0D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
