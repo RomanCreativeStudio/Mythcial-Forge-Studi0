@@ -1,6 +1,6 @@
 # MYTHIC FORGE STUDIOS
 ## Studio Wiki
-### Version 3.9 — Master Navigation System
+### Version 3.10 — Master Navigation System
 
 **Forging Worlds. Creating Legends.**
 
@@ -28,7 +28,7 @@ Mythic Forge Studios is building one original sci-fi dystopian universe, **The F
 
 ## 2. Repository Overview
 
-Mythic Forge Studios currently maintains **sixteen core documents** across six tiers — canon, creative philosophy, governance, studio process, production process, and brand identity — plus this Wiki, the Canon Reference System, and the Story Timeline Bible, none of which belong to a tier themselves (they index or frame other documents rather than asserting content of their own). Nothing "canon" lives outside the Bible tier (Section 5); nothing "operational" lives outside the governance or process tiers (Sections 6–7, 25); nothing "why it should feel this way" lives outside the philosophy tier (Section 26); nothing about the studio's own visual/verbal identity lives outside the brand tier (Section 28).
+Mythic Forge Studios currently maintains **seventeen core documents** across six tiers — canon, creative philosophy, governance, studio process, production process, and brand identity — plus this Wiki, the Canon Reference System, and the Story Timeline Bible, none of which belong to a tier themselves (they index or frame other documents rather than asserting content of their own). Nothing "canon" lives outside the Bible tier (Section 5); nothing "operational" lives outside the governance or process tiers (Sections 6–7, 25); nothing "why it should feel this way" lives outside the philosophy tier (Section 26); nothing about the studio's own visual/verbal identity lives outside the brand tier (Section 28).
 
 **At a glance:**
 
@@ -39,7 +39,7 @@ Mythic Forge Studios currently maintains **sixteen core documents** across six t
 | Governance | Which process document governs what, who can change it, and what's the history behind past decisions? | Studio Governance Manual v1.1, Studio Governance Index v1.0, Studio Decision Log v1.0 (2 entries: `DEC-0001`, `DEC-0002`), Repository Health Guide v1.0 |
 | Studio Process | How does the studio operate day to day? | Studio OS v1.0 |
 | Production Process | How does an episode actually get made? | Production OS v2.0 (department SOP detail only), Production Bible v1.1 (production philosophy/organization/pipeline-sequence/naming/version-control/asset-management/risk/review; jurisdiction resolved, Decision Log `DEC-0001`) |
-| Brand Identity | How does the studio itself look, sound, and speak? | Brand Bible v1.0 *(new — Section 28)* — logo, color, typography, voice; introduces zero story canon |
+| Brand Identity | How does the studio itself look, sound, and speak? | Brand Bible v1.0 — logo, color, typography, voice; YouTube Brand Kit v1.0 *(new — Section 28)* — channel-specific application depth beneath it; both introduce zero story canon |
 | Production Output | What's actually been made? | Nothing yet — Season One is fully outlined and not yet in active production (Section 18) |
 | Canon Navigation | Where is a specific canon fact defined? | Canon Reference System v1.0, Story Timeline Bible v1.0 — both index/frame, neither belongs to a tier |
 
@@ -429,7 +429,7 @@ For production-asset archival going forward (retired character designs, deprecat
 /manifesto/                          → Franchise Design Manifesto
 /governance/                         → Studio Governance Manual, Governance Index, Decision Log, Repository Health Guide
 /registries/                         → Canon Reference System, Story Timeline Bible
-/brand/                              → Brand Bible
+/brand/                              → Brand Bible, YouTube Brand Kit
 /studio-os/                          → Studio OS
 /production-os/                      → Production OS (department SOP detail only)
 /production-bible/                   → Production Bible
@@ -445,9 +445,10 @@ For production-asset archival going forward (retired character designs, deprecat
 /production/       → storyboards, VO, footage, art
 /publishing/       → metadata, thumbnails, SEO records
 /brand/assets/     → logo exports, brand asset files (Brand Bible Section 14) — no files yet
+/brand/assets/youtube/logos|banners|channel-art|thumbnails|intros|outros|trailers|motion-graphics|exports|archives|templates|marketing/  → YouTube channel assets (YouTube Brand Kit Section 14) — no files yet
 ```
 
-Note: `/registries/` is now active (Canon Reference System and Story Timeline Bible, Section 27) — future per-asset detail pages (Character Registry, Root Artifact Registry, Fragment/Anomaly Registry, Cipher Glyph Companion) will live in this same folder once their triggers are met (Section 11). `/brand/` is now active (Brand Bible, Section 28); its `/assets/` subfolder remains planned until real brand asset files exist.
+Note: `/registries/` is now active (Canon Reference System and Story Timeline Bible, Section 27) — future per-asset detail pages (Character Registry, Root Artifact Registry, Fragment/Anomaly Registry, Cipher Glyph Companion) will live in this same folder once their triggers are met (Section 11). `/brand/` is now active (Brand Bible and YouTube Brand Kit, Section 28); its `/assets/` subfolder (and the YouTube-specific subfolders within it) remain planned until real brand asset files exist.
 
 For the fully detailed future production-asset tree (episodes/assets/audio/prompts/thumbnails/exports/archives), see Production Bible Section 4 — this index does not duplicate it.
 
@@ -540,6 +541,7 @@ This Wiki (README.md)
 | Canon Reference System | 1.0 | ✅ Complete | Mixed | 2026-07-07 |
 | Story Timeline Bible | 1.0 | ✅ Complete (framework); 0 entries | Mixed | 2026-07-07 |
 | Brand Bible | 1.0 | ✅ Complete (framework); 0 assets produced | Mixed | 2026-07-07 |
+| YouTube Brand Kit | 1.0 | ✅ Complete (framework); 0 assets produced | Mixed | 2026-07-07 |
 | Studio OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
 | Production OS | 2.0 | ✅ Complete (narrowed scope) | Mixed | 2026-07-07 |
 | Production Bible | 1.1 | ✅ Complete | Mixed | 2026-07-07 |
@@ -649,6 +651,7 @@ Section 22 (Search Guide).
 | Where is a specific canon fact defined | `registries/Fracture_Protocol_Canon_Reference_System_v1.0.md` |
 | The framework chronology will eventually live inside | `registries/Fracture_Protocol_Story_Timeline_Bible_v1.0.md` |
 | Studio logo/color/typography/voice rules | `brand/Mythic_Forge_Studios_Brand_Bible_v1.0.md` |
+| YouTube channel banner/thumbnail/intro/outro specs | `brand/Mythic_Forge_Studios_YouTube_Brand_Kit_v1.0.md` |
 | Why the franchise should feel a certain way | `manifesto/Fracture_Protocol_Franchise_Design_Manifesto_v1.0.md` |
 
 | Field | Value |
@@ -836,7 +839,7 @@ The `/registries/` folder (previously planned but empty, Section 15) is now acti
 
 ---
 
-## 28. Brand Bible Index
+## 28. Brand Identity Index
 
 | Document Name | Mythic Forge Studios Brand Bible |
 |---|---|
@@ -846,11 +849,25 @@ The `/registries/` folder (previously planned but empty, Section 15) is now acti
 | **Status** | ✅ Complete (framework); 🔄 no brand assets produced against it yet (`/brand/assets/` not yet created) |
 | **Locked or Living** | Mixed — see in-document tags per section |
 | **Dependencies** | Master System Prompt (subordinate to it; carries no canon authority); Studio OS Sections 1–4 (Vision/Mission/Values/Brand Personality — this Bible executes them, never restates) |
-| **Related Documents** | Production Bible (parallel, non-overlapping domain — show assets vs. studio/marketing assets); Studio Governance Manual (approval authority); Art Bible (referenced for structural/tonal consistency only, never duplicated) |
+| **Related Documents** | Production Bible (parallel, non-overlapping domain — show assets vs. studio/marketing assets); Studio Governance Manual (approval authority); Art Bible (referenced for structural/tonal consistency only, never duplicated); YouTube Brand Kit (subordinate detail layer, below) |
 | **Repository Location** | `brand/Mythic_Forge_Studios_Brand_Bible_v1.0.md` |
 | **Last Updated** | 2026-07-07 |
 
 Introduces zero story canon — the flagship show is referenced by name only, never described or expanded. This is a sixth tier alongside Canon, Creative Philosophy, Governance, Studio Process, and Production Process — Brand Identity, sitting outside the canon-navigation companions (Section 27) since it governs the studio itself, not canon lookup.
+
+| Document Name | Mythic Forge Studios YouTube Brand Kit |
+|---|---|
+| **Purpose** | YouTube-channel-specific application depth beneath the Brand Bible — channel logo/banner/thumbnail/intro/outro/motion-graphics specifications, export standards, and asset naming, all at production-ready pixel/timing/format detail |
+| **Owner** | Founder (Creative Director) |
+| **Current Version** | 1.0 |
+| **Status** | ✅ Complete (framework); 🔄 no channel assets produced against it yet (`/brand/assets/youtube/` not yet created) |
+| **Locked or Living** | Mixed — see in-document tags per section |
+| **Dependencies** | Master System Prompt (subordinate to it; carries no canon authority); Brand Bible (absolute authority — this Kit never redefines its logo, color palette, or typography, only extends them to YouTube-specific detail) |
+| **Related Documents** | Studio OS Sections 1–4, 22–23 (brand personality, thumbnail, SEO policy this Kit executes); Production Bible Section 13 (Episode Completion Checklist — thumbnail/export gate conditions); Studio Governance Manual (approval authority) |
+| **Repository Location** | `brand/Mythic_Forge_Studios_YouTube_Brand_Kit_v1.0.md` |
+| **Last Updated** | 2026-07-07 |
+
+Introduces zero story canon, zero worldbuilding, and no images — it is a specification document only. Where this Kit and the Brand Bible ever appear to disagree, the Brand Bible wins and this Kit is corrected.
 
 ---
 
@@ -865,10 +882,11 @@ Introduces zero story canon — the flagship show is referenced by name only, ne
 7. **Phase 3A infrastructure resolved into a real document.** The Canon Reference System (Section 27) fulfills the reserved slot noted in Section 5 — it introduces zero new canon (every named entity it cites already exists in an existing Bible) and does not duplicate this Wiki's own Character/Environment/Prop indices (Sections 8–10), pointing to them instead.
 8. **Chronology framework introduces no history.** The Story Timeline Bible (Section 27) defines only the storage/organization system for future chronology — zero dates, years, eras, episodes, or events appear anywhere in it, and it explicitly never resolves the World Bible's deliberately-unconfirmed founding event (World Bible Section 2) by implication.
 9. **Brand identity introduces no story canon.** The Brand Bible (Section 28) defines the studio's own visual/verbal identity — logo, color, typography, voice — and references the flagship show by name only, never describing or expanding it. It is positioned as the execution layer beneath Studio OS Sections 1–4, not a redefinition of them.
+10. **YouTube Brand Kit introduces no canon, no images, and no governance change.** The YouTube Brand Kit (Section 28) adds channel-specific pixel/timing/format detail beneath the Brand Bible without redefining its logo, color, or typography; it generates no artwork and modifies no governance document. Where it and the Brand Bible ever disagree, the Brand Bible wins.
 
 ---
 
-*End of Studio Wiki Version 3.9. This document is the home page — update it the same day any other document changes (Section 24).*
+*End of Studio Wiki Version 3.10. This document is the home page — update it the same day any other document changes (Section 24).*
 
 ---
 
@@ -892,3 +910,4 @@ Introduces zero story canon — the flagship show is referenced by name only, ne
 `[v3.7 — 2026-07-07] Indexed the new Canon Reference System v1.0 (Section 27), resolving the Phase 3A reserved slot noted in v3.6 into a real document — a category-indexed pointer system across Universe, Characters, Disciplines, Artifacts, Technology, Locations, Organizations, History, Rules, Timeline, Terminology, Visual Rules, Episode References, and Production References. Introduces no new canon; points to (rather than duplicates) this Wiki's own Character/Environment/Prop indices where they already cover a category. Activated the previously-planned, empty `/registries/` folder (Section 15) with its first real content. Added a sixth "Canon Navigation" row to Section 2's tier table (document count now fourteen) and updated Sections 5, 15, 18, 21, and 28 accordingly.`
 `[v3.8 — 2026-07-07] Indexed the new Story Timeline Bible v1.0 (Section 27, renamed to cover both documents) — the framework defining how chronology will eventually be stored, organized, updated, and referenced. Introduces zero characters, locations, events, dates, years, eras, or episodes; explicitly never resolves the World Bible's deliberately-unconfirmed founding event by implication. Updated the Canon Reference System's own Timeline category to point to this new framework instead of only describing the absence of one. Document count now fifteen; updated Sections 2, 18, 21, and 28 accordingly.`
 `[v3.9 — 2026-07-07] Indexed the new Brand Bible v1.0 (Section 28) — a sixth document tier ("Brand Identity," alongside Canon/Creative Philosophy/Governance/Studio Process/Production Process). Defines the studio's own logo, color, typography, visual/motion/audio identity, platform branding, voice, and merchandise standards; introduces zero story canon, referencing the flagship show by name only. Added the new `/brand/` folder to Section 15's on-disk structure (alongside `/registries/`, which now also lists the Story Timeline Bible — a prior gap this pass caught). Document count now sixteen; updated Sections 2, 15, 18, 21, and renumbered Final Validation to Section 29.`
+`[v3.10 — 2026-07-07] Indexed the new YouTube Brand Kit v1.0 (Section 28, renamed to "Brand Identity Index" to cover both brand documents) — the YouTube-channel-specific detail layer beneath the Brand Bible, covering channel logo/banner/thumbnail/intro/outro/motion-graphics specifications, export standards, and asset naming. Explicitly does not redefine the Brand Bible's logo, color, or typography, generates no artwork, and modifies no governance document. Document count now seventeen; updated Sections 2, 18, 21, 28, and added Final Validation point 10 (Section 29).`
