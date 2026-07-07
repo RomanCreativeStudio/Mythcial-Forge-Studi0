@@ -3,7 +3,7 @@
 
 **What this is:** a single-page visual map of how every operating document relates to every other one. **What this is not:** a source of authority. Every fact below is pulled from, and cited to, the document that actually governs it — if this page and that document ever disagree, the cited document wins and this page is corrected. No canon content appears anywhere below.
 
-**Full detail lives in:** `governance/Fracture_Protocol_Studio_Governance_Manual_v1.0.md` (jurisdiction, authority, process rules) and `README.md` (Studio Wiki — full navigation, indices, FAQ).
+**Full detail lives in:** `governance/Fracture_Protocol_Studio_Governance_Manual_v1.1.md` (jurisdiction, authority, process rules) and `README.md` (Studio Wiki — full navigation, indices, FAQ).
 
 ---
 
@@ -15,8 +15,9 @@ Master System Prompt  (absolute authority — canon)
   ├── Proposal Vault  (outside the hierarchy — zero authority until approved)
   └── Studio Governance Manual  (absolute authority — process jurisdiction only)
         ├── Studio OS
-        ├── Production OS
-        └── Production Bible
+        ├── Production Bible  (philosophy, org, pipeline sequence, naming, version control,
+        │                       asset management, risk, review)
+        └── Production OS  (department-level SOP execution detail only)
 
 Studio Wiki (README.md) & this Index
   → both index everything above; authoritative on neither
@@ -44,7 +45,8 @@ Studio Wiki (README.md) & this Index
 ```
 Master System Prompt ──absolute over──▶ everything
 World Bible ──must not contradict──▶ Series Bible ──▶ Art Bible
-Studio Governance Manual ──assigns jurisdiction to──▶ Studio OS / Production OS / Production Bible
+Studio Governance Manual ──assigns jurisdiction to──▶ Studio OS / Production Bible / Production OS
+Production Bible ──governs sequence, org, naming, versioning, risk──▶ Production OS (execution detail only)
 Studio Wiki ──indexes, never governs──▶ everything
 ```
 *Full version: Studio Wiki §17 (Document Dependency Map).*
@@ -122,10 +124,11 @@ Planning → Scripting → Storyboarding → Asset Production → Image Generati
 /bible/              canon (Master Prompt, World Bible, Proposal Vault)
 /series/             Series Bibles
 /mythic-forge-art-bible/   Art Bible (11 files)
-/governance/          Studio Governance Manual + this Index
+/manifesto/           Franchise Design Manifesto
+/governance/          Studio Governance Manual, Index, Decision Log, Repository Health Guide
 /studio-os/           Studio OS
-/production-os/        Production OS
 /production-bible/      Production Bible
+/production-os/        Production OS (department SOP detail only)
 README.md            Studio Wiki
 ```
 *Full version: Studio Wiki §15 (Folder Structure Index).*
@@ -159,11 +162,15 @@ README.md            Studio Wiki
 | Series Bible | 1.1 |
 | Art Bible | 3.0 (index; per-file versions vary) |
 | Proposal Vault | 1.0 |
-| Studio Governance Manual | 1.0 |
+| Studio Governance Manual | 1.1 |
+| Studio Governance Index | 1.0 |
+| Studio Decision Log | 1.0 (2 entries) |
+| Repository Health Guide | 1.0 |
+| Franchise Design Manifesto | 1.0 |
 | Studio OS | 1.0 |
-| Production OS | 1.0 |
-| Production Bible | 1.0 |
-| Studio Wiki | 3.1 |
+| Production OS | 2.0 |
+| Production Bible | 1.1 |
+| Studio Wiki | 3.6 |
 | This Index | 1.0 |
 
 ---
@@ -178,13 +185,17 @@ README.md            Studio Wiki
 | Art Bible | ✅ Complete |
 | Proposal Vault | 🔄 7 entries pending decision |
 | Studio Governance Manual | ✅ Complete |
+| Studio Governance Index | ✅ Complete |
+| Studio Decision Log | 🔄 Structure complete, 2 entries logged |
+| Repository Health Guide | ✅ Complete |
+| Franchise Design Manifesto | ✅ Complete |
 | Studio OS | ✅ Complete |
-| Production OS | ✅ Complete |
+| Production OS | ✅ Complete (narrowed scope) |
 | Production Bible | ✅ Complete |
 | Studio Wiki | ✅ Complete |
 | This Index | ✅ Complete |
 
-**Standing open item (not a defect — a tracked decision):** Production Bible and Production OS overlap in scope; an interim jurisdiction split is documented (Governance Manual §3) pending a founder decision to consolidate, delineate, or leave as-is.
+**Resolved item (was a standing open item):** Production Bible and Production OS previously overlapped in scope; this was resolved via Option 2, Delineate (Governance Manual §3; Decision Log `DEC-0001`) — Production OS narrowed to department-level SOP granularity, Production Bible holds everything else.
 
 ---
 
@@ -206,3 +217,5 @@ New canon proposal    → Proposal Vault only, never inline in a Bible
 
 ### Changelog
 `[v1.0 — 2026-07-07] Initial one-page Studio Governance Index established: 12 compact diagram/table sections consolidating the Studio Governance Manual and Studio Wiki into a single at-a-glance view. Introduces no new authority or canon — every element cites the document that actually governs it. Built deliberately thin to avoid becoming a third copy of governance content already fully specified in the Governance Manual and Studio Wiki.`
+`[v1.0 — 2026-07-07] Refreshed every version/status table and diagram to reflect the two Studio Architecture Audit corrections now applied: Production OS v2.0 (narrowed scope), Production Bible v1.1, Studio Governance Manual v1.1, Studio Wiki v3.6, and the Production Bible/Production OS overlap marked resolved rather than standing-open. Version stays 1.0 per this document's own "Living, regenerated whenever a cited fact changes" designation — no structural change, only refreshed content.`
+`[v1.0 — 2026-07-07] Fixed Section 8's Repository Map, which had never been updated to include the `/manifesto/` folder (added when the Franchise Design Manifesto was created) — caught while refreshing this pass.`

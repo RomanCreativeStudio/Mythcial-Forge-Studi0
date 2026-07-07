@@ -3,7 +3,7 @@
 
 **Classification:** Internal — Maintenance Procedure
 **Status:** Process document. Introduces no canon and no production workflow.
-**Positioning:** This Guide is the detailed operational layer beneath `governance/Fracture_Protocol_Studio_Governance_Manual_v1.0.md` Sections 16–18 (Audit Requirements, Maintenance Schedule, Retirement Policy). Those sections state the *policy* — that audits happen, roughly what they check, and on what cadence. This Guide states the *exact procedure* — the concrete steps, checks, and heuristics used to actually perform them. Same relationship as Production Bible to Production OS, applied to repository/documentation health instead of episode production.
+**Positioning:** This Guide is the detailed operational layer beneath `governance/Fracture_Protocol_Studio_Governance_Manual_v1.1.md` Sections 16–18 (Audit Requirements, Maintenance Schedule, Retirement Policy). Those sections state the *policy* — that audits happen, roughly what they check, and on what cadence. This Guide states the *exact procedure* — the concrete steps, checks, and heuristics used to actually perform them. Same relationship as Production Bible to Production OS, applied to repository/documentation health instead of episode production.
 **Scope boundary:** This Guide governs the health of the **repository and its documentation** — folders, files, versions, cross-references, naming, duplication, archives, and backups of documentation. It does not define production pipeline stages or SOPs (that's Production Bible/Production OS's job — see those documents directly) and it does not touch canon content (that's the Master System Prompt's job) — it only cares whether canon *documents* are structurally healthy, never what they say.
 
 ---
@@ -29,7 +29,7 @@ Tags used throughout: **[LOCKED]** — Founder sign-off required to change. **[L
 
 ## 2. Duplicate Detection **[LIVING SECTION]**
 
-The single most common health failure in this repository so far: two documents independently covering the same ground in comparable detail (the Production Bible/Production OS overlap, first flagged at the Production Bible's creation, is the standing worked example — see Governance Manual §3).
+The single most common health failure in this repository so far: two documents independently covering the same ground in comparable detail. The Production Bible/Production OS overlap is the worked example — flagged across three audits before it was actually resolved (Decision Log `DEC-0001`; Governance Manual §3), which is itself the lesson: flagging alone doesn't fix a duplication candidate, only an explicit resolution does.
 
 **Procedure:**
 1. When any new document is created, list its section headers and compare them against every existing document's section headers. A near-1:1 match in topic and depth (not just a shared cross-reference) is a duplication candidate.
@@ -166,3 +166,4 @@ Scoped to repository/documentation health checks only — production pipeline au
 
 ### Changelog
 `[v1.0 — 2026-07-07] Initial Repository Health Guide established: 14 sections covering folder standards, duplicate detection, broken link checks, version audits, archive rules, file naming audits, documentation reviews, and monthly/quarterly/annual review cadences, plus backup verification, repository cleanup, and automation opportunities. Positioned explicitly as the operational detail layer beneath Studio Governance Manual Sections 16-18, not a competing policy. Introduces no canon and no production-workflow content — Backup Verification and Automation Opportunities both explicitly scope out production-asset concerns in favor of Production Bible/Production OS.`
+`[v1.0 — 2026-07-07] Updated Section 2's Production Bible/Production OS example to reflect resolution (Decision Log DEC-0001) rather than an open item — reframed as the lesson that flagging alone doesn't resolve a duplication candidate.`

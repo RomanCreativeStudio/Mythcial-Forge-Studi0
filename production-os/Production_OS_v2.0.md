@@ -1,15 +1,16 @@
 # MYTHIC FORGE STUDIOS
 ## PRODUCTION OPERATING SYSTEM
-### Version 1.0
+### Version 2.0
 
 **Classification:** Internal — Production Manual
-**Companion documents:** `studio-os/Studio_OS_v1.0.md` (company-level process — this document is its technical/pipeline layer), `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` and `bible/Fracture_Protocol_World_Bible_v1.1.md` (world canon), `series/*/Series_Bible_v1.1.md` (story canon)
+**Companion documents:** `studio-os/Studio_OS_v1.0.md` (company-level process), `production-bible/Fracture_Protocol_Production_Bible_v1.1.md` (production philosophy, organization, pipeline sequence, naming, version control, asset management, and risk/review policy — see Scope below), `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` and `bible/Fracture_Protocol_World_Bible_v1.1.md` (world canon), `series/*/Series_Bible_v1.1.md` (story canon)
+**Scope (per Studio Governance Manual Section 3, Document Authority Hierarchy):** this document holds **department-level SOP granularity only** — the detailed step-by-step instructions for each pipeline stage, time estimates, troubleshooting, and KPIs. Production philosophy, studio organization, the pipeline's stage *sequence* and gates, folder structure, file naming, version control, asset management, risk management, and review workflow are the Production Bible's jurisdiction (see its Section 3 for the full statement) — this document no longer duplicates them. Six sections were retired accordingly; see Decision Log `DEC-0001` (`governance/Fracture_Protocol_Studio_Decision_Log_v1.0.md`).
 
 ---
 
 ### How to use this document
 
-This is not a story document and not a lore document — it is the manual every department follows to turn a Series Bible episode outline into a published video without losing quality or consistency as volume scales into the hundreds of episodes. Studio OS Section 13 defines the production pipeline at a company-policy level; this document defines it at the step-by-step, department level.
+This is not a story document and not a lore document — it is the manual every department follows to turn a Series Bible episode outline into a published video without losing quality or consistency as volume scales into the hundreds of episodes. Production Bible Section 3 defines the production pipeline's stage sequence and gates; this document defines the step-by-step, department-level execution detail within each stage.
 
 Tags follow the studio-wide convention:
 - **[LOCKED]** — founder/Technical Director sign-off required to change.
@@ -23,13 +24,9 @@ Every SOP in this document lists: **Purpose, Inputs, Outputs, Responsible Role, 
 
 Mythic Forge Studios produces original animated episodes for *The Fracture Protocol* (Series 01, featuring protagonist Kael) and future series within the same or future universes, using an AI-assisted pipeline supervised at every stage by a human creative authority. This document governs everything from "episode outline exists" (Series Bible Section 11) through "episode is published and measured" (Studio OS Sections 23–24). It does not govern *what* the story is — only *how it gets made*.
 
-## 2. Production Philosophy **[LOCKED]**
+## 2. Production Philosophy **[RETIRED]**
 
-1. **AI drafts, humans approve.** No AI output enters a published episode without a human quality and canon check.
-2. **Every asset is reusable.** Characters, environments, and props are built once, referenced many times — not redrawn per episode.
-3. **Consistency beats speed.** A missed upload date is recoverable; a canon-breaking or off-model episode erodes audience trust (Studio OS Section 3).
-4. **Every stage has a visible cost and a visible owner.** If a stage's time/effort isn't estimated (Section 39) and assigned (Section 4), it isn't a real stage yet.
-5. **Version everything.** Scripts, assets, and prompts all carry version numbers (Section 32) — nothing is "final" without a number attached.
+**Retired in favor of Production Bible Section 1** (Production Philosophy), per the Studio Governance Manual's Document Authority Hierarchy (Section 3) resolving the Production Bible/Production OS jurisdiction overlap by delineation — Production Bible now holds the studio's production philosophy statement; this document keeps only department-level execution detail. See Decision Log `DEC-0001`. Retained here only as a tombstone so this section number is never reused.
 
 ## 3. Production Pipeline **[LOCKED spine]**
 
@@ -273,7 +270,7 @@ TRACKING    ──▶ used for action/movement sequences only
 | **Inputs** | Rough cut; existing SFX library |
 | **Outputs** | Final SFX layer |
 | **Responsible Role** | Audio Lead |
-| **Checklist** | ☐ Recurring effects (a specific Cipher, a Breach) reuse the same source file every time ☐ New SFX logged into the library with a clear name (Section 29) |
+| **Checklist** | ☐ Recurring effects (a specific Cipher, a Breach) reuse the same source file every time ☐ New SFX logged into the library with a clear name (Production Bible Section 5) |
 | **Estimated Time** | 1–3 hrs per episode |
 | **Quality Standard** | The same in-world phenomenon sounds identical across every episode it appears in |
 | **Dependencies** | Section 20 |
@@ -391,72 +388,33 @@ TRACKING    ──▶ used for action/movement sequences only
 | **Dependencies** | Section 26 |
 | **Version** | 1.0 |
 
-## 28. Asset Management SOP **[LIVING SECTION]**
+## 28. Asset Management SOP **[RETIRED]**
 
-| Field | Value |
-|---|---|
-| **Purpose** | Keep every produced asset findable, versioned, and non-duplicated |
-| **Inputs** | All assets produced under Sections 11–13 |
-| **Outputs** | Up-to-date Asset Registry (Studio Wiki Section 11) |
-| **Responsible Role** | Animation Lead |
-| **Checklist** | ☐ Every new asset logged the same day it's finalized ☐ Version number attached ☐ Superseded asset versions archived, not deleted |
-| **Estimated Time** | 10–15 min per asset |
-| **Quality Standard** | Any team member can locate the current version of any asset without asking the original creator |
-| **Dependencies** | Sections 11–13 |
-| **Version** | 1.0 |
+**Retired in favor of Production Bible Section 7** (Asset Management), which now defines the Asset Registry's full lifecycle (creation, review, approval, revision, retirement, archival). See Decision Log `DEC-0001`. Retained here only as a tombstone.
 
 ---
 
-## 29. File Naming Standards **[LOCKED]**
+## 29. File Naming Standards **[RETIRED]**
 
-Extends Studio Wiki Section 16 with production-specific file types:
+**Retired in favor of Production Bible Section 5** (File Naming Convention), the current authoritative naming table for all production asset types. See Decision Log `DEC-0001`. Retained here only as a tombstone.
 
-| Asset Type | Convention | Example |
-|---|---|---|
-| Script | `scripts/S{season}E{episode}_{slug}.md` | `scripts/S01E04_the-bout.md` |
-| Character reference sheet | `production/assets/characters/{zone}_{name}_v{X.X}.png` | `production/assets/characters/lower-sector_kael_v1.0.png` |
-| Environment plate | `production/assets/environments/{zone}_{location-slug}_v{X.X}.png` | `production/assets/environments/lower-sector_ward-station-seven_v1.0.png` |
-| Raw render | `production/renders/S{season}E{episode}_v{X.X}.mp4` | `production/renders/S01E04_v1.0.mp4` |
-| SFX file | `production/audio/sfx/{category}_{name}.wav` | `production/audio/sfx/sigil_ember-cast.wav` |
-| Thumbnail | `publishing/thumbnails/S{season}E{episode}_v{variant}.png` | `publishing/thumbnails/S01E04_vA.png` |
+## 30. Folder Structure **[RETIRED]**
 
-## 30. Folder Structure **[LOCKED spine, LIVING subfolders]**
+**Retired in favor of Production Bible Section 4** (Folder Structure). See Decision Log `DEC-0001`. Retained here only as a tombstone.
 
-```
-/production/
-  /assets/
-    /characters/
-    /environments/
-    /props/
-  /storyboards/
-  /renders/
-  /audio/
-    /voice/
-    /music/
-    /sfx/
-/scripts/
-/publishing/
-  /thumbnails/
-  /metadata/
-```
+## 31. Backup Strategy **[RETIRED]**
 
-**[LIVING]** — create each subfolder at the point real content exists for it, per Studio Wiki Section 15's rule against speculative scaffolding.
+**Retired in favor of Production Bible Section 14** (Archive & Preservation, Backups subsection). See Decision Log `DEC-0001`. Retained here only as a tombstone.
 
-## 31. Backup Strategy **[LOCKED]**
+## 32. Version Control **[RETIRED]**
 
-- All text-based canon and process documents (Bible, Studio OS, Series Bible, scripts, this document) live in this git repository — full history is the backup.
-- Large binary production assets (renders, raw audio, source art files) should not be committed directly to this documentation repository; they belong in dedicated cloud storage with its own versioning, referenced from the Asset Registry by link/ID, not embedded.
-- **Rule:** no single-location storage for any final asset — every finished episode's source files should exist in at least two places before the working copy is cleared.
-
-## 32. Version Control **[LOCKED]**
-
-All production documents and assets use the studio-wide **v{major}.{minor}** convention (Studio OS Section 30). For binary assets, the version number lives in the filename (Section 29) since git diffing doesn't apply meaningfully to images/video/audio.
+**Retired in favor of Production Bible Section 6** (Version Control). See Decision Log `DEC-0001`. Retained here only as a tombstone.
 
 ## 33. GitHub Workflow **[LOCKED]**
 
-- This repository holds documentation, scripts, and lightweight text assets only (per Section 31).
+- This repository holds documentation, scripts, and lightweight text assets only (per Production Bible Section 14).
 - Substantial documentation changes go through a feature branch and pull request, per Studio Wiki Section 24, before merging to `main`.
-- Production/asset management systems for binary files (Section 31) are a separate, non-git tooling decision to be made when asset volume justifies it — not yet required at current (pre-production) scale.
+- Production/asset management systems for binary files (Production Bible Section 14) are a separate, non-git tooling decision to be made when asset volume justifies it — not yet required at current (pre-production) scale.
 
 ## 34. Prompt Management **[LIVING SECTION]**
 
@@ -622,7 +580,7 @@ On-Time Publish Rate ............ Not yet measured
 1. After each episode ships, log actual time-per-stage against the estimates in Section 39.
 2. At each Monthly Production Review (Section 44), identify the single largest gap between estimate and actual.
 3. Update the relevant SOP's Estimated Time field and, if the gap reveals a process issue (not just an estimation issue), propose a Section 40/41 update.
-4. Version-bump this document (Section 32) whenever an SOP's steps — not just its time estimate — change.
+4. Version-bump this document (Production Bible Section 6) whenever an SOP's steps — not just its time estimate — change.
 
 ## 48. Studio Expansion Plan **[LIVING SECTION]**
 
@@ -632,7 +590,7 @@ Mirrors Studio OS Section 28's phased roadmap, applied to production capacity sp
 |---|---|
 | A single pipeline stage consistently blocks the weekly sprint (Section 43) for 3+ consecutive sprints | Prioritize filling that stage's Future Team Role (Section 42) before any other hire |
 | Episode volume exceeds what solo-founder + AI tooling can sustain at target cadence (Studio OS Section 11) | Bring in contract support for the single most time-consuming stage (Section 39), not a full team at once |
-| Registry/asset volume grows beyond what this repository can reasonably hold as text-adjacent files | Stand up dedicated binary-asset storage per Section 31, rather than continuing to work around it |
+| Registry/asset volume grows beyond what this repository can reasonably hold as text-adjacent files | Stand up dedicated binary-asset storage per Production Bible Section 14, rather than continuing to work around it |
 
 ---
 
@@ -728,3 +686,4 @@ Draft Prompt → Test Output → Originality Framework Check → Log in Prompt L
 `[v1.0 — 2026-07-06] Initial Production Operating System established: 48-section pipeline manual covering pre-production through publishing, asset/prompt management, version control, QA, metrics, and studio expansion triggers.`
 `[v1.0 — 2026-07-06] Synced terminology to The Fracture Protocol pivot: "Realm" references changed to "Zone," Sigil/Relic/Rift references changed to Cipher/Root Artifact/Breach, and stale numbered citations to the retired fantasy Mythic Bible corrected to point at the new World Bible and Art Bible files.`
 `[v1.0 — 2026-07-07] Synced cross-references to the Knowledge Base's rework into the Studio Wiki (v3.0): every "Knowledge Base Section N" citation updated to its new "Studio Wiki Section N" equivalent (Sections 4, 9, 13, 14, 22, 26 renumbered to Sections 8, 10, 11, 15, 16, 24 respectively). Also caught a residual stale term missed by the prior terminology pass: "Relic Registry" (Section 13 checklist) corrected to "Prop Index," matching the fantasy-to-Root-Artifact rename applied everywhere else.`
+`[v2.0 — 2026-07-07] Structural revision resolving the standing Production Bible/Production OS jurisdiction overlap (Studio Architecture Audit, approved correction), via the "Delineate" option: retired Sections 2 (Production Philosophy), 28 (Asset Management SOP), 29 (File Naming Standards), 30 (Folder Structure), 31 (Backup Strategy), and 32 (Version Control) in favor of their Production Bible equivalents (Sections 1, 7, 5, 4, 14, 6 respectively) — each retained as a tombstone per Studio Governance Manual Section 18 (Retirement Policy), never deleted. Updated front matter to state the narrowed scope explicitly (department-level SOP granularity only) and fixed every internal cross-reference that pointed to a retired section. This document no longer duplicates Production Bible content; it remains the sole authority on step-by-step department execution detail. Also incidentally retired the stale fantasy-era "sigil_ember-cast.wav" SFX filename example, which lived in the now-retired Section 29. Logged as Decision Log `DEC-0001`.`

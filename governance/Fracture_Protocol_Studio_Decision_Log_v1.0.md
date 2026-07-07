@@ -2,8 +2,8 @@
 ### Version 1.0
 
 **Classification:** Internal — Living Historical Record
-**Status:** Structure and guidance only. **No entries have been logged yet** — this document does not invent, backfill, or reconstruct any past decision. The founder or a delegated Continuity Editor populates it going forward, and may choose to backfill historical entries separately if desired; that is a founder decision, not one made by creating this template.
-**Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` for anything canon-related; `governance/Fracture_Protocol_Studio_Governance_Manual_v1.0.md` for anything process-related. This Log records decisions — it does not make them, approve them, or grant anyone authority they don't already have under those two documents.
+**Status:** Living — 2 entries logged (`DEC-0001`, `DEC-0002`), both dated 2026-07-07. This document does not invent, backfill, or reconstruct any past decision — every entry corresponds to a decision actually made and approved. The founder or a delegated Continuity Editor populates it going forward, and may choose to backfill earlier historical decisions (predating this Log's creation) separately if desired; that remains a founder decision, not one made automatically.
+**Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` for anything canon-related; `governance/Fracture_Protocol_Studio_Governance_Manual_v1.1.md` for anything process-related. This Log records decisions — it does not make them, approve them, or grant anyone authority they don't already have under those two documents.
 **Companion documents:** `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` (pre-decision ideas — see Section 2 for the distinction), every document's own in-file changelog (routine, line-level change history — see Section 2), `governance/Fracture_Protocol_Studio_Governance_Index_v1.0.md` (this Log will get a one-line pointer there once it has entries worth summarizing).
 
 ---
@@ -92,17 +92,45 @@ A `Superseded` or `Reversed` entry is **never deleted** — it stays in place wi
 
 ## 8. Decision Log
 
-*No entries yet. Add new entries below this line, in chronological order, using the Section 4 format.*
+### DEC-0001 — Resolve the Production Bible / Production OS jurisdiction overlap
+
+| Field | Value |
+|---|---|
+| **Decision ID** | DEC-0001 |
+| **Date** | 2026-07-07 |
+| **Decision Summary** | Resolved the standing overlap between Production Bible and Production OS via Option 2, Delineate: Production Bible retains sole jurisdiction over production philosophy, studio organization, pipeline sequence/gates, folder structure, file naming, version control, asset management, risk management, and review workflow. Production OS was narrowed to department-level SOP execution detail only. |
+| **Reason** | The overlap had been flagged across three separate audits (at the Production Bible's creation, in the Phase 2 continuity audit pass, and again in the Studio Architecture Audit) without resolution. The Studio Architecture Audit's Overall Score and Production Readiness Status explicitly conditioned "APPROVED WITH MINOR REVISIONS" on resolving it, and the founder approved this correction directly. |
+| **Alternatives Considered** | (1) Consolidate — retire Production OS entirely and treat Production Bible as its sole successor. Rejected: Production OS's department-level SOPs (Sections 6–27, 33–48) are genuinely non-duplicative and valuable; full retirement would destroy real content to solve a problem Delineate solves without loss. (2) Leave as-is — accept the duplication indefinitely. Rejected: already flagged three times without action; a fourth flag was judged worse than a modest, low-risk structural fix. |
+| **Impact** | Production OS bumped v1.0 → v2.0 (six sections retired as tombstones: Production Philosophy, Asset Management SOP, File Naming Standards, Folder Structure, Backup Strategy, Version Control — each now points to its Production Bible equivalent). Production Bible bumped v1.0 → v1.1 (Section 15 updated to record the resolution). Studio Governance Manual bumped v1.0 → v1.1 (Section 3's interim assignment marked resolved; Section 8 and Final Validation updated). Studio Wiki, Studio Governance Index, and Repository Health Guide cross-references updated accordingly. All three renamed files' cross-references were propagated repository-wide. |
+| **Related Documents** | Production Bible §15, Production OS front matter and §2/28–32, Studio Governance Manual §3/§8/Final Validation, Studio Wiki §2/§6/§17/§18 |
+| **Founder Approval** | Direct instruction: "Apply the two approved architecture corrections from the Studio Architecture Audit" (2026-07-07) |
+| **Future Review Date** | Next Quarterly Review (Repository Health Guide §9) — confirm the delineated split is holding once Season One scripts actually exercise the pipeline |
+| **Status** | Active |
+
+### DEC-0002 — Reconcile the Studio Wiki and Studio Governance Manual status vocabularies
+
+| Field | Value |
+|---|---|
+| **Decision ID** | DEC-0002 |
+| **Date** | 2026-07-07 |
+| **Decision Summary** | Explicitly mapped the Studio Governance Manual's Document Lifecycle states (Draft/In Review/Active/Superseded/Retired) to the Studio Wiki's completion-progress legend (✅/🔄/📋/⬬) as two complementary axes — one tracks lifecycle currency, the other tracks completion progress — rather than leaving them as two unreconciled "status" systems. |
+| **Reason** | The Studio Architecture Audit identified this as a previously-unflagged finding: two different vocabularies both called "status" had coexisted since the Governance Manual's creation with no stated relationship between them. |
+| **Alternatives Considered** | Retiring one vocabulary in favor of the other. Rejected: they genuinely answer different questions (is this document in force? vs. how much of it is built?) and collapsing them into one axis would lose information, not simplify anything. |
+| **Impact** | Studio Governance Manual §10 gained an explicit reconciliation note and mapping table. No document's actual status field was changed — this was a clarification of meaning, not a re-classification. |
+| **Related Documents** | Studio Governance Manual §10, Studio Wiki status legend (top of document) |
+| **Founder Approval** | Direct instruction: "Apply the two approved architecture corrections from the Studio Architecture Audit" (2026-07-07) |
+| **Future Review Date** | N/A — permanent, unless a future document introduces a third status-like vocabulary |
+| **Status** | Active |
 
 ---
 
 ## Final Validation
 
 1. **No canon introduced.** This document defines no character, faction, location, technology, power mechanic, or world fact.
-2. **No decisions invented.** The log (Section 8) is empty by design — nothing here fabricates or reconstructs history that wasn't explicitly logged by the founder or a delegated party.
+2. **No decisions invented.** `DEC-0001` and `DEC-0002` correspond to decisions actually made this session in direct response to an explicit founder instruction — nothing is backfilled or reconstructed.
 3. **No duplication.** This Log doesn't restate what changelogs already record (the "what") or what the Governance Manual already defines (the "how decisions get made") — it adds the one layer neither of those covers: the "why," alternatives, impact, and review cadence for decisions significant enough to warrant it.
 4. **Compatible with all existing documents.** Explicitly subordinate to the Master System Prompt and Governance Manual; distinguishes itself from the Proposal Vault (pre-decision) in Section 2.
-5. **Recommendation for future consideration (not implemented):** the founder may want to backfill this Log with the project's major decisions to date (the fantasy-to-sci-fi pivot, the Canon Governance System, the Founder Override Protocol, the Production Bible, the Studio Wiki rework, the Governance Manual and Index) — each already has a detailed record in its originating document's changelog and could be distilled into a Decision Log entry. Not done here per the explicit instruction not to invent past decisions; flagged as an option for the founder to trigger deliberately (Section 7).
+5. **Recommendation for future consideration (not implemented):** the founder may still want to backfill this Log with earlier major decisions (the fantasy-to-sci-fi pivot, the Canon Governance System, the Founder Override Protocol, the Production Bible, the Studio Wiki rework, the Governance Manual and Index) — each already has a detailed record in its originating document's changelog and could be distilled into a Decision Log entry. Not done here; flagged as an option for the founder to trigger deliberately (Section 7).
 
 ---
 
@@ -112,3 +140,4 @@ A `Superseded` or `Reversed` entry is **never deleted** — it stays in place wi
 
 ### Changelog
 `[v1.0 — 2026-07-07] Initial Studio Decision Log established: structure, Decision ID convention, entry format, status values, logging workflow, and maintenance guidance. No entries logged — the log (Section 8) starts empty by explicit instruction; backfilling historical decisions is flagged as an available future option, not performed automatically.`
+`[v1.0 — 2026-07-07] Logged the first two entries: DEC-0001 (resolving the Production Bible/Production OS jurisdiction overlap) and DEC-0002 (reconciling the Studio Wiki/Governance Manual status vocabularies), both approved via direct founder instruction applying the Studio Architecture Audit's two approved corrections. Structure version stays 1.0 — only the log's content (Section 8) changed, per this document's own append-only convention.`

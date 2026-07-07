@@ -1,10 +1,10 @@
 # THE FRACTURE PROTOCOL — PRODUCTION BIBLE
-## Version 1.0
+## Version 1.1
 
 **Classification:** Internal — Production Operating Manual
 **Status:** Process document. Introduces no lore, characters, factions, locations, technologies, or world canon.
 **Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` — this document is subordinate to it in all cases and must never contradict the Canon Governance System (Section 12) or the Founder Override Protocol (Section 13).
-**Companion documents:** `studio-os/Studio_OS_v1.0.md` (company-level policy — this document is scoped narrower: production only, not brand/vision/IP strategy), `production-os/Production_OS_v1.0.md` (an existing department-level SOP manual covering closely related ground — see Section 15 for how the two currently relate and a recommendation for reconciling them).
+**Companion documents:** `studio-os/Studio_OS_v1.0.md` (company-level policy — this document is scoped narrower: production only, not brand/vision/IP strategy), `production-os/Production_OS_v2.0.md` (department-level SOP manual, narrowed in scope — see Section 15 for the resolved jurisdiction split).
 **Anticipated by:** Master System Prompt Section 7 (Bible Naming System), which reserved "Production Bible (future, optional)" for exactly this content: *"Scene factory system, episode pipeline, thumbnail generation system, YouTube workflow system."* This document fills that reserved slot.
 **Scope note:** This is not one of the Locked Categories named in Master System Prompt Section 12, Rule 4 (Universe identity, Series/Art/World Bible content, character identities, etc.). It is a process document, governed the same way Studio OS and Production OS are governed — ordinary Version Control (Section 6 of this document; Studio OS Section 30) — not the Founder Override Protocol, which is scoped to story/world canon. See Section 15 for the explicit boundary between the two.
 
@@ -230,7 +230,7 @@ This document never defines its own canon-approval process. Anywhere production 
 
 | Asset Type | Convention | Example |
 |---|---|---|
-| Production Bible / process document | `{Document_Name}_v{X.X}.md` | `Fracture_Protocol_Production_Bible_v1.0.md` |
+| Production Bible / process document | `{Document_Name}_v{X.X}.md` | `Fracture_Protocol_Production_Bible_v1.1.md` |
 | Episode script | `episodes/{season}/{episode}/script/{episode}_v{X.X}.md` | `episodes/S01/E01/script/E01_v1.0.md` |
 | Storyboard file | `episodes/{season}/{episode}/storyboard/{episode}_board_v{X.X}.pdf` | `episodes/S01/E01/storyboard/E01_board_v1.0.pdf` |
 | Character reference sheet | `assets/characters/{character-slug}/reference/{character-slug}_ref_v{X.X}.png` | `assets/characters/character-a/reference/character-a_ref_v1.0.png` |
@@ -425,18 +425,17 @@ A prompt removed from active use in the Prompt Library (because it's been supers
 
 ---
 
-## 15. Relationship to Existing Documents **[Recommendation only — not implemented]**
+## 15. Relationship to Existing Documents **[RESOLVED — see Decision Log DEC-0001]**
 
-This document was written to fulfill Master System Prompt Section 7's reserved "Production Bible" slot. In doing so, it covers substantially the same ground as the existing `production-os/Production_OS_v1.0.md` (48 sections: pipeline stages, folder structure, file naming, version control, asset management, QA, troubleshooting, metrics) and, at a higher level, `studio-os/Studio_OS_v1.0.md` Section 13 (company-policy pipeline).
+This document was written to fulfill Master System Prompt Section 7's reserved "Production Bible" slot. In doing so, it originally covered substantially the same ground as `production-os/Production_OS_v2.0.md` (48 sections: pipeline stages, folder structure, file naming, version control, asset management, QA, troubleshooting, metrics) and, at a higher level, `studio-os/Studio_OS_v1.0.md` Section 13 (company-policy pipeline).
 
-Per this task's constraints, this document does not modify, retire, or reconcile either existing document — that would be a structural decision beyond "build the Production Bible," and is flagged here as a recommendation rather than acted on.
+**Resolved via the Studio Architecture Audit's approved corrections, using Option 2 (Delineate):** this document is now the sole authority on production philosophy, studio organization/approval hierarchy, the pipeline's stage *sequence* and gates, folder structure, file naming, version control, asset management, risk management, and review workflow. `production-os/Production_OS_v2.0.md` was narrowed to department-level SOP granularity only — its Sections 2, 28–32 (which duplicated this document) were retired as tombstones and now point back here. See Decision Log `DEC-0001` for the full reasoning and alternatives considered, and Studio Governance Manual Section 3 for the resulting, no-longer-provisional Document Authority Hierarchy entry.
 
-**Recommendation for the founder's consideration (not implemented):**
-1. **Consolidate** — retire `production-os/Production_OS_v1.0.md` (kept in git history, per this repository's established pattern for superseded documents) and treat this Production Bible as its sole successor; or
-2. **Delineate** — keep both, with this document serving as the single production-philosophy/organization/governance layer and Production OS narrowed to serve purely as its department-level implementation detail (removing the sections that now duplicate this document — Folder Structure, File Naming, Version Control, Asset Management, QA, Risk-adjacent troubleshooting); or
-3. **Leave as-is for now** — accept the duplication temporarily and revisit at the next Monthly Review (Studio OS Section 26), since duplication is a documentation-hygiene risk, not a canon-breaking one.
+The other two options considered — Consolidate (fully retiring Production OS) and Leave-as-is — are preserved below for the historical record, per this repository's practice of never deleting a decision's context once made:
 
-No option above has been applied. Two documents currently claim overlapping process authority; this is flagged as the primary open item from this Bible's creation and should be resolved before both are used in parallel on a real production pass, to avoid two contributors following two slightly different versions of "the same" pipeline.
+1. ~~Consolidate — retire Production OS entirely and treat this Production Bible as its sole successor.~~ Not chosen: Production OS's department-level SOPs (Sections 6–27, 33–48) are genuinely non-duplicative and valuable; full retirement would have destroyed real content to solve a problem Delineate solves without loss.
+2. **Delineate — chosen.** See above.
+3. ~~Leave as-is for now.~~ Not chosen: the overlap had already been flagged across three separate audits without resolution; a fourth flag without action was judged worse than a modest, low-risk structural fix.
 
 ---
 
@@ -446,14 +445,15 @@ No option above has been applied. Two documents currently claim overlapping proc
 2. **Alignment with the Canon Governance System (Master System Prompt Section 12).** This document defines no competing approval process for canon; Section 2 (Canon Governance Integration) and Section 10 (Accidental Canon Drift) both route any canon-touching situation back to Rule 5 (Proposal Workflow) and the Proposal Vault, not around it.
 3. **Alignment with the Founder Override Protocol (Master System Prompt Section 13).** Section 11 (Creator Review Workflow) explicitly distinguishes ordinary production sign-off (Creative Director approval, no Override Command required) from canon-touching decisions (which require the full Section 13 workflow) — this document does not apply Override Command machinery to routine production approvals, and does not let production sign-off substitute for one where canon is actually involved.
 4. **Compatibility with all existing Bibles.** No content in this document contradicts the Master System Prompt, World Bible, Series Bible, or Art Bible — it does not reference any specific canon fact by name, only by section-number cross-reference, precisely to keep this guaranteed as canon evolves.
-5. **Recommendations for future production improvement (not implemented):** see Section 15 in full. In short — reconcile this document's overlap with the existing Production OS before both are used simultaneously on a real episode; finalize the Asset Registry's file format once asset volume exists to populate it; and revisit the Team Roles table (Section 2) at the point any role beyond Founder is actually filled.
+5. **Recommendations for future production improvement:** the Production OS jurisdiction overlap flagged here at creation is now resolved (Section 15). Still open: finalize the Asset Registry's file format once asset volume exists to populate it, and revisit the Team Roles table (Section 2) at the point any role beyond Founder is actually filled.
 
 ---
 
-*End of Production Bible v1.0. This document defines process only — update it as production is proven out in practice; it should look different, and better, by v2.0.*
+*End of Production Bible v1.1. This document defines process only — update it as production is proven out in practice; it should look different, and better, by v2.0.*
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-07] Initial Production Bible established per Phase 3A, Milestone 1: 15 sections covering production philosophy, studio organization, pipeline, folder structure, naming, version control, asset management, production standards, QA, risk management, creator review workflow, production readiness and episode completion checklists, and archive/preservation. Fulfills the "Production Bible (future, optional)" slot reserved in Master System Prompt Section 7. Introduces no new canon; all examples use neutral placeholders. Flagged, but did not resolve, a significant content overlap with the existing Production OS v1.0 (Section 15) — left as an explicit recommendation for founder decision.`
 `[v1.0 — 2026-07-07] Synced two internal cross-references to the Knowledge Base's rework into the Studio Wiki (v3.0): "Knowledge Base Section 4" (Section 4, Folder Structure) and "Knowledge Base Section 7" (Section 10, Risk Management) updated to "Studio Wiki Section 15" and "Studio Wiki Section 3" respectively.`
+`[v1.1 — 2026-07-07] Resolved the Production Bible/Production OS jurisdiction overlap (Section 15) per the Studio Architecture Audit's approved corrections, using Option 2 (Delineate): this document is now the sole authority on production philosophy, organization, pipeline sequence, folder structure, file naming, version control, asset management, risk management, and review workflow. Production OS (now v2.0) was narrowed to department-level SOP execution detail only. Logged as Decision Log `DEC-0001`. Updated front matter's Production OS reference accordingly.`

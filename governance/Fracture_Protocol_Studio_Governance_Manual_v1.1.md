@@ -1,11 +1,11 @@
 # THE FRACTURE PROTOCOL
 ## Studio Governance Manual
-### Version 1.0
+### Version 1.1
 
 **Classification:** Internal — Constitutional Document
 **Status:** Process document. Introduces no lore, canon, characters, story content, or worldbuilding.
 **Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` — this Manual is subordinate to it in all cases and can never conflict with the Canon Governance System (Section 12) or the Founder Override Protocol (Section 13). Those remain the highest authority for canon, full stop; nothing below overrides them.
-**Companion documents:** `studio-os/Studio_OS_v1.0.md` (company process), `production-os/Production_OS_v1.0.md` (department SOPs), `production-bible/Fracture_Protocol_Production_Bible_v1.0.md` (production philosophy/pipeline), `README.md` (Studio Wiki — navigation).
+**Companion documents:** `studio-os/Studio_OS_v1.0.md` (company process), `production-os/Production_OS_v2.0.md` (department SOPs, narrowed in scope — Section 3), `production-bible/Fracture_Protocol_Production_Bible_v1.1.md` (production philosophy/pipeline), `README.md` (Studio Wiki — navigation).
 
 ---
 
@@ -59,11 +59,11 @@ No process document may grant itself authority over canon, and no process docume
 | Document | Scope of Authority |
 |---|---|
 | **Studio OS** | Company-level policy: vision, mission, values, brand, creative philosophy/originality framework, IP protection, studio roles, long-term roadmap. |
-| **Production OS** | Department-level SOP granularity: the detailed step-by-step instructions for each pipeline stage, time estimates, troubleshooting, KPIs. |
-| **Production Bible** | Production-level organization and governance integration: philosophy, studio organization/approval hierarchy, the pipeline's stage *sequence* and gates, risk management, creator review workflow, readiness/completion checklists, archiving policy. |
+| **Production OS** | Department-level SOP granularity only: the detailed step-by-step instructions for each pipeline stage, time estimates, troubleshooting, KPIs. |
+| **Production Bible** | Production philosophy, studio organization/approval hierarchy, the pipeline's stage *sequence* and gates, folder structure, file naming, version control, asset management, risk management, creator review workflow, readiness/completion checklists, archiving policy. |
 | **Studio Wiki** | Navigation only: where something is, who owns it, what depends on it. Authoritative on location and status; never on content. |
 
-**Standing interim assignment (Production Bible vs. Production OS):** these two currently overlap in describing pipeline stages, folder structure, naming, version control, asset management, and QA. Until the founder resolves this (the three options remain open, tracked in Production Bible Section 15 and Studio Wiki Section 6), the interim jurisdiction is: **Production Bible governs the pipeline's stage sequence, organizational structure, risk management, and review workflow; Production OS governs the granular, department-by-department execution detail within each stage.** This is a documented default for reducing day-to-day ambiguity, not a final resolution — it does not preempt the founder's eventual choice among consolidate / delineate / leave-as-is.
+**Resolved (Production Bible vs. Production OS):** these two previously overlapped in describing pipeline stages, folder structure, naming, version control, asset management, and QA. Per the Studio Architecture Audit's approved corrections, this was resolved via Option 2 (Delineate): Production Bible now holds sole jurisdiction over everything in its row above; Production OS was narrowed to department-level SOP granularity only, with its six duplicating sections (Production Philosophy, Asset Management SOP, File Naming Standards, Folder Structure, Backup Strategy, Version Control) retired as tombstones pointing back to their Production Bible equivalents. See Decision Log `DEC-0001` for the full reasoning, alternatives considered, and impact.
 
 A new process document added in the future gets a row here the same day it's created (Section 17, Future Expansion Rules) — it does not operate outside this table.
 
@@ -128,7 +128,7 @@ If the Founder ever delegates the Creative Director role to someone else, that d
 Any AI system (including this one) operating on this repository, regardless of which role it is framed as holding for a given task (Creative Director, Canon Guardian, Production Manager, Pipeline Architect, Continuity Editor — Master System Prompt Section 1), is bound by the same limits in every case:
 
 - **No independent canon authority**, ever (Master System Prompt Section 12, Rule 1). An AI may draft, recommend, and log Proposals — it may never implement a structural canon change without an explicit Founder Override Command (Section 13).
-- **No independent authority to retire, merge, or silently resolve overlapping process documents.** When two process documents overlap (Section 3's standing interim assignment is the current live example), an AI flags it as an open item and proposes options — it does not pick one unilaterally.
+- **No independent authority to retire, merge, or silently resolve overlapping process documents.** When two process documents overlap, an AI flags it as an open item and proposes options — it does not pick one unilaterally. The Production Bible/Production OS overlap (Section 3) is the worked example: flagged across three audits, three options laid out, and only actually resolved once the Founder gave an explicit instruction to apply a specific correction (Decision Log `DEC-0001`) — never resolved by the AI on its own initiative.
 - **No authority to skip Drift Detection** (Master System Prompt Section 12, Rule 3) for the sake of production convenience, however minor the change seems.
 - **No authority to modify this Manual's Locked sections**, or any other process document's Locked sections, without recorded Founder sign-off.
 - **Full authority to perform housekeeping**: fixing broken cross-references, correcting stale terminology, syncing version numbers, and running audits (Section 16) — these are maintenance, not governance, decisions, and don't require a Founder Override Command.
@@ -161,6 +161,16 @@ Every process document (not individual assets — see Production Bible Section 6
 | Retired | No longer governs anything; retained, never deleted |
 
 A process document cannot skip from Draft directly to Active — Review is mandatory, even for a document the Founder is confident about, so there is always a recorded checkpoint.
+
+**Relationship to the Studio Wiki's status legend (✅ Complete / 🔄 In Progress / 📋 Planned / ⬬ Not Started):** these are two different axes, not competing vocabularies for the same thing, and were never explicitly reconciled until this correction. The Wiki's legend tracks a document's **completion progress** — how much of its intended content actually exists. This section's five states track a document's **lifecycle currency** — whether it's currently in force at all. A document is normally `Active` (this section) *and* ✅ Complete (Wiki legend) at the same time once finished and approved; a document mid-draft is typically `Draft` (this section) and 🔄 In Progress (Wiki legend) simultaneously. The two answer different questions and should both be checked when either is in doubt — neither replaces the other.
+
+| This section's state | Typical corresponding Wiki status |
+|---|---|
+| Draft | 🔄 In Progress |
+| In Review | 🔄 In Progress |
+| Active | ✅ Complete (or 🔄 In Progress, if Active but still growing — e.g., the Proposal Vault or Decision Log) |
+| Superseded | Not tracked by the Wiki legend directly — see the Wiki's Archive Index |
+| Retired | Not tracked by the Wiki legend directly — see the Wiki's Archive Index |
 
 ---
 
@@ -272,15 +282,17 @@ Retiring a process document is a Founder Authority decision (Section 6) — an A
 1. **No canon introduced.** This Manual defines no character, faction, location, technology, power mechanic, or world fact.
 2. **No conflict with the Master System Prompt, Canon Governance System, or Founder Override Protocol.** Every section that touches canon authority (Sections 4–8) explicitly defers to Master System Prompt Sections 12–13 rather than restating or reinterpreting them; this Manual's own authority is scoped exclusively to process documents (Section 1).
 3. **No duplicated content.** Where a rule already exists in full elsewhere (versioning mechanics in Production Bible Section 6, review stages in Production Bible Section 11, branching workflow in Studio Wiki Section 24), this Manual points to it rather than repeating it.
-4. **Compatibility confirmed** with Studio OS v1.0, Production OS v1.0, Production Bible v1.0, and Studio Wiki v3.1 — each was checked against Section 3's scope assignments and none contradicts them.
-5. **Standing open item surfaced, not resolved.** The Production Bible/Production OS overlap (Section 3) is formally documented with an interim jurisdiction split, explicitly marked as provisional — this Manual does not make the founder's consolidate/delineate/leave-as-is decision for them.
-6. **Recommendation for future improvement (not implemented):** once studio roles beyond Founder are filled, revisit Sections 6–7 to define the actual delegation mechanics (how a non-Founder Creative Director is appointed, what if anything requires a Founder Override Command versus ordinary sign-off at that point) — today those sections assume a single individual and are simpler than they will eventually need to be.
+4. **Compatibility confirmed** with Studio OS v1.0, Production OS v2.0, Production Bible v1.1, and Studio Wiki v3.5 (at time of this revision) — each was checked against Section 3's scope assignments and none contradicts them.
+5. **Standing open item resolved.** The Production Bible/Production OS overlap (Section 3) was resolved via the Studio Architecture Audit's approved corrections (Option 2, Delineate) and logged as Decision Log `DEC-0001` — no longer provisional.
+6. **Status-vocabulary duplication resolved.** Section 10 now explicitly reconciles this Manual's Document Lifecycle states with the Studio Wiki's completion-progress legend, per the Studio Architecture Audit's second approved correction.
+7. **Recommendation for future improvement (not implemented):** once studio roles beyond Founder are filled, revisit Sections 6–7 to define the actual delegation mechanics (how a non-Founder Creative Director is appointed, what if anything requires a Founder Override Command versus ordinary sign-off at that point) — today those sections assume a single individual and are simpler than they will eventually need to be.
 
 ---
 
-*End of Studio Governance Manual v1.0. This is the constitution of the studio's operating system — every process document answers to it on jurisdiction, and it answers to the Master System Prompt on everything else.*
+*End of Studio Governance Manual v1.1. This is the constitution of the studio's operating system — every process document answers to it on jurisdiction, and it answers to the Master System Prompt on everything else.*
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-07] Initial Studio Governance Manual established: 20 sections covering purpose/scope, governance and document authority hierarchies, canon/process/documentation classification, approval responsibilities, Founder/Creative Director/AI authority limits, version control policy, document lifecycle, change request workflow, conflict resolution, documentation standards, cross-reference rules, repository governance, audit requirements, maintenance schedule, retirement policy, and future expansion rules. Introduces no canon. Formally documents (as a provisional interim assignment, not a resolution) the standing Production Bible/Production OS scope overlap first flagged at the Production Bible's creation — Founder decision remains open per Production Bible Section 15 and Studio Wiki Section 6.`
+`[v1.1 — 2026-07-07] Applied both approved corrections from the Studio Architecture Audit. (1) Resolved the Production Bible/Production OS overlap (Section 3) via Option 2, Delineate — Production Bible now holds sole jurisdiction over philosophy/organization/pipeline-sequence/naming/version-control/asset-management/risk/review; Production OS narrowed to department-level SOP granularity only. Logged as Decision Log `DEC-0001`. (2) Reconciled the two parallel status vocabularies (Section 10) — explicitly mapped this Manual's Document Lifecycle states (Draft/In Review/Active/Superseded/Retired) to the Studio Wiki's completion-progress legend (✅/🔄/📋/⬬) as two complementary axes, not competing systems. Updated Section 8 (AI Authority Limits) and Final Validation to reflect both resolutions.`
