@@ -1,6 +1,6 @@
 # MYTHIC FORGE STUDIOS
 ## Studio Wiki
-### Version 3.6 — Master Navigation System
+### Version 3.7 — Master Navigation System
 
 **Forging Worlds. Creating Legends.**
 
@@ -28,20 +28,19 @@ Mythic Forge Studios is building one original sci-fi dystopian universe, **The F
 
 ## 2. Repository Overview
 
-Mythic Forge Studios currently maintains **thirteen core documents** across five tiers — canon, creative philosophy, governance, studio process, and production process — plus this Wiki, which indexes all of them. Nothing "canon" lives outside the Bible tier (Section 5); nothing "operational" lives outside the governance or process tiers (Sections 6–7, 25); nothing "why it should feel this way" lives outside the philosophy tier (Section 26).
+Mythic Forge Studios currently maintains **fourteen core documents** across five tiers — canon, creative philosophy, governance, studio process, and production process — plus this Wiki and the Canon Reference System, both of which index other documents rather than belonging to a tier themselves. Nothing "canon" lives outside the Bible tier (Section 5); nothing "operational" lives outside the governance or process tiers (Sections 6–7, 25); nothing "why it should feel this way" lives outside the philosophy tier (Section 26).
 
 **At a glance:**
 
 | Layer | Answers | Current State |
 |---|---|---|
 | Canon (the Bibles) | What is the universe, and what happens in it? | Master System Prompt v1.2, World Bible v1.1, Series Bible v1.1 (Season One fully outlined, 20/20 episodes), Art Bible v3.0 (11 files), Proposal Vault v1.0 (7 entries pending decision) |
-| Creative Philosophy | Why should any of it feel the way it does? | Franchise Design Manifesto v1.0 *(new — Section 26)* |
-| Governance | Which process document governs what, who can change it, and what's the history behind past decisions? | Studio Governance Manual v1.1, Studio Governance Index v1.0, Studio Decision Log v1.0 (2 entries: `DEC-0001`, `DEC-0002`), Repository Health Guide v1.0 (Section 25) |
+| Creative Philosophy | Why should any of it feel the way it does? | Franchise Design Manifesto v1.0 |
+| Governance | Which process document governs what, who can change it, and what's the history behind past decisions? | Studio Governance Manual v1.1, Studio Governance Index v1.0, Studio Decision Log v1.0 (2 entries: `DEC-0001`, `DEC-0002`), Repository Health Guide v1.0 |
 | Studio Process | How does the studio operate day to day? | Studio OS v1.0 |
-| Production Process | How does an episode actually get made? | Production OS v2.0 (department SOP detail only), Production Bible v1.1 (production philosophy/organization/pipeline-sequence/naming/version-control/asset-management/risk/review — see Section 6 and the Governance Manual's Section 3; jurisdiction resolved, Decision Log `DEC-0001`) |
+| Production Process | How does an episode actually get made? | Production OS v2.0 (department SOP detail only), Production Bible v1.1 (production philosophy/organization/pipeline-sequence/naming/version-control/asset-management/risk/review; jurisdiction resolved, Decision Log `DEC-0001`) |
 | Production Output | What's actually been made? | Nothing yet — Season One is fully outlined and not yet in active production (Section 18) |
-
-**Queued next:** Phase 3A Canon Reference System — infrastructure reserved (Section 5, Section 15), no content or structure defined yet.
+| Canon Navigation | Where is a specific canon fact defined? | Canon Reference System v1.0 *(new — Section 27)*, alongside this Wiki — both index, neither belongs to a tier |
 
 | Field | Value |
 |---|---|
@@ -189,7 +188,7 @@ For what any of these documents actually *say*, open the document — this index
 
 **Planned:** a Season Two Series Bible, to be broken out once Season One is in production/nearing completion (Series Bible Section 12) — will be added as a new row above the day it's created.
 
-**Reserved slot — Phase 3A Canon Reference System:** a future consolidated reference layer for looking up established canon facts, intended to unify the already-planned Character Registry (Section 8), Root Artifact Registry and Cipher Glyph Companion (Section 10), and Fragment/Anomaly Registry (Section 8's Fragment tracker) into one coherent system rather than three separate ad hoc trackers. This is an infrastructure reservation only — no structure, folder, or content for it has been defined yet, and none is implied by this note. It will get its own Bible Index row and repository location the day its actual design is approved, following the same Change Request Workflow (Governance Manual Section 11) as any other new document.
+**Phase 3A Canon Reference System — built, see Section 27.** The reserved slot noted here has been resolved into `registries/Fracture_Protocol_Canon_Reference_System_v1.0.md`, a category-indexed pointer system for locating canon fast. It is a lighter, complementary layer, not a replacement for the still-separately-planned Character Registry (Section 8), Root Artifact Registry (Section 10), Fragment/Anomaly Registry, or Cipher Glyph Companion (Section 10) — those remain future per-asset detail pages, triggered when the cast/artifact list actually grows; the Canon Reference System is the "where do I look" index that exists regardless of whether those detail pages have been built yet.
 
 ---
 
@@ -428,6 +427,7 @@ For production-asset archival going forward (retired character designs, deprecat
 /bible/                              → Master System Prompt, World Bible, Proposal Vault
 /manifesto/                          → Franchise Design Manifesto
 /governance/                         → Studio Governance Manual, Governance Index, Decision Log, Repository Health Guide
+/registries/                         → Canon Reference System
 /studio-os/                          → Studio OS
 /production-os/                      → Production OS (department SOP detail only)
 /production-bible/                   → Production Bible
@@ -439,13 +439,12 @@ For production-asset archival going forward (retired character designs, deprecat
 **Planned, not yet created** (per Section 11 above and Production Bible Section 4 — created only when real content exists for them, never scaffolded speculatively):
 
 ```
-/registries/     → character, Root Artifact, and Fragment/Anomaly trackers — expected to become
-                   (or be superseded by) the Phase 3A Canon Reference System (Section 5); no
-                   structure decided yet, reserved slot only
 /scripts/        → episode scripts, by season/arc
 /production/     → storyboards, VO, footage, art
 /publishing/     → metadata, thumbnails, SEO records
 ```
+
+Note: `/registries/` is now active (Canon Reference System, Section 27) — future per-asset detail pages (Character Registry, Root Artifact Registry, Fragment/Anomaly Registry, Cipher Glyph Companion) will live in this same folder once their triggers are met (Section 11).
 
 For the fully detailed future production-asset tree (episodes/assets/audio/prompts/thumbnails/exports/archives), see Production Bible Section 4 — this index does not duplicate it.
 
@@ -524,7 +523,7 @@ This Wiki (README.md)
 
 | Document | Version | Status | Locked/Living | Last Updated |
 |---|---|---|---|---|
-| Studio Wiki (this document) | 3.6 | ✅ Complete | Mixed | 2026-07-07 |
+| Studio Wiki (this document) | 3.7 | ✅ Complete | Mixed | 2026-07-07 |
 | Fracture Protocol Master System Prompt | 1.2 | ✅ Complete | Locked | 2026-07-07 |
 | Fracture Protocol Proposal Vault | 1.0 | 🔄 7 entries pending | N/A | 2026-07-06 |
 | Fracture Protocol World Bible | 1.1 | ✅ Complete | Mixed | 2026-07-06 |
@@ -535,6 +534,7 @@ This Wiki (README.md)
 | Studio Governance Index | 1.0 | ✅ Complete | Living | 2026-07-07 |
 | Studio Decision Log | 1.0 | 🔄 2 entries logged | Living (log) | 2026-07-07 |
 | Repository Health Guide | 1.0 | ✅ Complete | Mixed | 2026-07-07 |
+| Canon Reference System | 1.0 | ✅ Complete | Mixed | 2026-07-07 |
 | Studio OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
 | Production OS | 2.0 | ✅ Complete (narrowed scope) | Mixed | 2026-07-07 |
 | Production Bible | 1.1 | ✅ Complete | Mixed | 2026-07-07 |
@@ -641,6 +641,7 @@ Section 22 (Search Guide).
 | One-page map of everything | `governance/Fracture_Protocol_Studio_Governance_Index_v1.0.md` |
 | Why a past decision was made | `governance/Fracture_Protocol_Studio_Decision_Log_v1.0.md` |
 | How to run a repository health/audit check | `governance/Fracture_Protocol_Repository_Health_Guide_v1.0.md` |
+| Where is a specific canon fact defined | `registries/Fracture_Protocol_Canon_Reference_System_v1.0.md` |
 | Why the franchise should feel a certain way | `manifesto/Fracture_Protocol_Franchise_Design_Manifesto_v1.0.md` |
 
 | Field | Value |
@@ -796,7 +797,27 @@ This is the franchise's "why" — distinct from Studio OS's company-level Vision
 
 ---
 
-## 27. Final Validation
+## 27. Canon Reference System Index
+
+| Document Name | Fracture Protocol Canon Reference System |
+|---|---|
+| **Purpose** | Category-indexed pointer system for locating canon fast — Universe, Characters, Disciplines, Artifacts, Technology, Locations, Organizations, History, Rules, Timeline, Terminology, Visual Rules, Episode References, Production References |
+| **Owner** | Founder (Creative Director) |
+| **Current Version** | 1.0 |
+| **Status** | ✅ Complete |
+| **Locked or Living** | Mixed — see in-document tags per section |
+| **Dependencies** | Master System Prompt (subordinate to it; carries no canon authority of its own) |
+| **Related Documents** | World Bible, Series Bible, Art Bible (this system points to all three); Studio Wiki Sections 8–10 (Character/Environment/Prop indices — cited, not duplicated) |
+| **Repository Location** | `registries/Fracture_Protocol_Canon_Reference_System_v1.0.md` |
+| **Last Updated** | 2026-07-07 |
+
+This fulfills the Phase 3A reserved slot noted in Section 5 and Section 15 above — that reservation is now resolved into an actual document. Where this system and the Wiki's own Character/Environment/Prop indices (Sections 8–10) overlap in subject, this system points to those sections rather than rebuilding them; where no Wiki index exists yet (Disciplines, Organizations, History, Rules, Timeline, Terminology, Visual Rules, Episode/Production References), this system is the first pointer table for that category. Note: this system deliberately does not use a "Timeline Year N" citation format, since no in-world year-numbering system exists in canon — see its own Section 6 for the season/episode-based substitute.
+
+The `/registries/` folder (previously planned but empty, Section 15) is now active — this is its first real content.
+
+---
+
+## 28. Final Validation
 
 1. **No canon introduced.** This document defines no character, faction, location, technology, power mechanic, or world fact — every substantive answer is a pointer to an existing Bible section, not a restatement of it.
 2. **No lore duplicated.** Character, environment, and prop entries (Sections 8–10) are pointer tables only (name, category, document, status) — no biography, personality, mechanic, or story detail is restated anywhere in this document.
@@ -804,10 +825,11 @@ This is the franchise's "why" — distinct from Studio OS's company-level Vision
 4. **Compatible with all existing documents.** Every version and status listed (Section 18) was checked directly against each document's own header/changelog at time of writing; the Production Bible and the new Studio Governance Manual are both fully indexed (Sections 6, 21, 25).
 5. **Structural future-proofing.** The index sections (5–13, 25) are additive by design (Section 24) — a new series, a new registry, a new production document, or hundreds of new assets each get a new row or a new section without requiring this document's structure to change. Nothing here assumes a fixed number of episodes, characters, or contributors.
 6. **Resolved items reflected, not hidden.** The Production Bible/Production OS overlap, tracked since this Wiki's v3.0 rework, was resolved via the Studio Architecture Audit's approved corrections (Decision Log `DEC-0001`) — Section 6 and the Governance Manual's Section 3 both now say so explicitly rather than continuing to describe it as open. The retired Risk Register (Section 24) remains a genuinely open item — content preserved by reference, relocation not yet implemented.
+7. **Phase 3A infrastructure resolved into a real document.** The Canon Reference System (Section 27) fulfills the reserved slot noted in Section 5 — it introduces zero new canon (every named entity it cites already exists in an existing Bible) and does not duplicate this Wiki's own Character/Environment/Prop indices (Sections 8–10), pointing to them instead.
 
 ---
 
-*End of Studio Wiki Version 3.6. This document is the home page — update it the same day any other document changes (Section 24).*
+*End of Studio Wiki Version 3.7. This document is the home page — update it the same day any other document changes (Section 24).*
 
 ---
 
@@ -828,3 +850,4 @@ This is the franchise's "why" — distinct from Studio OS's company-level Vision
 `[v3.4 — 2026-07-07] Indexed the new Repository Health Guide v1.0 (Section 25) — detailed operational procedures (folder standards, duplicate detection, broken link checks, version audits, naming audits, monthly/quarterly/annual cadences) positioned explicitly as the detail layer beneath the Governance Manual's Audit Requirements/Maintenance Schedule/Retirement Policy sections, not a competing policy. Scoped away from production workflow and canon per its own instructions. Added a row to Section 18 (Version History Index) and Section 21 (Quick Links).`
 `[v3.5 — 2026-07-07] Indexed the new Franchise Design Manifesto v1.0 as a fifth document tier ("Creative Philosophy," alongside Canon/Governance/Studio Process/Production Process — Section 2). Added Section 26 (Franchise Manifesto Index), bumping Final Validation to Section 27. Updated Section 17 (Document Dependency Map) to include the Manifesto and the three governance documents (Governance Index, Decision Log, Repository Health Guide) added in the two prior passes but never reflected there. Also caught and corrected Section 2's Repository Overview, which had drifted out of date across the last two document additions (still described only ten documents/four tiers and listed the Governance tier as containing only the Governance Manual) — this is exactly the kind of drift the new Repository Health Guide (§4, Documentation Reviews) exists to catch.`
 `[v3.6 — 2026-07-07] Applied both approved corrections from the Studio Architecture Audit and prepared Phase 3A infrastructure, per direct founder instruction. (1) Production Bible/Production OS jurisdiction resolved via Option 2, Delineate — Production OS bumped to v2.0 (six duplicating sections retired as tombstones), Production Bible bumped to v1.1, Studio Governance Manual bumped to v1.1; all three file renames propagated repository-wide; logged as Decision Log DEC-0001. (2) Status-vocabulary reconciliation added to Governance Manual Section 10; logged as DEC-0002. (3) Reserved, infrastructure-only slot added for the Phase 3A Canon Reference System (Section 5, Section 15) — no structure or content defined. Updated Sections 2, 6, 17, 18, 21, 24, 25, and 27 accordingly. While correcting, also caught two additional drift bugs from prior passes: Section 24's "flagged here per Section 25" pointed at the wrong section after the Franchise Manifesto Index insertion (corrected to Section 27), and Section 15's "current, on-disk structure" diagram had never included the `/manifesto/` or `/governance/` folders since their creation.`
+`[v3.7 — 2026-07-07] Indexed the new Canon Reference System v1.0 (Section 27), resolving the Phase 3A reserved slot noted in v3.6 into a real document — a category-indexed pointer system across Universe, Characters, Disciplines, Artifacts, Technology, Locations, Organizations, History, Rules, Timeline, Terminology, Visual Rules, Episode References, and Production References. Introduces no new canon; points to (rather than duplicates) this Wiki's own Character/Environment/Prop indices where they already cover a category. Activated the previously-planned, empty `/registries/` folder (Section 15) with its first real content. Added a sixth "Canon Navigation" row to Section 2's tier table (document count now fourteen) and updated Sections 5, 15, 18, 21, and 28 accordingly.`
