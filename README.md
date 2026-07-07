@@ -1,6 +1,6 @@
 # MYTHIC FORGE STUDIOS
 ## Studio Wiki
-### Version 3.1 — Master Navigation System
+### Version 3.2 — Master Navigation System
 
 **Forging Worlds. Creating Legends.**
 
@@ -509,13 +509,14 @@ This Wiki (README.md)
 
 | Document | Version | Status | Locked/Living | Last Updated |
 |---|---|---|---|---|
-| Studio Wiki (this document) | 3.1 | ✅ Complete | Mixed | 2026-07-07 |
+| Studio Wiki (this document) | 3.2 | ✅ Complete | Mixed | 2026-07-07 |
 | Fracture Protocol Master System Prompt | 1.2 | ✅ Complete | Locked | 2026-07-07 |
 | Fracture Protocol Proposal Vault | 1.0 | 🔄 7 entries pending | N/A | 2026-07-06 |
 | Fracture Protocol World Bible | 1.1 | ✅ Complete | Mixed | 2026-07-06 |
 | The Fracture Protocol Series Bible | 1.1 | ✅ Complete | Mixed | 2026-07-06 |
 | Mythic Forge Art Bible | 3.0 (index) | ✅ Complete | Mixed | 2026-07-06 |
 | Studio Governance Manual | 1.0 | ✅ Complete | Mostly Locked | 2026-07-07 |
+| Studio Governance Index | 1.0 | ✅ Complete | Living | 2026-07-07 |
 | Studio OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
 | Production OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
 | Production Bible | 1.0 | ✅ Complete | Mixed | 2026-07-07 |
@@ -619,6 +620,7 @@ Section 22 (Search Guide).
 | To propose a new idea | `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` |
 | "Which document wins?" (canon) | Section 3 above |
 | "Which document wins?" (process/jurisdiction) | `governance/Fracture_Protocol_Studio_Governance_Manual_v1.0.md`, Section 3 |
+| One-page map of everything | `governance/Fracture_Protocol_Studio_Governance_Index_v1.0.md` |
 
 | Field | Value |
 |---|---|
@@ -717,6 +719,18 @@ Section 22 (Search Guide).
 
 This is the authoritative source for "which process document governs what" (its own Section 3, Document Authority Hierarchy) — this Wiki's Sections 4 and 6 point here rather than restating that table. It also carries the current, explicitly provisional interim jurisdiction split between the Production Bible and Production OS (Section 6 above) — see the Manual's own Section 3 for the full statement.
 
+| Document Name | Fracture Protocol Studio Governance Index |
+|---|---|
+| **Purpose** | One-page visual map (diagrams/tables only) of how every operating document relates to every other one — a derived summary, not a source of truth |
+| **Owner** | Founder |
+| **Current Version** | 1.0 |
+| **Status** | ✅ Complete |
+| **Locked or Living** | Living — regenerated from the Governance Manual and this Wiki whenever either changes a fact it displays |
+| **Dependencies** | Studio Governance Manual, this Wiki — cites both for every fact it shows |
+| **Related Documents** | Every document in this Wiki; functions as a compact companion to Section 25 above, not a replacement for it |
+| **Repository Location** | `governance/Fracture_Protocol_Studio_Governance_Index_v1.0.md` |
+| **Last Updated** | 2026-07-07 |
+
 ---
 
 ## 26. Final Validation
@@ -730,7 +744,7 @@ This is the authoritative source for "which process document governs what" (its 
 
 ---
 
-*End of Studio Wiki Version 3.1. This document is the home page — update it the same day any other document changes (Section 24).*
+*End of Studio Wiki Version 3.2. This document is the home page — update it the same day any other document changes (Section 24).*
 
 ---
 
@@ -746,3 +760,4 @@ This is the authoritative source for "which process document governs what" (its 
 `[v2.0 — 2026-07-06] Founder-authored permanent addition: Master System Prompt bumped to v1.2 (renamed `Fracture_Protocol_Master_System_Prompt_v1.2.md`), adding Section 13, Founder Override Protocol — explicit Founder Override Command phrases, a 7-point Change Impact Report format, Minor/Major Change Classification, an expanded 9-step Execution Workflow, and a 9-point Final Validation checklist, all cross-linked to and reconciled with the existing Section 12 Canon Governance System so the two read as one non-contradictory system. Propagated the version bump across every cross-reference repo-wide. Also caught and fixed several stale version mentions a prior file-path-only sweep had missed: the Document Status Tracker and Current Completed Documents tables still showed Master System Prompt as 1.1, the Proposal Vault's one-line summary still said "currently empty" despite 7 logged entries, the Art Bible summary still said "10-file," and the Studio Progress dashboard still displayed v1.0-era version tags for the Master System Prompt, World Bible, and Series Bible.`
 `[v3.0 — 2026-07-07] Full structural rewrite per the "Studio Wiki" specification: reorganized from the prior 40-section Knowledge Base into the 25 required sections (Welcome through Final Validation), converted every document entry to the full required metadata fields (Purpose, Owner, Version, Status, Locked/Living, Dependencies, Related Documents, Repository Location, Last Updated), added the new Production Bible v1.0 to the Bible/Production indices, added a Prop Index and Document Dependency Map (neither existed before), consolidated the prior Document Status Tracker and Current Completed Documents tables into a single Version History Index, and removed duplicated progress-dashboard content in favor of pointing to Production OS Section 45 (KPI Dashboard) for live production tracking once it exists. No document version other than this one was changed by this rewrite; the Production Bible/Production OS overlap flagged in the prior session remains open and is now tracked in Section 6 and this document's own Final Validation section.`
 `[v3.1 — 2026-07-07] Indexed the new Studio Governance Manual v1.0 as a new document type and tier ("Governance," alongside Canon/Studio Process/Production Process — Section 2). Added Section 25 (Governance Manual Index), bumping the former Section 25 (Final Validation) to Section 26 — the only renumbering this update required, per the revised insertion rule now stated in Section 24. Updated Sections 2, 4, 6, 17, 18, and 21 to point to the Governance Manual for jurisdiction/authority questions rather than restating them. The Governance Manual's Section 3 now formally documents the Production Bible/Production OS interim jurisdiction split as a provisional default — this remains an open founder decision, not a resolution.`
+`[v3.2 — 2026-07-07] Indexed the new Studio Governance Index v1.0 (Section 25) — a one-page diagram/table-only summary of the Governance Manual and this Wiki, built deliberately thin (cites both rather than restating them) since every element it requested already existed in full elsewhere. Added a row to Section 18 (Version History Index) and Section 21 (Quick Links).`
