@@ -5,7 +5,7 @@
 **Classification:** Internal — Production/Governance Document
 **Status:** Navigation system only. Introduces zero lore, zero new characters, zero new locations, zero new organizations, zero new powers, zero story events. Every fact named below already exists in an official Bible; this document only records *where*.
 **Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` — this document is subordinate to it in all cases and carries no canon authority of its own.
-**Companion documents:** `README.md` (Studio Wiki — general navigation across all document types), `governance/Fracture_Protocol_Studio_Governance_Manual_v1.1.md` (process jurisdiction), `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` (where an unanswered question goes).
+**Companion documents:** `README.md` (Studio Wiki — general navigation across all document types), `governance/Fracture_Protocol_Studio_Governance_Manual_v1.1.md` (process jurisdiction), `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` (where an unanswered question goes), `registries/Fracture_Protocol_Story_Timeline_Bible_v1.0.md` (chronology storage framework — this system's Timeline category, Section 4, points there).
 **Relationship to the Studio Wiki:** the Wiki (README.md) is the general-purpose navigation index for every document in the repository — canon, process, and governance alike. This system is narrower and deeper: it is canon-only, organized by *category of fact* (Characters, Disciplines, Artifacts, etc.) rather than by *document type*, and it exists specifically to answer "where is the canon on X" fast enough that nobody is ever tempted to guess. Where the Wiki already maintains a pointer table for a category (Characters, Environments, Props), this system points to that table rather than rebuilding it — see Section 4.
 
 ---
@@ -151,13 +151,14 @@ No fifth organization exists in canon. Proposed additions (a hidden controlling 
 
 ### Timeline
 
-This franchise has no standalone timeline document and no absolute in-world date/year system — the founding Fracture's timing and the general history are deliberately kept vague (World Bible §2), and a detailed historical timeline was explicitly not carried over from the retired fantasy-era Bible (Studio Wiki §17, Future Expansion Notes: do not reintroduce one without founder sign-off). Sequencing is tracked by **series/season/episode**, not by year:
+The storage/organization framework for chronology is now `registries/Fracture_Protocol_Story_Timeline_Bible_v1.0.md` — a framework only, with zero populated entries (see that document's own Section 2: populating it requires Founder Override, the same as any other canon addition). This franchise still has no absolute in-world date/year system — the founding Fracture's timing and the general history remain deliberately vague (World Bible §2) — so until an entry is actually approved, sequencing is tracked by **series/season/episode**, not by year:
 
 | Topic | Source |
 |---|---|
 | Season One episode sequence (Episodes 1–20) | Series Bible §11 |
 | Future season sequence (Seasons Two–Five, provisional) | Series Bible §12 |
 | Running Mysteries and when each is reserved to resolve | Series Bible §15 |
+| Chronology storage framework (structure only, no entries) | Story Timeline Bible, in full |
 
 ### Terminology
 
@@ -310,3 +311,4 @@ A new Bible, a new Art Bible file, or a new category of canon fact integrates in
 
 ### Changelog
 `[v1.0 — 2026-07-07] Initial Canon Reference System established per Phase 3A: 12 sections (Purpose through Final Validation) providing a category-indexed pointer system across Universe, Characters, Disciplines, Artifacts, Technology, Locations, Organizations, History, Rules, Timeline, Terminology, Visual Rules, Episode References, and Production References. Introduces zero new canon — every named entity cites an existing Bible section; categories already indexed by the Studio Wiki (Characters, Locations, Props) point there rather than duplicating those tables. Adapted the requested "Timeline Year N" citation format to season/episode citation, since this franchise has no in-world year-numbering system in canon. Activates the previously-reserved `/registries/` folder (Studio Wiki Section 15).`
+`[v1.0 — 2026-07-07] Updated the Timeline category (Section 4) and front matter to point to the new Story Timeline Bible, the chronology storage framework created immediately after this system. No content changed — the Story Timeline Bible has zero populated entries, so this system's own "no in-world year system yet" statement remains accurate.`
