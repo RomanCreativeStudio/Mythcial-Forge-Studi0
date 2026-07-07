@@ -1,6 +1,6 @@
 # MYTHIC FORGE STUDIOS
 ## Studio Wiki
-### Version 3.4 — Master Navigation System
+### Version 3.5 — Master Navigation System
 
 **Forging Worlds. Creating Legends.**
 
@@ -28,16 +28,17 @@ Mythic Forge Studios is building one original sci-fi dystopian universe, **The F
 
 ## 2. Repository Overview
 
-Mythic Forge Studios currently maintains **ten core documents** across four tiers — canon, governance, studio process, and production process — plus this Wiki, which indexes all of them. Nothing "canon" lives outside the Bible tier (Section 5); nothing "operational" lives outside the governance or process tiers (Sections 6–7, 25).
+Mythic Forge Studios currently maintains **thirteen core documents** across five tiers — canon, creative philosophy, governance, studio process, and production process — plus this Wiki, which indexes all of them. Nothing "canon" lives outside the Bible tier (Section 5); nothing "operational" lives outside the governance or process tiers (Sections 6–7, 25); nothing "why it should feel this way" lives outside the philosophy tier (Section 26).
 
 **At a glance:**
 
 | Layer | Answers | Current State |
 |---|---|---|
 | Canon (the Bibles) | What is the universe, and what happens in it? | Master System Prompt v1.2, World Bible v1.1, Series Bible v1.1 (Season One fully outlined, 20/20 episodes), Art Bible v3.0 (11 files), Proposal Vault v1.0 (7 entries pending decision) |
-| Governance | Which process document governs what, and who can change it? | Studio Governance Manual v1.0 *(new — Section 25)* |
+| Creative Philosophy | Why should any of it feel the way it does? | Franchise Design Manifesto v1.0 *(new — Section 26)* |
+| Governance | Which process document governs what, who can change it, and what's the history behind past decisions? | Studio Governance Manual v1.0, Studio Governance Index v1.0, Studio Decision Log v1.0 (0 entries), Repository Health Guide v1.0 (Section 25) |
 | Studio Process | How does the studio operate day to day? | Studio OS v1.0 |
-| Production Process | How does an episode actually get made? | Production OS v1.0, Production Bible v1.0 *(new — see Section 6 and the Governance Manual's Section 3 for the current relationship between these two)* |
+| Production Process | How does an episode actually get made? | Production OS v1.0, Production Bible v1.0 (see Section 6 and the Governance Manual's Section 3 for the current relationship between these two) |
 | Production Output | What's actually been made? | Nothing yet — Season One is fully outlined and not yet in active production (Section 18) |
 
 | Field | Value |
@@ -481,7 +482,12 @@ Master System Prompt
         └── Series Bible (per series)
               └── Art Bible
   └── Proposal Vault (outside the canon hierarchy — see Section 3)
+  └── Franchise Design Manifesto (explains the "why" beneath World/Series/Art Bible;
+      asserts no fact of its own)
   └── Studio Governance Manual (governs process-document jurisdiction only)
+        └── Studio Governance Index (derived summary)
+        └── Studio Decision Log (historical record)
+        └── Repository Health Guide (operational detail beneath Manual §16-18)
         └── Studio OS
         └── Production OS
         └── Production Bible
@@ -509,12 +515,13 @@ This Wiki (README.md)
 
 | Document | Version | Status | Locked/Living | Last Updated |
 |---|---|---|---|---|
-| Studio Wiki (this document) | 3.4 | ✅ Complete | Mixed | 2026-07-07 |
+| Studio Wiki (this document) | 3.5 | ✅ Complete | Mixed | 2026-07-07 |
 | Fracture Protocol Master System Prompt | 1.2 | ✅ Complete | Locked | 2026-07-07 |
 | Fracture Protocol Proposal Vault | 1.0 | 🔄 7 entries pending | N/A | 2026-07-06 |
 | Fracture Protocol World Bible | 1.1 | ✅ Complete | Mixed | 2026-07-06 |
 | The Fracture Protocol Series Bible | 1.1 | ✅ Complete | Mixed | 2026-07-06 |
 | Mythic Forge Art Bible | 3.0 (index) | ✅ Complete | Mixed | 2026-07-06 |
+| Franchise Design Manifesto | 1.0 | ✅ Complete | Mixed | 2026-07-07 |
 | Studio Governance Manual | 1.0 | ✅ Complete | Mostly Locked | 2026-07-07 |
 | Studio Governance Index | 1.0 | ✅ Complete | Living | 2026-07-07 |
 | Studio Decision Log | 1.0 | 🔄 Structure only, 0 entries | Living (log) | 2026-07-07 |
@@ -625,6 +632,7 @@ Section 22 (Search Guide).
 | One-page map of everything | `governance/Fracture_Protocol_Studio_Governance_Index_v1.0.md` |
 | Why a past decision was made | `governance/Fracture_Protocol_Studio_Decision_Log_v1.0.md` |
 | How to run a repository health/audit check | `governance/Fracture_Protocol_Repository_Health_Guide_v1.0.md` |
+| Why the franchise should feel a certain way | `manifesto/Fracture_Protocol_Franchise_Design_Manifesto_v1.0.md` |
 
 | Field | Value |
 |---|---|
@@ -761,7 +769,25 @@ This is the authoritative source for "which process document governs what" (its 
 
 ---
 
-## 26. Final Validation
+## 26. Franchise Manifesto Index
+
+| Document Name | Fracture Protocol Franchise Design Manifesto |
+|---|---|
+| **Purpose** | Franchise-wide creative philosophy — why the story should feel the way it does, across every series and format, not what happens in it |
+| **Owner** | Founder (Creative Director) |
+| **Current Version** | 1.0 |
+| **Status** | ✅ Complete |
+| **Locked or Living** | Mixed — see in-document tags per section |
+| **Dependencies** | Master System Prompt (subordinate to it; asserts no new canon fact) |
+| **Related Documents** | World Bible, Series Bible, Art Bible (this Manifesto explains their reasoning; they remain sole authority on fact); Studio OS Sections 1–2, 6 (company vision/mission and storytelling rules — a companion, not a duplicate) |
+| **Repository Location** | `manifesto/Fracture_Protocol_Franchise_Design_Manifesto_v1.0.md` |
+| **Last Updated** | 2026-07-07 |
+
+This is the franchise's "why" — distinct from Studio OS's company-level Vision/Mission (which govern the business, not the story's feel) and from the Series Bible's Season-One-specific expression of the same underlying principles. If a creative question isn't answered by a fact in the Bibles, it's usually a tone question this document answers instead.
+
+---
+
+## 27. Final Validation
 
 1. **No canon introduced.** This document defines no character, faction, location, technology, power mechanic, or world fact — every substantive answer is a pointer to an existing Bible section, not a restatement of it.
 2. **No lore duplicated.** Character, environment, and prop entries (Sections 8–10) are pointer tables only (name, category, document, status) — no biography, personality, mechanic, or story detail is restated anywhere in this document.
@@ -772,7 +798,7 @@ This is the authoritative source for "which process document governs what" (its 
 
 ---
 
-*End of Studio Wiki Version 3.4. This document is the home page — update it the same day any other document changes (Section 24).*
+*End of Studio Wiki Version 3.5. This document is the home page — update it the same day any other document changes (Section 24).*
 
 ---
 
@@ -791,3 +817,4 @@ This is the authoritative source for "which process document governs what" (its 
 `[v3.2 — 2026-07-07] Indexed the new Studio Governance Index v1.0 (Section 25) — a one-page diagram/table-only summary of the Governance Manual and this Wiki, built deliberately thin (cites both rather than restating them) since every element it requested already existed in full elsewhere. Added a row to Section 18 (Version History Index) and Section 21 (Quick Links).`
 `[v3.3 — 2026-07-07] Indexed the new Studio Decision Log v1.0 (Section 25) — a living historical record of significant decisions (reason, alternatives considered, impact, review date), distinct from routine changelogs and from the pre-decision Proposal Vault. Structure and guidance only; the log itself starts with zero entries by explicit instruction, not backfilled. Added a row to Section 18 (Version History Index) and Section 21 (Quick Links).`
 `[v3.4 — 2026-07-07] Indexed the new Repository Health Guide v1.0 (Section 25) — detailed operational procedures (folder standards, duplicate detection, broken link checks, version audits, naming audits, monthly/quarterly/annual cadences) positioned explicitly as the detail layer beneath the Governance Manual's Audit Requirements/Maintenance Schedule/Retirement Policy sections, not a competing policy. Scoped away from production workflow and canon per its own instructions. Added a row to Section 18 (Version History Index) and Section 21 (Quick Links).`
+`[v3.5 — 2026-07-07] Indexed the new Franchise Design Manifesto v1.0 as a fifth document tier ("Creative Philosophy," alongside Canon/Governance/Studio Process/Production Process — Section 2). Added Section 26 (Franchise Manifesto Index), bumping Final Validation to Section 27. Updated Section 17 (Document Dependency Map) to include the Manifesto and the three governance documents (Governance Index, Decision Log, Repository Health Guide) added in the two prior passes but never reflected there. Also caught and corrected Section 2's Repository Overview, which had drifted out of date across the last two document additions (still described only ten documents/four tiers and listed the Governance tier as containing only the Governance Manual) — this is exactly the kind of drift the new Repository Health Guide (§4, Documentation Reviews) exists to catch.`
