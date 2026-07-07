@@ -1,6 +1,6 @@
 # MYTHIC FORGE STUDIOS
 ## Studio Wiki
-### Version 3.3 — Master Navigation System
+### Version 3.4 — Master Navigation System
 
 **Forging Worlds. Creating Legends.**
 
@@ -509,7 +509,7 @@ This Wiki (README.md)
 
 | Document | Version | Status | Locked/Living | Last Updated |
 |---|---|---|---|---|
-| Studio Wiki (this document) | 3.3 | ✅ Complete | Mixed | 2026-07-07 |
+| Studio Wiki (this document) | 3.4 | ✅ Complete | Mixed | 2026-07-07 |
 | Fracture Protocol Master System Prompt | 1.2 | ✅ Complete | Locked | 2026-07-07 |
 | Fracture Protocol Proposal Vault | 1.0 | 🔄 7 entries pending | N/A | 2026-07-06 |
 | Fracture Protocol World Bible | 1.1 | ✅ Complete | Mixed | 2026-07-06 |
@@ -518,6 +518,7 @@ This Wiki (README.md)
 | Studio Governance Manual | 1.0 | ✅ Complete | Mostly Locked | 2026-07-07 |
 | Studio Governance Index | 1.0 | ✅ Complete | Living | 2026-07-07 |
 | Studio Decision Log | 1.0 | 🔄 Structure only, 0 entries | Living (log) | 2026-07-07 |
+| Repository Health Guide | 1.0 | ✅ Complete | Mixed | 2026-07-07 |
 | Studio OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
 | Production OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
 | Production Bible | 1.0 | ✅ Complete | Mixed | 2026-07-07 |
@@ -623,6 +624,7 @@ Section 22 (Search Guide).
 | "Which document wins?" (process/jurisdiction) | `governance/Fracture_Protocol_Studio_Governance_Manual_v1.0.md`, Section 3 |
 | One-page map of everything | `governance/Fracture_Protocol_Studio_Governance_Index_v1.0.md` |
 | Why a past decision was made | `governance/Fracture_Protocol_Studio_Decision_Log_v1.0.md` |
+| How to run a repository health/audit check | `governance/Fracture_Protocol_Repository_Health_Guide_v1.0.md` |
 
 | Field | Value |
 |---|---|
@@ -745,6 +747,18 @@ This is the authoritative source for "which process document governs what" (its 
 | **Repository Location** | `governance/Fracture_Protocol_Studio_Decision_Log_v1.0.md` |
 | **Last Updated** | 2026-07-07 |
 
+| Document Name | Fracture Protocol Repository Health Guide |
+|---|---|
+| **Purpose** | Detailed operational procedures for maintaining repository/documentation health — folder standards, duplicate detection, broken link checks, version audits, naming audits, and monthly/quarterly/annual review cadences |
+| **Owner** | Founder |
+| **Current Version** | 1.0 |
+| **Status** | ✅ Complete |
+| **Locked or Living** | Mixed — see in-document tags per section |
+| **Dependencies** | Studio Governance Manual Sections 16–18 (this Guide is their operational detail layer, not a competing policy) |
+| **Related Documents** | Studio Wiki Sections 14–16, 18; Production Bible Sections 5, 14 (referenced for scope boundaries, not duplicated) |
+| **Repository Location** | `governance/Fracture_Protocol_Repository_Health_Guide_v1.0.md` |
+| **Last Updated** | 2026-07-07 |
+
 ---
 
 ## 26. Final Validation
@@ -758,7 +772,7 @@ This is the authoritative source for "which process document governs what" (its 
 
 ---
 
-*End of Studio Wiki Version 3.3. This document is the home page — update it the same day any other document changes (Section 24).*
+*End of Studio Wiki Version 3.4. This document is the home page — update it the same day any other document changes (Section 24).*
 
 ---
 
@@ -776,3 +790,4 @@ This is the authoritative source for "which process document governs what" (its 
 `[v3.1 — 2026-07-07] Indexed the new Studio Governance Manual v1.0 as a new document type and tier ("Governance," alongside Canon/Studio Process/Production Process — Section 2). Added Section 25 (Governance Manual Index), bumping the former Section 25 (Final Validation) to Section 26 — the only renumbering this update required, per the revised insertion rule now stated in Section 24. Updated Sections 2, 4, 6, 17, 18, and 21 to point to the Governance Manual for jurisdiction/authority questions rather than restating them. The Governance Manual's Section 3 now formally documents the Production Bible/Production OS interim jurisdiction split as a provisional default — this remains an open founder decision, not a resolution.`
 `[v3.2 — 2026-07-07] Indexed the new Studio Governance Index v1.0 (Section 25) — a one-page diagram/table-only summary of the Governance Manual and this Wiki, built deliberately thin (cites both rather than restating them) since every element it requested already existed in full elsewhere. Added a row to Section 18 (Version History Index) and Section 21 (Quick Links).`
 `[v3.3 — 2026-07-07] Indexed the new Studio Decision Log v1.0 (Section 25) — a living historical record of significant decisions (reason, alternatives considered, impact, review date), distinct from routine changelogs and from the pre-decision Proposal Vault. Structure and guidance only; the log itself starts with zero entries by explicit instruction, not backfilled. Added a row to Section 18 (Version History Index) and Section 21 (Quick Links).`
+`[v3.4 — 2026-07-07] Indexed the new Repository Health Guide v1.0 (Section 25) — detailed operational procedures (folder standards, duplicate detection, broken link checks, version audits, naming audits, monthly/quarterly/annual cadences) positioned explicitly as the detail layer beneath the Governance Manual's Audit Requirements/Maintenance Schedule/Retirement Policy sections, not a competing policy. Scoped away from production workflow and canon per its own instructions. Added a row to Section 18 (Version History Index) and Section 21 (Quick Links).`
