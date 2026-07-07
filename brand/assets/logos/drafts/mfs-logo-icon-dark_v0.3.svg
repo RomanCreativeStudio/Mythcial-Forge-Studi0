@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Dark Version
+  DRAFT v0.3 — CONCEPT REFINEMENT PASS — NOT APPROVED — NOT THE FINAL LOCKED ASSET
+  Still Concept 5, "Weighted Line" (mass + a fracture that escapes it) — not a new concept.
+  Refines the mass silhouette from v0.1/v0.2's abstract two-block shape into a recognizable
+  stylized anvil (horn, flat face, tapered waist, flared base), built from four straight-edged
+  polygons unioned into one silhouette. Fracture uses the v0.2 knockout-gap + tapering-shard
+  technique, recomputed for this new geometry (entry (42,26), kink (46,50), exit on the base's
+  right edge ~(72.66,66.66), one deflection from ~80.5° to 32°).
+  Colors are the Brand Bible's Locked values (Void Black #0A0B0D, Authority White #F5F7FA,
+  Fracture Cyan #00E5FF) — this draft was informed by a founder-provided concept board for
+  creative direction only; it was not traced, and that board's swatches ("Deep Forge" #0B0F14,
+  "Mythic White" #FFFFFF) do not match the Locked palette and were not used.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="0" y="0" width="100" height="100" fill="#0A0B0D"/>
+  <path d="M8,36 L26,28 L26,26 L76,26 L76,42 L60,42 L66,60 L80,74 L78,76 L22,76 L20,74 L36,60 L42,42 L26,42 Z M40.03,29.37 L43.53,50.41 L44.68,52.12 L71.33,68.78 L73.98,64.54 L47.32,47.88 L48.47,49.59 L44.96,28.55 Z" fill="#F5F7FA" fill-rule="evenodd"/>
+  <path d="M71.33,68.78 L80.29,71.43 L73.98,64.54 Z" fill="#00E5FF"/>
+</svg>

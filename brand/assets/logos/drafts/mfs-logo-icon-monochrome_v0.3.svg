@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Monochrome Version
+  DRAFT v0.3 — CONCEPT REFINEMENT PASS — NOT APPROVED — NOT THE FINAL LOCKED ASSET
+  Same refined anvil silhouette and knockout-gap fracture technique as the v0.3 Dark Version,
+  single color throughout (Void Black), per Brand Bible Section 3's Monochrome rule.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M8,36 L26,28 L26,26 L76,26 L76,42 L60,42 L66,60 L80,74 L78,76 L22,76 L20,74 L36,60 L42,42 L26,42 Z M40.03,29.37 L43.53,50.41 L44.68,52.12 L71.33,68.78 L73.98,64.54 L47.32,47.88 L48.47,49.59 L44.96,28.55 Z" fill="#0A0B0D" fill-rule="evenodd"/>
+  <path d="M71.33,68.78 L80.29,71.43 L73.98,64.54 Z" fill="#0A0B0D"/>
+</svg>
