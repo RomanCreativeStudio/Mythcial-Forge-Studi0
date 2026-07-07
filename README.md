@@ -1,6 +1,6 @@
 # MYTHIC FORGE STUDIOS
 ## Studio Wiki
-### Version 3.0 — Master Navigation System
+### Version 3.1 — Master Navigation System
 
 **Forging Worlds. Creating Legends.**
 
@@ -28,15 +28,16 @@ Mythic Forge Studios is building one original sci-fi dystopian universe, **The F
 
 ## 2. Repository Overview
 
-Mythic Forge Studios currently maintains **nine core documents** across three tiers — canon, studio process, and production process — plus this Wiki, which indexes all of them. Nothing "canon" lives outside the Bible tier (Section 5); nothing "operational" lives outside the process tiers (Sections 6–7).
+Mythic Forge Studios currently maintains **ten core documents** across four tiers — canon, governance, studio process, and production process — plus this Wiki, which indexes all of them. Nothing "canon" lives outside the Bible tier (Section 5); nothing "operational" lives outside the governance or process tiers (Sections 6–7, 25).
 
 **At a glance:**
 
 | Layer | Answers | Current State |
 |---|---|---|
 | Canon (the Bibles) | What is the universe, and what happens in it? | Master System Prompt v1.2, World Bible v1.1, Series Bible v1.1 (Season One fully outlined, 20/20 episodes), Art Bible v3.0 (11 files), Proposal Vault v1.0 (7 entries pending decision) |
+| Governance | Which process document governs what, and who can change it? | Studio Governance Manual v1.0 *(new — Section 25)* |
 | Studio Process | How does the studio operate day to day? | Studio OS v1.0 |
-| Production Process | How does an episode actually get made? | Production OS v1.0, Production Bible v1.0 *(new — see Section 6 for the current relationship between these two)* |
+| Production Process | How does an episode actually get made? | Production OS v1.0, Production Bible v1.0 *(new — see Section 6 and the Governance Manual's Section 3 for the current relationship between these two)* |
 | Production Output | What's actually been made? | Nothing yet — Season One is fully outlined and not yet in active production (Section 18) |
 
 | Field | Value |
@@ -96,10 +97,11 @@ For the full governance mechanics (Drift Detection, Proposal Workflow, Founder O
 
 ## 4. Studio Hierarchy
 
-This Wiki does not restate role definitions or approval chains — both already have a single authoritative home:
+This Wiki does not restate role definitions or approval chains — all three already have a single authoritative home:
 
 - **Team roles, responsibilities, and the approval hierarchy:** Production Bible Section 2 (Studio Organization) — this is the current, most complete version.
 - **Company-level role roadmap (future hires):** Studio OS Section 29 (Studio Roles).
+- **Founder / Creative Director / AI authority boundaries, and who approves what kind of change:** Studio Governance Manual Sections 5–8 — this is the authoritative source for jurisdiction questions specifically.
 - **Creator authority over canon specifically:** Master System Prompt Section 12, Rule 1.
 
 **Current state, in one line:** solo founder holding every role (Creative Director, Production Manager, and every department lead) until roles are filled per Studio OS Section 29's future role map.
@@ -108,7 +110,7 @@ This Wiki does not restate role definitions or approval chains — both already 
 |---|---|
 | **Purpose** | Point to the single authoritative source for "who does what and who approves what" |
 | **Owner** | Founder |
-| **Dependencies** | Production Bible Section 2, Studio OS Section 29 |
+| **Dependencies** | Production Bible Section 2, Studio OS Section 29, Studio Governance Manual Sections 5–8 |
 | **Status** | ✅ Complete |
 | **Last Updated** | 2026-07-07 |
 
@@ -212,7 +214,7 @@ For what any of these documents actually *say*, open the document — this index
 | **Repository Location** | `production-os/Production_OS_v1.0.md` |
 | **Last Updated** | 2026-07-06 |
 
-**Known open item:** the Production Bible and Production OS currently cover substantially overlapping ground (both define pipeline stages, folder structure, naming, version control, asset management, and QA). This was identified at the Production Bible's creation and intentionally left unresolved as a founder decision — see Production Bible Section 15 for the three reconciliation options on the table. Until resolved, treat the Production Bible as the higher-level authority (organization, governance integration, risk management) and Production OS as the more granular department-by-department implementation detail.
+**Known open item:** the Production Bible and Production OS currently cover substantially overlapping ground (both define pipeline stages, folder structure, naming, version control, asset management, and QA). This was identified at the Production Bible's creation and intentionally left unresolved as a founder decision — see Production Bible Section 15 for the three reconciliation options on the table. The Studio Governance Manual's Section 3 now formally documents the interim jurisdiction split (Production Bible: organization, governance integration, risk management; Production OS: granular department-by-department implementation detail) as a provisional default, not a resolution — the founder's consolidate/delineate/leave-as-is decision is still open.
 
 ---
 
@@ -478,10 +480,11 @@ Master System Prompt
   └── World Bible
         └── Series Bible (per series)
               └── Art Bible
+  └── Proposal Vault (outside the canon hierarchy — see Section 3)
+  └── Studio Governance Manual (governs process-document jurisdiction only)
         └── Studio OS
-              └── Production OS
-              └── Production Bible
-  └── Proposal Vault (outside the hierarchy — see Section 3)
+        └── Production OS
+        └── Production Bible
 
 This Wiki (README.md)
   └── depends on every document above being current;
@@ -506,12 +509,13 @@ This Wiki (README.md)
 
 | Document | Version | Status | Locked/Living | Last Updated |
 |---|---|---|---|---|
-| Studio Wiki (this document) | 3.0 | ✅ Complete | Mixed | 2026-07-07 |
+| Studio Wiki (this document) | 3.1 | ✅ Complete | Mixed | 2026-07-07 |
 | Fracture Protocol Master System Prompt | 1.2 | ✅ Complete | Locked | 2026-07-07 |
 | Fracture Protocol Proposal Vault | 1.0 | 🔄 7 entries pending | N/A | 2026-07-06 |
 | Fracture Protocol World Bible | 1.1 | ✅ Complete | Mixed | 2026-07-06 |
 | The Fracture Protocol Series Bible | 1.1 | ✅ Complete | Mixed | 2026-07-06 |
 | Mythic Forge Art Bible | 3.0 (index) | ✅ Complete | Mixed | 2026-07-06 |
+| Studio Governance Manual | 1.0 | ✅ Complete | Mostly Locked | 2026-07-07 |
 | Studio OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
 | Production OS | 1.0 | ✅ Complete | Mixed | 2026-07-06 |
 | Production Bible | 1.0 | ✅ Complete | Mixed | 2026-07-07 |
@@ -613,7 +617,8 @@ Section 22 (Search Guide).
 | Department-level SOPs | `production-os/Production_OS_v1.0.md` |
 | Production philosophy/pipeline/checklists | `production-bible/Fracture_Protocol_Production_Bible_v1.0.md` |
 | To propose a new idea | `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` |
-| "Which document wins?" | Section 3 above |
+| "Which document wins?" (canon) | Section 3 above |
+| "Which document wins?" (process/jurisdiction) | `governance/Fracture_Protocol_Studio_Governance_Manual_v1.0.md`, Section 3 |
 
 | Field | Value |
 |---|---|
@@ -679,7 +684,7 @@ Section 22 (Search Guide).
 
 - This Wiki is updated **the same day** any indexed document changes — a new document, a version bump, a status change, or a retirement all require an update here before the change is considered complete (mirrors Production Bible Section 6, Version Control).
 - This Wiki never grows lore, character, or world content — if you find yourself about to restate something a Bible already says, stop and add a link instead (this is the single most important rule in this document).
-- New document types get a new index section, appended after Section 13 and before Section 14, with the same required fields (Document Name, Purpose, Owner, Version, Status, Locked/Living, Dependencies, Related Documents, Location, Last Updated) as every existing one.
+- New document types get a new index section, with the same required fields (Document Name, Purpose, Owner, Version, Status, Locked/Living, Dependencies, Related Documents, Location, Last Updated) as every existing one. Insert it wherever it reads best contextually, but prefer appending immediately before Final Validation over inserting mid-document — a mid-document insertion renumbers every section after it and breaks every external cross-reference to those numbers (as happened once already; see Production OS's changelog). Appending before Final Validation costs one renumber (Final Validation itself) instead of a dozen.
 - A new series gets a row in Section 5 (Bible Index) and an entry in Section 17 (Document Dependency Map) the day its Series Bible is created.
 - Version this document the same way every other document is versioned (Studio OS Section 30): a structural reorganization (like this v3.0 rewrite) is a major bump; routine updates to an existing table are minor bumps.
 - Known open items (like the Production Bible/Production OS overlap, Section 6) stay visible here until the founder resolves them — they are never quietly dropped from the index.
@@ -696,18 +701,36 @@ Section 22 (Search Guide).
 
 ---
 
-## 25. Final Validation
+## 25. Governance Manual Index
+
+| Document Name | Fracture Protocol Studio Governance Manual |
+|---|---|
+| **Purpose** | Constitutional document for the studio's operating system — jurisdiction between process documents, approval authority, version control policy, change/conflict/audit/retirement procedure |
+| **Owner** | Founder |
+| **Current Version** | 1.0 |
+| **Status** | ✅ Complete |
+| **Locked or Living** | Mostly Locked — see in-document tags per section |
+| **Dependencies** | Master System Prompt (subordinate to it; has no authority over canon) |
+| **Related Documents** | Studio OS, Production OS, Production Bible — this Manual defines the jurisdiction between all three |
+| **Repository Location** | `governance/Fracture_Protocol_Studio_Governance_Manual_v1.0.md` |
+| **Last Updated** | 2026-07-07 |
+
+This is the authoritative source for "which process document governs what" (its own Section 3, Document Authority Hierarchy) — this Wiki's Sections 4 and 6 point here rather than restating that table. It also carries the current, explicitly provisional interim jurisdiction split between the Production Bible and Production OS (Section 6 above) — see the Manual's own Section 3 for the full statement.
+
+---
+
+## 26. Final Validation
 
 1. **No canon introduced.** This document defines no character, faction, location, technology, power mechanic, or world fact — every substantive answer is a pointer to an existing Bible section, not a restatement of it.
 2. **No lore duplicated.** Character, environment, and prop entries (Sections 8–10) are pointer tables only (name, category, document, status) — no biography, personality, mechanic, or story detail is restated anywhere in this document.
 3. **Alignment with the Canon Governance System and Founder Override Protocol.** Section 3 (Canon Hierarchy) and Section 13 (Proposal Vault Index) both defer entirely to Master System Prompt Sections 12–13 for mechanics and never restate or reinterpret them; the FAQ (Section 20) directs every canon-adjacent question back to the Proposal Vault rather than answering it inline.
-4. **Compatible with all existing documents.** Every version and status listed (Section 18) was checked directly against each document's own header/changelog at time of writing; the new Production Bible (created in the prior session) is fully indexed (Sections 6, 21).
-5. **Structural future-proofing.** The index sections (5–13) are additive by design (Section 24) — a new series, a new registry, a new production document, or hundreds of new assets each get a new row or a new section without requiring this document's structure to change. Nothing here assumes a fixed number of episodes, characters, or contributors.
-6. **Open items carried forward, not hidden.** The Production Bible/Production OS overlap (Section 6) is the one unresolved structural question in the repository right now; this rewrite surfaces it rather than resolving it unilaterally, consistent with how it was originally flagged. The retired Risk Register (Section 24) is a second, smaller open item in the same category — content preserved by reference, relocation not yet implemented.
+4. **Compatible with all existing documents.** Every version and status listed (Section 18) was checked directly against each document's own header/changelog at time of writing; the Production Bible and the new Studio Governance Manual are both fully indexed (Sections 6, 21, 25).
+5. **Structural future-proofing.** The index sections (5–13, 25) are additive by design (Section 24) — a new series, a new registry, a new production document, or hundreds of new assets each get a new row or a new section without requiring this document's structure to change. Nothing here assumes a fixed number of episodes, characters, or contributors.
+6. **Open items carried forward, not hidden.** The Production Bible/Production OS overlap is now formally tracked with a provisional interim split in the Studio Governance Manual's Section 3, rather than only living in this Wiki's Section 6 — this is a documentation, not a resolution, of that open item. The retired Risk Register (Section 24) remains a second, smaller open item — content preserved by reference, relocation not yet implemented.
 
 ---
 
-*End of Studio Wiki Version 3.0. This document is the home page — update it the same day any other document changes (Section 24).*
+*End of Studio Wiki Version 3.1. This document is the home page — update it the same day any other document changes (Section 24).*
 
 ---
 
@@ -721,4 +744,5 @@ Section 22 (Search Guide).
 `[v2.0 — 2026-07-06] Phase 2 Finalization / Canon Governance pass: Master System Prompt bumped to v1.1 (permanent Canon Guardian role framing; added Section 12, Canon Governance System — Rules 1-6). Added the Fracture Protocol Proposal Vault v1.0 as a new document type (non-canon, currently empty — founder confirmed no existing canon required retroactive rollback). Reconciled Studio OS Section 18's separate Canon Change SOP to defer to the new Canon Governance System instead of maintaining a competing DRAFT-based process. Full-repo audit found and fixed residual fantasy-era terminology ("Realm," "Essence affinity," "the Kindling," Emberfall/Duskmarch examples) in Studio OS Sections 8, 10, 11, 17, 19, and 20, and one stale Two-Discipline Cap phrasing in the Series Bible that pre-dated Static-Reading. Verified all cross-referenced file paths resolve and all declared versions match file headers.`
 `[v2.0 — 2026-07-06] Full continuity audit (post Proposal Vault expansion to 7 entries): corrected two stale "Art Bible (10 files)" labels (Documentation Architecture Section 2, Master Navigation Index Section 3) to the correct "(11 files)," matching the Art Bible's own 11-file breakdown table which was already accurate. Fixed a wording contradiction in Section 6 (Documentation Hierarchy) where the Proposal Vault special-case note implied approved entries are "removed from Vault status" — reworded to match the Vault's own explicit rule that entries are never deleted, only marked resolved in place. Re-verified: no Proposal Vault entry content has leaked into any canon document; all cross-document version references match current file headers; no Locked-rule contradictions or duplicate rule sets found (Studio OS Section 18 and Series Bible Section 19/20 correctly restate rather than compete with Master System Prompt Section 12 and the World/System Rules).`
 `[v2.0 — 2026-07-06] Founder-authored permanent addition: Master System Prompt bumped to v1.2 (renamed `Fracture_Protocol_Master_System_Prompt_v1.2.md`), adding Section 13, Founder Override Protocol — explicit Founder Override Command phrases, a 7-point Change Impact Report format, Minor/Major Change Classification, an expanded 9-step Execution Workflow, and a 9-point Final Validation checklist, all cross-linked to and reconciled with the existing Section 12 Canon Governance System so the two read as one non-contradictory system. Propagated the version bump across every cross-reference repo-wide. Also caught and fixed several stale version mentions a prior file-path-only sweep had missed: the Document Status Tracker and Current Completed Documents tables still showed Master System Prompt as 1.1, the Proposal Vault's one-line summary still said "currently empty" despite 7 logged entries, the Art Bible summary still said "10-file," and the Studio Progress dashboard still displayed v1.0-era version tags for the Master System Prompt, World Bible, and Series Bible.`
-`[v3.0 — 2026-07-07] Full structural rewrite per the "Studio Wiki" specification: reorganized from the prior 40-section Knowledge Base into the 25 required sections (Welcome through Final Validation), converted every document entry to the full required metadata fields (Purpose, Owner, Version, Status, Locked/Living, Dependencies, Related Documents, Repository Location, Last Updated), added the new Production Bible v1.0 to the Bible/Production indices, added a Prop Index and Document Dependency Map (neither existed before), consolidated the prior Document Status Tracker and Current Completed Documents tables into a single Version History Index, and removed duplicated progress-dashboard content in favor of pointing to Production OS Section 45 (KPI Dashboard) for live production tracking once it exists. No document version other than this one was changed by this rewrite; the Production Bible/Production OS overlap flagged in the prior session remains open and is now tracked in Section 6 and Section 25 of this document.`
+`[v3.0 — 2026-07-07] Full structural rewrite per the "Studio Wiki" specification: reorganized from the prior 40-section Knowledge Base into the 25 required sections (Welcome through Final Validation), converted every document entry to the full required metadata fields (Purpose, Owner, Version, Status, Locked/Living, Dependencies, Related Documents, Repository Location, Last Updated), added the new Production Bible v1.0 to the Bible/Production indices, added a Prop Index and Document Dependency Map (neither existed before), consolidated the prior Document Status Tracker and Current Completed Documents tables into a single Version History Index, and removed duplicated progress-dashboard content in favor of pointing to Production OS Section 45 (KPI Dashboard) for live production tracking once it exists. No document version other than this one was changed by this rewrite; the Production Bible/Production OS overlap flagged in the prior session remains open and is now tracked in Section 6 and this document's own Final Validation section.`
+`[v3.1 — 2026-07-07] Indexed the new Studio Governance Manual v1.0 as a new document type and tier ("Governance," alongside Canon/Studio Process/Production Process — Section 2). Added Section 25 (Governance Manual Index), bumping the former Section 25 (Final Validation) to Section 26 — the only renumbering this update required, per the revised insertion rule now stated in Section 24. Updated Sections 2, 4, 6, 17, 18, and 21 to point to the Governance Manual for jurisdiction/authority questions rather than restating them. The Governance Manual's Section 3 now formally documents the Production Bible/Production OS interim jurisdiction split as a provisional default — this remains an open founder decision, not a resolution.`
