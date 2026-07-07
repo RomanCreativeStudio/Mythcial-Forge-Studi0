@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Primary Lockup, Dark Version
+  DRAFT v0.4 — QUALITY REFINEMENT PASS — NOT APPROVED — NOT THE FINAL LOCKED ASSET
+  v0.4 icon + wordmark. Canvas/font-size unchanged from v0.2/v0.3 (520 wide, 30px wordmark) —
+  re-verified by render below rather than assumed.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120">
+  <rect x="0" y="0" width="520" height="120" fill="#0A0B0D"/>
+  <g transform="translate(10,10) scale(0.9)">
+    <path d="M11,34 L11,37 L28,44 L36,60 L20,74 L22,76 L78,76 L80,74 L66,60 L69,41 L77,41 L77,25 L27,25 L28,27 Z M42.92,28.8 L45.52,48.33 L46.53,50.02 L68.47,65.96 L71.41,61.92 L49.47,45.98 L50.48,47.67 L47.87,28.14 Z" fill="#F5F7FA" fill-rule="evenodd"/>
+    <path d="M68.47,65.96 L77.22,69.23 L71.41,61.92 Z" fill="#00E5FF"/>
+  </g>
+  <text x="130" y="60" font-family="'Space Grotesk', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700" fill="#F5F7FA">MYTHIC FORGE</text>
+  <text x="130" y="86" font-family="'Space Grotesk', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" letter-spacing="3" fill="#F5F7FA">STUDIOS</text>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Dark Version
+  DRAFT v0.4 — QUALITY REFINEMENT PASS — NOT APPROVED — NOT THE FINAL LOCKED ASSET
+  Still Concept 5, "Weighted Line" — not a new concept. This pass optimizes the mark on its
+  own merits (silhouette confidence, balance) rather than matching any reference: blunted and
+  thickened the horn (was a thin knife-point in v0.3, which read as fragile rather than forged),
+  shortened the face-to-body shoulder ledge (v0.3's was wide enough to read as a flag/arrow
+  rather than an anvil's overhang), and recentered the composition. Fracture geometry
+  recomputed fresh for this silhouette using the same validated knockout-gap + tapering-shard
+  technique (entry (45,25.5), kink (48,48), one deflection to 36°, exit on the base's right
+  edge, verified computationally against every boundary edge before building).
+  Colors are the Brand Bible's Locked values only (Void Black #0A0B0D, Authority White #F5F7FA,
+  Fracture Cyan #00E5FF).
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="0" y="0" width="100" height="100" fill="#0A0B0D"/>
+  <path d="M11,34 L11,37 L28,44 L36,60 L20,74 L22,76 L78,76 L80,74 L66,60 L69,41 L77,41 L77,25 L27,25 L28,27 Z M42.92,28.8 L45.52,48.33 L46.53,50.02 L68.47,65.96 L71.41,61.92 L49.47,45.98 L50.48,47.67 L47.87,28.14 Z" fill="#F5F7FA" fill-rule="evenodd"/>
+  <path d="M68.47,65.96 L77.22,69.23 L71.41,61.92 Z" fill="#00E5FF"/>
+</svg>
