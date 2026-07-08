@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Dark Version
+  DRAFT v0.8 — FULL-DEPTH FRACTURE REFINEMENT (PRE-LOCK) — NOT YET MARKED APPROVED
+  Anvil silhouette UNCHANGED. Fracture re-planned to run genuinely top-to-bottom, per explicit
+  instruction — previously (v0.1–v0.7) the fracture entered the top edge but exited through the
+  base's SIDE edge, not the bottom. This version's path: entry (49,25.5) on the top edge → kink
+  (52,48) → kink (58,58) → exit (66.78,76) on the actual bottom edge — three segments, two clean
+  deflections (82.4°→59°→64°), verified computationally against every boundary edge before
+  building (an earlier candidate exit angle was checked and found to leave through the waist's
+  side prematurely; corrected before this geometry was finalized, not after).
+  Gap tapers narrow-to-wide along the whole path (half-width 1.2 at entry to 3.6 at exit),
+  keeping the split narrow enough that the icon still reads as one anvil, not two floating
+  pieces, per explicit instruction. Shard now falls from the bottom edge (previously from the
+  base's side), same validated rotate + steel-white-with-cyan-edge technique from v0.7.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="0" y="0" width="100" height="100" fill="#0A0B0D"/>
+  <path d="M15,25 L15,30 L32,44 L40,60 L24,74 L26,76 L82,76 L84,74 L70,60 L73,41 L81,41 L81,25 Z M48.21,28.63 L50.02,48.26 L50.29,49.03 L55.6,59.44 L55.48,59.23 L63.54,77.58 L70.02,74.42 L60.52,56.77 L60.4,56.56 L53.71,46.97 L53.98,47.74 L50.59,28.32 Z" fill="#F5F7FA" fill-rule="evenodd"/>
+  <path d="M64.83,79.23 L68.74,81.6 L70.73,85.73 L71.68,77.0 Z" fill="#F5F7FA"/>
+  <path d="M64.83,79.23 L66.4,80.18 L71.37,79.8 L71.68,77.0 Z" fill="#00E5FF"/>
+</svg>
