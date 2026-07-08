@@ -1,26 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   BRA-0001 — Derived Asset — YouTube Channel Banner (2560x1440)
-  STATUS: SUPERSEDED — 2026-07-08. Superseded by the Approved-and-Locked
-  brand/assets/youtube/banners/mfs-youtube-banner-primary_v1.0.svg (identical
-  content, moved to the documented YouTube Brand Kit folder structure and naming
-  convention). Retained for the historical record; do not use this file for new
-  work.
-  DRAFT — flat-vector composition only, NOT a recreation of the submitted reference
+  STATUS: APPROVED AND LOCKED — 2026-07-08
+  Flat-vector composition only, NOT a recreation of the submitted reference
   banner's photographic/cinematic background. That reference shows a dark cinematic
   fantasy environment with atmospheric lighting and smoke; this environment has no
   image-generation or photo-compositing tool available, so that background cannot be
   produced here. What IS matched: the reference's stacked composition (icon centered
   above the wordmark, STUDIOS with flanking rules below that, tagline in Fracture
   Cyan below that) and its placement within YouTube's actual cross-device safe area
-  (1546x423 centered in the 2560x1440 canvas) — verified by rendering the full
-  banner and overlaying the true safe-area rectangle: all text sits inside it with
-  margin, only the shard's tip brushes the boundary, an acceptable graphic-element
-  overflow (unlike text, which must not be clipped). Background is flat Void Black
-  (#0A0B0D), same as every other flat-vector asset in this project — if a
-  photographic/atmospheric banner is required, it needs either an external
-  image-generation tool or the Founder's actual photo asset to composite onto,
-  neither of which exists in this environment.
+  (1546x423 centered in the 2560x1440 canvas, per YouTube Brand Kit Section 4) —
+  verified by rendering the full banner and overlaying the true safe-area rectangle:
+  all text sits inside it with margin, only the shard's tip brushes the boundary, an
+  acceptable graphic-element overflow (unlike text, which must not be clipped).
+  Background is flat Void Black (#0A0B0D). A photographic/atmospheric version would
+  need either an external image-generation tool or the Founder's actual photo asset
+  to composite onto, neither of which exists in this environment.
 -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440">
   <rect x="0" y="0" width="2560" height="1440" fill="#0A0B0D"/>
@@ -42,6 +37,4 @@
   <line x1="1030" y1="850" x2="1140" y2="850" stroke="#F5F7FA" stroke-width="2"/>
   <line x1="1420" y1="850" x2="1530" y2="850" stroke="#F5F7FA" stroke-width="2"/>
   <text x="1280" y="910" text-anchor="middle" font-family="'Space Grotesk', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="26" font-weight="400" letter-spacing="4" fill="#00E5FF">FORGING WORLDS. CREATING LEGENDS.</text>
-
-  <!-- safe-area guide (comment-only reference, not part of the visible design) -->
 </svg>

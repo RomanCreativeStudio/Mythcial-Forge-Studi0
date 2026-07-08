@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   BRA-0001 — Derived Asset — Square Avatar / Profile Icon (YouTube, Discord, etc.)
+  STATUS: SUPERSEDED — 2026-07-08. Superseded by the Approved-and-Locked
+  brand/assets/youtube/channel-art/mfs-youtube-avatar_v1.0.svg, which uses a wider
+  safety margin (72% of frame radius vs. this file's 84%) against the YouTube Brand
+  Kit's documented "outer 15%" clipping threshold. Retained for the historical
+  record per this project's standing archive-don't-delete discipline; do not use
+  this file for new work.
   Based on mfs-logo-icon-dark_v0.12.svg. Every version of this icon since v0.5 has
   clipped its widest points against a circular crop when placed at native scale —
   documented and consistently deferred to "a future derived asset with extra

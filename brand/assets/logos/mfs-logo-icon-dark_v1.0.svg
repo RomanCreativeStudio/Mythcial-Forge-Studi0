@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Dark Version
+  STATUS: APPROVED AND LOCKED — 2026-07-08 (Founder Decision, "OFFICIAL BRAND ASSET")
+  This is the single current Icon Version file per Brand Bible Section 3's Logo
+  Consistency Rule. It is the promoted, unchanged geometry from
+  brand/assets/logos/drafts/mfs-logo-icon-dark_v0.12.svg — double-horn anvil
+  silhouette, twin-footed base, jagged 5-segment fracture from a top-center notch,
+  single shard floating above the notch with a Fracture Cyan hot-edge. Pure flat
+  vector: no gradients, filters, blurs, or shadows. Full construction and
+  verification record: brand/Mythic_Forge_Studios_BRA-0001_Vector_Draft_Review_Package_v0.12.md.
+  Any future change to this file is a new major version requiring the same Founder
+  Approval process (Brand Asset Production Guide Section 5/6) — never a silent
+  overwrite of this file in place.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="0" y="0" width="100" height="100" fill="#0A0B0D"/>
+  <path d="M2,41 L33,27 L42,35 L28,48 Z" fill="#F5F7FA"/>
+  <path d="M98,41 L67,27 L58,35 L72,48 Z" fill="#F5F7FA"/>
+  <path d="M18,84 L38,84 L38,92 L18,92 Z" fill="#F5F7FA"/>
+  <path d="M62,84 L82,84 L82,92 L62,92 Z" fill="#F5F7FA"/>
+  <path d="M36,28 L47,28 L50,32 L53,28 L64,28 L69,43 L58,60 L74,75 L74,84 L26,84 L26,75 L42,60 L31,43 Z M49.17,32.45 L42.42,42.25 L51.81,50.24 L43.21,59.81 L48.65,70.58 L46.08,79.22 L53.92,80.78 L55.35,69.42 L48.79,60.19 L56.19,49.76 L45.58,41.75 L50.83,33.55 Z" fill="#F5F7FA" fill-rule="evenodd"/>
+  <path d="M48,18 L58,15 L62,22 L54,27 Z" fill="#F5F7FA"/>
+  <path d="M48,18 L51,19.5 L54,27 L50,24 Z" fill="#00E5FF"/>
+</svg>

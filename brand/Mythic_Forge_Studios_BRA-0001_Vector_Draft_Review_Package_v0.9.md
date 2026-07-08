@@ -1,6 +1,8 @@
 # BRA-0001 — Vector Draft Review Package
 ## v0.9 — Single Diagonal Fracture (Founder Direction Override)
 
+> **STATUS: SUPERSEDED — 2026-07-08.** The Founder approved a different candidate (traced from a separate reference image) as the official BRA-0001 logo — see `brand/Mythic_Forge_Studios_BRA-0001_Primary_Logo_Master_SVG_Production_Record_v1.1.md` for the Approval record and `brand/assets/logos/mfs-logo-icon-dark_v1.0.svg` for the Locked asset. This document and its geometry are retained as historical record per this project's archive-don't-delete discipline; nothing below reflects the current brand identity.
+
 **Classification:** Internal — Brand Asset Production Record (Stage 4 output)
 **Status:** Fracture replaced per Founder Direction Override, rendered, tested, and objectively compared against v0.8. **Recommendation: adopt v0.9 as the new BRA-0001 candidate, superseding v0.8.**
 **Governing documents:** `brand/Mythic_Forge_Studios_Brand_Bible_v1.0.md`, `brand/Mythic_Forge_Studios_BRA-0001_Primary_Logo_Master_SVG_Production_Record_v1.1.md`, `brand/Mythic_Forge_Studios_BRA-0001_Vector_Draft_Review_Package_v0.8.md` (superseded by this comparison, not deleted), Founder QA Audit (previous turn — v0.8's own findings are the baseline this version is measured against).

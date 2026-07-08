@@ -1,6 +1,8 @@
 # BRA-0001 — Vector Draft Review Package
 ## v0.12 — Definitive Reference, Precision Redraw
 
+> **STATUS: PROMOTED — 2026-07-08.** This geometry was approved by the Founder as the official BRA-0001 logo and promoted to the Locked v1.0 canonical files under `brand/assets/logos/*_v1.0.svg` (unchanged from this v0.12 geometry — only the file location, header status, and version label changed). See `brand/Mythic_Forge_Studios_BRA-0001_Primary_Logo_Master_SVG_Production_Record_v1.1.md` for the Approval record. This document remains the construction/verification record for that geometry.
+
 **Classification:** Internal — Brand Asset Production Record (Stage 4 output)
 **Status:** Precision refinement of v0.11's trace of the same reference image, now explicitly designated "the definitive reference," with the instruction "do not reinterpret, redesign, or approximate."
 **Governing documents:** `brand/Mythic_Forge_Studios_Brand_Bible_v1.0.md`, `brand/Mythic_Forge_Studios_BRA-0001_Primary_Logo_Master_SVG_Production_Record_v1.1.md`, `brand/Mythic_Forge_Studios_BRA-0001_Vector_Draft_Review_Package_v0.11.md`.

@@ -1,6 +1,8 @@
 # BRA-0001 — Creative Direction Confirmation
 ## v0.9, Evaluated Against the Six Core Creative Ideas
 
+> **STATUS: SUPERSEDED — 2026-07-08.** The Founder approved a different candidate as the official BRA-0001 logo — see `brand/Mythic_Forge_Studios_BRA-0001_Primary_Logo_Master_SVG_Production_Record_v1.1.md` for the Approval record and `brand/assets/logos/mfs-logo-icon-dark_v1.0.svg` for the Locked asset. Retained as historical record.
+
 **Classification:** Internal — Brand Asset Production Record (Stage 4 output)
 **Status:** v0.9 confirmed against the Founder's six core creative ideas and re-verified as technically compliant with every "do not adopt" constraint. **No new geometry, no redesign. Recommendation stands: BRA-0001 v0.9 is ready for final Founder Approval.**
 **Governing documents:** `brand/Mythic_Forge_Studios_Brand_Bible_v1.0.md`, `brand/Mythic_Forge_Studios_BRA-0001_Primary_Logo_Master_SVG_Production_Record_v1.1.md`, `brand/Mythic_Forge_Studios_BRA-0001_Vector_Draft_Review_Package_v0.9.md` (this document's baseline).

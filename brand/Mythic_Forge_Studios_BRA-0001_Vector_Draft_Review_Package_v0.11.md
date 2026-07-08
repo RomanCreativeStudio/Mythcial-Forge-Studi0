@@ -1,6 +1,8 @@
 # BRA-0001 — Vector Draft Review Package
 ## v0.11 — Second Reference Image, Double-Horn Geometry Rebuild
 
+> **STATUS: SUPERSEDED — 2026-07-08.** Superseded by v0.12 (a precision refinement of this same trace), which was then approved by the Founder as the official BRA-0001 logo — see `brand/Mythic_Forge_Studios_BRA-0001_Primary_Logo_Master_SVG_Production_Record_v1.1.md` for the Approval record and `brand/assets/logos/mfs-logo-icon-dark_v1.0.svg` for the Locked asset. Retained as historical record.
+
 **Classification:** Internal — Brand Asset Production Record (Stage 4 output)
 **Status:** Built, rendered, and tested against the same rigorous methodology used for every prior pass. **This is a third candidate alongside v0.9 and v0.10, tracing a newly submitted, explicitly "approved" reference image that shows a different composition from the one v0.10 traced.**
 **Governing documents:** `brand/Mythic_Forge_Studios_Brand_Bible_v1.0.md`, `brand/Mythic_Forge_Studios_BRA-0001_Primary_Logo_Master_SVG_Production_Record_v1.1.md`, `brand/Mythic_Forge_Studios_BRA-0001_Vector_Draft_Review_Package_v0.9.md`, `brand/Mythic_Forge_Studios_BRA-0001_Vector_Draft_Review_Package_v0.10.md`.
