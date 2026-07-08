@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Primary Lockup, Dark Version
+  DRAFT v0.11 — SECOND REFERENCE, DOUBLE-HORN GEOMETRY — NOT YET MARKED APPROVED
+  v0.11 icon (double horn, twin-footed base, 5-segment fracture, floating top shard)
+  + wordmark. Icon scale reduced to 0.85 (vs. 0.9 in v0.9/v0.10) since this
+  silhouette is proportionally wider; re-verified by render to fit the existing
+  520x120 canvas without crowding the wordmark. STUDIOS x-position adjusted to
+  148.3 to preserve the same optical alignment correction under the wider icon.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120">
+  <rect x="0" y="0" width="520" height="120" fill="#0A0B0D"/>
+  <g transform="translate(10,10) scale(0.85)">
+    <path d="M2,39 L33,28 L42,35 L28,47 Z" fill="#F5F7FA"/>
+    <path d="M98,39 L67,28 L58,35 L72,47 Z" fill="#F5F7FA"/>
+    <path d="M20,84 L38,84 L38,92 L20,92 Z" fill="#F5F7FA"/>
+    <path d="M62,84 L80,84 L80,92 L62,92 Z" fill="#F5F7FA"/>
+    <path d="M36,28 L47,28 L50,32 L53,28 L64,28 L68,44 L60,58 L75,74 L75,84 L25,84 L25,74 L40,58 L32,44 Z M49.17,32.45 L42.42,42.25 L51.81,50.24 L43.21,59.81 L48.65,70.58 L46.08,79.22 L53.92,80.78 L55.35,69.42 L48.79,60.19 L56.19,49.76 L45.58,41.75 L50.83,33.55 Z" fill="#F5F7FA" fill-rule="evenodd"/>
+    <path d="M48,18 L58,15 L62,22 L54,27 Z" fill="#F5F7FA"/>
+    <path d="M48,18 L51,19.5 L54,27 L50,24 Z" fill="#00E5FF"/>
+  </g>
+  <text x="150" y="60" font-family="'Space Grotesk', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#F5F7FA">MYTHIC FORGE</text>
+  <text x="148.3" y="86" font-family="'Space Grotesk', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" letter-spacing="1.4" fill="#F5F7FA">STUDIOS</text>
+</svg>
