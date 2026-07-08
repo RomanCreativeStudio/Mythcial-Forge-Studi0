@@ -1,6 +1,6 @@
 # MYTHIC FORGE STUDIOS
 ## Brand Bible
-### Version 1.0
+### Version 1.1
 
 **Classification:** Internal — Brand Identity Manual
 **Status:** Branding document only. Introduces zero story canon, zero Fracture Protocol lore, zero characters, zero factions, zero powers, zero worldbuilding, zero episode information. This document defines the identity of Mythic Forge Studios as a creative entertainment studio — not the fiction it produces.
@@ -77,6 +77,15 @@ Tags: **[LOCKED]** — founder/Creative Director sign-off required to change. **
 **Improper Usage:** never recolor the fracture accent to a non-brand color; never separate the icon from the wordmark in the primary lockup (use the designated Secondary or Icon-only variants instead of manually deconstructing the Primary); never stretch, skew, or rotate any variant; never add drop shadows, bevels, outer glows, or gradients beyond what's specified here; never place a full-color variant on a busy or low-contrast background without a solid-color safe backing plate.
 
 **Logo Consistency Rules:** exactly one Primary Logo file per color mode (dark/light) is ever "current" at a time — a revision is a new version (Section 14), not a second simultaneous variant. Every use of the logo across every surface (Sections 10–13) pulls from the same current asset, never a recreated or eyeballed redraw.
+
+**Official Presentation Styles (added v1.1 — Founder Directive, BRA-0001A, 2026-07-08):** the canonical logo geometry — anvil silhouette, fracture geometry, detached shard, overall proportions, negative space, composition, wordmark, and typography relationships — is permanently Locked and identical across both styles below. What varies between them is rendering only: material, lighting, and effects, never the mark itself.
+
+| Style | Purpose | Characteristics |
+|---|---|---|
+| **Production Vector Presentation** | Website navigation, GitHub, documentation, brand guidelines, print, merchandise, icons, favicons, UI, technical applications | Flat vector, scalable SVG, clean construction, Section 4 color system only, no geometry changes. This is the default, and the only style used for Section 14's Asset Standards exports. |
+| **Signature Cinematic Presentation** | Official YouTube banner, website hero section, reveal artwork, promotional key art, marketing campaigns, major announcements, cinematic brand presentations | Uses the exact same Locked logo geometry as the Production Vector Presentation. May include premium metallic materials, realistic lighting, atmospheric effects (smoke, sparks, embers), and cinematic rendering techniques. Restricted to rendering only — no changes to geometry, silhouette, fracture layout, shard placement, or typography of any kind. |
+
+The Signature Cinematic Presentation is a rendering of the official logo, not a second logo, a sub-brand, or an exception to this section's single-canonical-mark rule. Section 7 (Illustration Style)'s flat-vector, minimal-depth rule remains the default for all other brand illustration; this carve-out applies only to the logo itself, and only in the contexts listed above.
 
 ---
 
@@ -157,7 +166,7 @@ Tags: **[LOCKED]** — founder/Creative Director sign-off required to change. **
 
 ## 7. Illustration Style **[LOCKED]**
 
-For any illustrated brand asset (as distinct from in-episode art, which is the Art Bible's exclusive domain):
+For any illustrated brand asset (as distinct from in-episode art, which is the Art Bible's exclusive domain), **except the logo itself in its Signature Cinematic Presentation contexts (Section 3, added v1.1)** — that carve-out is scoped exclusively to the logo mark and only in the purposes Section 3 lists (YouTube banner, hero section, reveal artwork, key art, marketing, major announcements); every other illustrated brand asset, and the logo in every other context, still follows the rules below without exception:
 
 **Rendering Style:** flat-to-subtle-gradient vector illustration — distinct from the show's semi-realistic cinematic register (Art Bible `visual-development-guide.md`), so brand illustration is never mistaken for a frame of the actual show.
 
@@ -334,8 +343,8 @@ No merchandise category is produced before this table has an entry for it (Secti
 
 ---
 
-**Version:** 1.0
-**Status:** Complete — foundational brand system established; no assets yet produced against it (Section 14, Asset Standards — `/brand/assets/` not yet created)
+**Version:** 1.1
+**Status:** Complete — foundational brand system established; BRA-0001 (Primary Logo Master) is Approved and Locked at `brand/assets/logos/mfs-logo-*_v1.0.svg` (Production Vector Presentation), with a Signature Cinematic Presentation now also officially recognized (Section 3, added v1.1 — Founder Directive, BRA-0001A). See `documentation/Asset_Registry.md`.
 **Authority:** Subordinate to the Master System Prompt; governed operationally by the Studio Governance Manual (Section 15); executes Studio OS Sections 1–4 rather than replacing them
 **Scope:** Mythic Forge Studios' identity as a company and creative brand — logo, color, typography, visual/motion/audio identity, platform branding, voice, merchandise, and asset/versioning standards. Explicitly excludes all story canon, lore, and episode content.
 
@@ -343,3 +352,4 @@ No merchandise category is produced before this table has an entry for it (Secti
 
 ### Changelog
 `[v1.0 — 2026-07-07] Initial Brand Bible established: 16 sections (Brand Philosophy through Future Expansion) plus Final Validation, defining Mythic Forge Studios' complete visual and verbal identity system — logo system (anvil-and-fracture mark, five lockup variants), color system (five brand colors plus a six-step neutral ramp, with hex/RGB/HSL and accessibility guidance), typography (Space Grotesk / Inter / IBM Plex Mono), visual/illustration/motion/audio identity, YouTube and social platform branding, brand voice, merchandise standards, asset export standards, brand governance, and future sub-brand expansion rules. Introduces zero story canon — every reference to the flagship show is by name only. Positioned explicitly as the detailed execution layer beneath Studio OS Sections 1–4, never a redefinition of them.`
+`[v1.1 — 2026-07-08] FOUNDER DIRECTIVE — BRAND BIBLE AMENDMENT (BRA-0001A). Per explicit Founder sign-off (Studio Governance Manual Section 6/15's required authority for a Locked-element change), amended Section 3 (Logo System) to formally recognize two Official Presentation Styles derived from the single canonical BRA-0001 logo geometry: the existing Production Vector Presentation (flat vector, unchanged) and a new Signature Cinematic Presentation (same Locked geometry -- silhouette, fracture, shard, proportions, negative space, composition, wordmark, typography relationships -- rendered with premium metallic materials, realistic lighting, and atmospheric effects, restricted to specific contexts: YouTube banner, website hero, reveal artwork, key art, marketing, major announcements). Cross-referenced this carve-out into Section 7 (Illustration Style), whose flat-vector/minimal-depth rule remains the default everywhere else. The canonical logo geometry itself remains permanently Locked and unchanged by this amendment -- this is a rendering-permission amendment, not a redesign.`

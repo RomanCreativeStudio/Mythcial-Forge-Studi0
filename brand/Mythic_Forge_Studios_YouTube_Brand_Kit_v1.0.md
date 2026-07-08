@@ -1,6 +1,6 @@
 # MYTHIC FORGE STUDIOS
 ## YouTube Brand Kit
-### Version 1.0
+### Version 1.1
 
 **Classification:** Internal — Production Branding Specification
 **Status:** Standards and specifications only. Defines rules for producing YouTube-facing assets — it does not generate, describe, or contain any artwork. Introduces zero story canon, zero worldbuilding, zero characters, zero factions, zero locations, zero technologies, zero lore.
@@ -72,7 +72,7 @@ Extends Brand Bible Section 10's banner entry (2560×1440px master, 1546×423px 
 
 **Note:** platform safe-area specs are set by YouTube and have changed over time — this table is a working specification, not a permanent platform guarantee. Verify against YouTube's current official channel-art guidance before final export (Section 15).
 
-**Logo Placement:** Horizontal Logo (Brand Bible Section 3), Dark Version, centered within the mobile-safe area — never placed only in the wider desktop/TV zones, since it would then be invisible to mobile viewers.
+**Logo Placement:** Horizontal Logo (Brand Bible Section 3), Dark Version — **or, as of v1.1 (Founder Directive, BRA-0001A, 2026-07-08), the Signature Cinematic Presentation of the same Locked geometry, permitted specifically for this banner context** — centered within the mobile-safe area — never placed only in the wider desktop/TV zones, since it would then be invisible to mobile viewers.
 
 **Text Placement:** the tagline (Brand Bible Section 2) sits directly beneath the logo lockup, also within the mobile-safe area; no other text is placed on the banner.
 
@@ -80,7 +80,7 @@ Extends Brand Bible Section 10's banner entry (2560×1440px master, 1546×423px 
 
 **Lighting:** Grounded lighting mode (Brand Bible Section 6) — confident, even, never the higher-contrast Charged mode, which is reserved for launch-specific assets only (Section 10, Channel Trailer Branding).
 
-**Depth:** minimal — the banner is a graphic/typographic composition, not a rendered scene; avoid deep perspective or simulated camera depth that could misread at banner aspect ratio.
+**Depth:** minimal by default — the banner is a graphic/typographic composition, not a rendered scene; avoid deep perspective or simulated camera depth that could misread at banner aspect ratio. **Exception (v1.1, BRA-0001A):** when using the Signature Cinematic Presentation, atmospheric depth (environment, lighting, effects) is permitted around the logo specifically because that presentation style exists for exactly this kind of context — the logo itself, and the mobile-safe-area text, must still remain the unambiguous focal point, not competed with by the environment.
 
 **Color Balance:** Void Black base (Brand Bible Section 4) with Fracture Cyan reserved for the logo's fracture accent only — the banner must never use Fracture Cyan as a large background fill, consistent with the "earned, not decorative" accent rule.
 
@@ -345,8 +345,8 @@ This document governs **YouTube channel branding only**. It introduces no author
 
 ---
 
-**Version:** 1.0
-**Status:** Complete — specification only; zero YouTube-facing assets produced against it yet (`/brand/assets/youtube/` not yet created, Section 14)
+**Version:** 1.1
+**Status:** Complete — real YouTube-facing assets now exist at `/brand/assets/youtube/` (avatar, banner, watermark, all v1.0, logged in `documentation/Asset_Registry.md`). Section 3 (Banner Standards) amended to permit the Signature Cinematic Presentation (Brand Bible Section 3, v1.1) for the official banner specifically.
 **Authority:** Subordinate to the Master System Prompt and the Brand Bible; governed operationally by the Studio Governance Manual (Section 17)
 **Scope:** YouTube channel branding only — logo application, banner, color/typography application, thumbnails, intro/outro, motion graphics, trailer branding, cross-platform consistency, export/naming/folder standards, and QA. Explicitly excludes all story canon, lore, and episode content, and does not redefine any Brand Bible-level identity element.
 
@@ -354,3 +354,4 @@ This document governs **YouTube channel branding only**. It introduces no author
 
 ### Changelog
 `[v1.0 — 2026-07-07] Initial YouTube Brand Kit established: 17 substantive sections (Brand Identity through Relationship to Existing Documents) plus Final Validation, providing YouTube-specific production specification beneath the Brand Bible — logo application rules, full banner safe-area breakdown, gradient/glow color extensions, thumbnail layout template, intro/outro system (original, non-derivative motion concept), channel-level motion graphics standards (explicitly excluding in-fiction UI, which remains Art Bible's domain), channel trailer branding, cross-platform consistency, and export/naming/folder/QA standards. Introduces zero story canon and zero artwork. Does not modify the Brand Bible or any existing governance document — every shared fact (palette, typefaces, logo variants) is cited, never redefined.`
+`[v1.1 — 2026-07-08] FOUNDER DIRECTIVE — BRAND BIBLE AMENDMENT (BRA-0001A). Amended Section 3 (YouTube Banner Standards): Logo Placement now permits the Signature Cinematic Presentation (Brand Bible Section 3, v1.1) as an alternative to the Dark Version for the official banner; the Depth rule's "not a rendered scene" default now carries an explicit exception for that presentation style, on the condition that the logo and mobile-safe-area text remain the unambiguous focal point. Both amendments cite the same Founder sign-off recorded in the Brand Bible's own v1.1 changelog entry, per this Kit's own governance (Section 17) deferring logo-identity questions to the Brand Bible rather than redefining them here.`
