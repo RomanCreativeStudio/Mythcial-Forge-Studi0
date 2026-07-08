@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Primary Lockup, Dark Version
+  DRAFT v0.10 — REFERENCE-TRACE GEOMETRY REBUILD — NOT YET MARKED APPROVED
+  v0.10 icon (curved horn, arch cutout, jagged fracture) + wordmark. Wordmark
+  unchanged from v0.7-v0.9 (optical alignment already corrected there; STUDIOS
+  shifted to x=128.3 for optical, not mathematical, alignment under MYTHIC FORGE).
+  Icon bbox re-verified by render to fit within the existing 520x120 canvas at the
+  same translate(10,10) scale(0.9) transform used since v0.5.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120">
+  <rect x="0" y="0" width="520" height="120" fill="#0A0B0D"/>
+  <g transform="translate(10,10) scale(0.9)">
+    <path d="M8,42 C12,34 18,29 27,27 L79,27 L79,43 L71,56 L83,73 L81,77 L58,77 C58,68 42,68 42,77 L23,77 L21,73 L33,56 C25,54 15,50 8,42 Z M48.93,27.46 L42.33,40.31 L52.84,50.4 L47.36,60.58 L67.94,78.58 L72.06,73.42 L52.64,59.42 L57.16,49.6 L45.67,39.69 L51.07,28.54 Z" fill="#F5F7FA" fill-rule="evenodd"/>
+    <path d="M70.0,80.05 L71.67,84.36 L70.8,88.85 L76.37,81.92 Z" fill="#F5F7FA"/>
+    <path d="M70.0,80.05 L70.81,81.89 L75.03,83.57 L76.37,81.92 Z" fill="#00E5FF"/>
+  </g>
+  <text x="130" y="60" font-family="'Space Grotesk', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#F5F7FA">MYTHIC FORGE</text>
+  <text x="128.3" y="86" font-family="'Space Grotesk', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" letter-spacing="1.4" fill="#F5F7FA">STUDIOS</text>
+</svg>

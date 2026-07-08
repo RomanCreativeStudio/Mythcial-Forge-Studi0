@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Monochrome (Single Ink)
+  DRAFT v0.10 — REFERENCE-TRACE GEOMETRY REBUILD — NOT YET MARKED APPROVED
+  Single Void Black fill, no cyan distinction — for one-color print, stamping,
+  and embroidery contexts where only one thread/ink color is available. Fracture
+  and shard remain legible through geometry (the knocked-out gap and the detached
+  shard's own silhouette) rather than through color, verified by render at 28px.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="0" y="0" width="100" height="100" fill="#F5F7FA"/>
+  <path d="M8,42 C12,34 18,29 27,27 L79,27 L79,43 L71,56 L83,73 L81,77 L58,77 C58,68 42,68 42,77 L23,77 L21,73 L33,56 C25,54 15,50 8,42 Z M48.93,27.46 L42.33,40.31 L52.84,50.4 L47.36,60.58 L67.94,78.58 L72.06,73.42 L52.64,59.42 L57.16,49.6 L45.67,39.69 L51.07,28.54 Z" fill="#0A0B0D" fill-rule="evenodd"/>
+  <path d="M70.0,80.05 L71.67,84.36 L70.8,88.85 L76.37,81.92 Z" fill="#0A0B0D"/>
+  <path d="M70.0,80.05 L70.81,81.89 L75.03,83.57 L76.37,81.92 Z" fill="#0A0B0D"/>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Transparent Background
+  DRAFT v0.10 — REFERENCE-TRACE GEOMETRY REBUILD — NOT YET MARKED APPROVED
+  Same geometry as mfs-logo-icon-dark_v0.10.svg, background rect omitted for
+  placement on arbitrary surfaces (merchandise, embroidery digitizing, favicon
+  export). Icon fill is Authority White — intended for dark or mid-tone surfaces;
+  see mfs-logo-icon-monochrome_v0.10.svg for a single-ink Void Black variant.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M8,42 C12,34 18,29 27,27 L79,27 L79,43 L71,56 L83,73 L81,77 L58,77 C58,68 42,68 42,77 L23,77 L21,73 L33,56 C25,54 15,50 8,42 Z M48.93,27.46 L42.33,40.31 L52.84,50.4 L47.36,60.58 L67.94,78.58 L72.06,73.42 L52.64,59.42 L57.16,49.6 L45.67,39.69 L51.07,28.54 Z" fill="#F5F7FA" fill-rule="evenodd"/>
+  <path d="M70.0,80.05 L71.67,84.36 L70.8,88.85 L76.37,81.92 Z" fill="#F5F7FA"/>
+  <path d="M70.0,80.05 L70.81,81.89 L75.03,83.57 L76.37,81.92 Z" fill="#00E5FF"/>
+</svg>
