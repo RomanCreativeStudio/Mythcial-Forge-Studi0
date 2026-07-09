@@ -1,6 +1,6 @@
 # MYTHIC FORGE STUDIOS — STUDIO OPERATING SYSTEM
-### Studio OS Version 1.0
-**Status:** Foundational — approved for operational use
+### Studio OS Version 1.1
+**Status:** Foundational — approved for operational use. Strategic focus (v1.1): the YouTube storytelling channel is the studio's first major product and current priority; game development is long-term (Section 28), not current-focus.
 **Classification:** Internal — Company Handbook
 **Companion documents:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` (absolute canon lock), `bible/Fracture_Protocol_World_Bible_v1.1.md` (creative canon — this document governs how we *work*, those documents govern what we *build*)
 
@@ -23,6 +23,8 @@ Like the World Bible, sections here are marked:
 
 **Vision Statement:** To become one of the world's leading independent AI-powered storytelling studios — a company where a single original universe can grow, over years, into a YouTube series, a web novel, a comic, games, and merchandise, without ever losing its internal consistency or creative integrity.
 
+**Current Strategic Focus (added v1.1, Founder Directive, 2026-07-09):** the YouTube channel is the studio's first major product and the near-term focus of all planning, branding, documentation, and production work. Game development remains part of the long-term vision above, but is explicitly not the current production focus — it begins only after the storytelling brand has grown and the studio has the financial resources to support it, and it is understood as a natural evolution of the stories the channel builds, not a parallel current product. This does not reorder the four priorities table below; it sequences *when* format expansion (row 3, "Format independence") is actually pursued.
+
 **What "leading independent studio" means in practice, in order of priority:**
 
 | Priority | Definition | Not This |
@@ -39,6 +41,10 @@ This vision should be revisited annually (see Section 26) but the four prioritie
 ## SECTION 2 — Mission Statement **[LOCKED]**
 
 **Mission:** Create unforgettable original worlds and stories that inspire imagination, emotional connection, and long-term audience loyalty.
+
+**Creative Register (added v1.1, Founder Directive, 2026-07-09):** the studio's storytelling is inspired by the scale, emotion, and world-building found in manhwa and manga — epic stakes, character-first stakes, and worlds built with internal logic worth exploring. **This describes the studio's tone and craft ambition, not a genre mandate.** It does not reopen or amend the flagship series' own Locked genre canon: *The Fracture Protocol* remains the sci-fi, non-magic universe established in `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` ("overtly sci-fi from the ground up: no magic, no fantasy skin") and `bible/Fracture_Protocol_World_Bible_v1.1.md`, both explicitly Locked. A change to that canon would require its own explicit Founder Override Command under the Master System Prompt's Canon Governance System (Section 12–13) — this mission-level creative-register note is not that, and should not be read as one.
+
+**Content Priorities (added v1.1, Founder Directive, 2026-07-09):** original stories, world-building, character development, lore, story arcs, cinematic storytelling, and behind-the-scenes creative process — in that order of emphasis for the YouTube channel specifically (Section 11).
 
 **Mission Pillars:**
 
@@ -416,10 +422,12 @@ A running index of reusable AI prompts, to prevent re-deriving the same prompt e
 |---|---|---|
 | Phase 1 | YouTube shorts + mainline episodes, web novel chapters | Consistent upload cadence + baseline retention achieved |
 | Phase 2 | Comic adaptation, community hub (Discord/wiki) | Phase 1 audience base sustains engagement without founder's constant push |
-| Phase 3 | Game exploration (narrative-driven, small scope) | Phase 2 IP proven stable across two formats without contradiction |
+| Phase 3 | Game exploration (narrative-driven, small scope) | Phase 2 IP proven stable across two formats without contradiction, **and** the studio has the financial resources to support game development (added v1.1, Founder Directive) |
 | Phase 4 | Merchandise, licensing conversations | Demonstrated fan demand (not just internal enthusiasm) |
 
 **Rule:** Do not open a new phase while a prior phase's quality standards (Section 14) are slipping. Growth in format count should never come at the cost of canon integrity.
+
+**Current focus, restated plainly (added v1.1, Founder Directive, 2026-07-09):** the studio is in Phase 1. The YouTube channel is the first major product and the priority for all planning, branding, documentation, repository organization, and production work. Game development is explicitly not a current activity — it is a natural evolution of the stories once the storytelling brand and its finances have grown into Phase 3, not a parallel current product. This is a sequencing statement, not a change to the Vision Statement's (Section 1) long-run four-priority list.
 
 ---
 
@@ -462,3 +470,4 @@ A running index of reusable AI prompts, to prevent re-deriving the same prompt e
 `[v1.0 — 2026-07-06] Founder-approved Locked-section edit to Section 2 (Mission Statement): removed "fantasy" from the Mission one-liner so the studio's stated mission stays open to any genre (fantasy, sci-fi, etc.) rather than committing to one. Mission Pillars unchanged — they were already genre-agnostic.`
 `[v1.0 — 2026-07-06] Phase 2 Finalization audit fixes: rewrote Section 18's Canon Tiers/Canon Change SOP to defer to the Master System Prompt's Canon Governance System (Section 12) instead of maintaining a separate, conflicting DRAFT-based process. Corrected residual fantasy-era ("Realm," "Essence affinity," "the Kindling," Emberfall/Duskmarch examples) references found in Sections 8, 10, 11, 17, 19, and 20 to current Fracture Protocol terminology (Zone, Signal-affinity, the Calibration, Lower Sector examples).`
 `[v1.0 — 2026-07-06] Synced Section 18 to the Master System Prompt's v1.2 Founder Override Protocol (Section 13): Canon Change SOP now references explicit Founder Override Commands and the Change Impact Report requirement for Major Canon Updates, alongside the existing Canon Governance System (Section 12). Cross-reference updated to `Fracture_Protocol_Master_System_Prompt_v1.2.md`.`
+`[v1.1 — 2026-07-09] FOUNDER STRATEGIC DIRECTION UPDATE. Per explicit Founder directive, updated Locked Sections 1 (Vision) and 2 (Mission) and Living Section 28 (Future Expansion Strategy) to formally state: the YouTube storytelling channel is the studio's first major product and current production priority; game development remains part of the long-term vision but is not the current focus, beginning only after the storytelling brand has grown and the studio has the financial resources to support it, understood as a natural evolution of the stories rather than a parallel current product. Added a "Creative Register" note to Section 2 citing manhwa/manga as an inspiration for scale, emotion, and world-building -- deliberately scoped as studio-level tone and craft ambition, not a genre mandate, and explicitly cross-referenced against the flagship series' own Locked sci-fi canon (Master System Prompt v1.2, World Bible v1.1, both "overtly sci-fi... no magic, no fantasy skin") so this note cannot be misread as reopening that Locked decision. One deliberate word-choice deviation from the Founder's literal directive text, disclosed here: the directive listed "Original fantasy stories" as a content priority; this document instead states "original stories," omitting "fantasy," because Section 2's own v1.0 changelog records a prior explicit Founder-approved edit (2026-07-06) that removed "fantasy" from the Mission statement specifically to keep it genre-agnostic following the flagship IP's conversion from fantasy to sci-fi canon. Reintroducing "fantasy" into the Mission's content-priorities list would have quietly reversed that precedent without an explicit instruction to do so; flagged rather than silently applied either way. No change made to any Bible, World Bible, Series Bible, or Master System Prompt file -- this is a Studio OS (business/operations) update only, preserving the existing Brand Bible and approved visual identity per the Founder's own scope instruction.`
