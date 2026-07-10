@@ -49,6 +49,12 @@ Humanity's discovery of an ancient, highly advanced artificial intelligence — 
 
 An ancient, highly advanced artificial intelligence discovered by humanity. Its purpose is to guide humanity toward a better future, but it refuses to force humanity's choices.
 
+**Additional confirmed facts (added 2026-07-10, from the Phase 1B civilization material):**
+- The Guardian cannot be controlled through force.
+- It evaluates individuals according to principles rather than political affiliation.
+- Its knowledge exceeds every artificial intelligence humanity has ever created.
+- Although immensely powerful, humanity still does not fully understand its true origins or long-term purpose.
+
 **Core Guardian Principle:**
 > "Humanity cannot be led into a future it has not chosen."
 
@@ -98,3 +104,4 @@ Phase 1B (Universe Framework — USCN government structure, the Solar Peace Corp
 
 ### Changelog
 `[v1.0 — 2026-07-09] Initial Phase 1A Production Bible compiled per Founder Directive ("Canon Consolidation — Phase 1A & Phase 1B," finalized by "Production Bible Compilation — Phase 1A"), consolidating Founder-confirmed Core IP Foundation facts: Core Premise (synthesized from confirmed facts, flagged as such), Story Identity (sci-fi genre confirmed, manhwa/manga storytelling-approach-only clarified), Core Themes (Hope, Restoration, Peace, Love, Humanity, Leadership, Sacrifice), Core Conflict (Light Order vs. Night Haven), Historical Foundation, The Fracture Protocol (as historical era name), The Guardian (description and Core Principle), Kael (protagonist, cross-referenced to existing World Bible/Series Bible detail, not restated), Light Order and Night Haven (named, undefined beyond that pending further Founder detail), Humanity (noted as a Core Theme, not a separate worldbuilding concept), Story Philosophy (identified with the Guardian's Core Principle), and Canon Principles. No new lore invented -- sections with no explicit Founder-provided content beyond a name say so plainly. Two genuine contradictions flagged per this task's own instruction rather than silently resolved: the Guardian's described character (refuses to force choices) appears to be in tension with the existing Locked Authority System (regulated, always-active, cannot be removed); "The Fracture Protocol" now has three candidate referents (franchise title, megacity containment protocol, interplanetary historical era) with no stated relationship between them. Phase 1B (Universe Framework/USCN government) explicitly out of scope for this document per the task's own Objectives list; remains logged in the Proposal Vault pending its own compilation pass.`
+`[v1.0 addendum — 2026-07-10] Folded in four additional Guardian facts from the Phase 1B civilization material, previously held back since they weren't part of either compilation task's explicit topic list (flagged as available-but-uncompiled in the prior response): cannot be controlled through force; evaluates individuals by principle rather than political affiliation; knowledge exceeds every AI humanity has created; true origins and long-term purpose not fully understood. Folded in now given the same directive was resent in full, reconfirming this content. Section 7's flagged tension with the existing Authority System is unchanged by this addition -- if anything, "cannot be controlled through force" sharpens the contrast with Authority's "cannot be removed, destroyed, or ignored."`
