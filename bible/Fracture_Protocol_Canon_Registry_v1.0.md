@@ -14,14 +14,14 @@
 | Entity | Type | Status | Source | Notes |
 |---|---|---|---|---|
 | Authority System | Governing AI (local) | Locked | World Bible §4 | Sole governing force of the megacity; pre-existing canon, unchanged by Phase 1A/1B/1B.3 |
-| Ward Division | Institution (containment) | **Locked, unaltered — see flag** | World Bible §6 | A submitted Phase 1B.3 redefinition (Helldiver-affiliated protective foundation; Kael as "Vanguard Commander") directly conflicts with this entry and was **not implemented**. World Bible §6 (Kael = Cadet) remains sole canon pending Founder resolution — see `Fracture_Protocol_Phase1B3_Production_Bible_v1.0.md`, "Audit Findings." |
+| Ward Division | Institution (containment, evolved into civilization preservation) | **Approved — Pending Final Lock** | World Bible §6 (current text); reconciliation drafted in Phase 1B.3 §8 | Reconciled 2026-07-10: original Authority-origin containment mission preserved unaltered, expanded (not replaced) into civilization preservation; separate from but operationally partnered with the Light 98th; primarily local, Solar-System-wide only when authorized. Kael's rank resolved: Cadet (starting, matches existing canon) → Vanguard Commander (later, earned title, not a Season One fact). World Bible §6 edit is fully drafted but not yet applied — awaiting one Founder confirmation to flip from "Approved" to "Locked." |
 | The Reassembly | Organization (resistance) | Locked | World Bible §9 | Pre-existing canon, unchanged |
 | The Salvage Line | Organization (black market) | Locked | World Bible §16 | Pre-existing canon, unchanged |
 | The Guardian | Ancient AI (civilizational) | Locked | Phase 1A Production Bible §7; elaborated Phase 1B.3 §4 | Relationship to Authority System explicitly unresolved — see Phase 1A §7 |
 | Light Order | Ideological faction | Locked | Phase 1A Production Bible §9 | One side of the Core Conflict; beliefs/structure not yet detailed |
 | Night Haven | Ideological faction | Locked | Phase 1A Production Bible §10 | Other side of the Core Conflict; beliefs/structure not yet detailed |
 | Helldiver Corps | Elite military branch | Locked | Phase 1B.3 Production Bible §6 | 36 Legions, 7 elite formations; drawn from existing military branches |
-| Light 98th Contubernium | Helldiver formation (military unit) | Locked | Phase 1A Production Bible §1; structure defined Phase 1B.3 §7 | One of the 7 Helldiver elite formations; Kael's stated affiliation; connection to his existing Ward Division story still not defined (compounded, not resolved, by the Ward Division flag above) |
+| Light 98th Contubernium | Helldiver formation (military unit) | Locked | Phase 1A Production Bible §1; structure defined Phase 1B.3 §7 | One of the 7 Helldiver elite formations; Kael's stated affiliation. Connection to Ward Division now defined (see Ward Division entry above): separate organizations, operational partners, not one inside the other. |
 | United Solar System Nations (USCN) | Interplanetary government | Locked | Phase 1B Production Bible, Government | Central governing body of the Solar System |
 | USCN Assembly | Legislature | Locked | Phase 1B Production Bible, Legislature | 750 seats: 250 Earth / 250 Mars / 250 Moon |
 | USCN Supreme Court | Judiciary | Locked | Phase 1B Production Bible, Judiciary | Constitutional review, interplanetary disputes, appeals, emergency-power oversight |
@@ -60,14 +60,15 @@
 
 ## Known Open Items (Cross-Referenced, Not Resolved Here)
 
-This registry indexes; it doesn't resolve. Three genuine unresolved items exist among the entries above:
+This registry indexes; it doesn't resolve. One genuine unresolved item remains; two are now resolved and kept here only as history:
 
-1. **The Guardian vs. the Authority System** — apparently opposed character (refuses to force choices vs. total, unremovable control), relationship unstated. See Phase 1A Production Bible §7.
-2. **Kael's Ward Division story vs. his Light 98th Contubernium affiliation** — both confirmed, not yet connected. See Phase 1A Production Bible §8.
-3. **Ward Division's institutional identity and Kael's rank — a direct contradiction, not just an open connection.** A submitted Phase 1B.3 redefinition (Ward Division as a Helldiver-affiliated protective foundation; Kael as "Vanguard Commander") conflicts directly with the Locked World Bible §6 (Authority's local containment branch; Kael as Cadet) and was not implemented. See `Fracture_Protocol_Phase1B3_Production_Bible_v1.0.md`, "Audit Findings," for the full comparison.
+1. **The Guardian vs. the Authority System** — apparently opposed character (refuses to force choices vs. total, unremovable control), relationship unstated. Still open. See Phase 1A Production Bible §7.
+2. ~~Kael's Ward Division story vs. his Light 98th Contubernium affiliation~~ — **Resolved 2026-07-10.** Separate organizations, operational partners. See Phase 1B.3 Production Bible §8.
+3. ~~Ward Division's institutional identity and Kael's rank~~ — **Resolved 2026-07-10, pending final lock confirmation.** See Phase 1B.3 Production Bible §8 and the Ward Division registry entry above.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-10] Canon Registry established per Founder Directive Repository Task 4 ("Update the Canon Registry with every finalized organization, doctrine, institution, and governing principle introduced in this directive"). Indexed 14 organizations/institutions (4 pre-existing, 10 new from Phase 1A/1B), 3 doctrines/mottos/creeds, and 5 governing/founding principles, each cross-referenced to its actual defining document and section rather than redefined here. Two previously-flagged open items (Guardian/Authority relationship, Kael's dual affiliation) cross-referenced, not resolved, consistent with their treatment in the Phase 1A/1B Production Bibles themselves.`
 `[v1.0 update — 2026-07-10] Added Phase 1B.3 (Technology & Military Framework) entries: Helldiver Corps (new organization), Light 98th Contubernium structure (elaborated), the Guardian's elaborated principle, Light 98th's philosophy, the military principle, and the franchise's Final Philosophy (doctrines); Technology/Energy/AI-governance/Warfare/Information principles (governing principles). One entry deliberately NOT updated: Ward Division remains its existing Locked World Bible §6 definition (Kael = Cadet) because the submitted Phase 1B.3 redefinition directly contradicted it (institutional affiliation, purpose, and Kael's rank all changed with no reconciling explanation) rather than adding to it -- flagged as a third open item rather than silently applied.`
+`[v1.0 update — 2026-07-10] Ward Division entry updated to "Approved — Pending Final Lock" reflecting the full reconciliation received via "Founder Discovery Questionnaire — Phase 1B.3, Ward Division Canon Reconciliation" (full detail in Phase 1B.3 Production Bible §8). Two of the three open items closed: the institutional-identity/rank contradiction is resolved (pending one final lock confirmation, honoring that document's own "Pending Founder Approval" status rather than treating it as immediately Locked like every prior directive); the Ward Division/Light 98th connection question is fully resolved (separate organizations, operational partners). Only the Guardian/Authority System relationship remains genuinely open.`
