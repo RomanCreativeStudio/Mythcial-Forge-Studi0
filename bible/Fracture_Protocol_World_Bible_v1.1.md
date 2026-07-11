@@ -1,5 +1,5 @@
 # THE FRACTURE PROTOCOL — WORLD BIBLE
-### Version 1.2
+### Version 1.3
 
 **Classification:** Internal — World Canon
 **Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` — this document expands on the Master Prompt and must never contradict it. Where the two disagree, the Master Prompt wins and this document is corrected.
@@ -58,9 +58,11 @@ A fracture anomaly subject is a person whose relationship to the Authority Syste
 
 ## 6. Ward Division **[LOCKED premise, LIVING detail]**
 
-The **Ward Division** is Authority's Lower Sector containment and monitoring branch — the institution that raises and trains fracture anomaly subjects and other Lower Sector personnel under controlled conditions. It is the closest thing this world has to a standing anti-Fracture force. Kael is a Cadet here, stationed at **Ward Station Seven**.
+The **Ward Division** is Authority's Lower Sector containment and monitoring branch, whose mission expanded over time from containment into preservation — protecting civilians, preserving worlds during crises, and maintaining a close operational relationship with elite military organizations (the Light 98th Contubernium) for civilization-level threats beyond normal containment. It remains the institution that raises and trains fracture anomaly subjects and other Lower Sector personnel under controlled conditions, and the closest thing this world has to a standing anti-Fracture force. Kael is a Cadet here, stationed at **Ward Station Seven**.
 
-**Rank progression:** Cadet → Ward → Senior Ward → Division Director.
+**Rank progression:** Cadet → Ward → Senior Ward → Division Director. *(Vanguard Commander, per `bible/Fracture_Protocol_Phase1B3_Production_Bible_v1.0.md` Section 8, is a later-earned title beyond this starting progression — exact placement not yet specified.)*
+
+**Affiliation note (added v1.3, 2026-07-10):** the Ward Division is not inside the Light 98th Contubernium and is not a Helldiver Corps formation; they are separate organizations that operate together during civilization-level threats, not one absorbed into the other. Its primary scope remains local (Authority-controlled regions); it can expand operations Solar-System-wide only when authorized. Full detail in `bible/Fracture_Protocol_Phase1B3_Production_Bible_v1.0.md` Section 8.
 
 ## 7. Signal and Cipher-Work **[LOCKED framework]**
 
@@ -106,7 +108,7 @@ For continuity tracking only; not meant to be recited in-story as a glossary.
 | Breach | Localized Fracture event (Section 10) |
 | Root Artifact | Founding-era root-access hardware (Section 11) |
 | The Static | Sensory distortion near the Unknown Layer (Section 12) |
-| Ward Division / Ward Station Seven | Lower Sector containment institution (Section 6) |
+| Ward Division / Ward Station Seven | Lower Sector containment institution, expanded into civilization preservation, operational partner to the Light 98th Contubernium (Section 6) |
 | The Calibration | Childhood Signal-affinity registration rite (Section 7) |
 | Static-Reading | Third discipline: perceiving patterns in the Static/Unknown Layer (Section 7) |
 | The Salvage Line | Black-market faction dealing in Root Artifacts and Fragment salvage (Section 16) |
@@ -137,7 +139,7 @@ A decentralized black-market network operating mainly in the unregulated Substra
 
 ---
 
-*End of World Bible v1.1. Any change here must be checked against the Master System Prompt first and propagated to the Series Bible and Art Bible the same day.*
+*End of World Bible v1.3. Any change here must be checked against the Master System Prompt first and propagated to the Series Bible and Art Bible the same day.*
 
 ---
 
@@ -145,3 +147,4 @@ A decentralized black-market network operating mainly in the unregulated Substra
 `[v1.0 — 2026-07-06] Initial World Bible established, replacing the retired fantasy Mythic Bible v3.0 and Fracture Protocol True Reality Codex v1.0 (both retained in git history only). The Fracture Protocol is now the sole, overt, non-hidden universe canon — no nested reveal, no magic, single megacity structure.`
 `[v1.1 — 2026-07-06] Founder-approved additive expansion, scoped per the Master System Prompt's Consistency Enforcement System (no Locked rule overridden): added Static-Reading as a third recognized discipline within the existing Signal framework (Section 7), updated the Two-Discipline Cap language and Terminology Reference accordingly, and added The Salvage Line as a new faction (Section 16) alongside Authority, Ward Division, and the Reassembly.`
 `[v1.2 — 2026-07-10] Major Canon Update to Section 1 (Universe Overview), per Founder Directive ("Canon Consolidation — Phase 1A & Phase 1B," finalized by "Production Bible Compilation — Phase 1B"). Resolved the conflict flagged twice previously (once with three explicit options offered, once in the Phase 1A Production Bible's own "not yet resolved" section) between this section's prior claim that the megacity was the literal totality of the universe ("not a scattered multiverse, not seven kingdoms, one place") and the newly introduced interplanetary USCN civilization spanning Earth, Mars, and the Moon. Applied given three consecutive Founder directives building on the interplanetary framework without retracting it, per the latest directive's own "only request clarification if an actual contradiction is discovered" instruction. Resolution: the megacity remains Kael's entire Season One story setting, and the Authority System's total, unremovable local control over it (System Rule 2) is completely unchanged -- what changes is the universe's stated outer scope, not the story or Authority's power within it. "Not a scattered multiverse, not seven kingdoms, one place" is now explicitly scoped to the story's grounding rather than the universe's total size. Full Universe Framework detail lives in the new companion document, not duplicated here. No other Locked section altered.`
+`[v1.3 — 2026-07-10] Major Canon Update to Section 6 (Ward Division), per Founder Approval Directive ("Phase 1B.3 — Ward Division Reconciliation Final Lock"), applying the edit that had been drafted-but-held in `bible/Fracture_Protocol_Phase1B3_Production_Bible_v1.0.md` Section 8 pending this confirmation. Resolves the contradiction flagged in that document's Audit Findings between the Locked Authority-origin containment definition and the submitted Helldiver-affiliated redefinition: resolved by evolution, not replacement. The Ward Division's original Authority-origin containment/monitoring mission (unaltered) expanded over time into civilization preservation; it remains connected to the Authority while separately maintaining an operational partnership with the Light 98th Contubernium — a distinct organization, not an absorption into one. Scope remains primarily local, expandable Solar-System-wide only when authorized. Rank progression note added: Vanguard Commander is confirmed as a later-earned title beyond the existing four-rank ladder, not Kael's Season One starting position (Cadet, unchanged). Terminology Reference (Section 13) updated to match. Full detail remains in Phase 1B.3 Section 8; this section stays the concise canonical definition per this document's own scope.`
