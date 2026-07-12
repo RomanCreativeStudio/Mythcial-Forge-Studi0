@@ -2,7 +2,7 @@
 ## Character & Faction Framework — Organization & Ideology Foundation Entries
 
 **Classification:** Internal — Canon (Compiled — Pending Founder Lock)
-**Status:** Compiled 2026-07-12 per "Founder Directive — Phase 1C.5–1C.9 Canon Alignment & Enhancement Revision Pass," which explicitly scoped itself to Phase 1C.5 (Light 98th), 1C.6 (Ascendant Doctrine ideology), 1C.7 (Cassian — already compiled in the Character Bible, cross-referenced here), 1C.8 (Supporting Characters Thematic Framework), and 1C.9 (Mira — compiled in the Character Bible, cross-referenced here). **Updated 2026-07-12** per "Founder Directive — Phase 1C.10–1C.14 Canon Alignment & Enhancement," which added partial Light Order and Night Haven entries below — their internal culture, values, and relationships, all non-conflicting and integrated under that directive's Merge/Elevate framework. **One item from both factions is deliberately held out, not silently decided:** whether Light Order and Night Haven are being redefined from Locked flagship rivals (Phase 1A §4) into allies against the Ascendant Doctrine — flagged directly to the Founder rather than inferred from a generic framework example; see each entry's own "Held Pending Decision" note below and the Character Bible's v1.6 changelog. Held at **Compiled — Pending Founder Lock**, consistent with every other document in this project without explicit "Approved Canon / Effective Immediately" language.
+**Status:** Compiled 2026-07-12 per "Founder Directive — Phase 1C.5–1C.9 Canon Alignment & Enhancement Revision Pass," which explicitly scoped itself to Phase 1C.5 (Light 98th), 1C.6 (Ascendant Doctrine ideology), 1C.7 (Cassian — already compiled in the Character Bible, cross-referenced here), 1C.8 (Supporting Characters Thematic Framework), and 1C.9 (Mira — compiled in the Character Bible, cross-referenced here). **Updated 2026-07-12** per "Founder Directive — Phase 1C.10–1C.14 Canon Alignment & Enhancement," which added partial Light Order and Night Haven entries below — their internal culture, values, and relationships, all non-conflicting and integrated under that directive's Merge/Elevate framework. **Resolved 2026-07-12** per "Founder Decision — Light Order / Night Haven / Ascendant Doctrine Relationship Update," delivered in direct response to the flag above: Light Order and Night Haven **remain enemies** — the Locked flagship conflict (Phase 1A §4) stands, not redefined into an alliance. Both factions independently oppose the Ascendant Doctrine as a shared third-force pressure, confirming the "independent third force" synthesis already compiled for the Doctrine. Both faction entries below are now complete, including a Founder-directed restatement of each faction's headline belief — logged plainly as an evolution from the original "technology vs. military strength" phrasing (Phase 1A §9–10), not a silent substitution; see each entry's own "Belief" section for the exact wording and reasoning. Held at **Compiled — Pending Founder Lock**, consistent with every other document in this project without explicit "Approved Canon / Effective Immediately" language.
 **Naming note:** companion to `bible/Fracture_Protocol_Phase1C_Character_Bible_v1.0.md` — that document covers people, this one covers organizations and ideologies, per the Vault's own recommendation when this material was first logged ("ready to compile into the faction's own Faction Bible entry").
 **Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` — this document expands on it and must never contradict it.
 **Companion documents:** `bible/Fracture_Protocol_Phase1B3_Production_Bible_v1.0.md` §6–8 (Locked Helldiver Corps/Light 98th/Ward Division structure), `bible/Fracture_Protocol_Phase1C_Character_Bible_v1.0.md` (Kael, the Guardian, Titan, Cassian, Mira — the people whose lives intersect the organizations below), `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` (source material: Phase 1C.5, 1C.6, 1C.8).
@@ -54,13 +54,19 @@ The Doctrine's critiques of the Guardian, the Light 98th, and Kael are consisten
 
 Its own moral boundaries are explicit: it would never act from personal power, revenge, or cruelty, and it would not accept the destruction of humanity's capacity for moral choice. Those limits are what separate the Doctrine's leadership from its more extreme members (see "Supporting Cast Framework," below) — followers willing to remove consent entirely go further than the Doctrine's own stated principles allow, which is coherent internal-faction conflict, not a contradiction of the Doctrine's own character.
 
-### Relationship to the Wider Conflict — Independent Third Force
+### Belief, Strengths, Weakness
 
-**Canon Alignment Decision (Category 2 — Unrefined Expansion), applied 2026-07-12:** three consecutive submissions describing the Ascendant Doctrine never once connected it to Night Haven, Light Order, the Reassembly, or the Authority System. That consistency, across three independent documents, is itself the answer: the Ascendant Doctrine is compiled here as a **genuinely independent third philosophical force** — not a splinter of Night Haven, not a Reassembly offshoot, not an Authority proxy — standing in its own direct philosophical triangle with the Guardian, the Light 98th, and Kael. This sharpens rather than dilutes the flagship Light Order/Night Haven conflict: the story now has two separate fault lines (technology vs. military strength on one axis; freedom vs. control on another) rather than one axis wearing three names. **This is a synthesis of consistent submitted material, not a new Founder proclamation** — logged as the compiled reading pending one direct confirmation, exactly as the Vault has recommended since the question was first raised.
+Its belief, stated plainly: *"Humanity survives only through control."* Cassian represents its extreme conclusion — *"Humanity cannot be trusted with its own future."* Its strengths are organization, efficiency, strategic calculation, and unified purpose — everything a faction built around control would need to actually function. Its weakness is the same shape as its strength: it preserves humanity by removing what makes humanity worth preserving.
+
+### Relationship to the Wider Conflict — Independent Third Force (Founder-Confirmed 2026-07-12)
+
+**Founder Decision, "Light Order / Night Haven / Ascendant Doctrine Relationship Update":** confirmed as an independent third force, exactly as the Category 2 synthesis below anticipated. The Ascendant Doctrine is not a splinter of Night Haven, not a Reassembly offshoot, not an Authority proxy. Both Light Order and Night Haven oppose it directly — Light Order because it sees the Doctrine as a corruption of responsibility; Night Haven because it sees the Doctrine as the destruction of freedom. Neither opposition is the flagship conflict; that remains Light Order vs. Night Haven. The Doctrine is the shared outside pressure that neither side wants to become, not a party to their own argument.
+
+*(Original synthesis, preserved for the record: three consecutive submissions describing the Ascendant Doctrine never once connected it to Night Haven, Light Order, the Reassembly, or the Authority System — logged 2026-07-12 as the most consistent reading pending confirmation. That confirmation has now been given directly, in full, above.)*
 
 ### The Central Conflict, Stated Plainly
 
-Not "good people versus evil people." Two different answers to the same question: what does humanity's survival actually require? The Light 98th's answer is that survival which costs your principles isn't survival worth having. The Doctrine's answer is that principles which cost your survival aren't principles worth keeping. Both sides believe they are protecting humanity. That's the conflict.
+Not "good people versus evil people." Three different, understandable answers to the same question: what does humanity need to survive? Light Order answered protection. Night Haven answered freedom. The Ascendant Doctrine answered control. The Light 98th's own version of this same conflict holds specifically against the Doctrine: survival which costs your principles isn't survival worth having, and principles which cost your survival aren't principles worth keeping. Every side in this conflict believes it is protecting humanity. That's the tragedy the story is actually about.
 
 ---
 
@@ -92,44 +98,81 @@ Characters not yet born into the conflict's founding grievances, whose job is to
 
 ## Light Order
 
-*Partial entry (2026-07-12). Locked baseline (Phase 1A §9): believes technology is the way to secure humanity's future; rivalry with Night Haven rooted in a formerly unified family alliance; one of the wealthy families acting as de facto political lobbyists (Phase 1B, Governance). This entry adds the internal culture and self-image its "v2" submission described — it does not redefine the organization's Locked belief, political character, or relationship to Night Haven. See "Held Pending Decision," below.*
+*Full entry (2026-07-12) — completed per "Founder Decision — Light Order / Night Haven / Ascendant Doctrine Relationship Update." Locked baseline preserved (Phase 1A §9, §4): one of two factions in the franchise's flagship conflict, rooted in a formerly unified family alliance, one of the wealthy families acting as de facto political lobbyists (Phase 1B, Governance).*
 
-### Internal Culture (Compiled — Merge)
+### Belief
 
-Whatever Light Order's outward political and technological role, its members are trained toward a sincerely-held guardian ethos: power exists to serve, never to rule; protection weighed against every civilian cost; a guardian-servant-teacher standard for anyone who rises in rank. This is compiled as **genuinely true of how the Order trains and sees itself** — not a contradiction of its Locked technology-forward, politically-influential character, but a second, coexisting layer. An institution's internal ideals and its actual structural power in society aren't required to match perfectly — and Light Order's own already-logged flaw ("mistakes technological capability for moral certainty... innovation without humility can become control") is exactly the gap between those two layers. That tension is compiled here as intentional characterization, not an error to fix.
+*"A civilization that cannot defend itself cannot remain free."* Humanity survives through protection, discipline, and responsibility — civilization requires guardians willing to make the difficult decisions others can't. **Note on evolution, stated plainly, not silently:** the Founder's final decision restates Light Order's headline belief in these terms rather than the original "technology is the way to secure humanity's future" (Phase 1A §9). Technology remains part of who they are — listed below as a strength, not dropped — but it's no longer the single defining axis distinguishing them from Night Haven. That axis is now protection-and-responsibility vs. freedom-and-choice. Logged as a Founder-directed refinement of the original belief statement, not a contradiction of it.
 
-### Connection to the Light 98th (Compiled — Clarify)
+### Strength & Weakness
 
-The Light 98th is one formation within the larger Light Order institution — the first submission to directly state this connection, resolving the open question from the Order's earliest Phase 1C material. This still needs eventual reconciliation with the Light 98th's own Locked structural definition as "one of the seven elite Helldiver formations" (Phase 1B.3 §7, which doesn't mention Light Order as a parent institution) — noted as a minor open item, not blocking.
+Strengths: military capability, strategic leadership, technological advancement, willingness to sacrifice for survival. Weakness, stated in their own terms: they risk believing that those who protect humanity should have greater authority over it — the same gap already logged for them ("mistakes technological capability for moral certainty... innovation without humility can become control"), now given its sharpest, most direct statement yet.
 
-### Held Pending Decision
+### Internal Culture
 
-Not compiled: Light Order's defining belief (technology secures humanity's future, Locked), its political/institutional character (Locked, "de facto lobbyists"), its family-alliance origin with Night Haven (Locked), and its relationship to Night Haven itself (rival, per the Locked flagship Core Conflict, Phase 1A §4). The "v2" submissions describe an institution with none of these — no technology belief, an explicit denial of any political character, no family origin, and an alliance with Night Haven against the Ascendant Doctrine instead. This is one decision, not several, and it's the same decision Night Haven's own entry below is waiting on: **is the Locked flagship rivalry being redefined into an alliance against a common antagonist, or does it stand?**
+Whatever Light Order's outward political and technological role, its members are trained toward a sincerely-held guardian ethos: power exists to serve, never to rule; protection weighed against every civilian cost; a guardian-servant-teacher standard for anyone who rises in rank. This is genuinely true of how the Order trains and sees itself — and it sits in real tension with the authority-risk weakness above, which is compiled as intentional characterization, not an error to fix.
+
+### Connection to the Light 98th
+
+The Light 98th is one formation within the larger Light Order institution — resolving the open question from the Order's earliest Phase 1C material. Still needs eventual reconciliation with the Light 98th's own Locked structural definition as "one of the seven elite Helldiver formations" (Phase 1B.3 §7, which doesn't mention Light Order as a parent institution) — a minor open item, not blocking.
+
+### Relationship to Night Haven — Enemies (Founder-Confirmed)
+
+**Status: enemies, not allies, not extensions of one another.** They compete politically, clash ideologically, fight indirectly and sometimes directly, and distrust each other's methods — each believing the other threatens humanity's future. They are not written as evil. They are competing, sincere answers to the same question. See "The Three-Way Conflict," below, for the full picture.
+
+### Relationship to the Ascendant Doctrine — Opposition (Founder-Confirmed)
+
+The Light Order sees the Ascendant Doctrine as a corruption of responsibility — proof of what protection becomes when it stops answering to the people it protects.
 
 ---
 
 ## Night Haven
 
-*Partial entry (2026-07-12). Locked baseline (Phase 1A §10): believes military strength and order are what truly preserve civilization, protecting law, order, and legacy; rivalry with Light Order rooted in the same family alliance. This entry adds cultural and relationship material from its "v2" submission that doesn't depend on the answer to the held question below.*
+*Full entry (2026-07-12) — completed per "Founder Decision — Light Order / Night Haven / Ascendant Doctrine Relationship Update." Locked baseline preserved (Phase 1A §10, §4): the other faction in the franchise's flagship conflict, rooted in the same family alliance as Light Order.*
 
-### What It Represents (Compiled — Elevate)
+### Belief
 
-Night Haven is not "just a location." It is compiled as **living proof that humanity is capable of building something better** — evidence, to everyone who encounters it, that cooperation and endurance aren't naive. This elevation holds true regardless of how the held question below resolves: even as a Locked rival to Light Order, Night Haven can stand as the thing worth protecting, the reason the wider conflict matters, rather than a combatant in it.
+*"A civilization that cannot choose its own future has already lost it."* Humanity survives through cooperation, independence, and choice — civilization cannot become better if it is constantly controlled by those who claim to protect it. **Note on evolution, stated plainly, not silently:** the Founder's final decision restates Night Haven's headline belief in these terms rather than the original "military strength and order are what truly preserve civilization" (Phase 1A §10). This is the more significant of the two factions' belief restatements — order/law/legacy has become freedom/cooperation/choice. Logged as a Founder-directed refinement of the original belief statement, made explicitly and directly in response to a direct question about this exact material, not inferred or silently applied.
 
-### Culture & Traditions (Compiled — Merge/Elevate)
+### Strength & Weakness
 
-Its values — choice, cooperation, knowledge as a shared responsibility, compassion, adaptation, memory — and its traditions (the Night of First Light, the Founders' Remembrance, the Open Table, the First Step Ceremony) are compiled as genuine Night Haven culture, independent of its wider political alignment. Its formative crisis is compiled under its own name, **the Nightfall Siege** — a defining moment when the settlement chose to resist a power-grab against its independence rather than trade freedom for protection — resolving a naming collision with the Guardian's own "First Fracture Crisis" (a different, civilizational-scale event; see the Guardian's entry, Character Bible) using a name the source material itself already supplied.
+Strengths: unity, innovation, diplomacy, cultural resilience. Weakness, stated in their own terms: they risk underestimating the dangers that exist beyond their ideals — the same vulnerability already implicit in their own already-logged fear of becoming "a place that protects humanity by separating itself from humanity," now given its sharpest statement yet.
 
-### Relationship with Titan and Kael (Compiled — Preserve/Merge)
+### What It Represents
 
-Night Haven respects Titan as one of humanity's greatest protectors but refuses to treat him as a perfect answer to every future problem — it reads his greatest mistake as carrying too much alone, directly consistent with, and reinforcing, his own already-compiled entry. It views Kael as standing between two possible futures — one where humanity grows, one where it's governed by fear — and sees its own people as the clearest reminder of what he's actually protecting. Neither relationship depends on the held question below.
+Night Haven is not "just a location." It is **living proof that humanity is capable of building something better** — evidence, to everyone who encounters it, that cooperation and endurance aren't naive.
 
-### Held Pending Decision
+### Culture & Traditions
 
-Not compiled: Night Haven's defining belief (military strength and order, Locked), its relationship to Light Order (rival, per the Locked flagship Core Conflict, Phase 1A §4), and its family-alliance origin. Same fork as Light Order's entry above, same open question, one answer needed for both.
+Its values — choice, cooperation, knowledge as a shared responsibility, compassion, adaptation, memory — and its traditions (the Night of First Light, the Founders' Remembrance, the Open Table, the First Step Ceremony) are genuine Night Haven culture. Its formative crisis is compiled under its own name, **the Nightfall Siege** — a defining moment when the settlement chose to resist a power-grab against its independence rather than trade freedom for protection — resolving a naming collision with the Guardian's own "First Fracture Crisis" (a different, civilizational-scale event; see the Guardian's entry, Character Bible) using a name the source material itself already supplied.
+
+### Relationship with Titan and Kael
+
+Night Haven respects Titan as one of humanity's greatest protectors but refuses to treat him as a perfect answer to every future problem — it reads his greatest mistake as carrying too much alone, directly consistent with, and reinforcing, his own already-compiled entry. It views Kael as standing between two possible futures — one where humanity grows, one where it's governed by fear — and sees its own people as the clearest reminder of what he's actually protecting.
+
+### Relationship to Light Order — Enemies (Founder-Confirmed)
+
+**Status: enemies, not allies, not extensions of one another.** Same relationship, same terms, as Light Order's own entry above — competing, sincere answers to the same question, not a battle between good and evil.
+
+### Relationship to the Ascendant Doctrine — Opposition (Founder-Confirmed)
+
+Night Haven sees the Ascendant Doctrine as the destruction of freedom — proof of what happens when survival is allowed to justify anything.
+
+---
+
+## The Three-Way Conflict
+
+*Founder-confirmed synthesis, 2026-07-12 — why the war exists, and why it isn't a story about humanity fighting one outside threat.*
+
+For generations, Light Order and Night Haven have fought over the same question: what does humanity need to survive? Light Order answered protection. Night Haven answered freedom. Both are right, and both are incomplete without the other — Light Order is correct that humanity needs protection; Night Haven is correct that humanity needs freedom. Neither has ever been willing to concede the other's point, because conceding it would mean admitting their own answer isn't sufficient alone.
+
+The Ascendant Doctrine answered differently: control. It is correct about exactly one thing — humanity is capable of destroying itself — and wrong about the conclusion it draws from that fact: that the weakness must be removed rather than healed. Both Light Order and Night Haven oppose it directly and for their own reasons (see each entry above), which is what makes it a shared pressure on both of them rather than a third party to their own argument.
+
+The current collapse of civilization isn't caused by one enemy. It's caused by three incompatible, sincerely-held visions of humanity's future colliding at once — which is why Kael's own position in this conflict (see his Character Bible entry, "His Place in the Three-Way Conflict") is not to defeat one side on behalf of another, but to prove that survival requires more than winning: it requires remembering why humanity is worth saving in the first place.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-12] Initial Phase 1C Faction Bible established per "Founder Directive — Phase 1C.5-1C.9 Canon Alignment & Enhancement Revision Pass," compiling Light 98th Unit Identity & Culture (1C.5, zero open items on submission), Ascendant Doctrine Ideology (1C.6, one open item resolved under this pass's Category 2 authority -- see "Relationship to the Wider Conflict" above), and the Supporting Cast Framework (1C.8, zero open items, no named characters). Light Order and Night Haven deliberately excluded -- out of scope for this directive, still carrying unresolved contradictions logged separately. Cross-referenced against the already-compiled Character Bible (Kael, the Guardian, Titan, Cassian, Mira) rather than duplicating their material. Held at "Compiled -- Pending Founder Lock."`
 `[v1.1 — 2026-07-12] Per "Founder Directive — Phase 1C.10-1C.14 Canon Alignment & Enhancement," added partial entries for Light Order and Night Haven -- their internal culture, values, traditions, and relationships with Titan/Kael, all integrated under that directive's Merge/Elevate framework without touching either faction's Locked defining belief, political character, or relationship to each other. Night Haven's "First Fracture Crisis" naming collision with the Guardian's own entry (Character Bible) resolved by adopting its own already-supplied name, the Nightfall Siege, for its formative crisis. One item deliberately held out of both entries and flagged directly rather than inferred: whether Light Order and Night Haven are being redefined from the Locked flagship rivals (Phase 1A SS4) into allies against the Ascendant Doctrine, which both "v2" submissions assume but which the Founder directive itself only illustrates generically rather than explicitly confirms. Both factions' "Held Pending Decision" notes point to the same single question -- one answer resolves both. Full Canon Alignment Review delivered in conversation the same day. Held at "Compiled -- Pending Founder Lock."`
+`[v1.2 — 2026-07-12] Founder answered the held question directly via "Founder Decision — Light Order / Night Haven / Ascendant Doctrine Relationship Update." Light Order and Night Haven confirmed as enemies -- the Locked flagship conflict (Phase 1A SS4) stands unchanged, not redefined into an alliance. Both factions independently oppose the Ascendant Doctrine, confirming (not merely synthesizing) its status as an independent third force -- that section upgraded from "synthesis pending confirmation" to Founder-confirmed. Both faction entries completed in full: belief statements, strengths/weaknesses, internal culture, and explicit "Enemies" and "Opposition" relationship sections. One evolution logged plainly rather than silently applied: the Founder's final decision restates each faction's headline belief in new terms (Light Order: protection/discipline/responsibility; Night Haven: cooperation/independence/choice) rather than the original "technology vs. military strength" phrasing (Phase 1A SS9-10) -- technology and military capability remain listed as Light Order's strengths, not dropped, but the axis distinguishing the two factions has shifted from means (technology vs. military) to philosophy (protection vs. freedom). Logged as a direct, explicit Founder-directed refinement, not inferred. Added a new "The Three-Way Conflict" section synthesizing why the war exists and cross-referencing Kael's own narrative role, compiled in the Character Bible (v1.7). Held at "Compiled -- Pending Founder Lock."`
