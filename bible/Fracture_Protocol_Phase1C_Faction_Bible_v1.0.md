@@ -2,7 +2,7 @@
 ## Character & Faction Framework — Organization & Ideology Foundation Entries
 
 **Classification:** Internal — Canon (Compiled — Pending Founder Lock)
-**Status:** Compiled 2026-07-12 per "Founder Directive — Phase 1C.5–1C.9 Canon Alignment & Enhancement Revision Pass," which explicitly scoped itself to Phase 1C.5 (Light 98th), 1C.6 (Ascendant Doctrine ideology), 1C.7 (Cassian — already compiled in the Character Bible, cross-referenced here), 1C.8 (Supporting Characters Thematic Framework), and 1C.9 (Mira — compiled in the Character Bible, cross-referenced here). Light Order and Night Haven are deliberately **not** included in this document — their own Phase 1C material (Proposal Vault entries 1C.11/1C.14/1C.15/1C.16) still carries genuine, unresolved contradictions with Locked canon and with each other, flagged separately and out of scope for this pass. Held at **Compiled — Pending Founder Lock**, consistent with every other document in this project without explicit "Approved Canon / Effective Immediately" language.
+**Status:** Compiled 2026-07-12 per "Founder Directive — Phase 1C.5–1C.9 Canon Alignment & Enhancement Revision Pass," which explicitly scoped itself to Phase 1C.5 (Light 98th), 1C.6 (Ascendant Doctrine ideology), 1C.7 (Cassian — already compiled in the Character Bible, cross-referenced here), 1C.8 (Supporting Characters Thematic Framework), and 1C.9 (Mira — compiled in the Character Bible, cross-referenced here). **Updated 2026-07-12** per "Founder Directive — Phase 1C.10–1C.14 Canon Alignment & Enhancement," which added partial Light Order and Night Haven entries below — their internal culture, values, and relationships, all non-conflicting and integrated under that directive's Merge/Elevate framework. **One item from both factions is deliberately held out, not silently decided:** whether Light Order and Night Haven are being redefined from Locked flagship rivals (Phase 1A §4) into allies against the Ascendant Doctrine — flagged directly to the Founder rather than inferred from a generic framework example; see each entry's own "Held Pending Decision" note below and the Character Bible's v1.6 changelog. Held at **Compiled — Pending Founder Lock**, consistent with every other document in this project without explicit "Approved Canon / Effective Immediately" language.
 **Naming note:** companion to `bible/Fracture_Protocol_Phase1C_Character_Bible_v1.0.md` — that document covers people, this one covers organizations and ideologies, per the Vault's own recommendation when this material was first logged ("ready to compile into the faction's own Faction Bible entry").
 **Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` — this document expands on it and must never contradict it.
 **Companion documents:** `bible/Fracture_Protocol_Phase1B3_Production_Bible_v1.0.md` §6–8 (Locked Helldiver Corps/Light 98th/Ward Division structure), `bible/Fracture_Protocol_Phase1C_Character_Bible_v1.0.md` (Kael, the Guardian, Titan, Cassian, Mira — the people whose lives intersect the organizations below), `bible/Fracture_Protocol_Proposal_Vault_v1.0.md` (source material: Phase 1C.5, 1C.6, 1C.8).
@@ -90,5 +90,46 @@ Characters not yet born into the conflict's founding grievances, whose job is to
 
 ---
 
+## Light Order
+
+*Partial entry (2026-07-12). Locked baseline (Phase 1A §9): believes technology is the way to secure humanity's future; rivalry with Night Haven rooted in a formerly unified family alliance; one of the wealthy families acting as de facto political lobbyists (Phase 1B, Governance). This entry adds the internal culture and self-image its "v2" submission described — it does not redefine the organization's Locked belief, political character, or relationship to Night Haven. See "Held Pending Decision," below.*
+
+### Internal Culture (Compiled — Merge)
+
+Whatever Light Order's outward political and technological role, its members are trained toward a sincerely-held guardian ethos: power exists to serve, never to rule; protection weighed against every civilian cost; a guardian-servant-teacher standard for anyone who rises in rank. This is compiled as **genuinely true of how the Order trains and sees itself** — not a contradiction of its Locked technology-forward, politically-influential character, but a second, coexisting layer. An institution's internal ideals and its actual structural power in society aren't required to match perfectly — and Light Order's own already-logged flaw ("mistakes technological capability for moral certainty... innovation without humility can become control") is exactly the gap between those two layers. That tension is compiled here as intentional characterization, not an error to fix.
+
+### Connection to the Light 98th (Compiled — Clarify)
+
+The Light 98th is one formation within the larger Light Order institution — the first submission to directly state this connection, resolving the open question from the Order's earliest Phase 1C material. This still needs eventual reconciliation with the Light 98th's own Locked structural definition as "one of the seven elite Helldiver formations" (Phase 1B.3 §7, which doesn't mention Light Order as a parent institution) — noted as a minor open item, not blocking.
+
+### Held Pending Decision
+
+Not compiled: Light Order's defining belief (technology secures humanity's future, Locked), its political/institutional character (Locked, "de facto lobbyists"), its family-alliance origin with Night Haven (Locked), and its relationship to Night Haven itself (rival, per the Locked flagship Core Conflict, Phase 1A §4). The "v2" submissions describe an institution with none of these — no technology belief, an explicit denial of any political character, no family origin, and an alliance with Night Haven against the Ascendant Doctrine instead. This is one decision, not several, and it's the same decision Night Haven's own entry below is waiting on: **is the Locked flagship rivalry being redefined into an alliance against a common antagonist, or does it stand?**
+
+---
+
+## Night Haven
+
+*Partial entry (2026-07-12). Locked baseline (Phase 1A §10): believes military strength and order are what truly preserve civilization, protecting law, order, and legacy; rivalry with Light Order rooted in the same family alliance. This entry adds cultural and relationship material from its "v2" submission that doesn't depend on the answer to the held question below.*
+
+### What It Represents (Compiled — Elevate)
+
+Night Haven is not "just a location." It is compiled as **living proof that humanity is capable of building something better** — evidence, to everyone who encounters it, that cooperation and endurance aren't naive. This elevation holds true regardless of how the held question below resolves: even as a Locked rival to Light Order, Night Haven can stand as the thing worth protecting, the reason the wider conflict matters, rather than a combatant in it.
+
+### Culture & Traditions (Compiled — Merge/Elevate)
+
+Its values — choice, cooperation, knowledge as a shared responsibility, compassion, adaptation, memory — and its traditions (the Night of First Light, the Founders' Remembrance, the Open Table, the First Step Ceremony) are compiled as genuine Night Haven culture, independent of its wider political alignment. Its formative crisis is compiled under its own name, **the Nightfall Siege** — a defining moment when the settlement chose to resist a power-grab against its independence rather than trade freedom for protection — resolving a naming collision with the Guardian's own "First Fracture Crisis" (a different, civilizational-scale event; see the Guardian's entry, Character Bible) using a name the source material itself already supplied.
+
+### Relationship with Titan and Kael (Compiled — Preserve/Merge)
+
+Night Haven respects Titan as one of humanity's greatest protectors but refuses to treat him as a perfect answer to every future problem — it reads his greatest mistake as carrying too much alone, directly consistent with, and reinforcing, his own already-compiled entry. It views Kael as standing between two possible futures — one where humanity grows, one where it's governed by fear — and sees its own people as the clearest reminder of what he's actually protecting. Neither relationship depends on the held question below.
+
+### Held Pending Decision
+
+Not compiled: Night Haven's defining belief (military strength and order, Locked), its relationship to Light Order (rival, per the Locked flagship Core Conflict, Phase 1A §4), and its family-alliance origin. Same fork as Light Order's entry above, same open question, one answer needed for both.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-12] Initial Phase 1C Faction Bible established per "Founder Directive — Phase 1C.5-1C.9 Canon Alignment & Enhancement Revision Pass," compiling Light 98th Unit Identity & Culture (1C.5, zero open items on submission), Ascendant Doctrine Ideology (1C.6, one open item resolved under this pass's Category 2 authority -- see "Relationship to the Wider Conflict" above), and the Supporting Cast Framework (1C.8, zero open items, no named characters). Light Order and Night Haven deliberately excluded -- out of scope for this directive, still carrying unresolved contradictions logged separately. Cross-referenced against the already-compiled Character Bible (Kael, the Guardian, Titan, Cassian, Mira) rather than duplicating their material. Held at "Compiled -- Pending Founder Lock."`
+`[v1.1 — 2026-07-12] Per "Founder Directive — Phase 1C.10-1C.14 Canon Alignment & Enhancement," added partial entries for Light Order and Night Haven -- their internal culture, values, traditions, and relationships with Titan/Kael, all integrated under that directive's Merge/Elevate framework without touching either faction's Locked defining belief, political character, or relationship to each other. Night Haven's "First Fracture Crisis" naming collision with the Guardian's own entry (Character Bible) resolved by adopting its own already-supplied name, the Nightfall Siege, for its formative crisis. One item deliberately held out of both entries and flagged directly rather than inferred: whether Light Order and Night Haven are being redefined from the Locked flagship rivals (Phase 1A SS4) into allies against the Ascendant Doctrine, which both "v2" submissions assume but which the Founder directive itself only illustrates generically rather than explicitly confirms. Both factions' "Held Pending Decision" notes point to the same single question -- one answer resolves both. Full Canon Alignment Review delivered in conversation the same day. Held at "Compiled -- Pending Founder Lock."`
