@@ -21,7 +21,7 @@
 **Alignment:** Independent Protector
 **Current Affiliation:** Light 98th Contubernium
 **Operational Association:** Ward Division
-**Political Connection:** *Held, not compiled — see "Not Applied," below.*
+**Political Connection:** None — resolved 2026-07-12, "Founder Decision — Kael Aurelian Veyr Political Connection," Option A. See Section 2.
 
 ---
 
@@ -48,6 +48,8 @@
 **Authority Classification:** Citizen with recognized civilian identity records. Kael is not born into Authority leadership — his importance comes from his choices, his actions, his connection to the Light 98th, and his relationship to Titan's legacy, not from any inherited status.
 
 **Political Status:** Not a political authority. He does not begin as a commander, a ruler, or a symbol. He begins as a person attempting to earn the right to carry responsibility.
+
+**Political Connection: None (Founder Decision, Option A, 2026-07-12).** Kael is not part of a Light Order legacy family and inherits no political influence, institutional authority, or historical status through his family — the field previously held pending clarification is now resolved. His influence comes from service, leadership, actions, and trust, not ancestry. He is connected to Light Order only through his Light 98th service and shared purpose — the same indirect connection already established for the unit itself (Faction Bible, "Connection to the Light 98th"), not through his own bloodline. **Locked Character Principle:** Kael's importance does not come from where he was born, who his family was, or what organizations recognize him. It comes from what he chooses to become.
 
 ---
 
@@ -90,13 +92,13 @@ Intentionally left open — Signal abilities need to align with Phase 1B.3 Techn
 
 **Fracture Anomaly Status:** Confirmed — **fracture anomaly subject**, the sole core/main fracture anomaly subject in this franchise (World Bible §5; Master Prompt System Rule 4). *(Corrected from the submitted "Not a Fracture anomaly," which directly reversed this Absolute-tier Locked fact — see "Not Applied," below.)*
 
-**Relationship with Fractures:** His classification is not his identity. He is defined by his response to being a fracture anomaly subject, not reduced to it — his significance comes from choice, not destiny, the same standard held throughout his own Character Bible entry.
+**Relationship with Fractures:** His classification is not his identity. He is defined by his response to being a fracture anomaly subject, not reduced to it — his significance comes from choice, not destiny, the same standard held throughout his own Character Bible entry. Kael is not important because he possesses a unique connection to the Fractures; he is important because he must decide what that power means. The anomaly creates the question. Kael's choices create the answer.
 
 ---
 
 ### Section 7 — Originality Verification
 
-**Originality Check:** PASS. Differentiated through: a protector protagonist rather than a conqueror; a hero whose greatest battle is moral responsibility; a character who rejects both extremes — control without freedom, and freedom without responsibility. His story question: can humanity be protected without humanity losing itself?
+**Originality Check:** PASS. Differentiated through: a protector protagonist rather than a conqueror; a chosen responsibility instead of inherited destiny; a hero who questions power instead of seeking it. His defining question: *"If I have the power to protect humanity, how do I make sure I never stop seeing humanity?"* (Refined 2026-07-12; the earlier framing — "can humanity be protected without humanity losing itself?" — remains compatible and is preserved as a companion question, not replaced.)
 
 ---
 
@@ -117,7 +119,14 @@ Intentionally left open — Signal abilities need to align with Phase 1B.3 Techn
 ⚠️ Signal discipline
 ⚠️ Signal limitations
 
-**Kael Production Alignment Status:** 🟡 Character aligned · 🟡 Awaiting Signal system assignment · 🟢 Ready for final integration, pending the items below.
+**Kael Production Alignment Status (updated 2026-07-12):**
+🟢 Identity Complete
+🟢 Authority Alignment Complete
+🟢 Military Alignment Complete
+🟢 Character Engine Complete
+🟢 Fracture Classification Complete
+🟢 Originality Check Complete
+🟡 Signal Profile remains intentionally pending — the only open item, deliberately deferred, not blocking.
 
 ---
 
@@ -128,11 +137,12 @@ Two fields were corrected, not transcribed as submitted:
 - **"Fracture Anomaly Status: Not a Fracture anomaly"** — this reverses System Rule 4 and World Bible §5, the single most foundational fact about Kael's character in the entire franchise, and directly contradicts this same document's own Section 1 ("Breach orphan origin"). Read as a drafting error rather than an intended reversal, since nothing else in this submission argues for or acknowledges such a fundamental change. Corrected to the already-Locked classification; the thematic point underneath it ("defined by response, not by classification") was preserved, since it's a good point and doesn't depend on the field being wrong.
 - **"Military Classification: Helldiver Candidate"** — the same framing excluded four times previously this session (Phase 1C.2's original submission, Titan's "Helldiver training system" detail, the "Rule 3" alignment-principle flag, and now here) because it conflicts with the Final-Locked Cadet-of-Ward-Division starting rank (Phase 1B.3 §8). Corrected to "Cadet, Ward Division," consistent with the rest of this same document's own Classification header, which already separately lists "Operational Association: Ward Division."
 
-One field held, not written in either direction:
+One field was held pending clarification and has since been resolved:
 
-- **"Political Connection: Light Order Legacy Line"** — new; nothing previously compiled ties Kael's own family to Light Order specifically, and it sits close to softening the deliberately-built "Kael comes from nothing, Cassian comes from everything" contrast (Character Bible, Cassian's "Contrast with Kael"). Not accepted, not rejected — flagged for one direct answer before it's written in either way.
+- **"Political Connection: Light Order Legacy Line"** — resolved 2026-07-12 via "Founder Decision — Kael Aurelian Veyr Political Connection": **Option A, no connection.** Confirmed as the correct call — it preserves rather than softens the "Kael comes from nothing, Cassian comes from everything" contrast (Character Bible, Cassian's "Contrast with Kael"). See Section 2 above and "Legacy Framework" (Character Bible) for the finalized contrast across all four core characters.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-12] Established per "Founder Decision — Phase 1C Production Alignment Rule" (Option B: character-class-appropriate interpretation of World Bible §14's Character Creation Rules checklist), resolving the outstanding production-readiness item from the prior Canon Audit. First entry: Kael Aurelian Veyr, full production alignment per the Human/Authority-connected tier. Two submitted field values corrected rather than transcribed -- "Fracture Anomaly Status: Not a Fracture anomaly" (reverses Master Prompt System Rule 4 / World Bible §5, read as a drafting error) and "Military Classification: Helldiver Candidate" (the same already-excluded framing flagged four times this session, conflicting with the Final-Locked Cadet-of-Ward-Division starting rank, Phase 1B.3 §8) -- both flagged explicitly under "Not Applied" rather than silently written in or silently dropped. One field held pending clarification: "Political Connection: Light Order Legacy Line," new material in tension with the already-compiled Kael/Cassian origin contrast. Signal affinity, discipline, and limitations left Pending Canon Assignment, consistent with the submission's own stated intent. Held at "Compiled -- Pending Founder Lock."`
+`[v1.1 — 2026-07-12] Per "Founder Decision — Kael Aurelian Veyr Political Connection," resolved the one item held from v1.0: **Option A, no Light Order bloodline connection**, confirmed as the correct call since it preserves rather than softens the already-compiled Kael/Cassian "nothing vs. everything" contrast. Political Connection field updated to "None," with the Locked Character Principle stated directly: Kael's importance comes from what he chooses to become, not where he was born, who his family was, or what organizations recognize him -- he is connected to Light Order only through Light 98th service and shared purpose, not ancestry. Fracture Classification and Military Alignment fields reconfirmed unchanged (both already matched the corrections applied in v1.0). Originality Verification's defining question refined, with the earlier version preserved as a compatible companion question, not replaced. Production Alignment Status updated to all-green except Signal Profile, which remains intentionally, non-blockingly pending. A new companion "Legacy Framework" section (Kael: earned; Cassian: imposed; Titan: larger than himself; the Guardian: remembered through restraint) compiled into the Character Bible (v1.9) -- see that document. Held at "Compiled -- Pending Founder Lock."`
