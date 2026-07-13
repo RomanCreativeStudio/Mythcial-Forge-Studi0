@@ -8,6 +8,7 @@
 **Naming note:** companion to `bible/Fracture_Protocol_Phase1C_Character_Bible_v1.0.md` (identity, philosophy, relationships) and `bible/Fracture_Protocol_Phase1C_Faction_Bible_v1.0.md` (organizations). This document exists specifically to satisfy World Bible §14's own checklist, field by field, per character — it doesn't restate the Character Bible's prose, it cross-references it.
 **Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` — this document expands on it and must never contradict it.
 **Compilation method:** consolidates Founder-provided answers. Two fields in Kael's entry were corrected rather than transcribed as submitted; one item in Cassian's entry is held pending Founder confirmation rather than applied as submitted. All flagged explicitly rather than silently applied — see each entry's own notes. No new lore invented beyond what's already Locked or compiled elsewhere; proposed content for genuine gaps is marked as proposed, not settled.
+**Signal Profile Deferral Lock (2026-07-13):** per "Founder Directive — Phase 1C Signal Profile Deferral Lock v1.0," every Signal Alignment field below (Kael, Cassian, Titan, Mira) is **intentionally deferred, not incomplete** — a deliberate production decision to develop the Signal System as a complete framework before individual assignments are finalized, not a gap in character development. This does not amend World Bible §14's own checklist text (still Locked, still requires a Signal-affinity assignment "at minimum"); it's a Founder-authorized exception to *when* that requirement is met for these four characters, paired with its own Future Integration Rule: Signal Profiles must be assigned through a dedicated Canon Alignment Pass once the Signal System Development Phase begins, evaluating thematic compatibility, character philosophy, narrative purpose, mechanical balance, and relationship to the Fracture System. All four character entries are certified production-ready without Signal assignments; this is no longer an open Founder Lock Audit item.
 
 ---
 
@@ -65,12 +66,12 @@
 
 ### Section 4 — Signal Alignment
 
-**Signal Affinity:** Pending Canon Assignment
-**Signal Discipline:** Pending Canon Assignment
-**Strength Classification:** Pending Canon Assignment
-**Limitations:** Pending Canon Assignment
+**Signal Affinity:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
+**Signal Discipline:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
+**Strength Classification:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
+**Limitations:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
 
-Intentionally left open — Signal abilities need to align with Phase 1B.3 Technology & Military rules, the Fracture system rules (World Bible §7, the Two-Discipline Cap), and Kael's final combat philosophy before being assigned. Not invented here.
+**Deferred, not incomplete** — per "Founder Directive — Phase 1C Signal Profile Deferral Lock v1.0" (see this document's own header note). Signal abilities need to align with Phase 1B.3 Technology & Military rules, the Fracture system rules (World Bible §7, the Two-Discipline Cap), and Kael's final combat philosophy — assigned through a dedicated Canon Alignment Pass once the Signal System Development Phase begins, not invented here. No longer an open Founder Lock Audit item.
 
 ---
 
@@ -126,7 +127,7 @@ Intentionally left open — Signal abilities need to align with Phase 1B.3 Techn
 🟢 Character Engine Complete
 🟢 Fracture Classification Complete
 🟢 Originality Check Complete
-🟡 Signal Profile remains intentionally pending — the only open item, deliberately deferred, not blocking.
+🟢 Signal Profile — **Intentionally Deferred (Founder Lock Statement, 2026-07-13)**, no longer an open item; see this document's header note.
 
 ---
 
@@ -209,12 +210,12 @@ One field was held pending clarification and has since been resolved:
 
 ### Section 4 — Signal Alignment
 
-**Signal Affinity:** Pending Canon Assignment
-**Signal Discipline:** Pending Canon Assignment
-**Strength Classification:** Pending Canon Assignment
-**Limitations:** Pending Canon Assignment
+**Signal Affinity:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
+**Signal Discipline:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
+**Strength Classification:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
+**Limitations:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
 
-Left open on the same basis as Kael's Section 4 — deferred to the same future final Signal pass across all characters, not invented here.
+**Deferred, not incomplete** — same basis as Kael's Section 4, per "Founder Directive — Phase 1C Signal Profile Deferral Lock v1.0." No longer an open Founder Lock Audit item.
 
 ---
 
@@ -267,7 +268,7 @@ Left open on the same basis as Kael's Section 4 — deferred to the same future 
 🟢 Identity Alignment — Age still an unconfirmed proposal; see "Not Applied," below
 🟢 Authority Identity Status Complete
 🟢 Institutional/Ideological Alignment Complete — Operational Structure and Night Haven relationship now resolved
-🟡 Signal Profile intentionally pending, same as Kael
+🟢 Signal Profile — **Intentionally Deferred (Founder Lock Statement, 2026-07-13)**, same as Kael, no longer an open item
 🟢 Character Engine — formalized from existing text, pending confirmation of exact field wording
 🟢 Fracture Classification Complete
 🟢 Originality Check — proposed defining question pending confirmation
@@ -361,12 +362,12 @@ Cross-reference only — already Locked and unchanged. Character Bible, "Legacy 
 
 ### Section 6 — Signal Alignment
 
-**Signal Affinity:** Pending Canon Assignment
-**Signal Discipline:** Pending Canon Assignment
-**Strength Classification:** Pending Canon Assignment
-**Limitations:** Pending Canon Assignment
+**Signal Affinity:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
+**Signal Discipline:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
+**Strength Classification:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
+**Limitations:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
 
-Deferred on the same basis as Kael's and Cassian's Signal fields — the same future final Signal pass across all characters, not invented here.
+**Deferred, not incomplete** — same basis as Kael's and Cassian's Signal fields, per "Founder Directive — Phase 1C Signal Profile Deferral Lock v1.0." No longer an open Founder Lock Audit item.
 
 ---
 
@@ -410,7 +411,7 @@ Deferred on the same basis as Kael's and Cassian's Signal fields — the same fu
 🟢 Character Engine Complete
 🟢 Relationship Alignment Complete (Kael cross-referenced, Cassian newly compiled)
 🟢 Legacy Framework Complete (cross-reference only)
-🟡 Signal Profile intentionally pending, same as Kael and Cassian
+🟢 Signal Profile — **Intentionally Deferred (Founder Lock Statement, 2026-07-13)**, same as Kael and Cassian, no longer an open item
 🟢 Fracture Classification Complete
 🟢 Originality Check Complete
 
@@ -681,12 +682,12 @@ Completing the Guardian's Production Alignment closes the loop on all four core 
 
 *(Required by this document's own two-tier framework for the Human/Authority-connected tier — not part of the directive's own field list, included here for completeness.)*
 
-**Signal Affinity:** Pending Canon Assignment
-**Signal Discipline:** Pending Canon Assignment
-**Strength Classification:** Pending Canon Assignment
-**Limitations:** Pending Canon Assignment
+**Signal Affinity:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
+**Signal Discipline:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
+**Strength Classification:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
+**Limitations:** Intentionally Deferred (Founder Lock Statement, 2026-07-13)
 
-Deferred on the same basis as Kael's, Cassian's, and Titan's Signal fields — the same future final Signal pass, not invented here.
+**Deferred, not incomplete** — same basis as Kael's, Cassian's, and Titan's Signal fields, per "Founder Directive — Phase 1C Signal Profile Deferral Lock v1.0." No longer an open Founder Lock Audit item.
 
 ---
 
@@ -730,7 +731,7 @@ Deferred on the same basis as Kael's, Cassian's, and Titan's Signal fields — t
 🟢 Character Engine Complete
 🟢 Relationship Alignment Complete (Kael cross-referenced; Titan expanded; Cassian, Guardian, Light 98th newly compiled)
 🟢 Legacy Complete
-🟡 Signal Profile intentionally pending, same as Kael, Cassian, Titan
+🟢 Signal Profile — **Intentionally Deferred (Founder Lock Statement, 2026-07-13)**, same as Kael, Cassian, and Titan, no longer an open item
 🟢 Fracture Classification Complete
 🟢 Originality Check Complete
 
@@ -766,3 +767,4 @@ Completing Mira's Production Alignment finishes the full cast this framework was
 `[v1.6 — 2026-07-13] Fourth entry added: The Guardian (Character Entry 004), per "Founder Directive -- Phase 1C Production Alignment, Character Entry 004, The Guardian," using the adapted alignment tier (entity classification, origin status, affiliations, power classification, narrative function, limitations, originality verification) this framework was originally written for. Every field formalizes already-Locked or already-compiled text -- no new mythology, no origin revealed, per the directive's own instruction. Identity Classification resolved as Ancient Intelligence, citing the already-Locked Phase 1A SS7 text directly rather than synthesizing a new label; distinguished from the still-open origin/creator mystery (AEGIS-O / Pre-Expansion Human Coalition, legend not fact), which stays exactly as unresolved as before. Operational Status resolved as Limited Intervention. Internal Conflict, Cost Already Paid, Greatest Strength/Weakness, Legacy, and Originality Verification all formalized directly from the Character Bible's existing prose. **One terminology precision flagged, not silently substituted:** the directive's own "Existing Locked Canon" list restates the Guardian's interpretation as "Protection Through Restraint" -- the actual Locked label (Faction Bible, "The Five Interpretations of Protection") is **Protection Through Wisdom**, with restraint already described as its internal mechanism, not a separate name. This document uses the correct existing label throughout rather than introducing a second name for the same interpretation; no Faction Bible edit needed, since the substance was never in question, only the label. The Guardian's entry is the first in this document to close with zero deferred fields -- no Signal Profile applies to a non-human entity under the adapted tier. Held at "Compiled -- Pending Founder Lock."`
 `[v1.7 — 2026-07-13] Fifth entry added: Mira Solenne Valeris (Character Entry 005), per "Founder Directive -- Phase 1C Production Alignment, Character Entry 005, Mira," full production alignment per the Human/Authority-connected tier. **One field corrected, not transcribed as submitted:** the directive's own "Existing Locked Canon" list states "Mira is a member of the Light 98th," which does not match the actual compiled text -- Character Bible, "Relationship with Titan's Legacy," explicitly states she is "not a soldier under his command, but someone whose work intersected his," a distinction deliberately written to keep her civilian identity separate from the unit's military structure. Read as an imprecise restatement rather than an intended reversal; Section 2 reframed as "Civilian & Institutional Classification" rather than "Military Classification," with no rank, unit, or chain of command assigned. **One item accepted as new content, flagged rather than silently presented as previously Locked:** the directive's claim that "Titan's inability to reach her in time permanently affected both of them" is genuinely new material -- only her general displacement tragedy and general Light 98th connection were previously compiled. Non-contradictory (Titan, as second-in-command, is a plausible part of the unit that arrived late) and directly requested, so accepted and compiled bidirectionally into the Character Bible (v1.12: Titan gained "Relationship with Mira"; Mira's own "Relationship with Titan's Legacy" expanded), explicitly labeled as new rather than blended in as pre-existing fact, and explicitly not compiled as the cause of Titan's own already-resolved death. New relationships compiled for Cassian (thematic, not personal), the Guardian (proposed), and the Light 98th (complicated, ongoing). New Legacy field (history's likely flattening vs. her own hoped-for memory). Genuine gaps proposed rather than asserted as settled: Age (20), Current Residence (megacity), Authority Registration Status (civilian citizen) -- all flagged. Full Founder Reflection delivered per the directive's own required format. Held at "Compiled -- Pending Founder Lock."`
 `[v1.8 — 2026-07-13] Per "Founder Directive -- Phase 1C Final Certification Patch 1," implementing the first, highest-priority patch from the Founder Lock Audit. **Required Patch A:** added Titan's missing Character Engine field, Cost Already Paid -- his home on Mars left in his late teens, the version of himself that could ask for help (buried under his own "burden alone" flaw), being fully known rather than merely remembered (the man beneath the myth), and ultimately his life at 23 -- derived entirely from already-compiled canon, no new history invented. Titan's Production Notes checklist updated to reflect the completed field. **Required Patch B:** reciprocal "Kael & Cassian" added to the Character Bible's Relationship Dynamics (v1.13) -- documented here as a cross-reference, not restated. **Required Patch C:** Cassian's held Legacy Framework item, open since the Cassian Final Alignment Patch, is now **resolved** -- the Founder's finalized three-step framework ("Inherited Legacy -> Chose to Reshape It -> Imposed It Upon Civilization") confirms, rather than overrides, the standing "inherited, then imposed" recommendation. Cassian's Production Notes status updated from held to complete; the "Not Applied" section restructured to show it resolved. Verified: no contradictions introduced against Phase 1A, 1B, or any Phase 1C material; Cassian's Age at Story Beginning remains the one item still open from that entry, untouched by this patch since it wasn't in scope. Held at "Compiled -- Pending Founder Lock."`
+`[v1.9 — 2026-07-13] Per "Founder Directive -- Phase 1C Signal Profile Deferral Lock v1.0," formally resolved the Signal Profile audit item for all four full-tier characters. Kael, Cassian, Titan, and Mira's Signal Alignment fields (affinity, discipline, strength classification, limitations) reclassified from informal "Pending Canon Assignment" to formal **Intentionally Deferred (Founder Lock Statement)** status -- a deliberate production decision to develop the Signal System as a complete framework before individual assignments are finalized, explicitly not a gap in character development. New header note added establishing this as document-wide policy, distinguishing it clearly from an amendment to World Bible SS14 itself (still Locked, still requires Signal assignment "at minimum") -- this is a Founder-authorized exception to timing only, paired with a Future Integration Rule requiring a dedicated Canon Alignment Pass (evaluating thematic compatibility, character philosophy, narrative purpose, mechanical balance, and Fracture System relationship) before any Signal Profile is actually assigned. All four Production Alignment Status checklists updated from yellow/pending to green/resolved for this field. This closes one of the four remaining open items from the Founder Lock Audit; three remain (Titan/Mira home zones, Cassian's Age/Strength/Flaw/Cost/Originality, Mira's Age/Residence/Registration, plus the two lower-stakes self-flagged items). Held at "Compiled -- Pending Founder Lock."`
