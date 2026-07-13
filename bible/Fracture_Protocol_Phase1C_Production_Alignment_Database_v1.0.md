@@ -566,7 +566,192 @@ Completing the Guardian's Production Alignment closes the loop on all four core 
 
 ---
 
-### Changelog
+## CHARACTER ENTRY 005 — MIRA SOLENNE VALERIS
+
+**Compiled from:** "Founder Directive — Phase 1C Production Alignment, Character Entry 005, Mira" (2026-07-13). Human/Authority-connected tier (full production alignment), per this document's own header framework — matching Kael's and Cassian's tier, not Titan's/the Guardian's adapted tier. **One field flagged and reframed rather than transcribed as submitted — see Section 2, below.**
+
+### Classification
+
+**Primary Role:** Civilian supporting character, Kael's love interest — the first-by-name fulfillment of his own Locked personal want (Phase 1A §8).
+**Narrative Function:** The lived civilian cost of every ideological conflict in this canon; the argument against the Ascendant Doctrine's logic that doesn't need to be spoken to land.
+**Character Type:** Human / Civilian Reconstruction Specialist
+**Alignment:** Independent civilian — closely connected to, but not a member of, the Light 98th
+**Current Affiliation:** Civilian reconstruction work intersecting Light 98th operations
+
+---
+
+### Section 1 — Identity Alignment
+
+**Full Name:** Mira Solenne Valeris. Confirmed, already compiled (Character Bible).
+
+**Birthplace:** The Moon's civilian districts — Locked, Phase 1B.1 (the Solar System's leading center for medicine, scientific research, and advanced development; cooperative, resilience-focused civilian culture). Confirmed, Character Bible, "Who She Is."
+
+**Age at Story Beginning:** Not previously compiled. **Proposed:** 20 — a contemporary generation with Kael (19), close enough in age that their relationship reads as two peers rather than any kind of imbalance, and old enough to already hold an established professional identity in civilian reconstruction. Flagged as proposed, not Founder-confirmed.
+
+**Current Residence:** Not previously compiled. **Proposed:** the megacity, in proximity to Light 98th operations — consistent with her reconstruction work "tied to Light 98th operations" and her relationship with Kael requiring ongoing proximity. Flagged as proposed synthesis, mirroring the same kind of bridging fact used for Kael's and Titan's own relocations, not asserted as settled.
+
+**Authority Registration Status:** Not previously compiled. **Proposed:** registered USCN/Authority citizen, Lunar-origin — civilian registration, not Ward Division or Helldiver Corps, consistent with her explicitly civilian, non-soldier status (see Section 2). Flagged as proposed, not confirmed.
+
+**Civilization:** Humanity / United Solar System Nations sphere — same as Kael, Cassian, and Titan.
+
+---
+
+### Section 2 — Civilian & Institutional Classification
+
+*(Reframed from the directive's own "Military Classification" — see "Not Applied," below, for why.)*
+
+**Resolution:** Mira holds **no military rank, no unit assignment within the Light 98th, and no place in its chain of command.** She is a **civilian reconstruction specialist** whose work intersects Light 98th operations without her being part of the unit itself — already explicitly compiled, Character Bible, "Relationship with Titan's Legacy": *"not as a soldier under his command, but as someone whose work intersected his."* Her institutional affiliation, to the extent one exists, runs through civilian reconstruction and aid coordination, not military command.
+
+**Why this strengthens the story:** it preserves the specific, deliberate contrast her whole character was built on — she is not another soldier in Kael's orbit, she is proof of what soldiers are actually fighting to protect. Giving her a military rank would blur that distinction the Character Bible was written to keep sharp.
+
+**Contradiction check:** the directive's own restated "Existing Locked Canon" — "Mira is a member of the Light 98th" — does not match the actual compiled text, which explicitly excludes her from the unit's chain of command. Flagged directly rather than silently transcribed; see "Not Applied," below.
+
+**Production Ready:** ✅ (as reframed)
+
+---
+
+### Section 3 — Narrative Function
+
+**Resolution:** Mira exists so the cost of every ideological conflict in this story has a face that isn't a soldier's. She is not compiled to explain, praise, or challenge Kael — her backstory, philosophy, and internal conflict all predate and would survive without her relationship to him (Character Bible, "Canon Alignment Principle"). No other character can fill this role: Titan and the Guardian operate at command and civilizational scale respectively; Cassian and the Doctrine are the ideological engine causing the harm; only Mira is the person the harm actually happens to, who chooses to rebuild rather than either retaliate or collapse.
+
+**Why this strengthens the story:** it keeps the Doctrine's danger concrete instead of abstract — "extremists willing to remove consent entirely" (Faction Bible) means something specific because of her.
+
+**Contradiction check:** none — formalizes "Canon Alignment Principle" and "Her Defining Tragedy" directly.
+
+**Production Ready:** ✅
+
+---
+
+### Section 4 — Character Engine
+
+**Greatest Strength:** Resilience through rebuilding — she answers loss by restoring what was destroyed, not by retaliating against what destroyed it. Formalized from "Who She Is" (civilian reconstruction) and "Her Defining Tragedy."
+
+**Greatest Weakness:** Difficulty extending full trust — not naivety, the opposite: hard-won caution, since the one time protection was offered, it came at the cost of submission, and help that did arrive, arrived too late. Formalized from "Philosophy & Internal Conflict."
+
+**Core Fear:** That protection always comes conditionally, or arrives too late to matter — the exact shape of her own lived experience (Her Defining Tragedy).
+
+**Greatest Desire:** That what happened to her doesn't happen to anyone else — the throughline connecting her tragedy directly to her chosen profession.
+
+**Internal Conflict:** Already fully compiled, cited directly, not reinvented: *"rebuilding a life after displacement, and deciding whether to trust a system (and a person) that arrived, in her own experience, too late"* (Character Bible, "Philosophy & Internal Conflict").
+
+**Cost Already Paid:** Her home; the version of safety she believed in before the occupation; and, more quietly, her early trust in the Light 98th itself, given that it — including Titan personally — arrived too late (Character Bible, "Relationship with Titan's Legacy," expanded).
+
+**Contradiction check:** none — all six fields formalize or directly extend already-compiled text; no new lore beyond the directive's own instruction to let these "emerge naturally from previously established canon."
+
+**Production Ready:** ✅
+
+---
+
+### Section 5 — Relationship Alignment
+
+**With Kael:** Built on earned trust before friendship before love — not destiny, not necessity, reinforcing rather than undercutting his own leadership-through-trust philosophy. Full treatment, Character Bible, "Relationship Dynamics" cross-reference and her own entry.
+
+**With Titan:** Expanded 2026-07-13 (new content, flagged, not previously Locked) — he was personally part of the Light 98th response that arrived too late to stop her displacement. Not the cause of the harm, which belongs entirely to the Doctrine occupiers; present for the failure to prevent it. Compiled bidirectionally: Titan's entry gained a matching "Relationship with Mira." Explicitly not compiled as the cause of Titan's own already-resolved death.
+
+**With Cassian:** New, thematic rather than personal — she has never met him. She is the unanswerable proof of his own worst fear: that a movement built to protect people can still cost someone everything, without her being compiled as blaming him personally for extremists who exceeded his own stated moral limits.
+
+**With the Guardian:** New, proposed — no direct personal relationship compiled, but she stands as a living instance of its own already-stated limitation, that it "cannot fully weigh why one life holds immeasurable meaning to another."
+
+**With the Light 98th:** A complicated, ongoing relationship, not a settled one — respect for what the unit stands for, undimmed by the one moment it couldn't reach her in time.
+
+**Contradiction check:** none. Kael relationship cross-referenced unchanged; Titan relationship is new but non-conflicting (see "Not Applied" for the flagging discipline applied); Cassian, Guardian, and Light 98th relationships are new formalizations of already-compiled adjacent material, explicitly flagged as such rather than asserted as previously settled.
+
+**Production Ready:** ✅
+
+---
+
+### Section 6 — Legacy
+
+**How history is likely to remember her:** folded into Kael's own story as "the person he loved" — the same flattening risk Titan's own entry already warns about, applied to her instead of him.
+
+**How she hopes to actually be remembered:** as someone who rebuilt, not someone who was rescued.
+
+**Contradiction check:** none — new field, consistent with her entire compiled identity.
+
+**Production Ready:** ✅
+
+---
+
+### Section 7 — Signal Alignment
+
+*(Required by this document's own two-tier framework for the Human/Authority-connected tier — not part of the directive's own field list, included here for completeness.)*
+
+**Signal Affinity:** Pending Canon Assignment
+**Signal Discipline:** Pending Canon Assignment
+**Strength Classification:** Pending Canon Assignment
+**Limitations:** Pending Canon Assignment
+
+Deferred on the same basis as Kael's, Cassian's, and Titan's Signal fields — the same future final Signal pass, not invented here.
+
+---
+
+### Section 8 — Fracture Classification
+
+**Fracture Anomaly Status:** Confirmed — **NOT a fracture anomaly subject.** System Rule 4 / World Bible §5 reserve that classification solely for Kael. Consistent with, not a violation of, that Locked fact; nothing anywhere frames Mira as one.
+
+---
+
+### Section 9 — Originality Verification
+
+**Resolution:** **PASS.** Avoids the generic "supporting heroine" archetype on several already-compiled grounds: (1) **not defined by being rescued** — the Light 98th arrived too late, so her relationship with Kael cannot read as gratitude for a rescue that didn't happen; (2) **active, constructive profession** — reconstruction, not a decorative or purely reactive role; (3) **thematically load-bearing tragedy** — she doesn't just have a sad backstory, she *is* the argument against the Doctrine's logic, stated directly in her own "Canon Alignment Principle"; (4) **exists independent of the protagonist** — her backstory, philosophy, and internal conflict "would remain true whether or not that relationship existed," stated explicitly rather than left implicit.
+
+**Contradiction check:** none — formalizes existing text only.
+
+**Production Ready:** ✅
+
+---
+
+### Section 10 — Production Notes
+
+**Locked Elements:**
+✅ Full name — Mira Solenne Valeris
+✅ Lunar civilian-districts origin
+✅ Civilian reconstruction profession
+✅ Her Defining Tragedy (Doctrine occupation, displacement, help arriving too late)
+✅ Relationship with Kael (trust before friendship before love)
+✅ Existing independent of her relationship to Kael
+✅ NOT a fracture anomaly subject
+
+**Requires Future Assignment:**
+⚠️ Signal affinity, discipline, limitations (deferred, same future pass as Kael, Cassian, Titan)
+⚠️ Age at story beginning (proposed 20, unconfirmed)
+⚠️ Current residence (proposed megacity, unconfirmed)
+⚠️ Authority registration status (proposed civilian citizen, unconfirmed)
+
+**Mira Production Alignment Status (compiled 2026-07-13):**
+🟢 Identity — name and birthplace complete; Age, Residence, Registration flagged, see below
+🟢 Civilian & Institutional Classification Complete (reframed, see "Not Applied")
+🟢 Narrative Function Complete
+🟢 Character Engine Complete
+🟢 Relationship Alignment Complete (Kael cross-referenced; Titan expanded; Cassian, Guardian, Light 98th newly compiled)
+🟢 Legacy Complete
+🟡 Signal Profile intentionally pending, same as Kael, Cassian, Titan
+🟢 Fracture Classification Complete
+🟢 Originality Check Complete
+
+---
+
+### Not Applied — Flagged Rather Than Silently Accepted
+
+**One item corrected, not transcribed as submitted:**
+
+- **"Mira is a member of the Light 98th"** (directive's own "Existing Locked Canon" list) — this does not match the actual compiled text. Character Bible, "Relationship with Titan's Legacy," states explicitly and deliberately: *"not as a soldier under his command, but as someone whose work intersected his."* This distinction was written specifically to keep her civilian identity sharp and separate from the unit's military structure — collapsing it into unit membership would blur exactly the contrast her character was built to hold. Read as an imprecise restatement rather than an intended reversal, since nothing else in the directive argues for or acknowledges reclassifying her as military. Section 2 above is reframed accordingly: "Civilian & Institutional Classification" rather than "Military Classification," with no rank, unit assignment, or chain of command assigned, consistent with her Locked non-soldier status.
+
+**One item accepted as new content, flagged rather than silently presented as previously Locked:**
+
+- **"Titan's inability to reach her in time permanently affected both of them"** (directive's own "Existing Locked Canon" list) — nothing before this directive compiled a specific, personal connection between Titan and Mira; only the general fact that she knew him through work and that "the Light 98th arrived too late" during her displacement. This is genuinely new material, not a restatement of something already settled — but it doesn't contradict anything (Titan, as second-in-command, is a plausible part of "the Light 98th" that arrived late), and it was directly requested. Accepted and compiled into both entries (Character Bible v1.12), explicitly labeled as new rather than blended in as pre-existing fact, and explicitly not compiled as the cause of Titan's own already-resolved death.
+
+**Genuine gaps proposed rather than asserted as settled:** Age at story beginning (20); Current Residence (megacity); Authority Registration Status (civilian citizen). All flagged inline in Section 1.
+
+---
+
+### Founder Reflection
+
+Completing Mira's Production Alignment finishes the full cast this framework was built to cover. For **Kael**, she confirms his leadership-through-trust philosophy works on the person who matters most to him personally, not only on soldiers who already owe him loyalty. For **Titan**, the new detail that he was present for, and privately carried, the failure to reach her in time deepens his already-established flaw — one more weight he chose to carry alone — without ever making his death about her. For **Cassian**, she is the sharpest possible rebuttal to his own philosophy: proof that "protecting people" and "controlling them" are not the same thing, delivered by someone his own movement harmed while he was trying to prevent exactly that kind of harm. For **the Guardian**, she is a small-scale, human-sized answer to its own largest fear — a single life it could not have calculated the value of, rebuilt anyway, by choice, without its help arriving on time. For the **Three-Way Conflict**, she is the reason the conflict can never be treated as abstract: every faction's answer to "what does humanity need to survive" has a cost, and she is what that cost looks like in one ordinary life. For **humanity's future**, she is the case for rebuilding over winning — the Light 98th's own philosophy, "not remembered for the battles they win, but for what remains after," made literal in her profession.
+
+**Why Mira is indispensable:** every other character in this canon protects, commands, or philosophizes about civilization at scale. Mira is the only one who was simply *in* it when it failed her, and chose afterward to rebuild it anyway. Without her, "protection" stays a debate between factions. With her, it has a face, a cost, and a choice made in spite of both.
+
+---
 `[v1.0 — 2026-07-12] Established per "Founder Decision — Phase 1C Production Alignment Rule" (Option B: character-class-appropriate interpretation of World Bible §14's Character Creation Rules checklist), resolving the outstanding production-readiness item from the prior Canon Audit. First entry: Kael Aurelian Veyr, full production alignment per the Human/Authority-connected tier. Two submitted field values corrected rather than transcribed -- "Fracture Anomaly Status: Not a Fracture anomaly" (reverses Master Prompt System Rule 4 / World Bible §5, read as a drafting error) and "Military Classification: Helldiver Candidate" (the same already-excluded framing flagged four times this session, conflicting with the Final-Locked Cadet-of-Ward-Division starting rank, Phase 1B.3 §8) -- both flagged explicitly under "Not Applied" rather than silently written in or silently dropped. One field held pending clarification: "Political Connection: Light Order Legacy Line," new material in tension with the already-compiled Kael/Cassian origin contrast. Signal affinity, discipline, and limitations left Pending Canon Assignment, consistent with the submission's own stated intent. Held at "Compiled -- Pending Founder Lock."`
 `[v1.1 — 2026-07-12] Per "Founder Decision — Kael Aurelian Veyr Political Connection," resolved the one item held from v1.0: **Option A, no Light Order bloodline connection**, confirmed as the correct call since it preserves rather than softens the already-compiled Kael/Cassian "nothing vs. everything" contrast. Political Connection field updated to "None," with the Locked Character Principle stated directly: Kael's importance comes from what he chooses to become, not where he was born, who his family was, or what organizations recognize him -- he is connected to Light Order only through Light 98th service and shared purpose, not ancestry. Fracture Classification and Military Alignment fields reconfirmed unchanged (both already matched the corrections applied in v1.0). Originality Verification's defining question refined, with the earlier version preserved as a compatible companion question, not replaced. Production Alignment Status updated to all-green except Signal Profile, which remains intentionally, non-blockingly pending. A new companion "Legacy Framework" section (Kael: earned; Cassian: imposed; Titan: larger than himself; the Guardian: remembered through restraint) compiled into the Character Bible (v1.9) -- see that document. Held at "Compiled -- Pending Founder Lock."`
 `[v1.2 — 2026-07-13] Second entry added: Cassian Veyrion Aurelian, full production alignment per the Human/Authority-connected tier. Most fields filled directly from already-compiled Character Bible and Faction Bible material (name, family origin, Upper Grid home zone, USCN background, Doctrine founder/leader status, moral limits, NOT-a-fracture-anomaly-subject status per System Rule 4's Kael-exclusivity). Several genuine gaps proposed rather than asserted as settled, each flagged inline: Age at story beginning, Current Location/Doctrine base, Cassian & Night Haven personal relationship, formalized Greatest Strength/Flaw/Cost Already Paid fields, and an Originality Verification defining question. One item held, not applied as submitted: the submission's Section 6 ("Cassian does not inherit a legacy. He constructs one.") directly contradicts the Character Bible's "Legacy Framework" (v1.9) and "Contrast with Kael" text, both compiled one turn earlier specifically to sharpen the Kael/Cassian inherited-vs-earned contrast -- recommendation is to keep the already-compiled "inherited, then imposed" framing rather than replace it, pending Founder confirmation. A Cassian & Titan relationship was found to not exist anywhere in compiled canon and is flagged as a genuine absence, not resolved here. Held at "Compiled -- Pending Founder Lock."`
@@ -574,3 +759,4 @@ Completing the Guardian's Production Alignment closes the loop on all four core 
 `[v1.4 — 2026-07-13] Third entry added: Titan Aurel Veyran (Character Entry 003), per "Character Entry 003 -- Titan Aurel Veyran." Compiled using the fuller Human/Authority-connected-style structure at Founder direction, exceeding but not contradicting his original "adapted alignment" floor tier. Everything submitted either accurately restated already-Locked/compiled material (birth/historical name split, second-in-command position, Greatest Strength/Weakness, Core Conflict, Legacy Framework) or added genuinely new, non-conflicting content (a full Cassian & Titan relationship, resolving the gap flagged in Cassian's own entry -- both compiled bidirectionally into the Character Bible, v1.10). Three items flagged as open rather than silently accepted, matching the submission's own self-flagged uncertainty: Age was reframed from "age at story beginning" to "age at time of death," since Titan is Locked as already deceased before Season One -- proposed early 20s, unconfirmed; Identity/citizenship classification proposed to match Kael's own registered-citizen/military structure, unconfirmed; Relocation history (Mars to megacity) proposed as a parallel to Kael's own bridging fact, unconfirmed -- birthplace itself (Mars) was already Locked and not actually open, contrary to how the submission's own question was framed. Held at "Compiled -- Pending Founder Lock."`
 `[v1.5 — 2026-07-13] Per "Founder Directive -- Phase 1C, Titan Production Alignment Finalization," resolved all three items flagged open in v1.4. Age at Time of Death set to 23, with reasoning: old enough to justify earned Helldiver Corps second-in-command standing, young enough that his death reads as real unrealized potential, four years above Kael's 19 to preserve true-contemporary status -- exactly the shape of person a grieving civilization mythologizes. Citizenship & Military Classification resolved as full Helldiver Corps operative, Light 98th second-in-command, explicitly not a Ward Division rank -- the Cadet/Ward/Senior Ward/Division Director ladder (Phase 1B.3 SS8, Locked) belongs to Kael's own starting classification, not Titan's; Titan's path ran entirely through the Corps' own operational chain (Phase 1B.3 SS6, Locked), consistent with the Faction Bible. Relocation history resolved: moved from Mars in his late teens to pursue Helldiver Corps service, following his family's civil-defense tradition outward; his friendship with Kael began only once he was already the unit's established second-in-command, deliberately not reopening the already-excluded "met during Kael's early Helldiver training" detail. Checked against all six Locked-canon facts restated in the directive itself plus Phase 1B.3's Ward Division/Helldiver Corps structure -- no contradictions found. Titan's entry is now fully green except the intentionally-deferred Signal Profile, matching Kael's and Cassian's entries. Character Bible gained a new subsection, "Age, Citizenship, and the Mars-to-Megacity Transition" (v1.11). Held at "Compiled -- Pending Founder Lock."`
 `[v1.6 — 2026-07-13] Fourth entry added: The Guardian (Character Entry 004), per "Founder Directive -- Phase 1C Production Alignment, Character Entry 004, The Guardian," using the adapted alignment tier (entity classification, origin status, affiliations, power classification, narrative function, limitations, originality verification) this framework was originally written for. Every field formalizes already-Locked or already-compiled text -- no new mythology, no origin revealed, per the directive's own instruction. Identity Classification resolved as Ancient Intelligence, citing the already-Locked Phase 1A SS7 text directly rather than synthesizing a new label; distinguished from the still-open origin/creator mystery (AEGIS-O / Pre-Expansion Human Coalition, legend not fact), which stays exactly as unresolved as before. Operational Status resolved as Limited Intervention. Internal Conflict, Cost Already Paid, Greatest Strength/Weakness, Legacy, and Originality Verification all formalized directly from the Character Bible's existing prose. **One terminology precision flagged, not silently substituted:** the directive's own "Existing Locked Canon" list restates the Guardian's interpretation as "Protection Through Restraint" -- the actual Locked label (Faction Bible, "The Five Interpretations of Protection") is **Protection Through Wisdom**, with restraint already described as its internal mechanism, not a separate name. This document uses the correct existing label throughout rather than introducing a second name for the same interpretation; no Faction Bible edit needed, since the substance was never in question, only the label. The Guardian's entry is the first in this document to close with zero deferred fields -- no Signal Profile applies to a non-human entity under the adapted tier. Held at "Compiled -- Pending Founder Lock."`
+`[v1.7 — 2026-07-13] Fifth entry added: Mira Solenne Valeris (Character Entry 005), per "Founder Directive -- Phase 1C Production Alignment, Character Entry 005, Mira," full production alignment per the Human/Authority-connected tier. **One field corrected, not transcribed as submitted:** the directive's own "Existing Locked Canon" list states "Mira is a member of the Light 98th," which does not match the actual compiled text -- Character Bible, "Relationship with Titan's Legacy," explicitly states she is "not a soldier under his command, but someone whose work intersected his," a distinction deliberately written to keep her civilian identity separate from the unit's military structure. Read as an imprecise restatement rather than an intended reversal; Section 2 reframed as "Civilian & Institutional Classification" rather than "Military Classification," with no rank, unit, or chain of command assigned. **One item accepted as new content, flagged rather than silently presented as previously Locked:** the directive's claim that "Titan's inability to reach her in time permanently affected both of them" is genuinely new material -- only her general displacement tragedy and general Light 98th connection were previously compiled. Non-contradictory (Titan, as second-in-command, is a plausible part of the unit that arrived late) and directly requested, so accepted and compiled bidirectionally into the Character Bible (v1.12: Titan gained "Relationship with Mira"; Mira's own "Relationship with Titan's Legacy" expanded), explicitly labeled as new rather than blended in as pre-existing fact, and explicitly not compiled as the cause of Titan's own already-resolved death. New relationships compiled for Cassian (thematic, not personal), the Guardian (proposed), and the Light 98th (complicated, ongoing). New Legacy field (history's likely flattening vs. her own hoped-for memory). Genuine gaps proposed rather than asserted as settled: Age (20), Current Residence (megacity), Authority Registration Status (civilian citizen) -- all flagged. Full Founder Reflection delivered per the directive's own required format. Held at "Compiled -- Pending Founder Lock."`
