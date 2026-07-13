@@ -4,7 +4,7 @@
 **Status:** Established 2026-07-12 per "Founder Decision — Phase 1C Production Alignment Rule," which approved **Option B**: World Bible §14's Character Creation Rules checklist applies with character-class-appropriate interpretation rather than one rigid template for every character. This resolves the outstanding production-readiness item from the prior Canon Audit (Issue 6) — the checklist was previously unfilled for every Phase 1C character.
 **The two-tier framework:**
 - **Human / Authority-connected characters** (Kael, Cassian, Mira) receive full production alignment: identity status, origin, home zone/civilization, Signal affinity, discipline, want, flaw, cost paid, fracture anomaly status, originality verification.
-- **Exceptional / non-standard characters** (Titan, the Guardian) receive adapted alignment: entity classification, origin status, known affiliations, power classification, narrative function, limitations, originality verification.
+- **Exceptional / non-standard characters** (Titan, the Guardian) receive adapted alignment: entity classification, origin status, known affiliations, power classification, narrative function, limitations, originality verification. *This is a floor, not a ceiling — Titan's own entry (Character Entry 003) was compiled using the fuller Human/Authority-connected structure at Founder direction, which doesn't contradict this tier assignment.*
 **Naming note:** companion to `bible/Fracture_Protocol_Phase1C_Character_Bible_v1.0.md` (identity, philosophy, relationships) and `bible/Fracture_Protocol_Phase1C_Faction_Bible_v1.0.md` (organizations). This document exists specifically to satisfy World Bible §14's own checklist, field by field, per character — it doesn't restate the Character Bible's prose, it cross-references it.
 **Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` — this document expands on it and must never contradict it.
 **Compilation method:** consolidates Founder-provided answers. Two fields in Kael's entry were corrected rather than transcribed as submitted; one item in Cassian's entry is held pending Founder confirmation rather than applied as submitted. All flagged explicitly rather than silently applied — see each entry's own notes. No new lore invented beyond what's already Locked or compiled elsewhere; proposed content for genuine gaps is marked as proposed, not settled.
@@ -287,7 +287,137 @@ Left open on the same basis as Kael's Section 4 — deferred to the same future 
 
 **Genuine gaps still proposed rather than asserted as settled:** Greatest Strength, Greatest Flaw, and Cost Already Paid as formalized single fields; the Originality Verification defining question. (Age is tracked above, alongside Legacy Framework, since both were marked complete without actually being addressed.)
 
-**Not addressed at all — flagged as a genuine absence, not resolved here:** a Cassian & Titan relationship. Nothing in the Character Bible, Faction Bible, or either submission establishes any connection between them — not even an absence-of-relationship statement. The current patch's own status checklist notes this is deferred to Titan's own upcoming Production Alignment entry, which matches the recommendation already on record here.
+**Resolved 2026-07-13, via "Character Entry 003 — Titan Aurel Veyran":** the Cassian & Titan relationship, previously flagged as a genuine absence in every prior document. Now compiled — mutual understanding without contempt, same premise (humanity is fragile, protection requires sacrifice), opposite conclusions (protect vs. control). See Character Entry 003, below, and Character Bible's "Relationship with Titan" (Cassian's entry) and "Relationship with Cassian" (Titan's entry).
+
+---
+
+## CHARACTER ENTRY 003 — TITAN AUREL VEYRAN
+
+**Compiled from:** "Character Entry 003 — Titan Aurel Veyran" (submitted 2026-07-13), cross-referenced against the already-compiled Character Bible entry, especially "The Man and the Myth." **Tier note:** Titan was originally slotted for the *adapted* alignment tier (exceptional/non-standard characters, per this document's header) given his mythologized, non-present-tense status — but the submission provides fuller Human/Authority-connected-style detail, which the two-tier framework's field lists set as a floor per tier, not a ceiling. Compiled here using the fuller structure, consistent with Kael's and Cassian's entries, without contradicting Option B.
+
+### Classification
+
+**Primary Role:** Deceased supporting character / Kael's formative influence — narrative device operating entirely through memory, legacy, and reputation, not present-tense action (Character Bible, "Canon Alignment Principle": *"he has no unfolding story left to tell in Season One; his story already happened"*).
+**Narrative Function:** Teaches Kael what protection costs when carried alone; source of the "myth vs. the man" gap Kael must eventually see through.
+**Character Type:** Human / Senior Helldiver, Light 98th second-in-command (deceased before Season One begins)
+**Alignment:** Light 98th Contubernium
+**Affiliation at Time of Death:** Light 98th Contubernium, Helldiver Corps
+
+---
+
+### Section 1 — Identity Alignment
+
+**Full Name (Birth):** Tavian Rhyss Valen. Confirmed, Character Bible, "The Man and the Myth."
+
+**Full Name (Historical/Remembered):** Titan Aurel Veyran. Confirmed — both names are canon; neither replaces the other (Character Bible).
+
+**Birthplace:** Mars, to a family of engineers, explorers, and civil defense workers. **Already confirmed** in the Character Bible — this resolves half of the submission's own "Home Location" question; birth on Mars was not actually open.
+
+**Relocation History:** Not previously compiled. The Light 98th operates within the megacity system (Phase 1B.3 §7), so Titan likely relocated from Mars at some point to serve, the same structural need addressed for Kael by his own Mars-to-megacity bridging fact. **Proposed, not confirmed:** a parallel relocation, mirroring Kael's own precedent. Flagged as proposed synthesis, not settled.
+
+**Age:** **The submission's own question ("age when the story begins") is reframed, not answered as asked.** Titan is Locked as already deceased before Season One begins — his death is Kael's already-past "defining wound," and his own entry is explicitly built with "no unfolding story left to tell in Season One" (Character Bible). A living character's "age at story beginning" doesn't apply to him the same way. **Proposed reframing: Age at Time of Death — early 20s**, per the submission's own proposed range, consistent with being Kael's contemporary and slightly senior (Kael: 19). Flagged for Founder confirmation of both the reframed question and the number.
+
+**Civilization:** Humanity / United Solar System Nations sphere — same as Kael and Cassian.
+
+---
+
+### Section 2 — Role & Authority Alignment
+
+**Position:** Light 98th second-in-command, serving *under* Kael, not his superior. Confirmed, Phase 1A §8 (Locked); Character Bible, "The Man and the Myth."
+
+**Excluded framings (Locked exclusions, restated, not reopened):** not Kael's predecessor; not the Light 98th's founder; not a historical commander from an earlier era; not Kael's replacement. Consistent with the already-compiled myth-vs-man resolution — these are the "myth," not the man.
+
+**Identity / Citizenship Status:** **Genuine gap, flagged by the submission itself.** Not previously compiled whether Titan held Authority citizenship, independent status, or a military-only classification. **Proposed, pending confirmation:** registered citizen with Helldiver Corps military classification — the same registration structure already established for Kael (Section 2, Entry 001) — since nothing distinguishes Titan's civic status from Kael's own. Not asserted as settled.
+
+---
+
+### Section 3 — Character Engine
+
+**Greatest Strength:** Willingness to carry responsibility when others cannot — courage, loyalty, reliability, self-sacrifice. He never sought glory; he became legendary by repeatedly choosing to stand between humanity and destruction. Consistent with, and a formalization of, the already-compiled "Who He Was" and "The Man and the Myth."
+
+**Greatest Weakness:** He believed protecting people meant accepting every burden himself — the same "defining mistake" already on record (Character Bible: *"believing he had to carry every burden alone rather than let others share it"*). Direct source of Kael's own lesson that leadership isn't carrying everything alone.
+
+**Core Conflict:** *"If someone has the ability to protect others, do they have the right to refuse the burden?"* His answer — *"If I can prevent suffering, I must"* — is his tragedy: not a failure of compassion, but compassion with no limit. Consistent with, and a formalization of, his already-compiled philosophy and legacy.
+
+---
+
+### Section 4 — Relationship Alignment
+
+**With Kael:** Fully compiled already — see Character Bible, "The Man and the Myth," "Philosophy," "What He Taught Kael That the Guardian Couldn't," and Kael's own entry (his death as Kael's defining wound). Not restated here in full to avoid duplication; this document cross-references rather than re-compiles.
+
+**With Cassian:** **New, resolves the previously-flagged gap** on both sides (this document's Character Entry 002, "Not Applied"; Titan's own prior absence of any Cassian connection). Same starting premise — humanity is fragile, failure has real consequences, protection requires sacrifice — opposite conclusions: Titan protects because every life matters; Cassian controls because every failure costs lives. Titan sees Cassian's fear; Cassian sees Titan's burden. Neither dismisses the other. Compiled in full, Character Bible: Titan's "Relationship with Cassian," Cassian's mirrored "Relationship with Titan."
+
+---
+
+### Section 5 — Legacy Framework
+
+Cross-reference only — already Locked and unchanged. Character Bible, "Legacy Framework" (v1.9): *"Titan — a person who became a symbol because of sacrifice. His legacy became larger than himself."* The submission's own Section 7 restates this accurately; no new content required.
+
+---
+
+### Section 6 — Signal Alignment
+
+**Signal Affinity:** Pending Canon Assignment
+**Signal Discipline:** Pending Canon Assignment
+**Strength Classification:** Pending Canon Assignment
+**Limitations:** Pending Canon Assignment
+
+Deferred on the same basis as Kael's and Cassian's Signal fields — the same future final Signal pass across all characters, not invented here.
+
+---
+
+### Section 7 — Fracture Classification
+
+**Fracture Anomaly Status:** Confirmed — **NOT a fracture anomaly subject.** System Rule 4 / World Bible §5 reserve that classification solely for Kael. Consistent with, not a violation of, that Locked fact.
+
+---
+
+### Section 8 — Originality Verification
+
+**Originality Check:** PASS. Differentiated through: not a "strong second character," not a "rival protagonist," not a "mentor replacement." His purpose is specific — the person Kael loves and trusts most, whose example teaches Kael what *not* to become. Consistent with, and a formalization of, the already-compiled "Canon Alignment Principle" governing his entire entry.
+
+---
+
+### Section 9 — Production Notes
+
+**Locked Elements:**
+✅ Birth name — Tavian Rhyss Valen
+✅ Historical name — Titan Aurel Veyran (both canon, neither replaces the other)
+✅ Mars birthplace
+✅ Second-in-command under Kael, Light 98th
+✅ Kael's contemporary, not a predecessor
+✅ Deceased before Season One; no present-tense story
+✅ Greatest Strength / Greatest Weakness / Core Conflict
+✅ Relationship with Kael (cross-referenced)
+✅ Relationship with Cassian (new, compiled)
+✅ Legacy Framework (cross-referenced)
+✅ NOT a fracture anomaly subject
+
+**Requires Future Assignment:**
+⚠️ Signal affinity, discipline, limitations (deferred, same future pass as Kael and Cassian)
+⚠️ Age — reframed to "age at time of death," proposed early 20s, unconfirmed
+⚠️ Identity/citizenship classification (proposed, unconfirmed)
+⚠️ Relocation history, Mars to megacity (proposed synthesis, unconfirmed)
+
+**Titan Production Alignment Status (compiled 2026-07-13):**
+🟢 Identity — name and birthplace complete; Age and Relocation flagged, see below
+🟡 Role & Authority — Position complete; Identity/citizenship classification pending confirmation
+🟢 Character Engine Complete
+🟢 Relationship Alignment Complete (Kael cross-referenced, Cassian newly compiled)
+🟢 Legacy Framework Complete (cross-reference only)
+🟡 Signal Profile intentionally pending, same as Kael and Cassian
+🟢 Fracture Classification Complete
+🟢 Originality Check Complete
+
+---
+
+### Not Applied — Flagged Rather Than Silently Accepted
+
+Nothing in this submission was corrected or held as contradictory — unlike Kael's and Cassian's entries, everything submitted here either accurately restates already-Locked/compiled material or adds genuinely new, non-conflicting content. Three items are flagged as still open, consistent with the submission's own self-flagging:
+
+- **Age**, reframed from "age at story beginning" to "age at time of death" given Titan's Locked deceased-before-Season-One status — proposed early 20s, not yet Founder-confirmed.
+- **Identity/citizenship classification** — proposed as matching Kael's own registered-citizen/military-classification structure, not yet confirmed.
+- **Relocation history (Mars → megacity)** — proposed as a parallel to Kael's own bridging fact, not yet confirmed. Birthplace itself (Mars) was already settled and is not part of this flag.
 
 ---
 
@@ -296,3 +426,4 @@ Left open on the same basis as Kael's Section 4 — deferred to the same future 
 `[v1.1 — 2026-07-12] Per "Founder Decision — Kael Aurelian Veyr Political Connection," resolved the one item held from v1.0: **Option A, no Light Order bloodline connection**, confirmed as the correct call since it preserves rather than softens the already-compiled Kael/Cassian "nothing vs. everything" contrast. Political Connection field updated to "None," with the Locked Character Principle stated directly: Kael's importance comes from what he chooses to become, not where he was born, who his family was, or what organizations recognize him -- he is connected to Light Order only through Light 98th service and shared purpose, not ancestry. Fracture Classification and Military Alignment fields reconfirmed unchanged (both already matched the corrections applied in v1.0). Originality Verification's defining question refined, with the earlier version preserved as a compatible companion question, not replaced. Production Alignment Status updated to all-green except Signal Profile, which remains intentionally, non-blockingly pending. A new companion "Legacy Framework" section (Kael: earned; Cassian: imposed; Titan: larger than himself; the Guardian: remembered through restraint) compiled into the Character Bible (v1.9) -- see that document. Held at "Compiled -- Pending Founder Lock."`
 `[v1.2 — 2026-07-13] Second entry added: Cassian Veyrion Aurelian, full production alignment per the Human/Authority-connected tier. Most fields filled directly from already-compiled Character Bible and Faction Bible material (name, family origin, Upper Grid home zone, USCN background, Doctrine founder/leader status, moral limits, NOT-a-fracture-anomaly-subject status per System Rule 4's Kael-exclusivity). Several genuine gaps proposed rather than asserted as settled, each flagged inline: Age at story beginning, Current Location/Doctrine base, Cassian & Night Haven personal relationship, formalized Greatest Strength/Flaw/Cost Already Paid fields, and an Originality Verification defining question. One item held, not applied as submitted: the submission's Section 6 ("Cassian does not inherit a legacy. He constructs one.") directly contradicts the Character Bible's "Legacy Framework" (v1.9) and "Contrast with Kael" text, both compiled one turn earlier specifically to sharpen the Kael/Cassian inherited-vs-earned contrast -- recommendation is to keep the already-compiled "inherited, then imposed" framing rather than replace it, pending Founder confirmation. A Cassian & Titan relationship was found to not exist anywhere in compiled canon and is flagged as a genuine absence, not resolved here. Held at "Compiled -- Pending Founder Lock."`
 `[v1.3 — 2026-07-13] Per "Phase 1C Final Production Alignment Database -- Cassian Final Alignment Patch," resolved two of v1.2's flagged gaps and left two open. Resolved: Current Location (the Doctrine has no capital, operates as the distributed Ascendant Network, with Cassian personally based at a private facility, the Ascendant Core) and the Cassian & Night Haven relationship (opposition without contempt -- he views Night Haven as a real achievement built on an assumption he considers dangerous; they view him as mistaking failure-prevention for a future). Both compiled into Section 3 and cross-referenced into the Faction Bible (v1.4), which also gained the Ascendant Network/Ascendant Core operational structure, the reciprocal Night Haven relationship entry, and a sixth "Protection Through Control" addition to "The Five Interpretations of Protection." **Not resolved, despite the patch's own status checklist marking both complete:** the patch supplied no content addressing the held Legacy Framework contradiction (Section 6, "constructs one" vs. the Locked "inherited, then imposed" framing) or an actual age/age range for Cassian -- both explicitly flagged in "Not Applied" as still open rather than silently marked resolved on the strength of a checklist alone. Titan relationship deferred to his own upcoming entry, consistent with the patch's own note. Held at "Compiled -- Pending Founder Lock."`
+`[v1.4 — 2026-07-13] Third entry added: Titan Aurel Veyran (Character Entry 003), per "Character Entry 003 -- Titan Aurel Veyran." Compiled using the fuller Human/Authority-connected-style structure at Founder direction, exceeding but not contradicting his original "adapted alignment" floor tier. Everything submitted either accurately restated already-Locked/compiled material (birth/historical name split, second-in-command position, Greatest Strength/Weakness, Core Conflict, Legacy Framework) or added genuinely new, non-conflicting content (a full Cassian & Titan relationship, resolving the gap flagged in Cassian's own entry -- both compiled bidirectionally into the Character Bible, v1.10). Three items flagged as open rather than silently accepted, matching the submission's own self-flagged uncertainty: Age was reframed from "age at story beginning" to "age at time of death," since Titan is Locked as already deceased before Season One -- proposed early 20s, unconfirmed; Identity/citizenship classification proposed to match Kael's own registered-citizen/military structure, unconfirmed; Relocation history (Mars to megacity) proposed as a parallel to Kael's own bridging fact, unconfirmed -- birthplace itself (Mars) was already Locked and not actually open, contrary to how the submission's own question was framed. Held at "Compiled -- Pending Founder Lock."`
