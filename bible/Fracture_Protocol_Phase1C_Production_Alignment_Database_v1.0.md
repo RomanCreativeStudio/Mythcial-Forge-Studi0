@@ -7,7 +7,7 @@
 - **Exceptional / non-standard characters** (Titan, the Guardian) receive adapted alignment: entity classification, origin status, known affiliations, power classification, narrative function, limitations, originality verification.
 **Naming note:** companion to `bible/Fracture_Protocol_Phase1C_Character_Bible_v1.0.md` (identity, philosophy, relationships) and `bible/Fracture_Protocol_Phase1C_Faction_Bible_v1.0.md` (organizations). This document exists specifically to satisfy World Bible §14's own checklist, field by field, per character — it doesn't restate the Character Bible's prose, it cross-references it.
 **Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md` — this document expands on it and must never contradict it.
-**Compilation method:** consolidates Founder-provided answers. Two fields in Kael's entry below were corrected rather than transcribed as submitted, both flagged explicitly rather than silently applied — see the entry's own notes. No new lore invented beyond what's already Locked or compiled elsewhere.
+**Compilation method:** consolidates Founder-provided answers. Two fields in Kael's entry were corrected rather than transcribed as submitted; one item in Cassian's entry is held pending Founder confirmation rather than applied as submitted. All flagged explicitly rather than silently applied — see each entry's own notes. No new lore invented beyond what's already Locked or compiled elsewhere; proposed content for genuine gaps is marked as proposed, not settled.
 
 ---
 
@@ -143,6 +143,146 @@ One field was held pending clarification and has since been resolved:
 
 ---
 
+## CHARACTER ENTRY 002 — CASSIAN VEYRION AURELIAN
+
+**Compiled from:** "Phase 1C Final Production Alignment Database — Character Entry 002 — Cassian Production Alignment" (submitted 2026-07-12), cross-referenced against the already-compiled Character Bible and Faction Bible entries. Human/Authority-connected tier (full production alignment) per this document's header framework.
+
+### Classification
+
+**Primary Role:** Philosophical Antagonist — *not a villain the story defeats; a philosophical position Kael's story challenges (Character Bible, "Canon Alignment Principle").*
+**Narrative Function:** Founder and leader of the Ascendant Doctrine — humanity's argument for control, standing opposite Kael's protector philosophy.
+**Character Type:** Human / Ascendant Doctrine Founder & Leader
+**Alignment:** The Ascendant Doctrine (control, enforced evolution)
+**Current Affiliation:** The Ascendant Doctrine (founder/leader)
+**Prior Institutional Role:** USCN Chief Strategic Futures Director (Character Bible, "Who He Is")
+**Political Connection:** Aurelian family — Upper Grid political/intellectual lineage, inherited. *Direct structural contrast to Kael's "Political Connection: None" (Section 2, above) — this asymmetry is the point, not an oversight.*
+
+---
+
+### Section 1 — Identity Alignment
+
+**Full Name:** Cassian Veyrion Aurelian. Confirmed 2026-07-12 per Founder decision (Phase 1C.10), superseding the earlier "Dr. Cassian Vey Arcturus" (Phase 1C.7).
+
+**Birthplace / Home Zone:** The Upper Grid — the highest layer of civilization within the same central megacity system that is Kael's own home setting (World Bible §3, Locked). Confirmed per Character Bible, "Family Origin."
+
+**Family Origin:** The Aurelian family — one of humanity's oldest intellectual and political lines, dating to the early era of solar expansion. Confirmed, Character Bible.
+
+**Current Location:** Pending Canon Assignment — the Doctrine's operational base/headquarters has not been compiled anywhere in Phase 1C. Not invented here.
+
+**Age at Story Beginning:** Not previously compiled anywhere in canon. **Proposed:** late 30s to early 40s — old enough to have held a senior USCN directorship, worked alongside the Guardian on civilization-scale evaluation, been radicalized by the Sol Collapse, and built the Doctrine into a functioning movement before the story begins, while remaining a contemporary generation above Kael (19) rather than an elder statesman. Flagged as new proposed content, not a Founder-confirmed figure — needs explicit confirmation or a specific number.
+
+**Civilization:** Humanity / United Solar System Nations sphere — same as Kael.
+
+---
+
+### Section 2 — Authority Identity Status
+
+**Registration Status:** Former USCN government official (Chief Strategic Futures Director); presently outside the formal Authority structure, having founded an independent movement following his radicalization.
+
+**Authority Classification:** Formerly Authority-adjacent at a senior level; the Doctrine itself is not a recognized arm of the Authority, Light Order, or Night Haven — it is an independent third force (Faction Bible, "Relationship to Wider Conflict," Founder-Confirmed).
+
+**Political Status:** Inherited Upper Grid Aurelian family standing — the direct inverse of Kael's Section 2 ("Political Connection: None... his influence comes from service, not ancestry"). Cassian's authority began as inherited; his present authority as Doctrine leader was then self-made on top of that inherited foundation, not instead of it.
+
+**Political Connection:** Aurelian family, Upper Grid. Confirmed, Character Bible, "Family Origin" and "Contrast with Kael."
+
+---
+
+### Section 3 — Institutional / Ideological Alignment
+
+*(Adapted from "Military Alignment" — Cassian holds no military rank; his production-relevant structural alignment is institutional and ideological.)*
+
+**Primary Affiliation:** The Ascendant Doctrine — founder and sole originating leader. The Doctrine's founding philosophy is his own personal conclusion, not an institution he later joined (Canon Alignment Patch v1.1; Character Bible, "The Doctrine's origin is his own").
+
+**Doctrine Composition:** Not a monolith — true believers who hold Cassian's own stated moral limits, skeptics who question its methods without abandoning its concerns, and extremists who go further than Cassian himself would allow. Confirmed, Faction Bible, "Supporting Cast Framework."
+
+**Relationship to Light Order:** No personal or institutional connection. The Doctrine is confirmed as an independent third force, not a splinter or wing of Light Order (Faction Bible, Patch v1.1). Cassian's opposition to Light Order, to the extent it exists, runs through ideology (control vs. protection), not personal history.
+
+**Relationship to Night Haven:** **Genuine gap — not previously compiled.** The Faction Bible establishes Night Haven's institutional view of the Doctrine in general ("the destruction of freedom... proof of what happens when survival is allowed to justify anything," Faction Bible §"Relationship to Doctrine"), but nothing anywhere establishes Cassian's own personal view of, or history with, Night Haven specifically. **Proposed, pending confirmation:** Cassian regards Night Haven the way he regards the Guardian — respect without agreement. He does not see their freedom-first philosophy as naive so much as unaffordable; he would argue Night Haven's cooperative model only survives because Light Order and the Doctrine's predecessors absorbed the costs Night Haven refused to. Flagged as new content, not asserted as settled.
+
+**Relationship to the Guardian:** Confirmed, worked alongside the Guardian pre-radicalization, still holds it in genuine esteem despite opposing it philosophically (Character Bible, "Relationship with the Guardian"; mirrored from the Guardian's own side in its "Relationship with Cassian").
+
+---
+
+### Section 4 — Signal Alignment
+
+**Signal Affinity:** Pending Canon Assignment
+**Signal Discipline:** Pending Canon Assignment
+**Strength Classification:** Pending Canon Assignment
+**Limitations:** Pending Canon Assignment
+
+Left open on the same basis as Kael's Section 4 — deferred to the same future final Signal pass across all characters, not invented here.
+
+---
+
+### Section 5 — Character Engine
+
+**Core Want:** To ensure the Sol Collapse — the catastrophe he predicted, personally warned against, and watched happen anyway through political division, delay, and self-interest — is never allowed to repeat. Confirmed, Character Bible, "Who He Is."
+
+**Core Need:** To learn that "a perfect humanity without freedom is not an evolution, it is another form of extinction" — that a humanity engineered into safety is no longer the humanity worth saving. Confirmed, Character Bible, "Character Arc."
+
+**Greatest Strength:** Not previously formalized as a single field. **Proposed:** Conviction — total, sincere certainty in his cause, backed by genuine strategic brilliance and discipline, and held to the same standard he'd apply to anyone else's ideology, up to and including dismantling it himself if proven wrong (Character Bible, "Personal Philosophy," moral limits). Flagged as a proposed formalization of already-compiled material, not new invention.
+
+**Greatest Flaw:** Not previously formalized as a single field. **Proposed:** Moral Certainty — a genuine desire to protect humanity that became, one hard compromise at a time, a justification for controlling it (Character Bible, "Character Arc," "His tragedy, stated plainly"). Same basis as Greatest Strength above — a naming of existing text, not new content.
+
+**Cost Already Paid:** Not previously compiled. **Proposed:** his faith in the system that raised and trained him; his standing as the Guardian's peer rather than its opponent; and the ability to distinguish, in his own mind, protecting people from controlling them. Flagged as new proposed content, drawn from but not identical to the "tragedy" and "Relationship with the Guardian" text — needs explicit confirmation.
+
+---
+
+### Section 6 — Fracture Classification
+
+**Fracture Anomaly Status:** Confirmed — **NOT a fracture anomaly subject.** System Rule 4 / World Bible §5 reserve that classification solely for Kael, the sole core/main fracture anomaly subject in this franchise. This is the correct value for Cassian (unlike the same phrase's misapplication to Kael in Entry 001, where it directly reversed a Locked fact) — here it is consistent with, not a violation of, that same Locked fact.
+
+---
+
+### Section 7 — Originality Verification
+
+**Originality Check:** PASS. Differentiated through: an antagonist whose philosophy is sincerely argued rather than a cover for personal ambition; radicalization by grief and evidence rather than by villainy; a man who would dismantle his own life's work if proven wrong. No existing defining question was previously compiled for him. **Proposed:** *"What does it cost to save someone who never agreed to be saved?"* Flagged as new proposed content, not a literal quote drawn from prior submissions — offered as a formalization consistent with his already-compiled moral limits and tragedy, pending Founder confirmation or replacement.
+
+---
+
+### Section 8 — Production Notes
+
+**Locked Elements:**
+✅ Full name — Cassian Veyrion Aurelian
+✅ Aurelian family / Upper Grid origin
+✅ USCN Chief Strategic Futures Director background
+✅ Ascendant Doctrine founder/leader status
+✅ Sol Collapse radicalization
+✅ Moral limits (no personal power, revenge, or cruelty; would dismantle the Doctrine if proven wrong)
+✅ NOT a fracture anomaly subject
+
+**Requires Future Assignment:**
+⚠️ Signal affinity, discipline, limitations (deferred, same future pass as Kael)
+⚠️ Current Location / Doctrine operational base
+⚠️ Age at story beginning (proposed, unconfirmed)
+⚠️ Cassian & Night Haven personal relationship (proposed, unconfirmed)
+⚠️ Cassian & Titan relationship (see "Not Applied," below — not addressed anywhere in canon)
+
+**Cassian Production Alignment Status (compiled 2026-07-12):**
+🟢 Identity Alignment — mostly complete, Age pending confirmation
+🟢 Authority Identity Status Complete
+🟢 Institutional/Ideological Alignment — mostly complete, Night Haven relationship pending confirmation
+🟡 Signal Profile intentionally pending, same as Kael
+🟢 Character Engine — formalized from existing text, pending confirmation of exact field wording
+🟢 Fracture Classification Complete
+🟢 Originality Check — proposed defining question pending confirmation
+🔴 Legacy Framework — **held, see "Not Applied," below.**
+
+---
+
+### Not Applied — Flagged Rather Than Silently Accepted
+
+**One item held, not applied as submitted:**
+
+- **Section 6 of the submission ("Cassian does not inherit a legacy. He constructs one."):** This directly contradicts material compiled one turn earlier and still standing: the Character Bible's "Legacy Framework" (v1.9) — *"Cassian — a person who inherited influence and chose control. His legacy is imposed"* — and the long-established "Contrast with Kael" text — *"Cassian's [authority] was inherited from everything."* Both were compiled specifically to sharpen the Kael/Cassian "nothing vs. everything" contrast that the Founder has reinforced multiple times this session (most recently in resolving Kael's own Political Connection field). "Constructs one" and "inherits... imposed" describe two different origins for Cassian's power, and only one can stand. **Recommendation: keep the already-compiled "inherited, then imposed" framing** — it doesn't erase the submission's underlying point so much as reframe it: Cassian *inherits* a legacy of standing and access, then *chooses* to impose a different kind of legacy on top of it through the Doctrine. That reading holds both the new material and the Locked contrast intact. Not applied as submitted; awaiting Founder confirmation or an explicit override.
+
+**Genuine gaps proposed rather than asserted as settled** (see inline flags above): Age at story beginning; Current Location/Doctrine base; Cassian & Night Haven relationship; Greatest Strength, Greatest Flaw, and Cost Already Paid as formalized single fields; the Originality Verification defining question.
+
+**Not addressed at all — flagged as a genuine absence, not resolved here:** a Cassian & Titan relationship. Nothing in the Character Bible, Faction Bible, or this submission establishes any connection between them — not even an absence-of-relationship statement. Given Titan is Locked as a Light 98th figure and Cassian personally worked alongside the Guardian in the same pre-radicalization period Titan's own legacy touches, this may be a real gap worth closing in a future pass rather than something to fill in here without Founder direction.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-12] Established per "Founder Decision — Phase 1C Production Alignment Rule" (Option B: character-class-appropriate interpretation of World Bible §14's Character Creation Rules checklist), resolving the outstanding production-readiness item from the prior Canon Audit. First entry: Kael Aurelian Veyr, full production alignment per the Human/Authority-connected tier. Two submitted field values corrected rather than transcribed -- "Fracture Anomaly Status: Not a Fracture anomaly" (reverses Master Prompt System Rule 4 / World Bible §5, read as a drafting error) and "Military Classification: Helldiver Candidate" (the same already-excluded framing flagged four times this session, conflicting with the Final-Locked Cadet-of-Ward-Division starting rank, Phase 1B.3 §8) -- both flagged explicitly under "Not Applied" rather than silently written in or silently dropped. One field held pending clarification: "Political Connection: Light Order Legacy Line," new material in tension with the already-compiled Kael/Cassian origin contrast. Signal affinity, discipline, and limitations left Pending Canon Assignment, consistent with the submission's own stated intent. Held at "Compiled -- Pending Founder Lock."`
 `[v1.1 — 2026-07-12] Per "Founder Decision — Kael Aurelian Veyr Political Connection," resolved the one item held from v1.0: **Option A, no Light Order bloodline connection**, confirmed as the correct call since it preserves rather than softens the already-compiled Kael/Cassian "nothing vs. everything" contrast. Political Connection field updated to "None," with the Locked Character Principle stated directly: Kael's importance comes from what he chooses to become, not where he was born, who his family was, or what organizations recognize him -- he is connected to Light Order only through Light 98th service and shared purpose, not ancestry. Fracture Classification and Military Alignment fields reconfirmed unchanged (both already matched the corrections applied in v1.0). Originality Verification's defining question refined, with the earlier version preserved as a compatible companion question, not replaced. Production Alignment Status updated to all-green except Signal Profile, which remains intentionally, non-blockingly pending. A new companion "Legacy Framework" section (Kael: earned; Cassian: imposed; Titan: larger than himself; the Guardian: remembered through restraint) compiled into the Character Bible (v1.9) -- see that document. Held at "Compiled -- Pending Founder Lock."`
+`[v1.2 — 2026-07-13] Second entry added: Cassian Veyrion Aurelian, full production alignment per the Human/Authority-connected tier. Most fields filled directly from already-compiled Character Bible and Faction Bible material (name, family origin, Upper Grid home zone, USCN background, Doctrine founder/leader status, moral limits, NOT-a-fracture-anomaly-subject status per System Rule 4's Kael-exclusivity). Several genuine gaps proposed rather than asserted as settled, each flagged inline: Age at story beginning, Current Location/Doctrine base, Cassian & Night Haven personal relationship, formalized Greatest Strength/Flaw/Cost Already Paid fields, and an Originality Verification defining question. One item held, not applied as submitted: the submission's Section 6 ("Cassian does not inherit a legacy. He constructs one.") directly contradicts the Character Bible's "Legacy Framework" (v1.9) and "Contrast with Kael" text, both compiled one turn earlier specifically to sharpen the Kael/Cassian inherited-vs-earned contrast -- recommendation is to keep the already-compiled "inherited, then imposed" framing rather than replace it, pending Founder confirmation. A Cassian & Titan relationship was found to not exist anywhere in compiled canon and is flagged as a genuine absence, not resolved here. Held at "Compiled -- Pending Founder Lock."`
