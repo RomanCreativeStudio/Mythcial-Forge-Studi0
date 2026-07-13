@@ -1,8 +1,8 @@
 # THE FRACTURE PROTOCOL — PHASE 2A STORY ARCHITECTURE
 ## Step 1 — Season & Arc Structure Foundation
 
-**Classification:** Internal — Canon (Compiled — Pending Founder Approval)
-**Status:** Drafted 2026-07-13 per "Founder Directive — Phase 2A Story Architecture Development, Step 1 — Season & Arc Structure Foundation (v1.0)," which authorized beginning development ("Status: BEGIN DEVELOPMENT") via a blank Discovery Questionnaire template rather than pre-submitted Founder answers. **This is different from every other Phase 1C document in this project: it is Claude-originated story architecture, not compiled from Founder-supplied material.** Every answer below is a proposed synthesis built entirely from already-Locked Phase 1A/1B/1C canon — no new characters, factions, technologies, or historical events are introduced, per the directive's own Integration Rules. Genuinely new structural decisions (season/arc count, arc titles, specific escalation-stage content, the central story question's exact phrasing) are original to this draft and explicitly flagged as proposed, not decided — everything else is cited directly to its Locked source. Per the directive's own Final Instruction, this document does not proceed to Phase 2A.2 (Timeline Development) until reviewed and approved.
+**Classification:** Internal — Canon (**Approved — Pending Founder Lock**)
+**Status:** Drafted 2026-07-13 per "Founder Directive — Phase 2A Story Architecture Development, Step 1 — Season & Arc Structure Foundation (v1.0)," which authorized beginning development ("Status: BEGIN DEVELOPMENT") via a blank Discovery Questionnaire template rather than pre-submitted Founder answers — the first Claude-originated story architecture document in this project, not compiled from Founder-supplied material. Reviewed 2026-07-13 via "Phase 2A.1 Founder Review & Alignment Audit," which returned "Approved With Adjustments" and flagged four items for Founder decision. **All four resolved 2026-07-13 per "Founder Directive — Phase 2A.1 Story Architecture Alignment Patch v1.0":** the three-arc structure, the central story question, the Arc/Season distinction, and the deferral of Arc 2's specific turning point are now Founder-approved — see each section below for the applied decision. Status updated from "Compiled — Pending Founder Approval" to **"Approved — Pending Founder Lock."** Per the Alignment Patch's own Final Instruction, this document does not proceed to Phase 2A.2 (Master Story Timeline) until it separately receives explicit Founder Lock confirmation.
 **Absolute authority:** `bible/Fracture_Protocol_Master_System_Prompt_v1.2.md`; `bible/Fracture_Protocol_Phase1C_Character_Bible_v1.0.md` and `bible/Fracture_Protocol_Phase1C_Faction_Bible_v1.0.md` (both Locked Canon) — this document expands on them and must never contradict them.
 **Companion documents:** `bible/Fracture_Protocol_Phase2_Master_Development_Roadmap_v1.0.md` (Phase 2A is Stage 1 of that roadmap's development order).
 
@@ -12,7 +12,7 @@
 
 ### 1. Intended Scope
 
-**Proposed: a complete, bounded multi-season saga** — not a single limited story, and not an open-ended, no-destination universe. The world-building already Locked (an interplanetary USCN government, a generations-old flagship conflict, a third-force ideological threat building toward civilization-scale stakes) is built for more than one contained story, but Section 6 of this same directive asks for a *Narrative Destination* — which only makes sense if the saga is written toward a real ending, not sustained indefinitely. Proposed structure: **three major arcs** (Section 2, below), each expandable into its own season if needed at the episode-development stage, escalating through the five-stage conflict framework this same directive already specifies (Section 5).
+**A complete, bounded multi-season saga** — not a single limited story, and not an open-ended, no-destination universe. The world-building already Locked (an interplanetary USCN government, a generations-old flagship conflict, a third-force ideological threat building toward civilization-scale stakes) is built for more than one contained story, but Section 6 of this same directive asks for a *Narrative Destination* — which only makes sense if the saga is written toward a real ending, not sustained indefinitely. **Approved structure (Alignment Patch v1.0, Decision 1): three major arcs** (Section 2, below), each potentially spanning multiple seasons at the production-development stage (Decision 3), escalating through the five-stage conflict framework this same directive already specifies (Section 5).
 
 ### 2. Central Statement
 
@@ -22,17 +22,31 @@ Synthesized directly from already-Locked material: Mira's entire narrative funct
 
 ### 3. Main Question
 
-**Proposed:** *"Can humanity be protected without being controlled — and what does it cost the people who try?"*
+**Approved 2026-07-13, per "Phase 2A.1 Story Architecture Alignment Patch v1.0," Decision 2:** *"Can humanity be protected without being controlled — and what does it cost the people who try?"*
 
-Directly downstream of Kael's own already-Locked defining question — *"If I have the power to protect humanity, how do I make sure I never stop seeing humanity?"* (Production Alignment Database, Entry 001) — and the Three-Way Conflict's own central question, *"can humanity survive without becoming what it fears?"* (Character Bible, "His Place in the Three-Way Conflict"). This phrasing is new to this draft; the question it's built from is not.
+Directly downstream of Kael's own already-Locked defining question — *"If I have the power to protect humanity, how do I make sure I never stop seeing humanity?"* (Production Alignment Database, Entry 001) — and the Three-Way Conflict's own central question, *"can humanity survive without becoming what it fears?"* (Character Bible, "His Place in the Three-Way Conflict").
+
+**The question is confirmed to represent the core conflict between five forces, each answering it differently** (per Decision 2's own framing, corrected against one drift — see the flag below):
+
+- **Kael** — protection through **balance**.
+- **Cassian** — protection through control.
+- **The Guardian** — protection through wisdom and restraint.
+- **Night Haven** — protection through independence and choice.
+- **Light Order** — protection through responsibility and discipline.
+
+**One correction applied, not silently transcribed:** the Alignment Patch's own Decision 2 listed Kael's answer as "protection through responsibility" — the same tag already assigned to Light Order. This collapses the one thing the Six Interpretations of Protection framework is built to keep distinct: each force gets its own answer, and Kael's Locked, specific answer is **Protection Through Balance** — his purpose is explicitly not to prove one philosophy correct but that humanity requires all of them (Character Bible, "His Place in the Three-Way Conflict"; Faction Bible, "The Five/Six Interpretations of Protection"). Read as a drafting slip rather than an intentional redefinition of Kael's role, corrected here to "balance."
+
+The story is confirmed as not defined by "who wins," but by *"what kind of protection is worth preserving"* (Decision 2).
 
 ---
 
 ## Section 2 — Season / Arc Framework
 
-*Proposed three-arc structure. Arc titles are working titles, explicitly not final. Each arc is written to map cleanly onto one or more stages of the Conflict Escalation Framework (Section 5).*
+**Approved 2026-07-13, per "Phase 2A.1 Story Architecture Alignment Patch v1.0," Decision 1:** the three-arc structure is confirmed, reinforcing the franchise progression **Personal → Ideological → Civilizational**. Arc names below are updated to the Founder-approved functional titles ("Personal Foundation," "Ideological Collision," "Civilizational Resolution"), superseding this draft's original working titles ("The Weight of Choice," "The Three-Way Fracture," "What Humanity Chooses" — retained below in parentheses as the original proposal, not deleted from the record).
 
-### Arc 1 — "The Weight of Choice" *(working title)*
+**Approved 2026-07-13, Decision 3 — Arc and Season are not identical structures:** Arc represents a major narrative era; Season represents production storytelling structure. A single arc may contain multiple seasons if pacing requires it. This confirms and formalizes, rather than replaces, this document's own original framing ("each expandable into its own season if needed") — the distinction is now explicit rather than implied.
+
+### Arc 1 — Personal Foundation *(originally proposed as "The Weight of Choice")*
 
 **Purpose:** Establish who Kael is before the war reaches civilizational scale — his grief, his earned relationships, his first real tests of leadership.
 **Central Question:** What does it mean to protect people, not just complete a mission?
@@ -43,18 +57,18 @@ Directly downstream of Kael's own already-Locked defining question — *"If I ha
 **Major Theme:** Leadership is service, not authority.
 **Narrative Importance:** The foundation arc — protection has to matter personally before it can matter civilizationally.
 
-### Arc 2 — "The Three-Way Fracture" *(working title)*
+### Arc 2 — Ideological Collision *(originally proposed as "The Three-Way Fracture")*
 
 **Purpose:** Escalate to the full political and ideological conflict; Cassian becomes Kael's direct philosophical opposite; the Light Order/Night Haven rivalry and the Doctrine's shared outside pressure both intensify at once.
 **Central Question:** Can humanity survive without becoming what it fears?
 **Beginning State:** The Ascendant Doctrine operates openly at civilizational scale (the Ascendant Network); Cassian and Kael's philosophies collide directly for the first time.
-**Ending State:** Kael inherits pieces of all three factions' answers without belonging fully to any of them (Character Bible, "His Place in the Three-Way Conflict") — already-Locked as his narrative position, not new to this draft; a major personal cost is paid, consistent with his own Character Engine ("Cost Already Paid": a normal childhood, personal freedom, emotional simplicity, and the ability to view conflict from a distance).
+**Ending State:** Kael inherits pieces of all three factions' answers without belonging fully to any of them (Character Bible, "His Place in the Three-Way Conflict") — already-Locked as his narrative position, not new to this draft; a major personal cost is paid, consistent with his own Character Engine ("Cost Already Paid": a normal childhood, personal freedom, emotional simplicity, and the ability to view conflict from a distance). **Philosophical destination confirmed 2026-07-13 (Decision 4). The specific turning point, major events, character-changing moments, conflict catalysts, and losses that produce this ending state are Approved Deferrals** — intentionally not specified here, to be developed during Phase 2A.2 (Master Story Timeline), Phase 2B (Conflict Expansion), and Phase 2C (Character Journeys), not invented at this structural stage.
 **Main Character Focus:** Kael, Cassian, the Guardian, Light Order and Night Haven as institutional forces.
 **Primary Conflict:** Political, escalating into Ideological (Stages 3–4).
 **Major Theme:** Protection without freedom becomes control; freedom without protection creates vulnerability (Faction Bible, "The Five/Six Interpretations of Protection").
 **Narrative Importance:** The philosophical core of the saga — every major faction's answer to "what does humanity need to survive" is in direct, active collision at once.
 
-### Arc 3 — "What Humanity Chooses" *(working title)*
+### Arc 3 — Civilizational Resolution *(originally proposed as "What Humanity Chooses")*
 
 **Purpose:** Resolve the central question at full civilizational scale; test the Guardian's restraint and Cassian's own stated hypothetical to their limits.
 **Central Question:** What future does humanity choose when it finally has to choose?
@@ -165,16 +179,17 @@ Directly downstream of Kael's own already-Locked defining question — *"If I ha
 
 ## Completion Standard
 
-✅ Overall story scope defined (Section 1.1) — proposed, pending confirmation.
-✅ Major arcs have purpose (Section 2) — three arcs proposed, titles and count pending confirmation.
-✅ Kael's journey has direction (Section 3) — built entirely from already-Locked material.
-✅ Character roles are clear (Section 4) — built entirely from already-Locked material; the Guardian's mystery deliberately left unresolved.
-✅ Conflict escalation established (Section 5) — mapped onto the directive's own five-stage framework.
-✅ Central thematic question defined (Section 1.3, Section 6) — proposed phrasing, built from already-Locked source questions.
+✅ Overall story scope defined (Section 1.1) — **Approved**, Decision 1.
+✅ Major arcs have purpose (Section 2) — **Approved**, Decision 1; arc names finalized.
+✅ Kael's journey has direction (Section 3) — built entirely from already-Locked material; unaffected by this patch.
+✅ Character roles are clear (Section 4) — built entirely from already-Locked material; the Guardian's mystery deliberately left unresolved; unaffected by this patch.
+✅ Conflict escalation established (Section 5) — mapped onto the directive's own five-stage framework; unaffected by this patch.
+✅ Central thematic question defined (Section 1.3, Section 6) — **Approved**, Decision 2, with one correction applied (Kael's interpretation is balance, not responsibility — see Section 1.3).
 
-**Per the directive's own Final Instruction: this document does not proceed to Phase 2A.2 (Timeline Development) until reviewed and approved.** No episode outlines, scripts, scenes, or dialogue are included, consistent with that instruction.
+**All four Founder decisions from the Alignment Audit are now resolved.** Per the Alignment Patch's own Final Instruction: this document does not proceed to Phase 2A.2 (Master Story Timeline) until it separately receives explicit Founder Lock confirmation. No episode outlines, scripts, scenes, character deaths, major turning points, or timeline details are included, consistent with the Alignment Patch's own Integration Rules — Arc 2's turning point and losses remain Approved Deferrals (Decision 4), not decided here.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-13] Drafted per "Founder Directive — Phase 2A Story Architecture Development, Step 1 — Season & Arc Structure Foundation (v1.0)." First Claude-originated story architecture document in this project — built entirely from synthesis of already-Locked Phase 1A/1B/1C canon, with no new characters, factions, technologies, or historical events introduced. Genuinely new structural proposals (three-arc saga structure, arc titles, the central story question's exact phrasing) are explicitly flagged as proposed, not decided. The Guardian's origin mystery is deliberately left unresolved, consistent with every prior directive's instruction. Held at "Compiled — Pending Founder Approval" — does not proceed to Phase 2A.2 until reviewed and approved, per the directive's own Final Instruction.`
+`[v1.1 — 2026-07-13] Reviewed via "Phase 2A.1 Founder Review & Alignment Audit" (delivered in conversation, not written into this document): returned "Approved With Adjustments" and flagged four items for Founder decision. All four resolved per "Founder Directive — Phase 2A.1 Story Architecture Alignment Patch v1.0": **Decision 1** confirmed the three-arc structure and finalized arc names (Personal Foundation, Ideological Collision, Civilizational Resolution), superseding but not deleting the original working titles. **Decision 2** confirmed the central story question and its five-force mapping (Kael, Cassian, the Guardian, Night Haven, Light Order) -- **one correction applied, not silently transcribed:** the patch's own Decision 2 tagged Kael's interpretation as "protection through responsibility," duplicating Light Order's already-Locked tag and collapsing the distinctness the Six Interpretations of Protection framework depends on; corrected to Kael's actual Locked interpretation, Protection Through Balance. **Decision 3** formalized the Arc/Season distinction (Arc = narrative era, Season = production unit; one arc may span multiple seasons). **Decision 4** marked Arc 2's specific turning point, major events, character-changing moments, conflict catalysts, and losses as Approved Deferrals to Phase 2A.2/2B/2C, not decided here. Status updated from "Compiled -- Pending Founder Approval" to "Approved -- Pending Founder Lock." Per the Alignment Patch's own Final Instruction, does not proceed to Phase 2A.2 until this document separately receives explicit Founder Lock confirmation.`
