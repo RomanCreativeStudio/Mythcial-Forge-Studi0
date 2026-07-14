@@ -1,7 +1,7 @@
 # THE FRACTURE PROTOCOL / MYTHIC FORGE STUDIOS — PHASE 3A: CONTENT PRODUCTION PIPELINE INTEGRATION FRAMEWORK
 
-**Classification:** Internal — Process Document (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-14 per "Founder Directive — Phase 3A Content Production Pipeline Development (v1.0)" and the subsequent Founder Decision Resolution (Naming + Scope) that authorized this document's compilation. Per that Resolution and the original directive's own Final Instruction, this document is held at **Compiled — Pending Founder Approval**. No canon is locked, no registry is updated, and no governance document is modified by this compilation. Phase 3B is not opened.
+**Classification:** Internal — Process Document (**Approved With Adjustments — Pending Founder Lock Certification**)
+**Status:** Compiled 2026-07-14; patched 2026-07-14 per the Founder Review & Alignment Audit and the subsequent Founder Decision Resolution (Analytics Feedback Loop + Idea Origination Pointer), both approved as pointer-only additions. This document is held at **Approved With Adjustments — Pending Founder Lock Certification**. No canon is locked, no registry is updated, and no governance document is modified by this patch. Phase 3B is not opened.
 
 **Naming disclaimer (required, verbatim per Founder Decision Resolution):** This Phase 3A designation refers to the Content Production Pipeline Development track opened by this Founder Directive and does not replace or reopen the previously completed Phase 3A Canon Reference System milestone.
 
@@ -26,6 +26,8 @@ Before any story enters the pipeline below, it must be able to answer: *why does
 - Company-level creative philosophy, originality standards, and long-term vision are owned by Studio OS Sections 1, 2, and 5 (**[LOCKED]**) — referenced here, not restated.
 
 **Gate:** a story concept is not "Approved" and ready to enter Section 2's pipeline until it can point to a Locked theme, a Locked story element, or an explicit new Proposal Vault entry authorizing it.
+
+**Where ideas originate:** ideas currently originate through `studio-os/Studio_OS_v1.0.md`, Section 25 (Weekly Sprint Planning, **[LIVING SECTION]**), before entering the gate above. No standalone Idea Management framework exists yet; if one is created in the future, this document should route to that authority instead of Section 25.
 
 ---
 
@@ -101,6 +103,18 @@ This framework does not define a new publishing cadence, a new funnel stage, or 
 
 ---
 
+## Section 6A — Analytics & Iteration Feedback Loop
+
+**Authoritative sources:**
+- `studio-os/Studio_OS_v1.0.md`, Section 24 (Analytics Review Process, **[LIVING SECTION]**) — the metrics reviewed after publishing (retention curve, CTR, Shorts→mainline conversion, subscriber growth) and their decision triggers.
+- `studio-os/Studio_OS_v1.0.md`, Section 26 (Monthly Review Process, **[LIVING SECTION]**).
+
+The pipeline in Section 2, above, does not end at Stage 11 (Publishing). What is learned after publishing routes back into Section 1's content-strategy gate for the stories that follow it: Publishing → Analytics → Iteration → Future Story Planning.
+
+**Governing principle (restated from Studio OS Section 24, not altered): analytics inform iteration, not canon.** A metric never overrides an Originality Check or a Locked Bible element, and this section defines no new analytics procedure — Studio OS Section 24 remains the sole authority on what is measured and when.
+
+---
+
 ## Section 7 — Governance Cross-Reference
 
 For any question this framework does not answer, the routing is:
@@ -122,12 +136,16 @@ This framework is itself none of the above — it is the map between them, not a
 
 ## Required Phase 3A Evaluation
 
-1. **No pipeline stage, QA rule, AI rule, or publishing standard was redefined.** Every operative rule cited above is quoted or referenced from its single owning document, never restated as a new independent rule. Verified section-by-section during compilation (Sections 2, 4, 5, 6, above each name their sole authoritative source before adding any synthesis).
+1. **No pipeline stage, QA rule, AI rule, or publishing standard was redefined.** Every operative rule cited above is quoted or referenced from its single owning document, never restated as a new independent rule. Verified section-by-section during compilation (Sections 2, 4, 5, 6, 6A, above each name their sole authoritative source before adding any synthesis).
 2. **No content duplicated at operative granularity.** Where two existing documents describe the same ground at different levels (Production Bible Section 3 vs. Studio OS Section 13; Production Bible Section 9 vs. Studio OS Section 14), this framework states the relationship between them rather than merging or restating either in full.
 3. **Naming collision disclosed, not silently carried.** The required disclaimer sentence appears verbatim in the Status block, above, distinguishing this track from the completed Phase 3A Canon Reference System milestone referenced in `registries/Fracture_Protocol_Canon_Reference_System_v1.0.md` and `registries/Fracture_Protocol_Story_Timeline_Bible_v1.0.md`.
 4. **No governance action taken beyond authorization.** This document is held at Compiled — Pending Founder Approval. The Canon Registry, Proposal Vault, Governance Manual Document Authority Hierarchy, and any registry (including the non-existent "Production Registry") are unmodified by this compilation. Phase 3B is not opened.
 
-**Open items flagged for Founder Review & Alignment Audit (not resolved by this compilation):**
+**Resolved via Founder Review & Alignment Audit and Founder Decision Resolution (2026-07-14):**
+- The narrative-flow gap identified in the Audit's Section 3 (pipeline ended at Publishing, with no route back to Analytics) is closed by Section 6A, above — pointer-only, no new analytics procedure defined.
+- The idea-origination gap identified in the Audit's Section 3 is closed by the "Where ideas originate" line in Section 1, above — pointer-only, routes to Studio OS Section 25.
+
+**Open items still flagged for Founder Lock Certification (not resolved by this patch):**
 - This document needs a Governance Manual Section 3 authority-table row once approved.
 - The original directive's reference to a "Production Registry" has no matching document; Founder guidance is needed on whether one should be created, whether `documentation/Asset_Registry.md`'s scope should be broadened, or whether the reference should simply be corrected in future directives.
 
@@ -135,3 +153,4 @@ This framework is itself none of the above — it is the map between them, not a
 
 ### Changelog
 `[v1.0 — 2026-07-14] Compiled per "Founder Directive — Phase 3A Content Production Pipeline Development (v1.0)" and the Founder Decision Resolution (Naming: retain "Phase 3A," disclaimer required verbatim; Scope: synthesis/index-only Production Pipeline Integration Framework). Built as a cross-reference and handoff-mapping document across Studio OS, Production OS, Production Bible, Art Bible, Brand Bible, and the Studio Governance Manual — redefines no pipeline stage, QA rule, AI rule, or publishing standard. Flags two open items for Founder review: this document's own Governance Manual Section 3 authority-table entry, and the absence of a "Production Registry" document referenced by the original directive. Status: Compiled — Pending Founder Approval. Canon Registry, Proposal Vault, Governance Manual, and all registries left unmodified per the Founder's explicit instruction; Phase 3B not opened.`
+`[v1.1 — 2026-07-14] Alignment Patch per Founder Review & Alignment Audit and Founder Decision Resolution (Analytics Feedback Loop + Idea Origination Pointer, both approved as pointer-only additions). Added Section 6A (Analytics & Iteration Feedback Loop), routing to Studio OS Sections 24 and 26 and restating their own "analytics inform iteration, not canon" rule verbatim, closing the narrative-flow loop (Publishing → Analytics → Iteration → Future Story Planning) the Audit identified as missing. Added a one-sentence idea-origination pointer to Section 1, routing to Studio OS Section 25 pending any future dedicated Idea Management framework. No pipeline stage, QA rule, AI rule, publishing standard, or governance authority was redefined or reassigned; the two Founder Lock-pending open items (Governance Manual authority-table row, "Production Registry" naming gap) remain open, unchanged by this patch. Status: Approved With Adjustments — Pending Founder Lock Certification.`
