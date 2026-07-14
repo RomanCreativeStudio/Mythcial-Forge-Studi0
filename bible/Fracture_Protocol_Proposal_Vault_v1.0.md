@@ -506,6 +506,18 @@ Questions 3, 4, 6 (its underlying character reasoning), 7, and 8 are clean and c
 
 ---
 
+### Phase 4A — Series Bible Season One Material Superseded in Substance
+
+**Status:** **Resolved 2026-07-14.** Founder Decision Resolution issued; applied in `bible/Fracture_Protocol_Phase4A_Season1_PreProduction_v1.0.md` (Compiled — Pending Founder Approval). Series Bible itself left untouched pending a future dedicated revision.
+**Date Logged:** 2026-07-14
+**Purpose:** While researching grounding for the "Founder Directive — Phase 4A Season One Pre-Production Development (v1.0)," found that `series/01-the-fracture-protocol/Series_Bible_v1.1.md` Sections 1–11 (Series Premise through Episode 1–20 Outline) are a same-day reskin of a retired, unrelated fantasy IP ("Kael: The Shattered Realms," per the Series Bible's own v1.0 changelog), dated 2026-07-06 — roughly a week before Phase 1C established the actual Fracture Protocol cast (Cassian, Mira, Titan, the Guardian) and roughly a week before Phase 2A–2E built the actual story architecture and timeline.
+**Impact — a structural contradiction between two independently-Locked documents, not a citation slip:** the Series Bible's Season One cast (Sella Rook, Reyth, Halvard Ossic, Division Director Serath, Yselde Cray, Aris) and central mystery (a covert Root Artifact experiment; the Reassembly's infiltration of it; "the Hollow King") appear nowhere in the Phase 1C Character Bible, the Faction Bible, or Phase 2A/2A.2/2B/2C/2D/2E. None of Mira, Cassian, Titan, the Guardian, Light Order, Night Haven, or the Ascendant Doctrine appear anywhere in Series Bible Sections 1–9 either. Phase 2A.2's own Arc One Timeline (Locked Canon, certified 2026-07-13) describes a materially different personal-foundation story — a Breach-adjacent containment crisis opening, run on the real Locked cast, ending on a different event entirely — built and cited entirely independent of the Series Bible. Flagged to the Founder in full before any Phase 4A drafting began, rather than silently drafting around it or silently picking a side.
+**Recommendation (as surfaced):** three options presented — (1) treat the Series Bible's Season One material as superseded in substance, build Phase 4A from Phase 2A.2 onward, and reconcile the Series Bible later; (2) treat the Series Bible as authoritative and retcon Phase 2A.2 into it; (3) a hybrid keeping the Series Bible's episode count/pacing shape with the real cast substituted in.
+**Founder Decision Resolution (2026-07-14), verbatim:** *"Proceed with Option 1. Treat the Master Story Timeline (Phase 2A.2) and all subsequent locked Phase 1C–2E documents as the authoritative foundation for Season One. The current Series Bible Episode Outline (§10–11) is superseded in substance and should be formally reconciled in a later Series Bible Revision rather than used as the basis for Phase 4A."*
+**Applied:** Phase 4A (`Fracture_Protocol_Phase4A_Season1_PreProduction_v1.0.md`) draws zero content from the Series Bible. One scope note carried forward, not acted on unilaterally: the Founder's resolution named Series Bible §10–11 specifically; this session's research found the same supersession runs through §§1–9 as well, since none of it describes the actual Locked cast or story either — recorded here as scope context for the future Series Bible Revision, which remains a separate, not-yet-opened piece of work. The Series Bible file itself is unmodified.
+
+---
+
 ## Entry Template (copy for new proposals)
 
 ```
