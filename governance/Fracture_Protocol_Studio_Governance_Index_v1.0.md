@@ -128,7 +128,7 @@ Planning → Scripting → Storyboarding → Asset Production → Image Generati
 /governance/          Studio Governance Manual, Index, Decision Log, Repository Health Guide
 /studio-os/           Studio OS
 /production-bible/      Production Bible
-/production-os/        Production OS (department SOP detail only)
+/production-os/        Production OS (department SOP detail only); Phase 3A Production Pipeline Integration Framework (navigation/cross-reference only)
 README.md            Studio Wiki
 ```
 *Full version: Studio Wiki §15 (Folder Structure Index).*
@@ -150,6 +150,7 @@ README.md            Studio Wiki
 | Production Bible | Production philosophy/pipeline/checklists |
 | Studio Wiki (README.md) | Full navigation index |
 | This Index | One-page visual summary of all of the above |
+| Phase 3A Production Pipeline Integration Framework | Cross-reference/navigation layer across Studio OS, Production OS, Production Bible, Art Bible, Brand Bible for the episode production pipeline — owns none of them |
 
 ---
 
@@ -162,8 +163,9 @@ README.md            Studio Wiki
 | Series Bible | 1.1 |
 | Art Bible | 3.0 (index; per-file versions vary) |
 | Proposal Vault | 1.0 |
-| Studio Governance Manual | 1.1 |
+| Studio Governance Manual | 1.2 |
 | Studio Governance Index | 1.0 |
+| Phase 3A Production Pipeline Integration Framework | 1.3 (internal) |
 | Studio Decision Log | 1.0 (2 entries) |
 | Repository Health Guide | 1.0 |
 | Franchise Design Manifesto | 1.0 |
@@ -186,6 +188,7 @@ README.md            Studio Wiki
 | Proposal Vault | 🔄 7 entries pending decision |
 | Studio Governance Manual | ✅ Complete |
 | Studio Governance Index | ✅ Complete |
+| Phase 3A Production Pipeline Integration Framework | ✅ LOCKED PRODUCTION STANDARD |
 | Studio Decision Log | 🔄 Structure complete, 2 entries logged |
 | Repository Health Guide | ✅ Complete |
 | Franchise Design Manifesto | ✅ Complete |
@@ -219,3 +222,4 @@ New canon proposal    → Proposal Vault only, never inline in a Bible
 `[v1.0 — 2026-07-07] Initial one-page Studio Governance Index established: 12 compact diagram/table sections consolidating the Studio Governance Manual and Studio Wiki into a single at-a-glance view. Introduces no new authority or canon — every element cites the document that actually governs it. Built deliberately thin to avoid becoming a third copy of governance content already fully specified in the Governance Manual and Studio Wiki.`
 `[v1.0 — 2026-07-07] Refreshed every version/status table and diagram to reflect the two Studio Architecture Audit corrections now applied: Production OS v2.0 (narrowed scope), Production Bible v1.1, Studio Governance Manual v1.1, Studio Wiki v3.6, and the Production Bible/Production OS overlap marked resolved rather than standing-open. Version stays 1.0 per this document's own "Living, regenerated whenever a cited fact changes" designation — no structural change, only refreshed content.`
 `[v1.0 — 2026-07-07] Fixed Section 8's Repository Map, which had never been updated to include the `/manifesto/` folder (added when the Franchise Design Manifesto was created) — caught while refreshing this pass.`
+`[v1.0 — 2026-07-14] Refreshed Section 8 (Repository Map), Section 9 (Operating Document Index), Section 10 (Version Table), and Section 11 (Status Table) to add the newly-Locked `production-os/Fracture_Protocol_Phase3A_Content_Production_Pipeline_Integration_Framework_v1.0.md`, per "Founder Decision Resolution — Phase 3A Production Standard Promotion" and its new Governance Manual Section 3 row (Manual now at v1.2). Version stays 1.0 per this document's own "Living, regenerated whenever a cited fact changes" designation — no structural change, only refreshed content.`
