@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 22 of 36
 **Working Title (not final):** "Partial Information"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 21's approval. Opens Movement IV ("The Reckoning") and Arc Transition Two. Structural/institutional episode: establishes mechanism, not event — no specifics of the coming loss invented, reserved for Episode 23.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 21's approval. Opens Movement IV ("The Reckoning") and Arc Transition Two. Structural/institutional episode: establishes mechanism, not event — no specifics of the coming loss invented, reserved for Episode 23. **Approved 2026-07-15 following clean PASS results from all three verification structures.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -452,9 +452,10 @@ Structural cross-cutting between three institutional spaces throughout, building
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.**
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 22 package, Episodes 1–21's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 23 — the loss itself.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 21's approval. Tenth Arc Two screenplay, opening Movement IV and Arc Transition Two — the institutional mechanism of the coming loss — built from the sole seed authority of the Approved Phase 4B Episode 22 Production Development Package. Five scenes matching the package one-to-one (What Light Order Sees, What Night Haven Knows, What the Doctrine Is Approaching, Rivalry, Not Coordination, Not Yet Landed), structurally cross-cutting between three institutions rather than following a single character's throughline. The threshold rendered exactly as Phase 2A.2's own Section 5 states it, verified directly against source during compilation — three factions, each holding partial information, prevented from acting decisively by rivalry rather than malice. No specific content of the coming loss invented; that material is reserved entirely for Episode 23. No core-cast character undergoes personal development, consistent with the seed entry's explicit "none resolved" instruction; Kael appears only as an institutional witness in Scenes 1 and 5. Cassian, the Guardian, Mira, and Titan correctly do not personally appear. Signal/Cipher-work untouched. Regression Verification and the Arc Two Reveal Progression Verification performed against Episodes 1–21; all sections PASS, with primary verification on canon regression. All four assets flagged Asset Creation Required. No superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 22 package, Episodes 1–21's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from all three verification structures. No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 23.`
