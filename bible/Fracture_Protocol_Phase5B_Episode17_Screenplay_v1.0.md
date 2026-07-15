@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 17 of 36
 **Working Title (not final):** "What the Collapse Made"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 16's approval. Continues Movement II ("The Revelation Cluster") — Cassian's full origin. Primary verification: the Sol Collapse rendered exactly as Locked, no new casualty/location/mechanism detail, no restatement of the removed multi-world-scope claim; Kael undergoes no personal development; the Guardian does not personally appear.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 16's approval. Continues Movement II ("The Revelation Cluster") — Cassian's full origin. Primary verification: the Sol Collapse rendered exactly as Locked, no new casualty/location/mechanism detail, no restatement of the removed multi-world-scope claim; Kael undergoes no personal development; the Guardian does not personally appear. **Approved 2026-07-15 following clean PASS results from all three verification structures.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -456,9 +456,10 @@ Continuous pacing across Scenes 1–3 as the account builds; a deliberate discon
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.**
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 17 package, Episodes 1–16's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 18 — the Guardian's own history with Cassian.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 16's approval. Fifth Arc Two screenplay, continuing Movement II — Cassian's full origin, the Sol Collapse — built from the sole seed authority of the Approved Phase 4B Episode 17 Production Development Package. Five scenes matching the package one-to-one (Before the Warning, The Warning Ignored, What It Made Him, What He Doesn't Say, A Genuine Tragedy). The Sol Collapse rendered exactly as Locked — political division, delay, self-interest, millions of lives — with no new casualty count, location, or mechanism invented, and no restatement of the previously-removed multi-world-scope claim (Phase 2D, Alignment Patch v1.2), verified with primary scrutiny. The Doctrine's origin confirmed as Cassian's own conclusion, not a separate institution. His private fear revealed to the audience in a solo Scene 4, never confessed to Kael. Kael undergoes no personal development, consistent with the seed entry's explicit instruction; his burden-alone flaw remains untouched. The Guardian does not personally appear; its full history with Cassian remains reserved for Episode 18. Titan, Mira, and Night Haven correctly do not appear. Signal/Cipher-work untouched. Regression Verification and the Arc Two Reveal Progression Verification performed against Episodes 1–16; all sections PASS. All four assets flagged Asset Creation Required. No superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 17 package, Episodes 1–16's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from all three verification structures (Founder Review & Alignment Audit, Regression Verification, Arc Two Reveal Progression Verification). No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 18.`
