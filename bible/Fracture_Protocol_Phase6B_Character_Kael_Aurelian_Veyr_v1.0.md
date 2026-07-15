@@ -5,6 +5,7 @@
 **Status:** Compiled 2026-07-15 per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Step 1 of 4 (Kael → Mira → the Guardian → Cassian). This document creates no story content, no canon expansion, and no screenplay revision — it is a production asset specification only, translating already-Locked/Approved material into the 10-section format the directive requires.
 **Absolute authority:** subordinate to Master System Prompt → Locked Canon (Phase 1, 1C Character Bible, 1C Faction Bible, Phase 2 series) → Production Bible → Approved Production Packages (Phase 4B) → Approved Screenplays (Phase 5B, Locked under Phase 5B.5) → Phase 6.0 → Phase 6A → Phase 6A.5, in that order, per Phase 6B.0 Section 2.
 **Working interpretation, stated explicitly rather than silently assumed:** Phase 6B.0's top-level instruction reads "If information is missing: identify it, cite the missing authority, stop. Do not fabricate," while its own Section 3 instruction for the Physical Production Profile reads "If any specification is missing: flag it. Do not invent it." These are read together, not as a contradiction: the directive's STOP CONDITIONS list (Section on stop conditions) names structural blockers — Canon contradiction, Repository corruption, Missing Locked authority, Asset dependency conflict, Governance conflict, Founder instruction — as the actual grounds for halting production outright. A missing physical descriptor within an otherwise-buildable package is treated, consistent with every prior phase's standing practice in this project, as a field-level gap to flag and continue past, not a package-level stop condition — because Kael's Character Authority (identity, narrative, emotional, thematic role) is fully Locked and sufficient to build a package around, even where physical/costume specification is incomplete. If this reading is wrong, the Founder is asked to correct it before Mira's package is built on the same assumption.
+**REOPENED 2026-07-15 per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)."** That directive created `bible/Fracture_Protocol_Phase6B2_Human_Character_Visual_Canon_v1.0.md` as new Locked Production Canon resolving most of the Physical Production Profile gap this package originally flagged. Per Phase 6B.2's own Update Rule, only Sections 1 (Art References), 3 (Physical Profile, Visual Identity, Silhouette), 6–7 (Animation Notes), and 10 (Production Status) are updated below. **Every narrative section — 2, 4 (Costume, still not defined by Phase 6B.2), 5, 8, 9 — is left untouched.** The original Phase 6B.0 Founder Review & Alignment Audit and Founder Approval are preserved unmodified below as historical record; a dedicated Phase 6B.2 Update Audit and Approval follow them.
 
 ---
 
@@ -26,6 +27,7 @@ Every governing source for Kael Aurelian Veyr, cited directly rather than from m
 | `bible/Fracture_Protocol_Phase6A_Master_Production_Roadmap_v1.0.md` | Kael's asset priority (Priority 1, highest reuse — all 36 episodes), Character Asset Plan entry | Approved |
 | `bible/Fracture_Protocol_Phase6A5_Asset_Production_Standards_v1.0.md` | Asset ID/Naming/Version/Lifecycle standards this package's Section 10 must follow | Locked |
 | `documentation/Asset_Registry.md` | Existing FPP-CHAR-001 backlog entry for Kael | Registry of record |
+| **`bible/Fracture_Protocol_Phase6B2_Human_Character_Visual_Canon_v1.0.md`** *(added on reopening, 2026-07-15)* | **Sole Art Reference for Kael's visual production beyond his already-Locked eye-glow**: silhouette, height range, body proportions, facial structure, hair, skin, hands, movement style, posture, emotional presence, visual contrast, color philosophy, lighting behavior, animation notes, camera language, do-not-do rules, production notes, visual consistency. Supersedes most of this package's original "missing" findings in Section 3 — those findings are preserved as historical record, not deleted. Costume/clothing remains outside Phase 6B.2's scope; Section 4 is unaffected. | Locked Canon (new, same tier as Phase 6B.1 for this domain) |
 
 **Checked and confirmed silent (no Kael-specific content found):** `mythic-forge-art-bible/global-consistency-rules.md`, `materials-and-textures.md`, `system-interference-visual-rules.md`, `environment-design-rules.md` — grepped by name, zero hits. Not cited as authority for Kael specifically.
 
@@ -47,20 +49,27 @@ No physical, costume, or purely-visual content appears anywhere in this section'
 
 ## 3. Physical Production Profile
 
-**Flagged as missing — not invented.** A systematic search of the Character Bible, World Bible, Faction Bible, and Phase 1B.3 Production Bible found **zero** physical descriptors for Kael (grep sweep for height/proportions/build/tall/short/complexion/skin/hair returned no matches against Kael-specific content). The following fields have no Locked source and are flagged as open production items requiring Founder input or Art Bible expansion before final character-turnaround art can be produced:
+**RESOLVED 2026-07-15 per Phase 6B.2 Human Character Visual Canon**, for all fields except final exact values (which Phase 6B.2 itself deliberately leaves to concept-art finalization). The original Phase 6B.0 findings are preserved immediately below the resolved table, as historical record.
+
+### Visual Identity (new, per Phase 6B.2)
+
+Kael's design philosophy is "ordinary person, extraordinary responsibility" — never chosen-one glamour. His one visual exception is his already-Locked eye-glow (a diagnostic burden, not a decoration); everything else about his design is deliberately practical and earned-looking. Full rationale in Phase 6B.2, Section 3.
+
+### Physical Production Profile (resolved per Phase 6B.2)
 
 | Field | Status |
 |---|---|
-| Height | **Missing — not specified in any Locked source.** |
-| Proportions / body type | **Missing — not specified.** |
-| Silhouette | **Missing — not specified.** |
-| Posture | **Missing — not specified.** |
-| Movement language | **Missing — not specified beyond general action-line evidence in Section 6 below (e.g., stands/walks/runs/turns/observes across Episodes 2, 3, 4, 7, 12, 19, 25, 27, 36).** No stylistic movement-quality description exists. |
-| Facial characteristics (bone structure, jaw, etc.) | **Missing — not specified.** |
-| Hair (color, style, length) | **Missing — not specified.** |
-| Skin tone / complexion | **Missing — not specified.** |
+| Height | **Resolved: approximately 178–185 cm (5'10"–6'1"), exact value open to concept-art finalization within this range.** Per Phase 6B.2, Height Range. |
+| Proportions / body type | **Resolved: lean-athletic, Ward Division Cadet-trained; not stylized hypermasculine bulk.** Per Phase 6B.2, Body Proportions. |
+| Silhouette | **Resolved: practical Cadet-trained silhouette, capable but not superhuman.** Per Phase 6B.2, Overall Silhouette. |
+| Posture | **Resolved: upright but not rigid; visible shoulder tension as the physical trace of his burden; opens in rare private/vulnerable moments.** Per Phase 6B.2, Posture. |
+| Movement language | **Resolved: economical, controlled, disciplined; sharpens during Activation eye-glow state.** Per Phase 6B.2, Movement Style — now a stylistic rule, not only the original action-line evidence (preserved below). |
+| Facial characteristics | **Resolved: open, direct, sincere features; youthful but visibly carrying strain beyond his years.** Per Phase 6B.2, Facial Structure. |
+| Hair | **Resolved: dark, short, practical, no vanity styling.** Per Phase 6B.2, Hair. Exact shade remains a concept-art-stage decision. |
+| Skin tone / complexion | **Resolved as texture direction: light-to-medium, practical field-Cadet weathering (minor scarring), not pristine.** Per Phase 6B.2, Skin. Exact tone value remains a concept-art-stage decision. |
+| Hands | **New field, per Phase 6B.2: capable, marked by training — calluses and small scars; never soft or manicured.** |
 
-**Confirmed Locked — the one specified physical field:**
+**Confirmed Locked — the one specified physical field, unchanged by Phase 6B.2:**
 
 **Eyes.** Per `mythic-forge-art-bible/color-language.md` (Master System Prompt Section 4 authority): Kael's eyes are a fixed physical signature — **icy blue-cyan at baseline**, intensifying with his Signal-Sensitivity state. This is a diagnostic readout of internal state, not a stylistic default, and must render identically across every episode and every promotional asset. Never render at Activation intensity unless Signal-Sensitivity is actually active in-scene.
 
@@ -70,9 +79,17 @@ Eye-glow Emotion Modifiers (`prompt-library.md`), to be applied per-scene per hi
 - **Activation:** intense, sharp eye glow; sharp contrast lighting; focused/powerful expression.
 - **Breakdown:** fragmented, unstable eye glow; visual noise, motion blur; distressed expression.
 
-**Clothing / equipment.** **Missing — not invented.** No Ward Division uniform, insignia, or Cadet equipment description exists in the World Bible (Section 6 gives only the organizational premise and rank progression: Cadet → Ward → Senior Ward → Division Director, with no visual/uniform detail) or the Faction Bible (Section on Ward Division gives only structural/command-chain relationships, no visual detail). This is flagged as a genuine gap requiring either a future Founder directive or Art Bible expansion — not resolved here by invention.
+**Clothing / equipment.** **Still missing — unaffected by Phase 6B.2, which does not define costume.** No Ward Division uniform, insignia, or Cadet equipment description exists in the World Bible, the Faction Bible, or Phase 6B.2. This is flagged as a genuine gap requiring either a future Founder directive or Art Bible expansion — not resolved here by invention. See Section 4, unchanged.
 
-**Rendering register (applies to all of the above, where eventually specified).** Per `forbidden-elements.md`: "semi-realistic anime cinematic hybrid — detailed, cinematically lit, high-detail facial focus." Flat cel-shading, speed lines, chibi proportion breaks, and flat single-tone eye highlights are explicitly forbidden for Kael as for every character.
+**Rendering register (applies to all of the above).** Per `forbidden-elements.md`: "semi-realistic anime cinematic hybrid — detailed, cinematically lit, high-detail facial focus." Flat cel-shading, speed lines, chibi proportion breaks, and flat single-tone eye highlights are explicitly forbidden for Kael as for every character — restated in Phase 6B.2's own Do Not Do section, not altered.
+
+**Do Not Do (new, per Phase 6B.2):** never render the eye-glow at Activation intensity unless Signal-Sensitivity is active in-scene; never use idealized hypermasculine proportions; never use cyan decoratively anywhere but his eyes; never render him as physically flawless or unweathered.
+
+**Color Philosophy / Lighting Behavior / Camera Language (new, per Phase 6B.2):** practical muted tones for wardrobe/palette, cyan reserved exclusively to his eyes; scene lighting follows the Locked Emotional Lighting Modes (Grounded/Charged/Wounded, `lighting-system.md`) independently of his personal eye-glow overlay; standard Lens Philosophy (35–50mm) for dialogue work, deliberate negative space during his early-season isolation beats, handheld instability reserved exclusively for Breach/Fracture/Burnout sequences. Full definitions in Phase 6B.2, Section 3, incorporated by reference rather than duplicated in full.
+
+### Historical Record — Original Phase 6B.0 Findings (2026-07-15, preserved unmodified)
+
+At the time this package was first compiled and Approved, a systematic search of the Character Bible, World Bible, Faction Bible, and Phase 1B.3 Production Bible found zero physical descriptors for Kael beyond his eyes (grep sweep for height/proportions/build/tall/short/complexion/skin/hair returned no matches against Kael-specific content). Height, Proportions, Silhouette, Posture, Facial characteristics, Hair, and Skin tone were all originally recorded as "Missing — not specified in any Locked source," and Movement language was flagged as having no stylistic description beyond general action-line evidence (stands/walks/runs/turns/observes across Episodes 2, 3, 4, 7, 12, 19, 25, 27, 36). This gap is what Phase 6B.2 was directly commissioned to resolve; it is preserved here as the record of that gap, not as current guidance — the resolved table above supersedes it. Clothing/equipment was, and remains, genuinely missing (Phase 6B.2 does not define costume).
 
 ---
 
@@ -105,6 +122,8 @@ No specific facial bone-structure or muscle-shape reference exists (Section 3 ga
 
 ## 6. Pose Library
 
+**UPDATED 2026-07-15 per Phase 6B.2** — all nine poses remain required, unchanged in substance; now additionally governed by Phase 6B.2's Movement Style and Posture rules (economical, controlled, disciplined; shoulder tension as burden; sharpens during Activation) rather than evidence alone.
+
 The fixed required list, cross-checked against actual screenplay evidence rather than assumed wholesale. Direct action-line evidence for Kael was found via repository grep in: Episodes 2, 3, 4, 5, 6, 7, 12, 13, 19, 25, 27, 36 (movement/stance verbs directly attributed to Kael — stands, walks, runs, turns, leans, observes, etc.).
 
 | Pose | Required? | Evidence |
@@ -123,7 +142,9 @@ All nine fixed-list poses are retained as required for Kael specifically — non
 
 ---
 
-## 7. Animation Requirements
+## 7. Animation Notes / Requirements
+
+**UPDATED 2026-07-15 per Phase 6B.2** — requirements unchanged in substance; now additionally governed by Phase 6B.2's Animation Notes (Section 3), which confirms facial animation must synchronize with eye-glow Emotion Modifier transitions, exactly as already required below.
 
 Requirements only — no design work performed here, per directive Section 7.
 
@@ -180,7 +201,7 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 | Name | Kael Aurelian Veyr |
 | Category | Character |
 | Naming convention (Phase 6A.5) | `CHR_0001_Kael_v001` |
-| Production status | Requested → In Progress *(this document is the first production deliverable against the entry; physical/costume design not yet possible pending Section 3/4 gaps)* |
+| Production status | Requested → In Progress → **Visual Canon Complete** *(updated 2026-07-15 per Phase 6B.2 — Physical Production Profile resolved beyond the eyes; only exact concept-art values and Costume/Section 4 remain open, same as before)* |
 | Version | v1.0 (this package) |
 | Priority | 1 — highest reuse asset in the production (all 36 episodes, Phase 6A Asset Priority Matrix) |
 | Episodes used | All 36 (Episodes 1–36) |
@@ -216,6 +237,31 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 
 ---
 
+## Phase 6B.2 Update Audit (Character Audit — Reopening)
+
+Per Phase 6B.2's Automatic Workflow: "Reopen all three character packages. Update them. Audit." The original Phase 6B.0 audit and approval, above, are preserved unmodified; this is a new, dedicated audit of the reopening itself.
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — only the fields Phase 6B.2 authorizes (Physical Profile, Visual Identity, Silhouette, Animation Notes, Art References, Production Status) were touched. |
+| Alignment Audit | PASS — every new Section 3 entry cross-references Phase 6B.2 rather than restating it independently, avoiding drift between the two documents. |
+| Character Verification | PASS — no narrative fact altered; his Locked eye-glow specification, Emotion Modifier table, and all Section 2 content verified unchanged by direct comparison. |
+| Repository Verification | PASS — Phase 6B.2 read directly from its own Approved, Locked file. |
+| Regression Verification | PASS — Sections 2, 4, 5, 8, 9 verified unchanged against the pre-reopening text; Section 4 (Costume) confirmed still correctly flagged missing, since Phase 6B.2 does not define clothing. |
+| Canon Verification | PASS — no screenplay, dialogue, or story beat touched; the Locked cyan/icy-blue reservation confirmed honored (reserved to his eyes only). |
+| Production Verification | PASS — Physical Production Profile now resolved beyond exact concept-art values; Production status updated to Visual Canon Complete. |
+
+**Determination: PASS.** Ready for Founder Approval.
+
+---
+
+## Phase 6B.2 Update — Founder Approval
+
+**Approved 2026-07-15** following a clean PASS Phase 6B.2 Update Audit. No blocking condition found. This package's production status is updated to **Visual Canon Complete**. Concept art and turnaround work for Kael may now proceed against Phase 6B.2's Visual Authority for every field it resolves; Costume (Section 4) and exact concept-art-stage values (hair shade, precise height/skin tone) remain the only open items, logged rather than blocking.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Character 1 of 4 (Kael Aurelian Veyr). All 10 required sections built from direct repository citation only. Physical Production Profile (Section 3, most fields) and Costume Breakdown (Section 4, in full) flagged as missing rather than invented — no Locked source specifies Kael's height, proportions, silhouette, build, posture, facial characteristics, hair, or Ward Division uniform/equipment anywhere in the Character Bible, World Bible, Faction Bible, or Phase 1B.3 Production Bible. The one Locked physical field (eyes — icy blue-cyan eye-glow, Signal-Sensitivity-linked) transcribed exactly from the Art Bible under Master System Prompt Section 4 authority. Pose and Animation requirements (Sections 6–7) grounded in direct grep evidence against all 36 Approved Phase 5B screenplays rather than assumed from the fixed list wholesale. FPP-CHAR-001 (Phase 6A) vs. CHR-0001 (Phase 6A.5) Asset ID naming inconsistency flagged explicitly in Section 10, not silently resolved. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS Character Audit. No blocking condition found. Status: "Approved." Section 3/4 physical and costume gaps remain open production items, logged for future revision under Phase 6.0's Asset Revision Rule, not treated as a stop condition. Authoritative for all subsequent Kael asset production.`
+`[v2.0 — 2026-07-15] REOPENED per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)." Sections 1 (Art References), 3 (Physical Profile, Visual Identity, Silhouette), 6–7 (Animation Notes), and 10 (Production status) updated to apply the new Phase 6B.2 Locked Canon. Sections 2, 4, 5, 8, 9 left untouched — Section 4 (Costume) remains flagged missing, since Phase 6B.2 does not define clothing. Original Phase 6B.0 findings preserved as historical record within Section 3. Production status upgraded to "Visual Canon Complete." Re-audited PASS and re-approved via a dedicated Phase 6B.2 Update Audit appended after the original.`
