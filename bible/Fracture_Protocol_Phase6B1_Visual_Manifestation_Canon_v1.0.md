@@ -135,6 +135,37 @@ Upon Founder Approval, this document becomes Locked Canon immediately, at the sa
 
 ---
 
+## Final Certification — Phase 6B.1
+
+**Scope:** the Phase 6B.1 Visual Manifestation Canon (this document) and the reopened, updated Guardian Character Production Package (`bible/Fracture_Protocol_Phase6B_Character_The_Guardian_v1.0.md`, v2.0 update).
+
+**Certification checklist:**
+
+| Item | Status |
+|---|---|
+| Phase 6B.1 created, audited, and Approved as LOCKED CANON | Complete |
+| Mystery Protection Rule compliance verified against all nine protected narrative facts | Confirmed — none touched |
+| Every Visual Authority rule traced to specific, pre-existing screenplay evidence | Confirmed — no screenplay modified |
+| Guardian Character Production Package reopened, scope held to the five authorized fields (Physical Description, Visual Identity, Silhouette, Animation Notes, Art References) | Complete |
+| Narrative sections of the Guardian package (2, 4, 5, 8, 9) left untouched | Confirmed |
+| Guardian package re-audited and re-approved | Complete — PASS, separate from the original Phase 6B.0 audit, which is preserved unmodified |
+| Guardian package committed and pushed separately from Phase 6B.1's own commit | Confirmed — four separate commits: Phase 6B.1 compile, Phase 6B.1 approval/lock, Guardian package reopening, Asset Registry update |
+| Asset Registry updated to reflect resolved status | Complete — FPP-CHAR-004 moved from "Blocked on form-determination" to "In Progress" |
+
+**Determination: PHASE 6B.1 COMPLETE. GUARDIAN VISUAL PRODUCTION UNBLOCKED.** No canon contradiction, repository corruption, governance conflict, or Founder instruction to stop was encountered at any step. The Guardian now stands alongside Kael and Cassian with an "In Progress" production status; only Mira retains a materially larger physical-specification gap (zero Locked visual data of any kind, per her own Phase 6B.0 package) among the four active characters, and that gap was outside this directive's scope — Phase 6B.1 was scoped exclusively to the Guardian by the Founder's own directive text and is not extended to any other character here.
+
+**Remaining open items, carried forward rather than resolved by this directive (outside its scope, not overlooked):**
+1. The Guardian's Hair, Eyes (color/shape beyond the "no eye-glow" rule), and Skin tone remain unspecified — flagged as a future concept-art or Art Bible item, same category as Kael's and Cassian's remaining physical gaps.
+2. Mira's total absence of Locked visual specification remains unaddressed.
+3. The FPP-CHAR-00X vs. CHR-000X Asset ID format discrepancy (all four characters) remains unreconciled.
+4. Episode-count discrepancies between Phase 6A's registry and this session's direct screenplay grep (Cassian, Mira, the Guardian) remain unreconciled.
+5. No voice cast exists yet for any character (Phase 5C Recommendation R-2, still open).
+
+**Per the directive's own Automatic Workflow, this certification is the final deliverable.** No further phase is invented here; the next step is a future Founder directive, consistent with this project's standing practice at every prior phase boundary.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.1 Visual Manifestation Canon (v1.0)," resolving the form-determination gap flagged in the Guardian's Phase 6B.0 Character Production Package. Defines 14 production-visible Visual Authority categories (silhouette, scale, proportions, surface treatment, motion language, facial language, presence, lighting behavior, environment interaction, distance behavior, camera behavior, color philosophy, symbolic design language, visual consistency) grounded entirely in existing Approved-screenplay staging evidence (Episodes 4, 8, 18, 24, 26, 32) — no screenplay modified. Central design principle: a deliberately ordinary, unremarkable humanoid presence with no glow, no VFX, and no lighting distinction from human characters, chosen specifically because ordinariness shows the Guardian without answering anything about it. Explicitly cross-checked against, and does not conflict with, the already-Locked cyan/icy-blue color reservation (Kael's eye-glow, Fracture anomalies). Resolves the Episodes 18/24/26/32 "established Season One visual language" citation previously flagged as unconfirmed in the Guardian's own Character Production Package. Mystery Protection Rule compliance verified by direct checklist against all nine protected narrative facts — none touched. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS Founder Review & Alignment Audit. No blocking condition found. Status: "LOCKED CANON, effective immediately." Authoritative for all future Guardian visual production; the Guardian's Phase 6B.0 Character Production Package is being reopened and updated to apply this authority in a separate, immediately following commit.`
+`[v1.2 — 2026-07-15] Final Certification delivered. Guardian Character Production Package reopened, updated (Sections 1, 3, 6, 7, 10 only), re-audited PASS, re-approved, and committed/pushed separately, per the directive's own workflow. Asset Registry updated to reflect the Guardian's status change from "Blocked on form-determination" to "In Progress." Remaining open items outside this directive's scope (Guardian hair/eyes/skin detail; Mira's total physical-specification gap; Asset ID format and episode-count discrepancies; voice cast) logged rather than resolved. Phase 6B.1 complete.`
