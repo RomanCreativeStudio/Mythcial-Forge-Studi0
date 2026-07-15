@@ -1,7 +1,7 @@
 # THE FRACTURE PROTOCOL — PHASE 6C: ENVIRONMENT PRODUCTION PACKAGE
 ## Environment 6 of 10 — Night Haven Institutional Space
 
-**Classification:** Internal — Production Document (**Compiled — Pending Founder Review**)
+**Classification:** Internal — Production Document (**Approved**)
 **Status:** Compiled 2026-07-15 per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Production Priority 3 of 10. This document creates no story content, no canon expansion, and no screenplay revision.
 **Absolute authority:** subordinate to Master System Prompt → Locked Canon → Production Bible → Approved Screenplays → Phase 6.0 → Phase 6A → Phase 6A.5 → Phase 6B → **Phase 6C Environment Production Canon**.
 **Research method:** re-verified against Phase 6A's listed episodes (14, 22) plus an expanded check that surfaced two genuine discrepancies, detailed in Section 3 — this environment required the most correction of any processed so far.
@@ -121,9 +121,10 @@ Narrow, Arc Two-concentrated (Episodes 22, 27 per the corrected range) — one o
 
 ## Founder Approval
 
-*(Pending — awaiting explicit Founder Approval before this section is completed and the document promoted from "Compiled — Pending Founder Review" to "Approved.")*
+**Approved 2026-07-15** following a PASS across all five required audits, with the lighting contradiction and both episode-range corrections preserved as flagged items rather than silently resolved. No Locked-canon contradiction found — the flagged lighting inconsistency is a production-detail matter internal to the screenplay corpus, not a stop condition. Concept-art lighting work should wait for Founder resolution of the warm/cool question; all other fields may proceed.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Environment 6 of 10 (Night Haven Institutional Space, Production Priority 3). Corrects two discrepancies in Phase 6A's episode range: Episode 14 removed (its Location List places all scenes at Ward Station Seven; Night Haven appears there only as a character, not a physical environment) and Episode 27 added (a confirmed physical Night Haven scene omitted from Phase 6A's original 14/22 range). Flags an unresolved screenplay-internal lighting contradiction: Episodes 14/22 describe Night Haven's register as "cooler, more formal... distinct from Light Order's warmth," while Episode 27 calls it "Night Haven's warmer resistance tone" — directly contradictory, and deliberately not adjudicated by this package. Production Status: "Flagged for Founder Decision." Status: "Compiled — Pending Founder Review."`
+`[v1.1 — 2026-07-15] Approved following a PASS across all five required audits, with the lighting contradiction and episode-range corrections preserved as flagged items. Status: "Approved," pending Founder resolution of the warm/cool lighting question before concept-art lighting work proceeds.`
