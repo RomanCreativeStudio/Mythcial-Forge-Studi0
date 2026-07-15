@@ -128,3 +128,49 @@ Narrow, Arc Two-concentrated (Episodes 22, 27 per the corrected range) — one o
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Environment 6 of 10 (Night Haven Institutional Space, Production Priority 3). Corrects two discrepancies in Phase 6A's episode range: Episode 14 removed (its Location List places all scenes at Ward Station Seven; Night Haven appears there only as a character, not a physical environment) and Episode 27 added (a confirmed physical Night Haven scene omitted from Phase 6A's original 14/22 range). Flags an unresolved screenplay-internal lighting contradiction: Episodes 14/22 describe Night Haven's register as "cooler, more formal... distinct from Light Order's warmth," while Episode 27 calls it "Night Haven's warmer resistance tone" — directly contradictory, and deliberately not adjudicated by this package. Production Status: "Flagged for Founder Decision." Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a PASS across all five required audits, with the lighting contradiction and episode-range corrections preserved as flagged items. Status: "Approved," pending Founder resolution of the warm/cool lighting question before concept-art lighting work proceeds.`
+
+---
+
+## Phase 6C.5 Reconciliation Section
+
+*(Appended 2026-07-15 per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Everything above this line is preserved unmodified.)*
+
+### Re-Verification Against Full Source Set
+
+Master System Prompt and Production Bible confirmed silent. Both original Phase 6C episode-range corrections independently re-confirmed against Phase 4B and the final Phase 5B screenplays directly:
+
+- **Episode 14** re-checked at both stages: Phase 4B's own Location fields place all five scenes at "Ward Station Seven"; Episode 14's final Phase 5B Location List confirms the same — all 5 scenes, single entry, "Ward Station Seven." No physical Night Haven space exists in Episode 14 at any production stage. Correction stands.
+- **Episode 27** re-checked at both stages: Phase 4B's Scene 2 ("Night Haven's Warning") explicitly places a "Night Haven environment consistent with previously-established spaces"; the final Episode 27 screenplay's own Location List confirms "Night Haven environment" at Scenes 2, 5. Correction stands — Episode 27 belongs in this environment's range.
+
+One additional, minor citation-chain observation not previously noted: both Episode 22's and Episode 27's final screenplay Location Lists cite their Night Haven environment entries as sourced to "Episode 14" — even though Episode 14 itself never physically renders the environment (confirmed above). This is a sourcing/citation lineage quirk carried through the corpus (Night Haven's institutional identity was conceptually established as a character in Episode 14, then later episodes cite that as the environment's origin point once it is finally rendered), not a substantive contradiction and not a blocker — recorded for completeness, requires no Founder decision.
+
+Recurring Episodes confirmed final: **22, 27.** No further correction required.
+
+### Lighting Canon Determination
+
+**B — Genuine contradiction, independently reproduced at both production stages.** Direct re-verification confirms this is not a one-off drafting slip:
+- Phase 4B Episode 14 (Scenes 2–3): "a cooler, more formal register... than Light Order's familiar institutional warmth."
+- Phase 4B Episode 27 (Lighting section): "Night Haven's warmer resistance tone."
+- The final Phase 5B screenplays carry forward the identical wording at both episodes (already quoted in this package's own Section 6, Lighting Philosophy, above).
+
+No time-of-day, story-mood, power-failure, or other identifiable narrative cause justifies the shift — Episode 27's own lighting note treats "warmer resistance tone" as Night Haven's standing established register being "carried forward," not as a deliberate scene-specific deviation. Per the Phase 6C.5 Lighting Canon rule, this is **flagged, not resolved.** It remains a genuine, unadjudicated screenplay-internal contradiction present since the earliest planning stage, reproduced consistently at every subsequent stage rather than corrected — which itself suggests it was never caught, not that it was intentional.
+
+### Environment Identity
+
+[13-field table: Permanent Identity=Night Haven's institutional review/deliberation space; Purpose=physical counterpart to Night Haven's political philosophy; Narrative Function=parallel institutional response alongside Light Order and the Doctrine during Arc Two's widening pressure; Visual Function=UNRESOLVED pending Lighting Canon decision (cooler/formal vs. warmer/resistance); Production Function=cannot be finalized until lighting register is set; Reuse Strategy=Low, 2 episodes; Asset Dependencies=unnamed Night Haven representatives only, no core cast; Animation Complexity=Minimal, institutional review staging; Lighting Rules=BLOCKED — see Lighting Canon Determination above; Material Rules=missing, not specified in any source; Color Rules=neutral three-color-system application, cyan/icy-blue remains reserved for Fracture-anomaly phenomena regardless of the warm/cool outcome; Camera Rules=missing, standard institutional framing (35-50mm) assumed as default absent a stated exception; Environmental Storytelling Rules=cannot be applied, no confirmed layer]
+
+### Environment Consistency
+
+Episode range (22, 27) internally consistent; both appearances functionally similar (institutional review/deliberation staging, unnamed representatives only). The one confirmed inconsistency is the lighting contradiction itself, which sits squarely within Environment Consistency's own scope (Step 5's "cinematic consistency" check) and is the reason this environment cannot be certified consistent overall.
+
+### Production Readiness: BLOCKED
+
+- **Exact blocker:** The lighting register is genuinely contradictory across both confirmed appearances (Episode 14/22's "cooler, more formal" vs. Episode 27's "warmer resistance tone"), independently reproduced at both the Phase 4B and Phase 5B production stages. No visual design brief can be finalized while this stands unresolved.
+- **Severity:** Moderate — does not block story, casting, or asset-dependency work (only 2 episodes, unnamed characters only), but does block any concept-art lighting brief and any color-palette finalization for this environment.
+- **Required Founder decision:** Choose one of two paths — (1) select a single baseline register (cooler/formal or warmer/resistance) as Night Haven's permanent Lighting Rule going forward, treating the other description as a drafting error to be corrected in its source episode's screenplay; or (2) supply an in-story justification for treating the difference as intentional (e.g., a specific reason Episode 27's Night Haven reads warmer than Episode 22's), in which case a Lighting Canon Determination A rule would replace this Determination B flag.
+- **Recommended resolution (offered only, not self-authorized):** Given Night Haven's Locked "freedom-first resistance" philosophy (Faction Bible) and that "warmer resistance tone" appears in the episode most directly tied to active resistance (Episode 27, "holding firm under the same widening pressure"), a plausible intentional reading exists — but this package does not adopt it, since no screenplay text actually states this reasoning; it is offered strictly as a recommendation for Founder review, not a self-authorized resolution.
+
+---
+
+### Changelog (Reconciliation)
+`[v2.0 — 2026-07-15] Reconciliation Section appended per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Original Phase 6C content (v1.0–v1.1) preserved unmodified. Both prior episode-range corrections (Episode 14 removed, Episode 27 added) independently re-confirmed against Phase 4B and final Phase 5B screenplays at both episodes — no reversal. Lighting Canon Determination B applied: the warm/cool contradiction is confirmed genuine, independently reproduced at both the Phase 4B and Phase 5B production stages, not an intentional difference — flagged for Founder decision per the Lighting Canon rule, not resolved. Production Readiness: BLOCKED, with full blocker documentation (exact blocker, severity, required Founder decision, recommended resolution offered only).`
