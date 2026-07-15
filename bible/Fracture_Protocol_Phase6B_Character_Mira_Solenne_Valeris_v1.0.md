@@ -5,6 +5,7 @@
 **Status:** Compiled 2026-07-15 per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Step 2 of 4 (Kael → **Mira** → the Guardian → Cassian). This document creates no story content, no canon expansion, and no screenplay revision — it is a production asset specification only.
 **Absolute authority:** subordinate to Master System Prompt → Locked Canon (Phase 1, 1C Character Bible, 1C Faction Bible, Phase 2 series) → Production Bible → Approved Production Packages (Phase 4B) → Approved Screenplays (Phase 5B, Locked under Phase 5B.5) → Phase 6.0 → Phase 6A → Phase 6A.5, in that order.
 **Working interpretation carried forward from Kael's package (Section 1 note there), applied identically here:** field-level missing specification is flagged and the package continues to build; only a structural stop condition (canon contradiction, repository corruption, missing Locked authority sufficient to block the whole package, asset dependency conflict, governance conflict, Founder instruction) halts production. Mira's Character Authority is fully Locked and sufficient to build a package around, even where physical/costume specification is incomplete.
+**REOPENED 2026-07-15 per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)."** That directive created `bible/Fracture_Protocol_Phase6B2_Human_Character_Visual_Canon_v1.0.md` as new Locked Production Canon resolving most of the Physical Production Profile gap this package originally flagged as the largest of the four characters. Per Phase 6B.2's own Update Rule, only Sections 1 (Art References), 3 (Physical Profile, Visual Identity, Silhouette), 6–7 (Animation Notes), and 10 (Production Status) are updated below. **Every narrative section — 2, 4 (Costume, still not defined by Phase 6B.2), 5, 8, 9 — is left untouched.** The original Phase 6B.0 Founder Review & Alignment Audit and Founder Approval are preserved unmodified below as historical record; a dedicated Phase 6B.2 Update Audit and Approval follow them.
 
 ---
 
@@ -19,6 +20,7 @@
 | `bible/Fracture_Protocol_Phase6A_Master_Production_Roadmap_v1.0.md` | Mira's asset priority (Priority 2, 11 episodes) | Approved |
 | `bible/Fracture_Protocol_Phase6A5_Asset_Production_Standards_v1.0.md` | Asset ID/Naming/Version/Lifecycle standards for Section 10 | Locked |
 | `documentation/Asset_Registry.md` | Existing FPP-CHAR-003 backlog entry for Mira | Registry of record |
+| **`bible/Fracture_Protocol_Phase6B2_Human_Character_Visual_Canon_v1.0.md`** *(added on reopening, 2026-07-15)* | **Sole Art Reference for Mira's visual production**: silhouette, height range, body proportions, facial structure, hair, skin, hands (her signature distinguishing feature), movement style, posture, emotional presence, visual contrast, color philosophy, lighting behavior, animation notes, camera language, do-not-do rules, production notes, visual consistency. Supersedes most of this package's original "missing" findings in Section 3 — those findings are preserved as historical record, not deleted. Costume/clothing remains outside Phase 6B.2's scope; Section 4 is unaffected. | Locked Canon (new, same tier as Phase 6B.1/Kael's Phase 6B.2 update for this domain) |
 
 **Discrepancy noted, not silently resolved:** Phase 6A's Asset Registry lists Mira's episode count as 11; a direct speaker-header grep against all 36 screenplays in this session found her name in 16 files. This is flagged rather than either number being silently overwritten — the 16-file count reflects speaker-header presence (including possible non-speaking listed-cast or minor-line appearances), while Phase 6A's "11" may reflect a stricter substantive-role count from the screenplays' own Cast List tables. Reconciling the two is a registry-accuracy question for the Founder, not resolved unilaterally here.
 
@@ -40,24 +42,37 @@ No physical, costume, or purely-visual content appears anywhere in this section'
 
 ## 3. Physical Production Profile
 
-**Flagged as missing — not invented, in full.** A systematic search of the Character Bible found zero physical descriptors for Mira (grep sweep for height/eyes/hair/build/tall/short/complexion/skin returned no Mira-specific hits). Unlike Kael, **no Locked physical field exists for Mira at all** — there is no eye-glow specification, no color-language entry, and no Art Bible mention of her by name anywhere in the 11-file directory.
+**RESOLVED 2026-07-15 per Phase 6B.2 Human Character Visual Canon**, for all fields except final exact values (left to concept-art finalization). The original Phase 6B.0 findings are preserved below the resolved table, as historical record.
+
+### Visual Identity (new, per Phase 6B.2)
+
+Mira's design philosophy is "quiet competence and warmth — a builder, not a fighter." Her visual identity communicates hands-on capability and grounded resilience, deliberately contrasting with Kael's military practicality and Cassian's inherited polish. Her single strongest distinguishing feature is her hands (below) — full rationale in Phase 6B.2, Section 4.
+
+### Physical Production Profile (resolved per Phase 6B.2)
 
 | Field | Status |
 |---|---|
-| Height | **Missing — not specified.** |
-| Proportions / body type | **Missing — not specified.** |
-| Silhouette | **Missing — not specified.** |
-| Posture | **Missing — not specified.** |
-| Movement language | **Missing — no stylistic description; limited direct action-line evidence exists (Episodes 11, 19, 33, 36 — stands/works/builds-type verbs), sufficient only to confirm she is physically staged in scenes, not to describe how she moves.** |
-| Facial characteristics | **Missing — not specified.** |
-| Hair | **Missing — not specified.** |
-| Eyes | **Missing — not specified. No eye-glow or other Signal-linked visual signature is established for Mira anywhere; she is not confirmed as a fracture anomaly subject (World Bible Section 5 confirms Kael as the only core/main one), so no eye-glow system applies to her by default.** |
-| Skin tone / complexion | **Missing — not specified.** |
-| Clothing / equipment | **Missing — not specified.** Her civilian reconstruction-specialist role and Lunar-districts/Mid-Zone background are narratively Locked, but no uniform, work attire, or civilian dress description exists in the World Bible, Faction Bible, or Phase 1B.3 Production Bible. |
+| Height | **Resolved: approximately 163–170 cm (5'4"–5'7"), exact value open to concept-art finalization within this range.** Per Phase 6B.2, Height Range. |
+| Proportions / body type | **Resolved: ordinary, capable civilian build; no stylized idealization.** Per Phase 6B.2, Body Proportions. |
+| Silhouette | **Resolved: practical civilian-worker silhouette, unglamorous and functional.** Per Phase 6B.2, Overall Silhouette. |
+| Posture | **Resolved: open and grounded by default; visibly closes/guards in displacement-backstory or trust-tension scenes.** Per Phase 6B.2, Posture. |
+| Movement language | **Resolved: practical, purposeful, unhurried — competent physical-work movement, not combat-trained.** Per Phase 6B.2, Movement Style — now a stylistic rule, not only the original limited action-line evidence (preserved below). |
+| Facial characteristics | **Resolved: warm, open, approachable features — trustworthy and steady rather than dramatic.** Per Phase 6B.2, Facial Structure. |
+| Hair | **Resolved: practical, work-appropriate styling (e.g., tied back), no vanity styling.** Per Phase 6B.2, Hair. Exact color/style detail remains a concept-art-stage decision. |
+| Eyes | **Resolved: no eye-glow or Signal-linked system (confirmed, unchanged) — ordinary human eyes, expressive and steady.** Per Phase 6B.2, Eyes. Exact color remains a concept-art-stage decision. |
+| Skin tone / complexion | **Resolved as texture direction: ordinary civilian texture with plausible outdoor/fieldwork weathering, not idealized flawlessness.** Per Phase 6B.2, Skin. Exact tone value remains a concept-art-stage decision. |
+| Hands | **New field, per Phase 6B.2 — her single strongest distinguishing visual feature: visibly marked by hands-on reconstruction work (calluses, small working scars, practical unpolished nails). Must read on-screen as a career history, never clean or unmarked.** |
+| Clothing / equipment | **Still missing — unaffected by Phase 6B.2, which does not define costume.** See Section 4, unchanged. |
 
-**Rendering register (applies once specification exists):** per `forbidden-elements.md`, the same "semi-realistic anime cinematic hybrid" register governing every character applies to Mira; no character-specific exception exists.
+**Rendering register (applies to all of the above).** Per `forbidden-elements.md`, the same "semi-realistic anime cinematic hybrid" register governing every character applies to Mira; restated in Phase 6B.2's own Do Not Do section, not altered.
 
-This is the largest physical-specification gap of the four Phase 6B.0 characters found so far — flagged explicitly rather than filled by inference from her civilian/reconstruction role.
+**Do Not Do (new, per Phase 6B.2):** never glamorize or combat-stylize her design; never assign her a Signal/eye-glow system; never render her hands as clean or unmarked; never use the Locked-reserved cyan/icy-blue anywhere in her design.
+
+**Color Philosophy / Lighting Behavior / Camera Language (new, per Phase 6B.2):** warm, practical earth tones and work-wear neutrals, never cyan/icy-blue; scene lighting follows the Locked Emotional Lighting Modes (Grounded/Charged/Wounded) exactly as any human character, no signature system; standard Lens Philosophy and grounded, motivated camera grammar, no reserved centered-symmetry/negative-space/handheld treatment assigned to her specifically. Full definitions in Phase 6B.2, Section 4, incorporated by reference.
+
+### Historical Record — Original Phase 6B.0 Findings (2026-07-15, preserved unmodified)
+
+At the time this package was first compiled and Approved, a systematic search found zero physical descriptors for Mira anywhere (grep sweep for height/eyes/hair/build/tall/short/complexion/skin returned no Mira-specific hits) — unlike Kael, no Locked physical field existed for her at all: no eye-glow specification, no color-language entry, and no Art Bible mention of her by name anywhere in the 11-file directory. Height, Proportions, Silhouette, Posture, Facial characteristics, Hair, Eyes, and Skin tone were all originally recorded as "Missing — not specified," and Movement language was flagged as having no stylistic description beyond limited action-line evidence (Episodes 11, 19, 33, 36). This was confirmed as the largest physical-specification gap of the four Phase 6B.0 characters — what Phase 6B.2 was directly commissioned to resolve. Preserved here as the record of that gap, not as current guidance; the resolved table above supersedes it. Clothing/equipment was, and remains, genuinely missing (Phase 6B.2 does not define costume).
 
 ---
 
@@ -88,6 +103,8 @@ The 10 required expressions (fixed list). **No eye-glow or Emotion Modifier syst
 
 ## 6. Pose Library
 
+**UPDATED 2026-07-15 per Phase 6B.2** — pose requirements unchanged in substance; now additionally governed by Phase 6B.2's Movement Style and Posture rules (practical/purposeful/unhurried; open-by-default posture that guards in trust-tension scenes).
+
 Cross-checked against direct screenplay evidence. Mira carries a speaker header in 16 episodes; direct movement/action-line evidence attributed to her by name was found in Episodes 11, 19, 33, 36.
 
 | Pose | Required? | Evidence |
@@ -106,7 +123,9 @@ Unlike Kael, several fixed-list poses are flagged as either not evidenced or str
 
 ---
 
-## 7. Animation Requirements
+## 7. Animation Notes / Requirements
+
+**UPDATED 2026-07-15 per Phase 6B.2** — requirements unchanged in substance; now additionally governed by Phase 6B.2's Animation Notes (Section 4), which confirm hand-focused animation is a priority given her hands are her signature distinguishing feature.
 
 - **Idle:** required (Conversation/Standing baseline).
 - **Walk cycle:** flagged — not directly evidenced, retained as a baseline requirement for any on-screen character.
@@ -161,7 +180,7 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 | Name | Mira Solenne Valeris |
 | Category | Character |
 | Naming convention (Phase 6A.5) | `CHR_0003_Mira_v001` |
-| Production status | Requested → In Progress *(physical/costume design not yet possible pending Section 3/4 gaps, which are more extensive for Mira than for Kael)* |
+| Production status | Requested → In Progress → **Visual Canon Complete** *(updated 2026-07-15 per Phase 6B.2 — Physical Production Profile resolved beyond exact concept-art values; only Costume/Section 4 remains genuinely open)* |
 | Version | v1.0 (this package) |
 | Priority | 2 (Phase 6A Asset Priority Matrix) |
 | Episodes used | Phase 6A registry: 11. Direct grep this pass: 16 (Episodes 1, 5, 7, 8, 10, 11, 12, 19, 20, 24, 25, 26, 33, 34, 35, 36) — discrepancy flagged above, not resolved. |
@@ -197,6 +216,31 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 
 ---
 
+## Phase 6B.2 Update Audit (Character Audit — Reopening)
+
+Per Phase 6B.2's Automatic Workflow: "Reopen all three character packages. Update them. Audit." The original Phase 6B.0 audit and approval, above, are preserved unmodified; this is a new, dedicated audit of the reopening itself.
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — only the fields Phase 6B.2 authorizes were touched. |
+| Alignment Audit | PASS — every new Section 3 entry cross-references Phase 6B.2 rather than restating it independently; her hands were confirmed and preserved as her defining distinguishing feature, consistent with her Locked civilian-reconstruction identity. |
+| Character Verification | PASS — no narrative fact altered; Section 2 content verified unchanged by direct comparison. |
+| Repository Verification | PASS — Phase 6B.2 read directly from its own Approved, Locked file. |
+| Regression Verification | PASS — Sections 2, 4, 5, 8, 9 verified unchanged against the pre-reopening text; Section 4 (Costume) confirmed still correctly flagged missing. |
+| Canon Verification | PASS — no screenplay, dialogue, or story beat touched; the Locked cyan/icy-blue reservation confirmed honored (not assigned to Mira). |
+| Production Verification | PASS — Physical Production Profile now resolved beyond exact concept-art values; Production status updated to Visual Canon Complete. |
+
+**Determination: PASS.** Ready for Founder Approval.
+
+---
+
+## Phase 6B.2 Update — Founder Approval
+
+**Approved 2026-07-15** following a clean PASS Phase 6B.2 Update Audit. No blocking condition found. This package's production status is updated to **Visual Canon Complete**. Concept art and turnaround work for Mira may now proceed against Phase 6B.2's Visual Authority for every field it resolves; Costume (Section 4) and exact concept-art-stage values (hair/eye color, precise height/skin tone) remain the only open items, logged rather than blocking.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Character 2 of 4 (Mira Solenne Valeris). All 10 required sections built from direct repository citation only. Unlike Kael, zero Locked physical specification of any kind was found for Mira — no eye-glow system, no Art Bible mention by name anywhere in the 11-file directory — flagged as the largest specification gap among the characters processed so far, not filled by inference from her civilian-reconstruction role. Pose/Animation requirements (Sections 6–7) explicitly mark several fixed-list items as not-evidenced or structurally not-applicable (Combat Ready, Run cycle, Combat animation) given her non-combat Locked narrative role, rather than assumed present as with Kael. Two registry discrepancies flagged, not resolved: FPP-CHAR-003 (Phase 6A) vs. CHR-0003 (Phase 6A.5) ID format, and an 11-episode (Phase 6A registry) vs. 16-episode (this pass's direct speaker-header grep) count mismatch. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS Character Audit. No blocking condition found. Status: "Approved." All flagged gaps and discrepancies remain open items for future Founder resolution, not treated as stop conditions.`
+`[v2.0 — 2026-07-15] REOPENED per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)." Sections 1 (Art References), 3 (Physical Profile, Visual Identity, Silhouette), 6–7 (Animation Notes), and 10 (Production status) updated to apply the new Phase 6B.2 Locked Canon. Sections 2, 4, 5, 8, 9 left untouched — Section 4 (Costume) remains flagged missing. Original Phase 6B.0 findings preserved as historical record within Section 3. Production status upgraded to "Visual Canon Complete." Re-audited PASS and re-approved via a dedicated Phase 6B.2 Update Audit appended after the original.`
