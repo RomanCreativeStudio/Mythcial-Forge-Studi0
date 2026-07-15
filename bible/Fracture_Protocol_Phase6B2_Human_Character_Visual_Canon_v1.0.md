@@ -167,6 +167,40 @@ Upon Founder Approval, this document becomes the permanent visual production aut
 
 ---
 
+## Final Certification — Phase 6B.2
+
+**Scope:** the Phase 6B.2 Human Character Visual Canon (this document) and the reopened, updated Kael, Mira, and Cassian Character Production Packages.
+
+**Certification checklist:**
+
+| Item | Status |
+|---|---|
+| Phase 6B.2 created, audited, and Approved as LOCKED CANON | Complete |
+| All 22 required sections built for all 3 characters (66 entries) | Complete |
+| Every visual choice traced to a stated psychological/narrative anchor, per the directive's "reinforce established psychology" instruction | Confirmed |
+| Screenplay Protection confirmed — no dialogue, scene order, character action, story beat, or canon altered | Confirmed |
+| Kael, Mira, and Cassian Character Production Packages reopened, scope held to the six authorized fields (Physical Profile, Visual Identity, Silhouette, Animation Notes, Art References, Production Status) | Complete — all three |
+| Narrative sections of all three packages (2, 4, 5, 8, 9) left untouched | Confirmed |
+| All three packages re-audited and re-approved | Complete — PASS for each, separate from the original Phase 6B.0 audits, which are preserved unmodified |
+| All three packages committed and pushed separately from Phase 6B.2's own commit and from each other | Confirmed — six separate commits: Phase 6B.2 compile, Phase 6B.2 approval/lock, Kael reopening, Mira reopening, Cassian reopening, Asset Registry update |
+| Asset Registry updated: Kael, Mira, Cassian marked Visual Canon Complete | Complete |
+| Founder Review, Alignment Audit, Character Verification, Repository Verification, Regression Verification, Canon Verification, Production Verification all performed | Confirmed — at both the Phase 6B.2 document level and, individually, at each of the three character-package reopening levels |
+
+**Determination: HUMAN CHARACTER VISUAL PRODUCTION IS READY.** No canon contradiction, repository corruption, governance conflict, or Founder instruction to stop was encountered at any step. Kael, Mira, and Cassian each now carry complete visual production authority — silhouette, height range, proportions, facial structure, hair, skin, hands, movement, posture, expressions, color philosophy, lighting/camera behavior — sufficient for concept art and turnaround work to begin. Combined with Phase 6B.1's resolution of the Guardian, **all four active principal characters now carry complete visual production authority.** This is a stronger determination than Phase 6B.1's own certification could reach for the Guardian alone, precisely because all three human characters share the same category of remaining gap (costume, exact concept-art values) rather than a structural block.
+
+**Remaining open items, carried forward rather than resolved by this directive (explicitly out of scope, not overlooked):**
+1. **Costume/clothing for all three characters** — Phase 6B.2 deliberately does not define clothing (Ward Division Cadet uniform, Mira's civilian work-wear, Cassian's formal/Doctrine-leadership attire); this remains the single largest shared open item across the entire principal cast, including the Guardian's package (structurally Not Applicable there, but genuinely missing for these three).
+2. Exact concept-art-stage values (precise hair/eye color, exact height and skin tone within the stated ranges) for all three characters.
+3. The FPP-CHAR-00X vs. CHR-000X Asset ID format discrepancy (all four characters) remains unreconciled.
+4. Episode-count discrepancies between Phase 6A's registry and this session's direct screenplay grep (Cassian, Mira, the Guardian) remain unreconciled.
+5. No voice cast exists yet for any character (Phase 5C Recommendation R-2, still open).
+6. The Guardian's own remaining narrow gaps (hair, eye detail, skin tone), logged in Phase 6B.1's Final Certification, remain open and are unaffected by this directive.
+
+**Per the directive's own Automatic Workflow, this certification is the final deliverable.** No further phase is invented here; the next step is a future Founder directive, consistent with this project's standing practice at every prior phase boundary. Given that visual production authority is now complete for all four principal characters, the most natural next candidate (not assumed or begun here) would be a Costume/Wardrobe Canon directive addressing the one open item shared by all three human characters — offered as an observation for the Founder's own decision, not as a self-authorized next step.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)," resolving the remaining physical/visual production gaps for Kael, Mira, and Cassian following the pattern Phase 6B.1 established for the Guardian. All 22 required sections built for all 3 characters (66 total entries), each grounded in Locked psychology, Locked schedule facts, and the Approved Art Bible's general production rules — no screenplay modified. Central design principle: four distinct, non-colliding visual registers across the principal cast (Kael grounded/practical, Mira civilian/practical, Cassian formal/composed, the Guardian deliberately ordinary), each character's signature distinguishing feature chosen specifically to reinforce, not decorate, their already-Locked psychology (Kael's eye-glow, Mira's hands, Cassian's scheduled unraveling). Genuinely unLocked exact values (hair color, precise height/skin-tone numbers) explicitly flagged as concept-art-stage decisions rather than fabricated. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS Founder Review & Alignment Audit. No blocking condition found. Status: "LOCKED CANON, effective immediately." Authoritative for all future Kael, Mira, and Cassian visual production; all three Character Production Packages are being reopened and updated to apply this authority in separate, immediately following commits.`
+`[v1.2 — 2026-07-15] Final Certification delivered. All three Character Production Packages reopened, updated (Sections 1, 3, 6-7, 10 only), re-audited PASS, re-approved, and committed/pushed separately. Asset Registry updated to mark Kael, Mira, and Cassian as Visual Canon Complete. Determination: Human Character Visual Production is READY — combined with Phase 6B.1, all four active principal characters now carry complete visual production authority. Remaining open items outside this directive's scope (costume/clothing for all three, exact concept-art values, Asset ID format and episode-count discrepancies, voice cast, the Guardian's own narrow remaining gaps) logged rather than resolved. Phase 6B.2 complete.`
