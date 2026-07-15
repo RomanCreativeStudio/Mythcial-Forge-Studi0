@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 18 of 36
 **Working Title (not final):** "Before the Doctrine"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 17's approval. Closes Movement II ("The Revelation Cluster") — the Guardian's first Arc Two appearance. Maximum scrutiny episode: mystery protection boundary drawn explicitly — relational/philosophical history only, the Guardian's true origins ("Identity & Role") never touched, no origin/purpose/destiny reveal.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 17's approval. Closes Movement II ("The Revelation Cluster") — the Guardian's first Arc Two appearance. Maximum scrutiny episode: mystery protection boundary drawn explicitly — relational/philosophical history only, the Guardian's true origins ("Identity & Role") never touched, no origin/purpose/destiny reveal. **Approved 2026-07-15 following clean PASS results from all three verification structures.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -468,9 +468,10 @@ Continuous, conversational pacing across all five scenes, deepening in intimacy 
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.**
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 18 package, Episodes 1–17's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. This closes Movement II. Phase 5B continues automatically to Episode 19 — the required quiet character moment.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 17's approval. Sixth Arc Two screenplay, closing Movement II — the Guardian's first Arc Two appearance and its pre-radicalization history with Cassian — built from the sole seed authority of the Approved Phase 4B Episode 18 Production Development Package, with maximum scrutiny applied to the mystery protection boundary. Five scenes matching the package one-to-one (What He Brings Back, Where It Once Stood, What It Sees in Him, The Question It Can't Dismiss, What It Would Say). Every line of the Guardian's account verified directly against its own already-Locked "Relationship with Cassian" Character Bible entry (lines 95–101) during compilation — relational and philosophical history only; its own true origins ("Identity & Role") never cited, referenced, or gestured toward anywhere. No origin reveal, purpose reveal, destiny framing, or chosen-one implication appears. The Guardian's own internal conflict (whether Cassian's argument might be correct) presented as genuinely open, its full resolution with Kael reserved for Episode 24. Kael's burden-alone flaw remains untouched. Cassian does not personally appear; Titan, Mira, and Night Haven correctly do not appear. Signal/Cipher-work untouched. Regression Verification and the Arc Two Reveal Progression Verification performed against Episodes 1–17; all sections PASS, with maximum scrutiny on canon regression and reveal progression. All three assets flagged Asset Creation Required; no new asset category introduced. No superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 18 package, Episodes 1–17's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from all three verification structures, with maximum scrutiny confirming the Guardian's mystery protection boundary held throughout — its true origins never cited, referenced, or gestured toward. No blocking condition found. Status: "Approved — Founder Approved for Production." Movement II closes clean. Phase 5B continues automatically to Episode 19.`
