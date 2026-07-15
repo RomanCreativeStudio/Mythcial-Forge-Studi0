@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 23 of 36
 **Working Title (not final):** "What Division Costs"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 22's approval. Continues Movement IV ("The Reckoning") and Arc Transition Two — Arc Two's defining civilian-scale loss. Maximum scrutiny episode: no core-cast character dies or is harmed; specific civilian names deferred to script stage per Episode 11's own precedent; restraint standard carried forward from Episode 11 at civilizational scale.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 22's approval. Continues Movement IV ("The Reckoning") and Arc Transition Two — Arc Two's defining civilian-scale loss. Maximum scrutiny episode: no core-cast character dies or is harmed; specific civilian names deferred to script stage per Episode 11's own precedent; restraint standard carried forward from Episode 11 at civilizational scale. **Approved 2026-07-15 following clean PASS results from all three verification structures, including explicit verification that no core-cast character was harmed.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -500,9 +500,10 @@ Escalating cross-cutting through Scenes 1–2, landing on Scene 3's restrained c
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.**
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 23 package, Episodes 1–22's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 24 — the aftermath.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 22's approval. Eleventh Arc Two screenplay, continuing Movement IV and Arc Transition Two — Arc Two's defining civilian-scale loss, "What Division Costs" — built from the sole seed authority of the Approved Phase 4B Episode 23 Production Development Package, with maximum scrutiny applied throughout. Six scenes matching the package one-to-one (The Threshold Crossed, Too Late From Every Direction, What Is Lost, No Side Free of This, Kael Witnesses, Uncushioned). The loss rendered exactly as Phase 2A.2's own Founder Decision 6 states it — no core-cast death, multiple named-but-not-core-cast civilians lost, with specific names explicitly deferred to the script-writing stage, consistent with Episode 11's own established precedent, verified with maximum scrutiny. No core-cast character (Kael, Mira, the Guardian, Cassian) dies or is harmed, confirmed explicitly. Restraint standard carried forward from Episode 11's own Scene 2 and closing precedent, now at civilizational scale — no spectacle, no swelling score, no resolving cue. No character states the episode's thesis as spoken commentary; the proof remains structural. Kael's burden-alone flaw is not tested this episode, correctly distinguished from Episode 21's territory. The Guardian, Mira, Cassian, and Titan correctly do not appear. No new location, faction, or technology invented. Signal/Cipher-work untouched. Regression Verification and the Arc Two Reveal Progression Verification performed against Episodes 1–22; all sections PASS, with maximum scrutiny on canon regression and reveal progression. All four assets flagged Asset Creation Required, with civilian names explicitly deferred. No superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 23 package, Episodes 1–22's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from all three verification structures, which explicitly verified no core-cast character was harmed and that civilian names remained correctly deferred to the script-writing stage. No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 24.`
