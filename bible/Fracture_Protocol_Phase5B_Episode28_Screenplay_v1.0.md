@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 28 of 36
 **Working Title (not final):** "The First Doubt"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 27's approval. Opens Arc Three's Movement II ("What Cassian Becomes") — stage four of his four-stage development beginning. Maximum scrutiny episode: only doubt beginning is delivered; Kael's challenge (Episode 29), the extremist incident (Episode 30), and self-dismantling (Episode 35) are not pulled forward.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 27's approval. Opens Arc Three's Movement II ("What Cassian Becomes") — stage four of his four-stage development beginning. Maximum scrutiny episode: only doubt beginning is delivered; Kael's challenge (Episode 29), the extremist incident (Episode 30), and self-dismantling (Episode 35) are not pulled forward. **Approved 2026-07-15 following clean PASS results across all three verification structures.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -327,9 +327,10 @@ Continuous, unhurried pacing across all three scenes — a single internal desce
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.**
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 28 package, Episodes 1–27's screenplays, Phase 5A framework, Phase 5A.1 lock, Phase 5A.2 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 29 — Kael's direct challenge.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 27's approval. First Movement II screenplay, opening Arc Three's Cassian final-arc sequence — "The First Doubt," stage four of four beginning — built from the sole seed authority of the Approved Phase 4B Episode 28 Production Development Package, with maximum scrutiny applied to stage sequencing. Three scenes matching the package one-to-one (The Knowledge He Carries, The First Crack Widens, Unspoken), mirroring Episode 17's own solo-interior-episode precedent. Cassian's doubt verified directly against Phase 2C Section 5's stage-four language during compilation — genuine and specific, never a general collapse of conviction; contained and unspoken, never resolving, deepening past "visible but unspoken," or connecting to Kael's challenge or the extremist incident. No other character appears. Kael's direct challenge (Episode 29), the extremist incident (Episode 30), and self-dismantling (Episode 35) are all correctly withheld and not pulled forward, verified with maximum scrutiny. Signal/Cipher-work untouched. Regression Verification performed against Episodes 1–27; all sections PASS, with primary verification on canon regression. Arc Three Progression Verification (per Phase 5A.2) performed across all seven categories, with maximum verification on Cassian's stage sequencing; all PASS. Both assets flagged Asset Creation Required. No superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 28 package, Episodes 1–27's screenplays, Phase 5A framework, Phase 5A.1 lock, Phase 5A.2 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results across all three verification structures, with maximum verification confirming Cassian's stage sequencing held exactly — only Episode 28's assigned content (First Doubt) delivered, nothing pulled forward. No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 29.`
