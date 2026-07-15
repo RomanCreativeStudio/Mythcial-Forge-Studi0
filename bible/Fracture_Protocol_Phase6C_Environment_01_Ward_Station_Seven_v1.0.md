@@ -140,3 +140,50 @@ Recurring across nearly the entirety of Season One's confirmed range (Episodes 1
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Environment 1 of 10 (Ward Station Seven, Production Priority 1). All 38 required fields populated from direct screenplay re-verification (13 confirmed episodes) and cited Locked Art Bible rules. Corrects a discrepancy in Phase 6A's aggregate episode range: Episodes 6 and 27 do not actually feature this environment on direct text verification, despite being listed there — flagged explicitly, not silently inherited. Confirms the screenplays' own "dressing variant" pattern (one base asset, multiple redressable institutional contexts) as the production-efficient build approach. Scale, Dimensions, Weather Interaction, Traffic Behaviour, and Soundscape flagged as genuinely unspecified rather than invented. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS across all five required audits. No blocking condition found. Status: "Approved." Authoritative for all subsequent Ward Station Seven production.`
+
+---
+
+## Phase 6C.5 Reconciliation Section
+
+*(Appended 2026-07-15 per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Everything above this line is preserved unmodified as the historical Phase 6C record. This section re-verifies the environment directly against every source Phase 6C.5 requires and does not overwrite any prior finding.)*
+
+### Re-Verification Against Full Source Set
+
+Directly re-checked against Master System Prompt, Production Bible, World Bible, Character Bible, Faction Bible, Art Bible, the Phase 4B Episode Production Packages (a source not checked in original Phase 6C), and the Approved Screenplays. **Master System Prompt and Production Bible are both confirmed silent** on Ward Station Seven specifically — the Master System Prompt supplies only the abstract four-layer taxonomy (Upper Grid/Mid Zone/Lower Sector/Unknown Layer), and the Production Bible is a process document that explicitly disclaims introducing any location canon ("Introduces no lore, characters, factions, locations, technologies, or world canon"). No new architectural detail was found in the Phase 4B packages for Episodes 1–12, 22–23 beyond what the final screenplays already carry — Phase 4B and Phase 5B are consistent for this environment.
+
+**Episode range independently re-verified a second time, directly, not merely re-cited:** Episode 6's own Location List reads "Mid Zone — Light 98th-affiliated space" for all 5 scenes (no Ward Station Seven). Episode 27's own Location List names "Light Order institutional environment," "Night Haven environment," "Doctrine institutional environment (new)," and "Kael's transitional/institutional space" — no Ward Station Seven anywhere. **Phase 6C's original correction (removing Episodes 6 and 27) is confirmed accurate on this second, independent direct check.**
+
+### Lighting Canon Determination
+
+Not applicable — no conflicting lighting description was found for this environment in either Phase 6C's original research or this reconciliation pass. Its scene-by-scene mood shifts (warm/lived-in baseline, cooling under alert, graver under formal review) are consistent across every source checked and do not require an intentional-vs-contradiction determination.
+
+### Environment Identity
+
+| Field | Definition |
+|---|---|
+| Permanent Identity | Ward Station Seven — Kael's home Ward Division institution, Lower Sector. |
+| Purpose | The saga's grounding location; where Kael's baseline life is established and returned to. |
+| Narrative Function | Fixed point against which Kael's arc's changes are measured; hosts routine, crisis, and formal evaluation. |
+| Visual Function | Must read as Lower Sector within the Locked 2-second Core Requirement window (`environment-design-rules.md`) using palette, architecture, and silhouette alone. |
+| Production Function | Single base architectural asset with multiple redressable functional zones (working/alert/formal/review/ceremony/communications/reporting) — confirmed by the screenplays' own explicit "reused" language. |
+| Reuse Strategy | Maximum — the highest-reuse environment in the production (13 confirmed episodes); build once, redress repeatedly. |
+| Asset Dependencies | Kael (primary); Ward colleagues/evaluators (background); no new props/technology/vehicles/weapons/VFX. |
+| Animation Complexity | Moderate — background-population and alarm/mobilization movement; no combat animation confirmed here specifically. |
+| Lighting Rules | Baseline warm/lived-in interior; shifts per the Locked Emotional Lighting Modes (Grounded/Charged/Wounded) per scene mood; exterior cooler than interior. |
+| Material Rules | Lower Sector Surface Rules (`materials-and-textures.md`): concrete/composite, always weathered, visible wear and repair patchwork; glass/display surfaces worn. |
+| Color Rules | Locked permanent three-color system; cyan/icy-blue reserved exclusively to Kael's eye-glow and Fracture-anomaly phenomena — never assigned to this environment decoratively. |
+| Camera Rules | Standard Lens Philosophy (35–50mm) for interior dialogue; wider 18–24mm for layer-establishing shots. |
+| Environmental Storytelling Rules | Directly governed by the Locked Environmental Storytelling Requirement — Breach-adjacent background texture (corrupted-signal ground distortion, memorial markers, static-heavy transition zones) appropriate even when not plot-relevant, given its explicit Lower Sector siting. |
+
+### Environment Consistency
+
+Scene transitions, reuse, and spatial continuity are internally consistent across all 13 confirmed episodes — the "dressing variant" pattern means the same physical space is redressed, not rebuilt, preserving spatial continuity by construction. No environment progression or evolution across the season is confirmed or required; its narrative function depends on it remaining a stable, recognizable constant.
+
+### Production Readiness: READY
+
+No blocker. Scale, Dimensions, Weather Interaction, Traffic Behaviour, and Soundscape remain genuinely unspecified but do not prevent concept art or turnaround work from beginning on the confirmed material.
+
+---
+
+### Changelog (Reconciliation)
+`[v2.0 — 2026-07-15] Reconciliation Section appended per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Original Phase 6C content (v1.0–v1.1) preserved unmodified. Re-verified against the full required source set, including the Phase 4B Episode Production Packages (not checked in original Phase 6C) — confirmed consistent with no new discrepancy. Phase 6C's Episode 6/27 correction independently re-confirmed on a second, direct check. Production Readiness: READY, no blocker.`
