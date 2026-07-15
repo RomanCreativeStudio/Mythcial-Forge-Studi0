@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 14 of 36
 **Working Title (not final):** "Two Futures"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 13's approval. Night Haven's full activation — primary verification on staying exactly within approved scope.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 13's approval. Night Haven's full activation — primary verification on staying exactly within approved scope. **Approved 2026-07-15 following clean PASS results from all three verification structures.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -452,9 +452,10 @@ Restrained pacing throughout; Scenes 2–3 should feel formal and slightly dista
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.** Only this document was created. The Phase 4B Episode 14 package, Episodes 1–13's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified.
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 14 package, Episodes 1–13's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 15.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 13's approval. Second Arc Two screenplay — Night Haven's full activation — built from the sole seed authority of the Approved Phase 4B Episode 14 Production Development Package ("Two Futures"), with primary verification applied to Night Haven's exact scope. Five scenes matching the package one-to-one; Night Haven's engagement is political only, no recurring named individual, dialogue drawn only from its Locked cooperation/independence/choice philosophy. Kael's burden-alone flaw remains untouched. Mira, the Guardian, Titan, Cassian correctly absent. Regression Verification and the Arc Two Reveal Progression Verification performed against Episodes 1–13; all sections PASS. All assets flagged Asset Creation Required. No new canon character, faction, ability, technology, or event introduced; no superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 14 package, Episodes 1–13's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from all three verification structures, with primary verification confirming Night Haven's scope stays exactly within approved authority. No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 15.`
