@@ -127,3 +127,51 @@ Recurring across a wide span (Episodes 17–31), concentrated in Movement Two/Ca
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Environment 2 of 10 (Cassian's Private Interior / the Ascendant Core, Production Priority 2). Confirms this is the largest environment specification gap found so far: architecture, construction, scale, dimensions, materials, surface treatment, structural language, exterior, weather, soundscape, environmental storytelling (layer unconfirmed), and repair states are all genuinely unspecified across all 6 confirmed episodes (17, 24, 25, 28, 30, 31) and the Faction Bible's own sole descriptive line (line 67, quoted in full). Zero co-occupancy confirmed — every scene is solo Cassian. Production Status set to "Blocked on architectural specification," distinct from Ward Station Seven's "In Progress." Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a PASS across all five required audits, with the Production Audit's "Blocked on architectural specification" flag preserved. Status: "Approved," though downstream concept art remains blocked until further direction is supplied.`
+
+---
+
+## Phase 6C.5 Reconciliation Section
+
+*(Appended 2026-07-15 per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Everything above this line is preserved unmodified. This section re-verifies the environment against the full required source set.)*
+
+### Re-Verification Against Full Source Set
+
+Master System Prompt and Production Bible confirmed silent, same finding as Environment 1. **The Phase 4B Episode Production Package for Episode 17 (this environment's establishing episode) supplies a significant new finding, not previously checked:** the minimalism here is not an information gap that was lost during screenplay drafting — it is a **deliberate, explicit production decision made at the planning stage itself**. Episode 17's own Section 5 states: "one new private interior for Scene 4, reusing Cassian's already-Locked 'private facility, the Ascendant Core' designation **rather than inventing new detail** — checked against the Asset Registry before build." Every subsequent episode's Phase 4B package (24, 25, 28, 30, 31) repeats this same "reused, no new location" framing. **This reframes the nature of the gap: it was never lost information — it was always intended to stay minimal.** The one fact that exists nowhere else — Episode 17's Phase 4B Scene 4 lighting note, "a quieter, more private register... distinct from the rest of the episode" — matches what Phase 6C's original research already found in the final screenplay; no new lighting fact was added.
+
+### Lighting Canon Determination
+
+Not applicable — no conflicting lighting description exists for this environment; only a single, consistent "quieter, more private" note across both Phase 4B and Phase 5B sources.
+
+### Environment Identity
+
+| Field | Definition |
+|---|---|
+| Permanent Identity | The Ascendant Core — Cassian's personal command center (Faction Bible, line 67). |
+| Purpose | The private counterpart to his public Doctrine-leadership presence. |
+| Narrative Function | Where his composure is allowed to drop with no one watching; hosts three of his five Locked schedule beats (28, 30, 31). |
+| Visual Function | **Deliberately minimal, by confirmed production intent** — not a visual-identity gap but a considered choice to keep this space undesigned beyond function and mood. |
+| Production Function | A single, unvarying private interior, explicitly built to require no new visual detail beyond what the Faction Bible's naming already supplies. |
+| Reuse Strategy | Single consistent design (once any design exists) serves all 6 confirmed episodes; no variant dressing. |
+| Asset Dependencies | Cassian only — zero co-occupancy confirmed across all 6 episodes, in both Phase 4B and Phase 5B sources. |
+| Animation Complexity | Minimal — solo, seated/still performance beats only, confirmed in both sources. |
+| Lighting Rules | Grounded-register by default; "quieter, more private" at its Episode 17 establishing beat; a reasonable extension toward Wounded-register at his Episode 31 schedule beat, per his own character-level lighting notes — stated as inference, not independently confirmed for the environment itself. |
+| Material Rules | **Missing — genuinely unspecified, confirmed at both the Phase 4B and Phase 5B stages.** No Founder or Art Bible input exists to draw from. |
+| Color Rules | Locked permanent three-color system; a reasonable extension of Cassian's own Locked cool, precise, formal personal palette (Phase 6B.2/6B.3) to his private space, stated as inference. |
+| Camera Rules | Standard Lens Philosophy for solo interior beats; push-in fits his scheduled emotional beats (Episodes 31, 35), consistent with the Locked "landing an emotional beat" use case. |
+| Environmental Storytelling Rules | **Cannot be applied — no layer is confirmed for this environment in any source checked, including Phase 4B.** |
+
+### Environment Consistency
+
+Internally consistent across all 6 episodes in both Phase 4B and Phase 5B — every appearance is explicitly a "reuse," with zero variant dressing and zero co-occupancy, confirmed twice over (planning stage and final screenplay). No environment progression or evolution exists; its narrative function (a fixed, unchanging private space) depends on this stability.
+
+### Production Readiness: BLOCKED
+
+**Exact blocker:** no architecture, construction, materials, scale, dimensions, structural language, exterior, weather, soundscape, or layer placement exists for this environment in any Locked or production source checked, at either the Phase 4B or Phase 5B stage.
+**Severity:** Moderate — not urgent, since the environment's own confirmed design intent (minimal, undesigned beyond function and mood) means its narrative function does not depend on visual specificity the way a "hero" environment's would. It does not block any other environment's production.
+**Required Founder decision:** whether to (a) commission new architectural/material direction for this environment now, or (b) formally ratify the deliberate-minimalism approach already evident at the Phase 4B planning stage as the permanent production intent, meaning concept art would proceed with a deliberately spare, mood-driven design rather than a fully detailed one.
+**Recommended resolution, offered as a recommendation only:** given that the "no new detail" instruction appears independently and repeatedly at the Phase 4B planning stage — before any final screenplay pressure to compress detail existed — this reads as genuine, considered creative intent rather than an oversight. Ratifying option (b) above would unblock this environment for concept art immediately, using its confirmed lighting/mood identity (quiet, private, controlled) as the design brief rather than waiting for architectural detail that the production's own planning process never intended to supply.
+
+---
+
+### Changelog (Reconciliation)
+`[v2.0 — 2026-07-15] Reconciliation Section appended per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Original Phase 6C content (v1.0–v1.1) preserved unmodified. Phase 4B Episode 17 Production Package re-verification found the minimalism here is a deliberate, explicit planning-stage decision ("rather than inventing new detail"), not an information gap lost during drafting — this reframes but does not resolve the blocker. Production Readiness: BLOCKED, severity Moderate, with a specific recommended resolution offered for Founder decision (ratify deliberate minimalism as permanent design intent, rather than commissioning new architecture).`
