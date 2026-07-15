@@ -127,3 +127,48 @@ Spans from Episode 19 (Season One) through Episode 36 (the finale) — a wide ch
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Environment 4 of 10 (Reconstruction-Work Environment, Production Priority 2). The best-documented of the 9 secondary/tertiary environments — Episode 19 supplies genuine architectural (bracing, load-bearing wall sections, prior structural failure), lighting (warm, explicitly contrasted with the institutional cluster), and time-of-day (daytime extending toward evening) grounding. Environmental Effects field deliberately left undefined for Episode 33 specifically, extending the same Phase 5A.2 mystery-protection restraint already applied to Mira's Mission Outfit in her Phase 6B.3 Costume Canon. Production Status: "In Progress." Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS across all five required audits. No blocking condition found. Status: "Approved." Authoritative for all subsequent production.`
+
+---
+
+## Phase 6C.5 Reconciliation Section
+
+*(Appended 2026-07-15 per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Everything above this line is preserved unmodified.)*
+
+### Re-Verification Against Full Source Set
+
+Master System Prompt and Production Bible confirmed silent, consistent with every other environment. The Phase 4B Episode 19 Production Package (its establishing episode) was checked directly and confirms, rather than expands, Phase 6C's original findings: "A reconstruction-work environment consistent with her established civilian-reconstruction identity — new to Phase 4B's Arc Two production... Possible new environment (reconstruction work site); flagged for Asset Registry check" — no layer (Lower Sector vs. Mid Zone), material, or dimensional detail beyond what the final screenplay already carries. No new discrepancy found; no episode-range correction required.
+
+### Lighting Canon Determination
+
+Not applicable — no conflicting lighting description exists for this environment in any source checked.
+
+### Environment Identity
+
+| Field | Definition |
+|---|---|
+| Permanent Identity | Mira's civilian reconstruction work site. |
+| Purpose | The physical expression of her Locked identity — "rebuilding what conflict destroys." |
+| Narrative Function | The tonal opposite of the season's institutional interiors; hosts Episode 33's active-role beginning. |
+| Visual Function | Exterior civilian rebuild site, warm register, visually and tonally distinct from Ward Station Seven/Formal Meeting/institutional clusters. |
+| Production Function | A single, consistent exterior set — confirmed unchanged across all 7 appearances ("the same steady work continues," Episode 33). |
+| Reuse Strategy | High — 7 confirmed episodes, the best-documented secondary environment in the batch. |
+| Asset Dependencies | Mira (primary), Kael (recurring), a non-speaking work team (background); no new props/technology/vehicles/weapons. |
+| Animation Complexity | Moderate-high — active manual-labor animation, the most movement-active of the named environments with confirmed detail. |
+| Lighting Rules | Warm, settled register, explicitly and consistently differentiated from the institutional cluster (Episode 19). |
+| Material Rules | Structural/wall materials implied by "wall," "section," "load" language; not itemized to a specific material. |
+| Color Rules | Locked permanent three-color system; extends Mira's own Locked warm earth-tone palette (Phase 6B.2/6B.3) to the environment level. |
+| Camera Rules | Wide/active establishing framing (18–24mm) for scale-establishing shots; standard dialogue framing for reused conversational beats. |
+| Environmental Storytelling Rules | **Cannot be fully applied — no layer is confirmed for this environment in any source checked, including Phase 4B.** A plausible connection to Mira's own Locked Mid Zone residence exists as an inference only. |
+
+### Environment Consistency
+
+Internally consistent across all 7 appearances in both Phase 4B and Phase 5B sources — a single, stable site with no confirmed variant dressing, explicitly reconfirmed unchanged as late as Episode 33.
+
+### Production Readiness: READY
+
+No blocker. Layer placement, exact materials, and Episode 33's deliberately-undefined Environmental Effects remain open items — the latter by deliberate mystery-protection design (Phase 5A.2), the former genuinely unspecified but not preventing concept art or turnaround work on the confirmed material.
+
+---
+
+### Changelog (Reconciliation)
+`[v2.0 — 2026-07-15] Reconciliation Section appended per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Original Phase 6C content (v1.0–v1.1) preserved unmodified. Phase 4B Episode 19 re-verification confirms, rather than expands, the original findings — no new discrepancy, no episode-range correction. Production Readiness: READY, no blocker.`
