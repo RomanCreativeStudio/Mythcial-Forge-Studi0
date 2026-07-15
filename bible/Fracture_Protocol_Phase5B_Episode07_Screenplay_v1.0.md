@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 7 of 36
 **Working Title (not final):** "Earned, Not Given"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 6's approval. Season's proposed mid-season turning point; Night Haven's first appearance.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 6's approval. Season's proposed mid-season turning point; Night Haven's first appearance. **Approved 2026-07-15 following clean PASS results from both audits, with primary verification confirming zero Signal/Cipher-work reference and zero named Night Haven individual.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -449,9 +449,10 @@ Efficient pacing through the assessment (Scenes 1–2); Scene 5's cut at the com
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.** Only this document was created. The Phase 4B Episode 7 package, Episodes 1–6's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified.
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 7 package, Episodes 1–6's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 8.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 6's approval. Seventh Phase 5B screenplay — the season's proposed mid-season turning point and Night Haven's first appearance — built from the sole seed authority of the Approved Phase 4B Episode 7 Production Development Package ("Earned, Not Given"). Five scenes matching the package one-to-one; Kael's advancement assessment tests leadership judgment and competence only, with zero Signal/Cipher-work rank or ability referenced, preserving the Signal Profile Deferral Lock; Night Haven registers as pure ambient background texture, zero named individual introduced. Kael's advancement is written as genuinely earned and distinct in tone from Episode 3's misdirected praise, without resolving his actual flaw. Scene 5 closes on an abrupt, clean tonal break marking Movement III's arrival. Regression Verification performed against Episodes 1–6; all ten sections PASS. All four referenced assets flagged Asset Creation Required. No new canon character, faction, ability, technology, or event introduced; no superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 7 package, Episodes 1–6's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from both audits, with primary verification confirming zero Signal/Cipher-work reference and zero named Night Haven individual. No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 8.`
