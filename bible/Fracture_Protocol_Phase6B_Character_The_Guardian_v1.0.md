@@ -7,6 +7,7 @@
 **Working interpretation carried forward from Kael's and Mira's packages, applied identically here:** field-level missing specification is flagged and the package continues to build; only a structural stop condition halts production. The Guardian's Character Authority (identity, philosophy, role) is fully Locked and sufficient to build a package around, even where physical specification is entirely absent.
 **A distinct structural note for this character, stated explicitly rather than assumed:** unlike Kael and Mira, the Guardian's non-humanoid, form-unspecified nature (Locked: "an ancient artificial intelligence," Phase 1A) means several of the directive's 10 sections may be genuinely **not applicable** rather than merely missing — most notably clothing/costume. This distinction (not-applicable vs. missing) is made explicit field-by-field below rather than conflated.
 **REOPENED 2026-07-15 per "Founder Directive — Phase 6B.1 Visual Manifestation Canon (v1.0)."** That directive created `bible/Fracture_Protocol_Phase6B1_Visual_Manifestation_Canon_v1.0.md` as new Locked Canon resolving the form-determination gap this package originally flagged as its largest open item. Per Phase 6B.1's own Character Package Update Rule, only Sections 1 (Art References addition), 3 (Physical Description, Visual Identity, Silhouette), 6 and 7 (poses/animation notes that depend directly on Silhouette), and 10 (Production status) are updated below. **Every narrative section — 2, 4, 5, 8, 9 — is left untouched**, per that rule's explicit instruction; Section 4 (Costume Breakdown) in particular remains Not Applicable exactly as originally determined, since Phase 6B.1 does not establish clothing and was never asked to. The original Phase 6B.0 Founder Review & Alignment Audit and Founder Approval (below) are preserved unmodified as the historical record of that pass; a second, dedicated Phase 6B.1 Update Audit and Approval follow them rather than overwriting them.
+**REOPENED AGAIN 2026-07-15 per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)."** That directive created `bible/Fracture_Protocol_Phase6B3_Costume_Wardrobe_Visual_Canon_v1.0.md`, which explicitly reconciles the "Costume Not Applicable" finding above with Phase 6B.1's own ordinary-humanoid mandate: an unclothed "ordinary" presence would itself be distinctive, so a single, deliberately unremarkable costume register is now defined. Per Phase 6B.3's own Step 2, only Costume Breakdown/Wardrobe (Section 4), Animation Notes (Section 7), Concept Art References (folded into Section 4), and Production Status (Section 10) are updated below. A dedicated Phase 6B.3 Update Audit and Approval follow the Phase 6B.1 ones.
 
 ---
 
@@ -26,6 +27,7 @@
 | `bible/Fracture_Protocol_Phase6A5_Asset_Production_Standards_v1.0.md` | Asset ID/Naming/Version/Lifecycle standards for Section 10 | Locked |
 | `documentation/Asset_Registry.md` | Existing FPP-CHAR-004 backlog entry for the Guardian | Registry of record |
 | **`bible/Fracture_Protocol_Phase6B1_Visual_Manifestation_Canon_v1.0.md`** *(added on reopening, 2026-07-15)* | **Sole Art Reference for all Guardian visual production**: overall silhouette, visual scale, body proportions, surface treatment, motion language, facial language, presence, lighting behavior, environment interaction, distance behavior, camera behavior, color philosophy, symbolic design language, visual consistency rules. Supersedes this package's original "no visual specification exists" finding — that finding is preserved below as historical record (Section 3), not deleted, since it was accurate at the time and is what prompted Phase 6B.1's creation. | Locked Canon (new, same tier as Character Bible for this domain) |
+| **`bible/Fracture_Protocol_Phase6B3_Costume_Wardrobe_Visual_Canon_v1.0.md`** *(added on reopening, 2026-07-15)* | **Sole Costume/Wardrobe Art Reference for the Guardian**: a single, deliberately plain, unmarked, civilian-adjacent outfit register (no faction affiliation, no insignia, no era-specific styling), with all other outfit categories explicitly collapsed into it rather than left undefined — outfit variation would itself be a distinctive design choice, contradicting Phase 6B.1's Visual Consistency Rule. Supersedes this package's original "Not Applicable" finding — preserved as historical record within Section 4, not deleted, since it was accurate before Phase 6B.1 established a confirmed form. | Locked Canon (new, beneath Phase 6B.2/Phase 6B.1, above this package) |
 
 **Discrepancy noted, not silently resolved:** Phase 6A's registry lists 9 episodes for the Guardian. This session's `GUARDIAN` speaker-header grep found 10 files; a broader name+action-verb grep found 14. As with Mira, these different counts likely reflect different counting methods (speaking role vs. any mention) and are recorded rather than reconciled unilaterally.
 
@@ -82,9 +84,23 @@ At the time this package was first compiled and Approved, no Locked source anywh
 
 ---
 
-## 4. Costume Breakdown
+## 4. Costume Breakdown / Wardrobe
 
-**Not Applicable, structurally — not merely missing.** The Guardian has no confirmed physical embodiment in Locked canon, and therefore no basis exists for a costume breakdown of any kind. This determination is made explicitly rather than defaulting to "flag as missing" the way Kael's and Mira's genuinely absent-but-otherwise-humanoid costume data was flagged — the Guardian's case is categorically different and is recorded as such. Should a future Founder directive or Art Bible expansion establish a physical form for the Guardian, this section would need to be rebuilt from that new specification, not inferred from this one.
+**RESOLVED 2026-07-15 per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)."** Full costume authority now exists at `bible/Fracture_Protocol_Phase6B3_Costume_Wardrobe_Visual_Canon_v1.0.md`, Section 5 — incorporated here by reference rather than duplicated in full.
+
+**Outfits:** A single, deliberately plain, unmarked, civilian-adjacent outfit register — no faction affiliation, no insignia, no era-specific or culturally-specific styling. Secondary/Formal/Mission/Civilian categories are explicitly collapsed into this one register, not left undefined: introducing outfit variation would itself be a distinctive, memorable design choice, directly contradicting Phase 6B.1's Visual Consistency Rule ("every rule... must render identically across all episodes").
+
+**The reasoning that resolves the apparent tension with this package's own prior "Not Applicable" finding (preserved below):** an unclothed "ordinary, unremarkable" humanoid presence would itself be a distinctive visual choice, contradicting the entire design premise Phase 6B.1 was built to protect. Costume is therefore now appropriate, on the condition that it be designed to be as close to visually invisible as clothing can be — reinforcing the *absence* of a legible identity, since that absence is itself the Locked characterization (Phase 6B.1, Mystery Protection Rule).
+
+**Recurring/optional/damaged/ceremonial categorization:** not meaningful for the Guardian — a single, unvarying register has no recurring/optional distinction to make; "damaged" or "ceremonial" states are explicitly excluded, since either would function as a distinguishing, memorable design choice.
+
+**Concept Art References:** Phase 6B.3, Section 5 (full Production Attributes table — the simplest and lowest-complexity of the four characters, by design).
+
+**Animation Notes (costume-specific):** minimal cloth simulation, ordinary movement only, no combat collision requirements, no special LOD consideration — per Phase 6B.3's Animation Considerations entry.
+
+No redesign or invention beyond what Phase 6B.3 itself establishes is performed here.
+
+**Historical Record — Original Phase 6B.0 Finding (preserved unmodified):** "Not Applicable, structurally — not merely missing. The Guardian has no confirmed physical embodiment in Locked canon, and therefore no basis exists for a costume breakdown of any kind... Should a future Founder directive or Art Bible expansion establish a physical form for the Guardian, this section would need to be rebuilt from that new specification, not inferred from this one." Phase 6B.1 subsequently established that confirmed physical form; Phase 6B.3 is the rebuild this note anticipated.
 
 ---
 
@@ -130,6 +146,7 @@ Six of nine fixed-list poses are now confirmed required (up from two); Running a
 ## 7. Animation Notes / Requirements
 
 **UPDATED 2026-07-15 per Phase 6B.1** — requirements only; no design work performed here.
+**UPDATED AGAIN 2026-07-15 per Phase 6B.3** — costume simulation now scoped: minimal cloth simulation, ordinary movement only, no combat collision requirements, no special LOD consideration — the lowest-complexity costume-animation profile of the four characters, by design. Full detail in Phase 6B.3, Section 7.
 
 - **Idle:** required — Presence (Section 3) establishes a calm, settled ambient default this must support.
 - **Walk cycle:** required, but not dominant — resolved from "not required" now that a humanoid form is confirmed; still secondary to its default ambient/stationary staging (Episode 4).
@@ -192,7 +209,7 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 | Name | The Guardian |
 | Category | Character |
 | Naming convention (Phase 6A.5) | `CHR_0004_Guardian_v001` |
-| Production status | Requested → **In Progress** *(updated 2026-07-15 per Phase 6B.1 — formerly "Blocked on form-determination"; now aligned with Kael's and Cassian's status. Remaining gaps — Hair, Eyes detail, Skin tone — are genuinely-missing-but-fillable, not structural.)* |
+| Production status | Requested → In Progress → **Costume Authority Complete** *(updated 2026-07-15 per Phase 6B.3 — Costume Breakdown/Wardrobe now resolved via a single deliberately unremarkable outfit register. Remaining gaps — Hair, Eyes detail, Skin tone — are genuinely-missing-but-fillable, not structural.)* |
 | Version | v1.0 (this package) |
 | Priority | 2 (Phase 6A Asset Priority Matrix) |
 | Episodes used | Phase 6A registry: 9. This pass: 10 (speaker header), 14 (name+action-verb evidence) — discrepancy flagged above, not resolved. |
@@ -252,7 +269,32 @@ Per Phase 6B.1's Automatic Workflow: "Reopen Guardian Character Package. Apply v
 
 ---
 
+## Phase 6B.3 Update Audit (Character Audit — Second Reopening)
+
+Per Phase 6B.3's Automatic Workflow. The Phase 6B.0 and Phase 6B.1 audits/approvals above are preserved unmodified; this is a new, dedicated audit of this second reopening.
+
+| Check | Result |
+|---|---|
+| Founder Review | PASS — only Costume Breakdown/Wardrobe (Section 4), Animation Notes (Section 7), Concept Art References (folded into Section 4), and Production Status (Section 10) were touched. |
+| Alignment Audit | PASS — the apparent tension between this package's original "Not Applicable" costume finding and Phase 6B.3's new costume canon is explicitly reasoned through in Section 4, not silently overridden. |
+| Character Verification | PASS — no narrative fact altered; Sections 2, 3, 5, 8, 9 verified unchanged by direct comparison. |
+| Repository Verification | PASS — Phase 6B.3 read directly from its own Approved, Locked file. |
+| Regression Verification | PASS — the Phase 6B.1 update content confirmed intact and unaltered by this second reopening. |
+| Canon Verification | PASS — no screenplay, dialogue, or story beat touched; the Locked Mystery Protection Rule confirmed honored — the new costume is designed specifically to reinforce, not reduce, the Guardian's lack of legible identity. |
+| Production Verification | PASS — Costume Breakdown now resolved via a single unremarkable outfit register; Production status upgraded to Costume Authority Complete. |
+
+**Determination: PASS.** Ready for Founder Approval.
+
+---
+
+## Phase 6B.3 Update — Founder Approval
+
+**Approved 2026-07-15** following a clean PASS Phase 6B.3 Update Audit. No blocking condition found. This package's production status is updated to **Costume Authority Complete**. Concept art and turnaround work for the Guardian may now proceed against both Phase 6B.1 and Phase 6B.3's combined Visual Authority; the three narrow gaps (Hair, Eyes detail, Skin tone) remain open, logged rather than blocking.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Character 3 of 4 (the Guardian). All 10 required sections built from direct repository citation only, with the Guardian mystery-protection rule (Phase 5A.2) fully respected — no origin theory asserted as fact. The largest open production question surfaced across all Phase 6B.0 characters so far: whether/how the Guardian has any physical form at all, given zero Locked visual specification exists anywhere (Art Bible, World Bible, Faction Bible, Phase 1B.3) against contradicting evidence of staged physical presence across 14 screenplays' action lines. Four screenplays (Episodes 18, 24, 26, 32) cross-reference "the Guardian's established Season One visual language, per lighting-system.md" — checked directly and found not actually present in that file, flagged as a genuine discrepancy rather than silently patched. Sections 3, 4, 6, 7, and 9 explicitly distinguish Not Applicable (structurally excluded by the Guardian's non-physical Locked nature) from Missing (could apply but lacks a source) rather than conflating the two, unlike Kael's and Mira's packages where nearly every gap was a true Missing. Registry Section 10 marks production status as "Blocked on form-determination," distinct from Kael's and Mira's "In Progress." Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a PASS Character Audit. No blocking condition found. Status: "Approved." The form-determination gap (Section 3) is logged as the largest open item across Phase 6B.0 so far, blocking visual asset production until a future Founder directive resolves it, but not treated as a package-level stop condition.`
 `[v2.0 — 2026-07-15] REOPENED per "Founder Directive — Phase 6B.1 Visual Manifestation Canon (v1.0)." Sections 1 (Art References), 3 (Physical Description, Visual Identity, Silhouette), 6 and 7 (poses/animation notes dependent on Silhouette), and 10 (Production status) updated to apply the new Phase 6B.1 Locked Canon. Sections 2, 4, 5, 8, 9 left untouched per Phase 6B.1's own Character Package Update Rule — Section 4 (Costume Breakdown) in particular remains Not Applicable, since Phase 6B.1 does not define clothing. Original Phase 6B.0 findings preserved as historical record within Section 3 and Section 10 rather than deleted. Production status upgraded from "Blocked on form-determination" to "In Progress," aligning the Guardian with Kael's and Cassian's status; three narrower open items remain (Hair, Eyes detail, Skin tone) as genuinely-missing-but-fillable gaps, not structural blocks. Re-audited below; see the Phase 6B.1 Update Audit and Approval that follow the original Phase 6B.0 audit and approval, which are preserved unmodified.`
+`[v3.0 — 2026-07-15] REOPENED again per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)." Section 4 (Costume Breakdown/Wardrobe) resolved via the new Phase 6B.3 Locked Canon — a single, deliberately plain, unmarked outfit register, with the apparent tension against this package's original "Not Applicable" finding explicitly reasoned through: an unclothed "ordinary" humanoid would itself be distinctive, so this costume reinforces rather than reduces the Guardian's lack of legible identity. Section 7 updated with costume-simulation scope (minimal, lowest-complexity of the four characters). Section 10 production status upgraded to "Costume Authority Complete." Original Phase 6B.0 and Phase 6B.1 content preserved unmodified. Re-audited PASS and re-approved via a dedicated Phase 6B.3 Update Audit appended after the prior two.`
