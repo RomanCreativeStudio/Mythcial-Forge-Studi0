@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 25 of 36
 **Working Title (not final):** "What Comes After"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 24's approval. Opens Arc Three, Movement I ("Before the Storm") — the calm-before-the-storm quiet beat. Deliberate pause: no character turning point, no world development, nothing anticipates Episode 26, 28, 32, 33, or 35.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 24's approval. Opens Arc Three, Movement I ("Before the Storm") — the calm-before-the-storm quiet beat. Deliberate pause: no character turning point, no world development, nothing anticipates Episode 26, 28, 32, 33, or 35. **Approved 2026-07-15 following clean PASS results.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -384,9 +384,10 @@ Four self-contained, unhurried scenes in sequence — no cross-cutting tension, 
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.**
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 25 package, Episodes 1–24's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 26 — the reciprocal Kael/Mira/Titan mechanism.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 24's approval. First Arc Three screenplay, opening Movement I ("Before the Storm") — the calm-before-the-storm quiet beat — built from the sole seed authority of the Approved Phase 4B Episode 25 Production Development Package. Four scenes matching the package one-to-one (After, What's Left to Rebuild, Alone With It, Before the Storm), each core-cast thread given a single brief, unchanged-from-Episode-24 beat. No character turning point, world development, or new conflict introduced, consistent with the seed entry's own explicit Character Progression ("Processing, not resolution") and World Progression ("None"). Kael's flaw/synthesis convergence, Cassian's contained first crack, Mira's independence, and the Guardian's protected mystery are all carried forward unchanged from Episode 24 — none advances. Titan does not appear; the reciprocal Kael/Mira/Titan mechanism is named only as Episode 26's bare structural handoff target, not developed. Signal/Cipher-work untouched. Regression Verification performed against Episodes 1–24; all sections PASS, with primary verification on character regression confirming zero contradiction with Episode 24's ending states. All five assets flagged Asset Creation Required. No superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 25 package, Episodes 1–24's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results across Canon Verification, Production Readiness Review, and Regression Verification. Arc Three note: the Arc Two Reveal Progression Verification structure (mandatory for Episodes 13–24) does not apply to this episode by its own explicit range; no comparable Arc Three verification structure has yet been established by Founder directive. Canon Verification and Regression Verification independently confirmed no Arc Three boundary content (Episodes 26, 28, 32, 33, 35) was crossed early. No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 26.`
