@@ -1,6 +1,6 @@
 # THE FRACTURE PROTOCOL — PHASE 6B.2: HUMAN CHARACTER VISUAL CANON
 
-**Classification:** Internal — New Locked Production Canon Document (**Compiled — Pending Founder Review**)
+**Classification:** Internal — New Locked Production Canon Document (**LOCKED CANON, effective immediately**)
 **Status:** Compiled 2026-07-15 per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)." This document resolves the remaining physical/visual production gaps flagged in the Kael, Mira, and Cassian Character Production Packages (Phase 6B.0) — following the same pattern Phase 6B.1 already established for the Guardian. This is a production canon directive: it does not rewrite story canon, does not modify any screenplay, and defines only the permanent visual production authority used by every future department.
 **Absolute authority:** subordinate to Master System Prompt → Locked Canon (Phase 1, 1C Character Bible, 1C Faction Bible, Phase 2 series) → Production Bible → Approved Screenplays (Phase 5B, Locked under Phase 5B.5) → Phase 6.0 → Phase 6A → Phase 6A.5 → Phase 6B Character Production Packages → Phase 6B.1 Visual Manifestation Canon. This document becomes new Locked Production Canon in its own right upon Founder Approval, at the same authority tier as Phase 6B.1, for the specific domain of Kael's, Mira's, and Cassian's visual production. It does not outrank or revise the Character Bible, any screenplay, or Phase 6B.1 (the Guardian's own visual canon, unaffected by this document).
 
@@ -163,9 +163,10 @@ Upon Founder Approval, this document becomes the permanent visual production aut
 
 ## Founder Approval
 
-*(Pending — awaiting explicit Founder Approval before this section is completed and the document promoted from "Compiled — Pending Founder Review" to "LOCKED CANON, effective immediately.")*
+**Approved 2026-07-15** following a clean PASS Founder Review & Alignment Audit. No blocking condition found. This document is **LOCKED CANON, effective immediately**, per its own Implementation Rule (Section 8) — all future Kael, Mira, and Cassian art, storyboards, animation, cinematography, marketing, and key art must reference it, and no future asset may infer their appearance from screenplay dialogue alone. This resolves the physical/visual gaps flagged in all three characters' Phase 6B.0 Character Production Packages; those packages are now reopened and updated to apply this authority (see the companion commits that follow).
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)," resolving the remaining physical/visual production gaps for Kael, Mira, and Cassian following the pattern Phase 6B.1 established for the Guardian. All 22 required sections built for all 3 characters (66 total entries), each grounded in Locked psychology, Locked schedule facts, and the Approved Art Bible's general production rules — no screenplay modified. Central design principle: four distinct, non-colliding visual registers across the principal cast (Kael grounded/practical, Mira civilian/practical, Cassian formal/composed, the Guardian deliberately ordinary), each character's signature distinguishing feature chosen specifically to reinforce, not decorate, their already-Locked psychology (Kael's eye-glow, Mira's hands, Cassian's scheduled unraveling). Genuinely unLocked exact values (hair color, precise height/skin-tone numbers) explicitly flagged as concept-art-stage decisions rather than fabricated. Status: "Compiled — Pending Founder Review."`
+`[v1.1 — 2026-07-15] Approved following a clean PASS Founder Review & Alignment Audit. No blocking condition found. Status: "LOCKED CANON, effective immediately." Authoritative for all future Kael, Mira, and Cassian visual production; all three Character Production Packages are being reopened and updated to apply this authority in separate, immediately following commits.`
