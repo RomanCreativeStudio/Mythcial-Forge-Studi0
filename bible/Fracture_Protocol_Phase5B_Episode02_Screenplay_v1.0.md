@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 2 of 36
 **Working Title (not final):** "The Crisis"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Phase 5A Screenplay Production Framework's Automatic Continuation clause, continuing from Episode 1's approval.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Phase 5A Screenplay Production Framework's Automatic Continuation clause, continuing from Episode 1's approval. **Approved 2026-07-15 following clean PASS results from both the ten-section Founder Review & Alignment Audit (Phase 5A) and the ten-section Regression Verification (Phase 5A.1).** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -514,9 +514,10 @@ Escalating pace through Scenes 1–5, mirroring the crisis's own rising urgency;
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.** Only this document was created. The Phase 4B Episode 2 package, Episode 1's screenplay, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified.
+**Status: Approved — Founder Approved for Production**, following clean PASS results from both the Founder Review & Alignment Audit and the Regression Verification. Only this document's Cover Information status line, this section, and the Changelog were modified for approval; no content section altered. The Phase 4B Episode 2 package, Episode 1's screenplay, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 3.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Phase 5A Screenplay Production Framework's Automatic Continuation clause, continuing from Episode 1's approval. Second Phase 5B screenplay, built from the sole seed authority of the Approved Phase 4B Episode 2 Production Development Package ("The Crisis"). Six scenes matching the package one-to-one, dramatizing Kael's burden-alone flaw's first instance through action only — no line states the underlying belief aloud. The Ascendant Doctrine's background-only, unpersonified Scene 3 presence held to a single unlingered shot, matching the package's own explicit constraint. Kael's physical strain built as a readable through-line from Scene 4 through Scene 5's collapse, per Phase 2E's Emotional Continuity requirement. Episode closes on vulnerability, not triumph, per the package's own explicit instruction. Regression Verification (Section 19a) performed against Episode 1 for the first time under Phase 5A.1, confirming character/tonal/continuity consistency across both screenplays; all ten sections PASS. All five referenced assets flagged Asset Creation Required. No new canon character, faction, ability, technology, or event introduced; no superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 2 package, Episode 1's screenplay, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from both the ten-section Founder Review & Alignment Audit and the ten-section Regression Verification against Episode 1. No blocking condition found. Classification/Status header, Final Instruction, and this Changelog updated; no other content altered. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 3.`
