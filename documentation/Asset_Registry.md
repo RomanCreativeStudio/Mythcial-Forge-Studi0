@@ -56,6 +56,53 @@ Per the Founder Directive amendment (`brand/Mythic_Forge_Studios_BRA-0001A_Brand
 
 ---
 
+## FRACTURE_PROTOCOL_PRODUCTION — Character & Environment Backlog
+
+**Added per "Founder Directive — Phase 6.0 & Phase 6A Production Planning Framework (v1.0)," Phase 6A's own explicit "Asset Registry Population" instruction: populate using only Approved Screenplay requirements, invent nothing, flag rather than fabricate any missing information.**
+
+Every item below is sourced directly from the 36 Approved Phase 5B screenplays' own Section 5 (Asset Requirements) tables, cross-referenced against `bible/Fracture_Protocol_Phase6A_Master_Production_Roadmap_v1.0.md`. None of these assets exist as production files yet — no Creator, Approval Date, or Storage Location can be populated for any of them, so a new status value, **Required — Not Yet Produced**, is used rather than misrepresenting them as Draft/In Review/Approved (all of which imply work has begun). This category will migrate entries into the standard schema above as each asset actually enters production.
+
+### Characters
+
+| Asset ID | Asset Name | Category | Status | Priority | Episodes Used | Notes |
+|---|---|---|---|---|---|---|
+| FPP-CHAR-001 | Kael Aurelian Veyr | Character | Required — Not Yet Produced | 1 (highest) | All 36 episodes | No costume, expression-sheet, or variant detail specified in any screenplay beyond narrative production notes (e.g., "rank-marker variant," "strain/injury state variant") flagged in Episodes 24–25 — not a formal spec. Flagged, not fabricated. |
+| FPP-CHAR-002 | Cassian Veyrion Aurelian | Character | Required — Not Yet Produced | 2 | 16, 17, 21, 24, 26–31, 34–36 (16 episodes) | No costume or expression-sheet detail specified in any screenplay. |
+| FPP-CHAR-003 | Mira Solenne Valeris | Character | Required — Not Yet Produced | 2 | 5, 19, 20, 24–26, 33–36 (11 episodes) | No costume or expression-sheet detail specified in any screenplay. |
+| FPP-CHAR-004 | The Guardian | Character | Required — Not Yet Produced | 2 | 4, 8, 18, 20, 24, 25, 32, 34, 36 (9 episodes) | No production design spec exists in any screenplay; non-humanoid per World Bible/Character Bible framing only, not a model spec. |
+| — | Titan Aurel Veyran | N/A | **Not applicable — no physical asset required** | N/A | Referenced only (6, 26, 36) | Confirmed zero on-screen speaking or physical appearances across all 36 screenplays (Phase 5C, Pass 2); legacy-only per Phase 5A.2's own rule. |
+
+### Environments (Priority 1–2, highest reuse)
+
+| Asset ID | Asset Name | Category | Status | Priority | Episodes Used | Notes |
+|---|---|---|---|---|---|---|
+| FPP-ENV-001 | Ward Station Seven | Environment | Required — Not Yet Produced | 1 (highest) | Season One recurring (1–12), 22, 23, 27 | Saga's most-used single location. |
+| FPP-ENV-002 | Cassian's Private Interior (Ascendant Core) | Environment | Required — Not Yet Produced | 2 | 17, 24, 25, 28, 30, 31 | |
+| FPP-ENV-003 | Guardian/Kael Partnership Environment | Environment | Required — Not Yet Produced | 2 | 18, 20, 24, 25, 32, 34, 36 | |
+| FPP-ENV-004 | Reconstruction-Work Environment | Environment | Required — Not Yet Produced | 2 | 19, 24, 25, 33, 34, 35, 36 | |
+| FPP-ENV-005 | Formal Meeting Environment | Environment | Required — Not Yet Produced | 2 | 16, 17, 21 | |
+
+### Environments (Priority 3–4, moderate/single use)
+
+| Asset ID | Asset Name | Category | Status | Priority | Episodes Used | Notes |
+|---|---|---|---|---|---|---|
+| FPP-ENV-006 | Night Haven Institutional Space | Environment | Required — Not Yet Produced | 3 | 14, 22 | |
+| FPP-ENV-007 | Ascendant Network World-Scale Environment | Environment | Required — Not Yet Produced | 3 | 15, 22 | |
+| FPP-ENV-008 | Doctrine Institutional Environment | Environment | Required — Not Yet Produced | 3 | 27, 34 | Distinct from Cassian's private interior. |
+| FPP-ENV-009 | Neutral Private Meeting Environment | Environment | Required — Not Yet Produced | 4 (lowest) | 29 | |
+| FPP-ENV-010 | Populated Civilian Area (Lower Sector/Mid Zone) | Environment | Required — Not Yet Produced | 4 (lowest) | 22, 23 | |
+| FPP-ENV-011...n | Remaining single/low-frequency Season One and Arc Two institutional and civilian environments (~18 additional locations) | Environment | Required — Not Yet Produced | 4 (lowest) | Various, 1–2 episodes each | Individually enumerable from each screenplay's own Location List when production reaches that episode; not itemized further here to avoid inventing IDs for locations not yet needed. |
+
+### Props, Technology, VFX
+
+**No entries.** Zero specific props, weapons, vehicles, technology items, or new visual effects are named in any of the 36 Approved screenplays (each states "None required beyond what's already Locked" or equivalent). Nothing is logged here because nothing exists in Approved material to log — flagged as confirmed-empty, not omitted.
+
+### Audio
+
+**No entries.** No specific music theme, sound effect, or voice-cast asset exists yet for any of the 4 core characters. Voice casting is flagged as an open production dependency in `bible/Fracture_Protocol_Phase6A_Master_Production_Roadmap_v1.0.md` (Audio Production Plan) — not logged here as an asset since no casting decision has been made to log.
+
+---
+
 **Superseded (retained for historical record, not deleted):**
 
 | Asset ID | Version | Status | Storage Location | Superseded By |
@@ -75,3 +122,4 @@ Per the Founder Directive amendment (`brand/Mythic_Forge_Studios_BRA-0001A_Brand
 `[2026-07-08] Banner corrected replacement registered as BRA-0001A-CINEMATIC-BANNER v1.1. Two upload rounds occurred after the v1.0 JPEG banner was registered: an intermediate file (never committed or registered here -- caught before registration and subsequently deleted by the Founder) used a tagline ("Forge Your Legend. Build the Myth.") that conflicted with the Locked Studio Motto/Tagline (Studio OS Section 1, Brand Bible Section 2, both Locked); rather than silently register a Locked-element conflict, that file was held pending clarification and never marked Approved. A corrected file arrived next with the proper Locked tagline ("Forging Worlds. Creating Legends."), verified by direct inspection -- registered as v1.1, Locked. v1.1 also corrects v1.0's aspect-ratio mismatch: PNG, 1672x941px, 1.7768:1, matching the 2560x1440 canvas's 16:9 ratio exactly (v1.0 was 1982x368px JPEG at 5.39:1). One gap remains, disclosed: v1.1's actual pixel count is below the specified 2560x1440 master resolution, correct proportions but would need upscaling for exact spec compliance. v1.0 marked Superseded, not deleted, per the archive-don't-delete rule.`
 `[2026-07-08] v1.2 registered as the official YouTube banner at explicit Founder designation ("Add it to the repo as a official banner and i'll keep the other one but have this in case"). v1.2 is a variant of v1.1 (same scene, correct Locked tagline, matching 16:9 aspect ratio) with a small added ornamental divider under the tagline. v1.1 downgraded from Locked to Approved-kept-as-backup rather than Superseded or deleted, honoring the Founder's explicit instruction to retain it as an available alternate rather than archive it as replaced history. v1.0's file was separately deleted directly from the repository by the Founder; its registry entry retained and updated to reflect the file's removal, per the standing "nothing disappears without a record" rule.`
 `[2026-07-14] Added a header note (per "Founder Decision Resolution — Phase 3A Production Standard Promotion," Decision 3) clarifying that this registry is the resource referenced as "Production Registry" in Phase 3A Content Production Pipeline Integration Framework directives. No new registry was created; no schema, asset entry, or scope changed. Resolves the naming gap flagged during Phase 3A's Founder Review & Alignment Audit and carried as an open item through its certification cycle.`
+`[2026-07-15] Added FRACTURE_PROTOCOL_PRODUCTION backlog category per "Founder Directive — Phase 6.0 & Phase 6A Production Planning Framework (v1.0)," Phase 6A's own Asset Registry Population instruction. Logged 4 character assets requiring production (Kael, Cassian, Mira, the Guardian) and confirmed Titan requires none (zero on-screen appearances across all 36 screenplays); logged 10 individually-identified environment assets plus a flagged remainder of ~18 lower-frequency locations not yet itemized by ID. All entries use a new "Required — Not Yet Produced" status, distinct from the existing Draft/In Review/Approved/Locked schema, since none of these assets exist as production files. Confirmed zero props, weapons, vehicles, technology, or new VFX assets are named in any Approved screenplay — logged as confirmed-empty categories, not omitted. Confirmed no voice cast, music theme, or SFX asset exists yet — flagged in the companion Phase 6A roadmap rather than logged as a placeholder entry here. Every entry sourced directly from the 36 screenplays' own Asset Requirements tables; nothing invented, nothing fabricated. No story canon touched.`
