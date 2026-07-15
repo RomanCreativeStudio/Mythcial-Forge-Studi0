@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 30 of 36
 **Working Title (not final):** "Without His Compassion"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 29's approval. Arc Three, Movement II ("What Cassian Becomes") — stage four's third beat: the extremist incident. Maximum scrutiny episode: the follower and incident remain permanently unnamed and unspecified; the incident is never shown or dramatized, only reported and reacted to; Cassian's reckoning stops short of self-dismantling, reserved for Episode 35.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 29's approval. Arc Three, Movement II ("What Cassian Becomes") — stage four's third beat: the extremist incident. Maximum scrutiny episode: the follower and incident remain permanently unnamed and unspecified; the incident is never shown or dramatized, only reported and reacted to; Cassian's reckoning stops short of self-dismantling, reserved for Episode 35. **Approved 2026-07-15 following clean PASS results across all three verification structures.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -395,9 +395,10 @@ Continuous, escalating pacing across all four scenes — a single internal recko
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.**
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 30 package, Episodes 1–29's screenplays, Phase 5A framework, Phase 5A.1 lock, Phase 5A.2 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 31 — Cassian visibly shaken.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 29's approval. Third Movement II screenplay, continuing Arc Three's Cassian final-arc sequence — the extremist incident, "Without His Compassion," stage four's third beat — built from the sole seed authority of the Approved Phase 4B Episode 30 Production Development Package, with maximum scrutiny applied to the incident's deliberate unspecification and stage sequencing. Four scenes matching the package one-to-one (Word Reaches Him, What It Cost, Not His Hand, What His Own Movement Did). The follower and incident verified to remain permanently unnamed and unspecified throughout — no name, no specific act, no specific victim invented anywhere; described only by consequence and its relation to Cassian's own already-Locked stated limits (Faction Bible, "Supporting Cast Framework"). The incident itself is never shown or reenacted — only its report and Cassian's reaction are dramatized. This is explicitly not Cassian's own action; it happens in his name, without his sanction. Cassian's reckoning is genuine and painful but stops short of self-dismantling or renouncing the Doctrine, correctly reserved for Episode 35. No other core-cast character appears. Signal/Cipher-work untouched. Regression Verification performed against Episodes 1–29; all sections PASS, with maximum verification on canon regression. Arc Three Progression Verification (per Phase 5A.2) performed across all seven categories, with maximum verification on Cassian's stage sequencing; all PASS. Both assets flagged Asset Creation Required; no new character asset for the follower or incident. No superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 30 package, Episodes 1–29's screenplays, Phase 5A framework, Phase 5A.1 lock, Phase 5A.2 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results across all three verification structures, with maximum verification confirming the extremist incident remained permanently unnamed and unspecified, never shown or dramatized, and Cassian's stage sequencing held exactly. No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 31.`
