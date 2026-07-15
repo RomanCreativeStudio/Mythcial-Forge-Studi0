@@ -1,7 +1,7 @@
 # THE FRACTURE PROTOCOL — PHASE 6C: ENVIRONMENT PRODUCTION PACKAGE
 ## Environment 8 of 10 — Doctrine Institutional Environment
 
-**Classification:** Internal — Production Document (**Compiled — Pending Founder Review**)
+**Classification:** Internal — Production Document (**Approved**)
 **Status:** Compiled 2026-07-15 per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Production Priority 3 of 10, final of the Priority 3 cluster. This document creates no story content, no canon expansion, and no screenplay revision.
 **Absolute authority:** subordinate to Master System Prompt → Locked Canon → Production Bible → Approved Screenplays → Phase 6.0 → Phase 6A → Phase 6A.5 → Phase 6B → **Phase 6C Environment Production Canon**.
 **Research method:** re-verified against Phase 6A's listed episodes (27, 34) plus Episode 21, which surfaced a third, earlier confirmed appearance omitted from Phase 6A's original range.
@@ -119,9 +119,10 @@ Spans from Episode 21 through Episode 34 (corrected range) — a wider span than
 
 ## Founder Approval
 
-*(Pending — awaiting explicit Founder Approval before this section is completed and the document promoted from "Compiled — Pending Founder Review" to "Approved.")*
+**Approved 2026-07-15** following a PASS across all five required audits. No canon contradiction found. The single-headquarters-vs-distributed-network interpretive question remains open and should be resolved before this environment's architecture is finalized.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Environment 8 of 10 (Doctrine Institutional Environment, Production Priority 3, final of the Priority 3 cluster). Corrects Phase 6A's episode range: Episode 21 added as the environment's actual first appearance (Scenes 3, 5), predating the originally-listed Episode 27 by six episodes. Flags a genuine structural tension, not resolved here: the Faction Bible's "no single headquarters" description of the Doctrine's distributed network (already confirmed for Environment 7) sits alongside this environment's staging as a specific, recurring "formal Doctrine gathering" space — plausibly reconcilable as one node within a distributed structure, but that reconciliation is not stated anywhere in Locked Canon. Production Status: "Flagged for Founder Decision." Status: "Compiled — Pending Founder Review."`
+`[v1.1 — 2026-07-15] Approved following a PASS across all five required audits. Status: "Approved." The headquarters interpretive question remains open, flagged for future Founder decision.`
