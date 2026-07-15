@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 8 of 36
 **Working Title (not final):** "Quiet Before"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 7's approval. First three-way Kael/Guardian/Mira scene — heightened Guardian Emotional Continuity scrutiny applied.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 7's approval. First three-way Kael/Guardian/Mira scene — heightened Guardian Emotional Continuity scrutiny applied. **Approved 2026-07-15 following clean PASS results from both audits, with primary verification confirming Cassian's absence, rumor-only Doctrine scope, and the Guardian's calm never reading as certainty.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -453,9 +453,10 @@ Deliberately unhurried through Scenes 1–4; the Scene 4→5 cut must be immedia
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.** Only this document was created. The Phase 4B Episode 8 package, Episodes 1–7's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified.
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 8 package, Episodes 1–7's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 9.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 7's approval. Eighth Phase 5B screenplay — the season's calm-before-the-storm beat and first Kael/Guardian/Mira trio scene — built from the sole seed authority of the Approved Phase 4B Episode 8 Production Development Package ("Quiet Before"), with heightened primary verification applied to Guardian Emotional Continuity and the Cassian/Doctrine rumor-only scope. Five scenes matching the package one-to-one; the Guardian's calm never reads as certainty even in its most relaxed scenes, signaled only by a barely-longer pause before speaking in Scene 4, never named or commented on; Cassian remains entirely unseen; Doctrine content stays strictly unconfirmed rumor. Scene 4→5's tonal break is an immediate hard cut, with zero foreshadowing in the preceding scenes' audio or staging. Regression Verification performed against Episodes 1–7; all ten sections PASS. All five referenced assets flagged Asset Creation Required. No new canon character, faction, ability, technology, or event introduced; no superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 8 package, Episodes 1–7's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from both audits, with primary verification confirming Cassian's absence, rumor-only Doctrine scope, and the Guardian's calm never reading as certainty. No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 9.`
