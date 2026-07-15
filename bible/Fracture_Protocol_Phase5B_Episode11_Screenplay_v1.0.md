@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 11 of 36
 **Working Title (not final):** "What It Cost"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 10's approval. **Arc One's defining loss — maximum scrutiny applied: not a core-cast character, restraint over spectacle, Kael's flaw explicitly unresolved, no catharsis.**
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 10's approval. **Arc One's defining loss — maximum scrutiny applied: not a core-cast character, restraint over spectacle, Kael's flaw explicitly unresolved, no catharsis.** **Approved 2026-07-15 following clean PASS results from both audits, with maximum primary verification on core-cast safety and Kael's unresolved flaw.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -429,9 +429,10 @@ Continuous urgency into Scene 2's single, clear, unlingered event; a hard cut to
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.** Only this document was created. The Phase 4B Episode 11 package, Episodes 1–10's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified.
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 11 package, Episodes 1–10's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 12.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 10's approval. Eleventh Phase 5B screenplay — Arc One's defining loss — built from the sole seed authority of the Approved Phase 4B Episode 11 Production Development Package ("What It Cost"), with maximum primary verification applied to core-cast safety and Kael's unresolved flaw. Five scenes matching the package one-to-one; the lost civilian is the same unnamed person established at risk in Episode 10, confirmed not a core-cast character — Kael, Mira, the Guardian, and Cassian all unharmed. The loss (Scene 2) is staged with complete restraint, clear and unambiguous without spectacle, using only the season's already-established visual language. Kael's flaw is explicitly confirmed unresolved, with zero dialogue or performance note showing growth, insight, or resolution — Arc Three's ownership of the healing preserved intact. Mira moves from witness to grounded, active engagement, with no direct scene with Kael this episode. The Guardian, Cassian, Night Haven, and Titan correctly do not appear, with zero new Titan material. No resolving cue appears anywhere in the audio/music direction. Regression Verification performed against Episodes 1–10, with primary continuity comparison against Episode 10; all ten sections PASS. All five referenced assets flagged Asset Creation Required. No new canon character, faction, ability, technology, or event introduced; no superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 11 package, Episodes 1–10's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from both audits, with maximum primary verification on core-cast safety (re-confirmed via direct grep sweep: zero core-cast harm) and Kael's unresolved flaw (zero growth/insight language anywhere). No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 12.`
