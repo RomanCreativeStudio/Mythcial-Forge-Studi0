@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 1 of 36
 **Working Title (not final):** "Status Quo"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per "Founder Directive — Phase 5A Screenplay Production Framework (v1.0)," Automatic Continuation clause. First screenplay of Phase 5B.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per "Founder Directive — Phase 5A Screenplay Production Framework (v1.0)," Automatic Continuation clause. First screenplay of Phase 5B. **Approved 2026-07-15 following the clean PASS result of its own ten-section Founder Review & Alignment Audit (Phase 5A, Section 9).** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -483,11 +483,31 @@ Unhurried pacing throughout Scenes 1–4, consistent with the episode's own "no 
 
 ---
 
+## 19a. Regression Verification (per "Founder Directive — Phase 5A.1 Screenplay Regression Verification Lock (v1.0)")
+
+*Compared against: the Approved Phase 4B Episode 1 Production Development Package; all higher-level Locked Canon; the immediately preceding approved screenplay (**Not Applicable — Episode 1 is the first Phase 5B screenplay, no earlier screenplay exists**); any earlier screenplay whose continuity directly affects this episode (**Not Applicable**, same reason).*
+
+1. **Repository Verification:** clean tree confirmed pre- and post-compile; single file created. **PASS**
+2. **Canon Regression:** every scene traces directly to the Approved Phase 4B package; no lore expanded, no canon replaced, no uncertainty interpreted as fact; the Missing Canon Rule did not trigger anywhere in this screenplay. **PASS**
+3. **Story Regression:** every one of the package's five Scene Breakdown entries is present; none omitted; no new story beat introduced (re-confirmed against Section 9 of this screenplay). **PASS**
+4. **Character Regression:** Kael's and Mira's motivations, personalities, and relationship all match the package's own Character Performance Planning exactly; emotional state has no prior approved screenplay to match against (N/A, first episode); no future development (Guardian, Cassian, Titan, any milestone) introduced early; the Guardian's mystery and every other protected element remain untouched; no unresolved conflict is resolved here. **PASS**
+5. **Dialogue Regression:** every line reflects only established characterization (Character Bible; Phase 2C, Kael §1/§4, Mira §1/§4); no line states new lore or backstory aloud. **PASS**
+6. **Visual Regression:** camera, lighting, and effects direction all route to existing Art Bible files by citation only; no environmental detail implies unsupported lore; no cinematography choice alters story meaning beyond the package's own tone notes. **PASS**
+7. **Audio Regression:** audio and music direction imply no unsupported narrative; the Scene 5 cue is a single, undefined-in-detail sound-design event per Art Bible routing, not a new fact. **PASS**
+8. **Asset Regression:** all five referenced assets (Kael, Mira, Ward Station Seven, Lower Sector, the Scene 5 disturbance effect) confirmed absent from `documentation/Asset_Registry.md` and correctly flagged **Asset Creation Required** — none invented in place of a registry entry. **PASS**
+9. **Continuity Regression:** scene order (1→2→3→4→5) matches the package exactly; timeline (single day) is internally consistent; the Scene 5 transition aligns with Episode 2's own Beginning State per both packages' Transition fields; no recurring location, prop, or terminology contradiction exists (none yet recur, as this is the first episode); no contradiction exists with any earlier approved script (none exists yet). **PASS**
+10. **Final Regression Certification: PASS**
+
+**No blocking condition found (Blocking Conditions list, Phase 5A.1): no canon contradiction, no chronology conflict, no missing approved story beat, no unauthorized story addition, no unsupported characterization, no altered milestone placement, no protected mystery violation, no unsupported lore implication, no repository integrity issue.**
+
+---
+
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.** Only this document was created. The Phase 4B Episode 1 Production Development Package, Phase 5A framework, and all other canon and production authority documents remain unmodified. Pending its own Founder Review & Alignment Audit (Phase 5A, Section 9), to be applied as a separate commit from this Compile commit.
+**Status: Approved — Founder Approved for Production**, following a clean PASS ten-section Founder Review & Alignment Audit (Phase 5A, Section 9) and a clean PASS ten-section Regression Verification (Phase 5A.1), the latter's "preceding screenplay" checks correctly marked Not Applicable as this is the first Phase 5B screenplay. Only this document's Cover Information status line, this section, and the Changelog were modified for approval; no content section (1–19) was altered beyond the addition of Section 19a (Regression Verification) prior to approval. The Phase 4B Episode 1 Production Development Package, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Phase 5A Screenplay Production Framework's Automatic Continuation clause, immediately following that framework's own Founder Approval. First Phase 5B screenplay, built from the sole seed authority of the Approved Phase 4B Episode 1 Production Development Package ("Status Quo"). Five scenes, matching the package's own Scene Breakdown one-to-one. No external conflict introduced, per the package's own Locked "no conflict yet, by design" characterization — honored here as in the package itself, not overridden for screenplay pacing. Kael and Mira's dialogue establishes already-existing trust without narrating its history; Mira is not defined by rescue or victimhood; Kael's private Scene 4 beat notes carried cost without visibly cracking his ease, per Phase 2E's Emotional Continuity requirements for both characters. All five referenced assets (2 characters, 2 environments, 1 effect) flagged Asset Creation Required, per the Phase 5A framework's standing Asset Registry rule — not invented around. No new canon character, faction, ability, technology, or event introduced; no superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 1 package, Phase 5A framework, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Regression Verification added (Section 19a) per "Founder Directive — Phase 5A.1 Screenplay Regression Verification Lock (v1.0)," which arrived mid-approval and was applied retroactively before approval finalized. All ten Regression Audit sections returned PASS; "preceding approved screenplay" and "earlier screenplay" comparison checks correctly marked Not Applicable, being the first Phase 5B screenplay. No blocking condition found. Approved immediately after per a clean PASS Founder Review & Alignment Audit. Classification/Status header, Section 19a, Final Instruction, and this Changelog updated; no other content section altered. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 2.`
