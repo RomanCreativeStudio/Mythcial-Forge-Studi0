@@ -123,3 +123,34 @@ Concentrated early-to-mid series (Episodes 16, 17, 21) — the narrowest chronol
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Environment 5 of 10 (Formal Meeting Environment, Production Priority 2, final of the four-location recurring cluster). Confirmed as "the same formal room" reused across all 3 episodes (16, 17, 21) per the screenplays' own explicit language. Its defining production requirement — visual neutrality between Kael and Cassian — is grounded in three independent, explicit screenplay instructions (lighting: "never symbolic villain/hero coding"; camera: "no visual coding tilts either man as dominant"; and a reasonable color extension of the same principle). Episode 21's shift toward "quieter, more intimate" lighting is recorded as a confirmed, deliberate evolution within the same space, not a contradiction. Production Status: "In Progress." Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS across all five required audits. No blocking condition found. Status: "Approved."`
+
+---
+
+## Phase 6C.5 Reconciliation Section
+
+*(Appended 2026-07-15 per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Everything above this line is preserved unmodified.)*
+
+### Re-Verification Against Full Source Set
+
+Master System Prompt and Production Bible confirmed silent, consistent with every other environment. Direct re-verification of Phase 4B's Episode 16 Production Package surfaces one item not carried into the original Phase 6C research: its Location field reads "Ward Station Seven **or** a neutral formal setting consistent with Cassian's institutional standing" — an either/or, structurally similar to the Guardian/Kael Partnership Environment's Episode 4 candidate-site language (Environment 3). However, unlike Episode 4, this either/or was **resolved by the time of final screenplay lock**: Episode 16's own Phase 5B Location List (Section 7) reads only "Formal meeting environment (consistent with Cassian's institutional standing)" — no Ward Station Seven option, no ambiguity. Phase 4B Episodes 17 and 21 were also checked directly and confirm only "the existing meeting environment... reused," with no re-introduction of the Ward Station Seven alternate. This environment is confirmed as its own distinct, standing site, not a redress of Ward Station Seven — consistent with the original Phase 6C package's Environment Classification ("Secondary Location · Recurring · Government"). No episode-range correction required; 16, 17, 21 stands confirmed.
+
+### Lighting Canon Determination
+
+**A — Intentional difference.** Episode 16 establishes "controlled, composed, formal" lighting shifting only with time of day; Episode 21 introduces a "quieter, more intimate" treatment. This is a confirmed, deliberate evolution marking the relationship's internal turn within the same physical space, independently re-confirmed at both the Phase 4B and Phase 5B stages — not a contradiction. Rule: the room's baseline lighting is controlled/formal/time-of-day-driven; Episode 21's intimacy shift is the one documented, narratively-justified deviation from that baseline, and no other episode may introduce an unexplained deviation from it.
+
+### Environment Identity
+
+[13-field table: Permanent Identity=the distinct, standing formal meeting room where Kael and Cassian's institutional-stage relationship plays out; Purpose=visual proof of Cassian's still-legitimate institutional standing; Narrative Function=hosts the early formal stage of the Kael/Cassian relationship, concluding with Episode 21's internal turn; Visual Function=formal, neutral, restrained — must never visually favor either man; Production Function=single consistent room, confirmed reused across all 3 episodes, resolved as its own site (not a Ward Station Seven redress); Reuse Strategy=Moderate, 3 episodes, one simple design; Asset Dependencies=Kael and Cassian exclusively, no props/tech/vehicles newly required; Animation Complexity=Minimal, seated two-person dialogue only; Lighting Rules=controlled/composed/formal, time-of-day-driven (afternoon–evening), Episode 21's intimacy shift is the one documented deviation, never symbolic villain/hero coding; Material Rules=missing, not specified in any source, does not block concept art; Color Rules=neutral three-color-system application, never subtly favoring either character, extends the explicit lighting/camera neutrality mandate; Camera Rules=formal, eye-level framing, no dominance-coding tilts, per Episode 16's explicit instruction; Environmental Storytelling Rules=cannot be fully applied, no confirmed layer]
+
+### Environment Consistency
+
+Internally consistent across all 3 confirmed appearances — a single, stable, explicitly-reused room with one documented, narratively-justified lighting evolution (Episode 21) and no unexplained variance.
+
+### Production Readiness: READY
+
+No blocker. The visual-neutrality mandate (lighting, camera, and color) is fully specified and screenplay-grounded. Architecture, materials, dimensions, and exterior design remain unspecified, but — consistent with the standard already applied to Reconstruction-Work (Environment 4) — these are open items that do not prevent concept art from proceeding within the confirmed neutrality constraints. Upgraded from the original Phase 6C "In Progress" status to reflect that no genuine blocker exists.
+
+---
+
+### Changelog (Reconciliation)
+`[v2.0 — 2026-07-15] Reconciliation Section appended per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Original Phase 6C content (v1.0–v1.1) preserved unmodified. Phase 4B Episode 16 re-verification surfaced an early "Ward Station Seven or neutral formal setting" either/or, confirmed resolved to a distinct standing site by final screenplay lock — no episode-range correction, no site ambiguity remains. Lighting Canon Determination A applied (Episode 21's intimacy shift is intentional, not contradictory). Production Readiness upgraded from "In Progress" to READY — no blocker found.`
