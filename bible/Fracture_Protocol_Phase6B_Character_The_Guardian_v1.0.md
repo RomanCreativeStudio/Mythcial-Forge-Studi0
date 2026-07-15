@@ -1,7 +1,7 @@
 # THE FRACTURE PROTOCOL — PHASE 6B: CHARACTER ASSET PRODUCTION PACKAGE
 ## Character 3 of 4 — The Guardian
 
-**Classification:** Internal — Production Document (**Compiled — Pending Founder Review**)
+**Classification:** Internal — Production Document (**Approved**)
 **Status:** Compiled 2026-07-15 per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Step 3 of 4 (Kael → Mira → **the Guardian** → Cassian). This document creates no story content, no canon expansion, and no screenplay revision — it is a production asset specification only.
 **Absolute authority:** subordinate to Master System Prompt → Locked Canon (Phase 1, 1C Character Bible, 1C Faction Bible, Phase 2 series) → Production Bible → Approved Production Packages (Phase 4B) → Approved Screenplays (Phase 5B, Locked under Phase 5B.5) → Phase 6.0 → Phase 6A → Phase 6A.5, in that order.
 **Working interpretation carried forward from Kael's and Mira's packages, applied identically here:** field-level missing specification is flagged and the package continues to build; only a structural stop condition halts production. The Guardian's Character Authority (identity, philosophy, role) is fully Locked and sufficient to build a package around, even where physical specification is entirely absent.
@@ -179,7 +179,7 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 | Dependencies | See Section 9 |
 | Creator | Compiled per Phase 6B.0 directive execution |
 | Creation date | 2026-07-15 |
-| Approval date | *(pending — set upon Founder Approval below)* |
+| Approval date | 2026-07-15 |
 
 ---
 
@@ -204,9 +204,10 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 
 ## Founder Approval
 
-*(Pending — awaiting explicit Founder Approval before this section is completed and the document promoted from "Compiled — Pending Founder Review" to "Approved.")*
+**Approved 2026-07-15** following a PASS Character Audit. No canon contradiction, repository corruption, governance conflict, or asset dependency conflict found — the form-determination question (Section 3) is logged as the largest open production item across Phase 6B.0 so far, blocking visual asset production specifically, but not treated as a package-level stop condition. This package is authoritative for all subsequent Guardian production work within the bounds it establishes; concept art, turnaround, and animation work should not proceed until a future Founder directive resolves whether/how the Guardian has a physical form, consistent with the Locked "performance and staging, not a visual effect" constraint. Subject to revision under Phase 6.0's Asset Revision Rule once that determination is made.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Character 3 of 4 (the Guardian). All 10 required sections built from direct repository citation only, with the Guardian mystery-protection rule (Phase 5A.2) fully respected — no origin theory asserted as fact. The largest open production question surfaced across all Phase 6B.0 characters so far: whether/how the Guardian has any physical form at all, given zero Locked visual specification exists anywhere (Art Bible, World Bible, Faction Bible, Phase 1B.3) against contradicting evidence of staged physical presence across 14 screenplays' action lines. Four screenplays (Episodes 18, 24, 26, 32) cross-reference "the Guardian's established Season One visual language, per lighting-system.md" — checked directly and found not actually present in that file, flagged as a genuine discrepancy rather than silently patched. Sections 3, 4, 6, 7, and 9 explicitly distinguish Not Applicable (structurally excluded by the Guardian's non-physical Locked nature) from Missing (could apply but lacks a source) rather than conflating the two, unlike Kael's and Mira's packages where nearly every gap was a true Missing. Registry Section 10 marks production status as "Blocked on form-determination," distinct from Kael's and Mira's "In Progress." Status: "Compiled — Pending Founder Review."`
+`[v1.1 — 2026-07-15] Approved following a PASS Character Audit. No blocking condition found. Status: "Approved." The form-determination gap (Section 3) is logged as the largest open item across Phase 6B.0 so far, blocking visual asset production until a future Founder directive resolves it, but not treated as a package-level stop condition.`
