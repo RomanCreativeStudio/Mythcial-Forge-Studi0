@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 3 of 36
 **Working Title (not final):** "What's Left Behind"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Phase 5A Screenplay Production Framework's Automatic Continuation clause, continuing from Episode 2's approval.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Phase 5A Screenplay Production Framework's Automatic Continuation clause, continuing from Episode 2's approval. **Approved 2026-07-15 following clean PASS results from both the Founder Review & Alignment Audit and the Regression Verification, with primary verification on the Ascendant Doctrine opportunist's dialogue.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -455,9 +455,10 @@ Unhurried throughout, deliberately withholding any pacing cue that would read as
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.** Only this document was created. The Phase 4B Episode 3 package, Episodes 1–2's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified.
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 3 package, Episodes 1–2's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 4.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Phase 5A Screenplay Production Framework's Automatic Continuation clause, continuing from Episode 2's approval. Third Phase 5B screenplay, built from the sole seed authority of the Approved Phase 4B Episode 3 Production Development Package ("What's Left Behind"). Five scenes matching the package one-to-one, dramatizing two deliberately separate threads: Light Order's warm, sincere institutional reinforcement of Kael's flaw, and the Ascendant Doctrine's first sustained, still-unpersonified recruiting scene, written to sound reasonable and sympathetic per the Faction Bible's own "Why People Follow It" characterization — no reference to Cassian or Doctrine leadership introduced. No danger cue appears anywhere in the audio/music direction, preserving the episode's dramatic-irony structure. Kael's flaw is explicitly reinforced, not resolved, per Phase 2E's own distinction. Regression Verification performed against both Episode 2 and Episode 1; all ten sections PASS. All five referenced assets flagged Asset Creation Required. No new canon character, faction, ability, technology, or event introduced; no superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 3 package, Episodes 1–2's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from both audits, with primary verification on the opportunist's dialogue confirming zero reference to Cassian or Doctrine leadership. No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 4.`
