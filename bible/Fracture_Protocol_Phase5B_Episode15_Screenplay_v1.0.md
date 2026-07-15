@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 15 of 36
 **Working Title (not final):** "How Far It Reaches"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 14's approval. Closes Movement I. World-scale episode — primary verification: no premature Cassian reveal, Ascendant Network scale bounded exactly by the Faction Bible, Episode 16's reveal fully protected.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 14's approval. Closes Movement I. World-scale episode — primary verification: no premature Cassian reveal, Ascendant Network scale bounded exactly by the Faction Bible, Episode 16's reveal fully protected. **Approved 2026-07-15 following clean PASS results from all three verification structures.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -450,9 +450,10 @@ Building, evidentiary pacing throughout Scenes 1–3, mirroring a mystery of sca
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.** Only this document was created. The Phase 4B Episode 15 package, Episodes 1–14's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. This closes Movement I.
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 15 package, Episodes 1–14's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. This closes Movement I. Phase 5B continues automatically to Episode 16 — Cassian's reveal.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 14's approval. Third Arc Two screenplay, closing Movement I — the Ascendant Network's true scale — built from the sole seed authority of the Approved Phase 4B Episode 15 Production Development Package ("How Far It Reaches"), with primary verification applied to protecting Episode 16's Cassian reveal completely. Five scenes matching the package one-to-one; the Network's scale is bounded exactly by the Faction Bible's own "Operational Structure" entry, re-verified against source during compilation, with zero new organizational detail invented; Cassian is never named, personified, or previewed anywhere. No individual development occurs for Kael or Mira; Mira does not appear. Night Haven is referenced only as sharing in the realization. Regression Verification and the Arc Two Reveal Progression Verification performed against Episodes 1–14; all sections PASS, with primary verification on canon regression and reveal progression. Both assets flagged Asset Creation Required. No new canon character, faction, ability, technology, or event introduced; no superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 15 package, Episodes 1–14's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from all three verification structures, with primary verification confirming the Network's scale stays bounded exactly by the Faction Bible and Episode 16's Cassian reveal remains fully protected. No blocking condition found. Status: "Approved — Founder Approved for Production." Movement I closes clean. Phase 5B continues automatically to Episode 16.`
