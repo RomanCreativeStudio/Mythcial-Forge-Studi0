@@ -6,6 +6,7 @@
 **Absolute authority:** subordinate to Master System Prompt → Locked Canon (Phase 1, 1C Character Bible, 1C Faction Bible, Phase 2 series) → Production Bible → Approved Production Packages (Phase 4B) → Approved Screenplays (Phase 5B, Locked under Phase 5B.5) → Phase 6.0 → Phase 6A → Phase 6A.5, in that order.
 **Working interpretation carried forward from Kael's package (Section 1 note there), applied identically here:** field-level missing specification is flagged and the package continues to build; only a structural stop condition (canon contradiction, repository corruption, missing Locked authority sufficient to block the whole package, asset dependency conflict, governance conflict, Founder instruction) halts production. Mira's Character Authority is fully Locked and sufficient to build a package around, even where physical/costume specification is incomplete.
 **REOPENED 2026-07-15 per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)."** That directive created `bible/Fracture_Protocol_Phase6B2_Human_Character_Visual_Canon_v1.0.md` as new Locked Production Canon resolving most of the Physical Production Profile gap this package originally flagged as the largest of the four characters. Per Phase 6B.2's own Update Rule, only Sections 1 (Art References), 3 (Physical Profile, Visual Identity, Silhouette), 6–7 (Animation Notes), and 10 (Production Status) are updated below. **Every narrative section — 2, 4 (Costume, still not defined by Phase 6B.2), 5, 8, 9 — is left untouched.** The original Phase 6B.0 Founder Review & Alignment Audit and Founder Approval are preserved unmodified below as historical record; a dedicated Phase 6B.2 Update Audit and Approval follow them.
+**REOPENED AGAIN 2026-07-15 per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)."** That directive created `bible/Fracture_Protocol_Phase6B3_Costume_Wardrobe_Visual_Canon_v1.0.md`, resolving the Costume Breakdown gap left open by both Phase 6B.0 and Phase 6B.2 — including an explicit, deliberate decision to leave her Mission Outfit undefined to protect Phase 5A.2's mystery-protection rule for her Episode 33 active-role mechanism. Per Phase 6B.3's own Step 2, only Costume Breakdown/Wardrobe (Section 4), Animation Notes (Section 7), Concept Art References (folded into Section 4), and Production Status (Section 10) are updated below. A dedicated Phase 6B.3 Update Audit and Approval follow the Phase 6B.2 ones.
 
 ---
 
@@ -21,6 +22,7 @@
 | `bible/Fracture_Protocol_Phase6A5_Asset_Production_Standards_v1.0.md` | Asset ID/Naming/Version/Lifecycle standards for Section 10 | Locked |
 | `documentation/Asset_Registry.md` | Existing FPP-CHAR-003 backlog entry for Mira | Registry of record |
 | **`bible/Fracture_Protocol_Phase6B2_Human_Character_Visual_Canon_v1.0.md`** *(added on reopening, 2026-07-15)* | **Sole Art Reference for Mira's visual production**: silhouette, height range, body proportions, facial structure, hair, skin, hands (her signature distinguishing feature), movement style, posture, emotional presence, visual contrast, color philosophy, lighting behavior, animation notes, camera language, do-not-do rules, production notes, visual consistency. Supersedes most of this package's original "missing" findings in Section 3 — those findings are preserved as historical record, not deleted. Costume/clothing remains outside Phase 6B.2's scope; Section 4 is unaffected. | Locked Canon (new, same tier as Phase 6B.1/Kael's Phase 6B.2 update for this domain) |
+| **`bible/Fracture_Protocol_Phase6B3_Costume_Wardrobe_Visual_Canon_v1.0.md`** *(added on reopening, 2026-07-15)* | **Sole Costume/Wardrobe Art Reference for Mira**: Primary/Civilian and Secondary Outfits, silhouette integration, material/construction philosophy, wear/age/repair patterns, utility elements, glove design (deliberately minimal, protecting her hands as signature feature), fabric movement, color/texture distribution, animation/concept-art/production notes. Formal Outfit confirmed genuinely absent; Mission Outfit deliberately left undefined to protect the Locked Episode 33 mystery. Supersedes this package's original Section 4 "missing" finding — preserved as historical record within Section 4, not deleted. | Locked Canon (new, beneath Phase 6B.2, above this package) |
 
 **Discrepancy noted, not silently resolved:** Phase 6A's Asset Registry lists Mira's episode count as 11; a direct speaker-header grep against all 36 screenplays in this session found her name in 16 files. This is flagged rather than either number being silently overwritten — the 16-file count reflects speaker-header presence (including possible non-speaking listed-cast or minor-line appearances), while Phase 6A's "11" may reflect a stricter substantive-role count from the screenplays' own Cast List tables. Reconciling the two is a registry-accuracy question for the Founder, not resolved unilaterally here.
 
@@ -76,9 +78,21 @@ At the time this package was first compiled and Approved, a systematic search fo
 
 ---
 
-## 4. Costume Breakdown
+## 4. Costume Breakdown / Wardrobe
 
-**Flagged as missing in full**, for the same reason as Section 3: no costume, clothing component, or equipment description exists in any Locked source for Mira. No recurring/optional/damaged/ceremonial categorization is possible. Requires a future Founder directive or Art Bible expansion — not resolved here by invention or by analogy to her civilian-reconstruction role.
+**RESOLVED 2026-07-15 per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)."** Full costume authority now exists at `bible/Fracture_Protocol_Phase6B3_Costume_Wardrobe_Visual_Canon_v1.0.md`, Section 3 — incorporated here by reference rather than duplicated in full.
+
+**Outfits:** Primary/Civilian (civilian reconstruction work-wear — a single register, since her entire identity is civilian; grounded directly in Episode 1's "mid-task, hands occupied" staging), Secondary (softer everyday/downtime wear for personal scenes). **Formal Outfit: genuinely absent, not invented** — no confirmed formal occasion exists anywhere in her Locked material. **Mission Outfit: deliberately left undefined — a mystery-protection flag, not an oversight.** Designing one would risk visually pre-resolving her Episode 33 active-role mechanism, which Phase 5A.2 keeps deliberately unspecified.
+
+**Recurring/optional/damaged/ceremonial categorization, now resolvable:** Primary/Civilian is recurring (her sole default register); Secondary is optional (personal-scene-specific); a damaged/worn state is Locked as her default Wear Pattern (visible hands-on-labor wear, the strongest such case of the three humans); Formal and Mission remain flagged, not fabricated.
+
+**Concept Art References:** Phase 6B.3, Section 3 (full Production Attributes table). Concept Art Priority 1: Primary/Civilian Outfit — her sole recognizable register.
+
+**Animation Notes (costume-specific):** low cloth simulation, no combat collision requirements; hand-visibility must be preserved at all LOD levels given her signature feature — per Phase 6B.3's Animation Considerations entry. Gloves are deliberately minimal/absent by default so as never to obscure her hands.
+
+No redesign or invention beyond what Phase 6B.3 itself establishes is performed here.
+
+**Historical Record — Original Phase 6B.0 Finding (preserved unmodified):** "Flagged as missing in full... No recurring/optional/damaged/ceremonial categorization is possible. Requires a future Founder directive or Art Bible expansion — not resolved here by invention or by analogy to her civilian-reconstruction role." This is exactly what Phase 6B.3 was commissioned to resolve.
 
 ---
 
@@ -126,6 +140,7 @@ Unlike Kael, several fixed-list poses are flagged as either not evidenced or str
 ## 7. Animation Notes / Requirements
 
 **UPDATED 2026-07-15 per Phase 6B.2** — requirements unchanged in substance; now additionally governed by Phase 6B.2's Animation Notes (Section 4), which confirm hand-focused animation is a priority given her hands are her signature distinguishing feature.
+**UPDATED AGAIN 2026-07-15 per Phase 6B.3** — costume simulation now scoped: low cloth simulation (practical work-wear, minimal drape), no combat collision requirements; hand-visibility must be preserved at all LOD levels. Full detail in Phase 6B.3, Section 7.
 
 - **Idle:** required (Conversation/Standing baseline).
 - **Walk cycle:** flagged — not directly evidenced, retained as a baseline requirement for any on-screen character.
@@ -180,7 +195,7 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 | Name | Mira Solenne Valeris |
 | Category | Character |
 | Naming convention (Phase 6A.5) | `CHR_0003_Mira_v001` |
-| Production status | Requested → In Progress → **Visual Canon Complete** *(updated 2026-07-15 per Phase 6B.2 — Physical Production Profile resolved beyond exact concept-art values; only Costume/Section 4 remains genuinely open)* |
+| Production status | Requested → In Progress → Visual Canon Complete → **Costume Authority Complete** *(updated 2026-07-15 per Phase 6B.3 — Costume Breakdown/Wardrobe now resolved for her Primary/Civilian and Secondary registers; Formal remains genuinely absent and Mission remains deliberately unresolved)* |
 | Version | v1.0 (this package) |
 | Priority | 2 (Phase 6A Asset Priority Matrix) |
 | Episodes used | Phase 6A registry: 11. Direct grep this pass: 16 (Episodes 1, 5, 7, 8, 10, 11, 12, 19, 20, 24, 25, 26, 33, 34, 35, 36) — discrepancy flagged above, not resolved. |
@@ -240,7 +255,32 @@ Per Phase 6B.2's Automatic Workflow: "Reopen all three character packages. Updat
 
 ---
 
+## Phase 6B.3 Update Audit (Character Audit — Second Reopening)
+
+Per Phase 6B.3's Automatic Workflow. Both prior audits/approvals (Phase 6B.0 original, Phase 6B.2 update) are preserved unmodified above; this is a new, dedicated audit of this second reopening.
+
+| Check | Result |
+|---|---|
+| Founder Review | PASS — only Costume Breakdown/Wardrobe (Section 4), Animation Notes (Section 7), Concept Art References (folded into Section 4), and Production Status (Section 10) were touched. |
+| Alignment Audit | PASS — every new Section 4 entry cross-references Phase 6B.3 rather than restating it independently. |
+| Character Verification | PASS — no narrative fact altered; Sections 2, 3, 5, 8, 9 verified unchanged by direct comparison. |
+| Repository Verification | PASS — Phase 6B.3 read directly from its own Approved, Locked file. |
+| Regression Verification | PASS — the Phase 6B.2 update content confirmed intact and unaltered by this second reopening. |
+| Canon Verification | PASS — no screenplay, dialogue, or story beat touched; her Episode 33 active-role mechanism confirmed still unspecified — the Mission Outfit was deliberately left undefined rather than filled in, honoring the Locked mystery-protection rule. |
+| Production Verification | PASS — Costume Breakdown now resolved for her Primary/Civilian and Secondary registers; Production status upgraded to Costume Authority Complete. |
+
+**Determination: PASS.** Ready for Founder Approval.
+
+---
+
+## Phase 6B.3 Update — Founder Approval
+
+**Approved 2026-07-15** following a clean PASS Phase 6B.3 Update Audit. No blocking condition found. This package's production status is updated to **Costume Authority Complete**. Concept art and turnaround work for Mira may now proceed against both Phase 6B.2 and Phase 6B.3's combined Visual Authority; her Formal Outfit (genuinely absent) and Mission Outfit (deliberately protected) remain open by design, not treated as blocking.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Character 2 of 4 (Mira Solenne Valeris). All 10 required sections built from direct repository citation only. Unlike Kael, zero Locked physical specification of any kind was found for Mira — no eye-glow system, no Art Bible mention by name anywhere in the 11-file directory — flagged as the largest specification gap among the characters processed so far, not filled by inference from her civilian-reconstruction role. Pose/Animation requirements (Sections 6–7) explicitly mark several fixed-list items as not-evidenced or structurally not-applicable (Combat Ready, Run cycle, Combat animation) given her non-combat Locked narrative role, rather than assumed present as with Kael. Two registry discrepancies flagged, not resolved: FPP-CHAR-003 (Phase 6A) vs. CHR-0003 (Phase 6A.5) ID format, and an 11-episode (Phase 6A registry) vs. 16-episode (this pass's direct speaker-header grep) count mismatch. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS Character Audit. No blocking condition found. Status: "Approved." All flagged gaps and discrepancies remain open items for future Founder resolution, not treated as stop conditions.`
 `[v2.0 — 2026-07-15] REOPENED per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)." Sections 1 (Art References), 3 (Physical Profile, Visual Identity, Silhouette), 6–7 (Animation Notes), and 10 (Production status) updated to apply the new Phase 6B.2 Locked Canon. Sections 2, 4, 5, 8, 9 left untouched — Section 4 (Costume) remains flagged missing. Original Phase 6B.0 findings preserved as historical record within Section 3. Production status upgraded to "Visual Canon Complete." Re-audited PASS and re-approved via a dedicated Phase 6B.2 Update Audit appended after the original.`
+`[v3.0 — 2026-07-15] REOPENED again per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)." Section 4 (Costume Breakdown/Wardrobe) resolved via the new Phase 6B.3 Locked Canon — Primary/Civilian and Secondary Outfits defined; Formal Outfit confirmed genuinely absent from all sources; Mission Outfit deliberately left undefined to protect the Locked Episode 33 "mechanism deliberately unspecified" rule (Phase 5A.2). Section 7 updated with costume-simulation scope. Section 10 production status upgraded to "Costume Authority Complete." Original Phase 6B.0 and Phase 6B.2 content preserved unmodified. Re-audited PASS and re-approved via a dedicated Phase 6B.3 Update Audit appended after the prior two.`
