@@ -1,7 +1,7 @@
 # THE FRACTURE PROTOCOL — PHASE 6C: ENVIRONMENT PRODUCTION PACKAGE
 ## Environment 2 of 10 — Cassian's Private Interior (the Ascendant Core)
 
-**Classification:** Internal — Production Document (**Compiled — Pending Founder Review**)
+**Classification:** Internal — Production Document (**Approved**)
 **Status:** Compiled 2026-07-15 per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Production Priority 2 of 10. This document creates no story content, no canon expansion, and no screenplay revision.
 **Absolute authority:** subordinate to Master System Prompt → Locked Canon → Production Bible → Approved Screenplays → Phase 6.0 → Phase 6A → Phase 6A.5 → Phase 6B → **Phase 6C Environment Production Canon**.
 **Research method:** re-verified directly against all 6 confirmed screenplay episodes plus a targeted check of the Faction Bible, which the screenplays themselves cite as this location's naming source but do not quote.
@@ -120,9 +120,10 @@ Recurring across a wide span (Episodes 17–31), concentrated in Movement Two/Ca
 
 ## Founder Approval
 
-*(Pending — awaiting explicit Founder Approval before this section is completed and the document promoted from "Compiled — Pending Founder Review" to "Approved.")*
+**Approved 2026-07-15** following a PASS across all five required audits, with the Production Audit's flag preserved rather than cleared. No canon contradiction, repository corruption, or production conflict found. This package is authoritative for what is currently known about this environment; its "Blocked on architectural specification" status is not treated as a stop condition for this document but does mean concept art cannot begin here until further Founder or Art Bible direction is supplied.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Environment 2 of 10 (Cassian's Private Interior / the Ascendant Core, Production Priority 2). Confirms this is the largest environment specification gap found so far: architecture, construction, scale, dimensions, materials, surface treatment, structural language, exterior, weather, soundscape, environmental storytelling (layer unconfirmed), and repair states are all genuinely unspecified across all 6 confirmed episodes (17, 24, 25, 28, 30, 31) and the Faction Bible's own sole descriptive line (line 67, quoted in full). Zero co-occupancy confirmed — every scene is solo Cassian. Production Status set to "Blocked on architectural specification," distinct from Ward Station Seven's "In Progress." Status: "Compiled — Pending Founder Review."`
+`[v1.1 — 2026-07-15] Approved following a PASS across all five required audits, with the Production Audit's "Blocked on architectural specification" flag preserved. Status: "Approved," though downstream concept art remains blocked until further direction is supplied.`
