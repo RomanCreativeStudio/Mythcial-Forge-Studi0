@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 27 of 36
 **Working Title (not final):** "Who Has to Pay"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 26's approval. Closes Arc Three's Movement I ("Before the Storm") — the full three-faction institutional tension reaching its peak. Institutional in scale: no core-cast character undergoes individual development; each faction's position bounded strictly to its own Locked Faction Bible entry.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 26's approval. Closes Arc Three's Movement I ("Before the Storm") — the full three-faction institutional tension reaching its peak. Institutional in scale: no core-cast character undergoes individual development; each faction's position bounded strictly to its own Locked Faction Bible entry. **Approved 2026-07-15 following clean PASS results across all three verification structures.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -461,9 +461,10 @@ Sequential institutional scenes (1–3) establishing each faction in turn, Scene
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.**
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 27 package, Episodes 1–26's screenplays, Phase 5A framework, Phase 5A.1 lock, Phase 5A.2 lock, and all other canon and production authority documents remain unmodified. This closes Movement I. Phase 5B continues automatically to Episode 28 — Cassian's own arc completing begins: The First Doubt.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 26's approval. Third and final Movement I screenplay, closing Arc Three's opening movement — the full three-faction institutional tension reaching its peak, "Who Has to Pay" — built from the sole seed authority of the Approved Phase 4B Episode 27 Production Development Package. Five scenes matching the package one-to-one (Light Order's Caution, Night Haven's Warning, The Doctrine's Certainty, Cracking Institutionally, Kael, Watching It Converge, Who Has to Pay), cross-cutting between three institutions rather than following a single character's throughline. Each faction's position verified directly against its own already-Locked Faction Bible entry, with no new stance, splinter group, or internal policy invented. No core-cast character undergoes individual development, consistent with the seed entry's own explicit institutional scope; Cassian appears only through unnamed Doctrine institutional leadership, never personally, keeping his personal doubt reserved for Episode 28; the Guardian and Mira correctly do not appear. One new Doctrine institutional environment, distinct from Cassian's private interior, built strictly from the already-Locked Faction Bible description, flagged for production review. Signal/Cipher-work untouched. Regression Verification performed against Episodes 1–26; all sections PASS. Arc Three Progression Verification (per Phase 5A.2) performed across all seven categories; all PASS — Cassian's five-episode schedule remains fully intact and untouched by this institutional-scale episode. All four assets flagged Asset Creation Required. No superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 27 package, Episodes 1–26's screenplays, Phase 5A framework, Phase 5A.1 lock, Phase 5A.2 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results across the Founder Review & Alignment Audit, Regression Verification, and Arc Three Progression Verification — all seven category checks confirmed Cassian's five-episode schedule remains fully intact, unaffected by this institutional-scale episode. No blocking condition found. Status: "Approved — Founder Approved for Production." Movement I closes clean. Phase 5B continues automatically to Episode 28.`
