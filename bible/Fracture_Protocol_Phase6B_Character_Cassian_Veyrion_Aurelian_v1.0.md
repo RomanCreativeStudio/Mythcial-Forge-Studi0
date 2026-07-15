@@ -6,6 +6,7 @@
 **Absolute authority:** subordinate to Master System Prompt → Locked Canon (Phase 1, 1C Character Bible, 1C Faction Bible, Phase 2 series) → Production Bible → Approved Production Packages (Phase 4B) → Approved Screenplays (Phase 5B, Locked under Phase 5B.5) → Phase 6.0 → Phase 6A → Phase 6A.5, in that order.
 **Working interpretation carried forward from all three prior packages, applied identically here:** field-level missing specification is flagged and the package continues to build; only a structural stop condition halts production. Cassian's Character Authority is fully Locked and sufficient to build a package around, even where physical/costume specification is incomplete.
 **REOPENED 2026-07-15 per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)."** That directive created `bible/Fracture_Protocol_Phase6B2_Human_Character_Visual_Canon_v1.0.md` as new Locked Production Canon resolving most of the Physical Production Profile gap this package originally flagged — including explicitly declining to adopt the "controlled, authoritative bearing" inference this package's own Section 3 had named but refused to Lock. Per Phase 6B.2's own Update Rule, only Sections 1 (Art References), 3 (Physical Profile, Visual Identity, Silhouette), 6–7 (Animation Notes), and 10 (Production Status) are updated below. **Every narrative section — 2, 4 (Costume, still not defined by Phase 6B.2), 5, 8, 9 — is left untouched.** The original Phase 6B.0 Founder Review & Alignment Audit and Founder Approval are preserved unmodified below as historical record; a dedicated Phase 6B.2 Update Audit and Approval follow them.
+**REOPENED AGAIN 2026-07-15 per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)."** That directive created `bible/Fracture_Protocol_Phase6B3_Costume_Wardrobe_Visual_Canon_v1.0.md`, resolving the Costume Breakdown gap left open by both Phase 6B.0 and Phase 6B.2 — including his Mission Outfit, correctly ruled Not Applicable given his Locked non-combat role. Per Phase 6B.3's own Step 2, only Costume Breakdown/Wardrobe (Section 4), Animation Notes (Section 7), Concept Art References (folded into Section 4), and Production Status (Section 10) are updated below. A dedicated Phase 6B.3 Update Audit and Approval follow the Phase 6B.2 ones.
 
 ---
 
@@ -22,6 +23,7 @@
 | `bible/Fracture_Protocol_Phase6A5_Asset_Production_Standards_v1.0.md` | Asset ID/Naming/Version/Lifecycle standards for Section 10 | Locked |
 | `documentation/Asset_Registry.md` | Existing FPP-CHAR-002 backlog entry for Cassian | Registry of record |
 | **`bible/Fracture_Protocol_Phase6B2_Human_Character_Visual_Canon_v1.0.md`** *(added on reopening, 2026-07-15)* | **Sole Art Reference for Cassian's visual production**: silhouette, height range, body proportions, facial structure, hair, skin, hands, movement style, posture, emotional presence, visual contrast, color philosophy, lighting behavior, animation notes, camera language, do-not-do rules, production notes, visual consistency — including his exact five-stage schedule (Episodes 28/29/30/31/35) as his signature distinguishing visual thread. Supersedes most of this package's original "missing" findings in Section 3 — those findings are preserved as historical record, not deleted. Costume/clothing remains outside Phase 6B.2's scope; Section 4 is unaffected. | Locked Canon (new, same tier as Phase 6B.1/Kael's and Mira's Phase 6B.2 updates for this domain) |
+| **`bible/Fracture_Protocol_Phase6B3_Costume_Wardrobe_Visual_Canon_v1.0.md`** *(added on reopening, 2026-07-15)* | **Sole Costume/Wardrobe Art Reference for Cassian**: Primary/Secondary/Formal/Civilian Outfits (Mission Outfit ruled Not Applicable given his non-combat role), silhouette integration, material/construction philosophy, and — his most distinctive costume feature — a pristine-by-default Wear/Repair Pattern that visibly disrupts only at his exact Locked schedule beats (Episodes 30–31, 35), never gradually. Supersedes this package's original Section 4 "missing" finding — preserved as historical record within Section 4, not deleted. | Locked Canon (new, beneath Phase 6B.2, above this package) |
 
 **Discrepancy noted, not silently resolved:** Phase 6A's registry lists 16 episodes for Cassian. This session's `CASSIAN` speaker-header grep found exactly 10 files, and a broader name+action-verb grep found 8 (overlapping, not additive). Recorded as-is rather than reconciled unilaterally, consistent with the same discrepancy pattern flagged in Mira's and the Guardian's packages.
 
@@ -77,9 +79,21 @@ At the time this package was first compiled and Approved, Height, Proportions, S
 
 ---
 
-## 4. Costume Breakdown
+## 4. Costume Breakdown / Wardrobe
 
-**Flagged as missing in full**, for the same reason as Section 3: no costume, clothing component, or equipment description exists in any Locked source for Cassian. No recurring/optional/damaged/ceremonial categorization is possible. Requires a future Founder directive or Art Bible expansion — not resolved here by invention or by analogy to his former-official/Doctrine-leader roles.
+**RESOLVED 2026-07-15 per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)."** Full costume authority now exists at `bible/Fracture_Protocol_Phase6B3_Costume_Wardrobe_Visual_Canon_v1.0.md`, Section 4 — incorporated here by reference rather than duplicated in full.
+
+**Outfits:** Primary (Ascendant Doctrine leadership attire — formal, composed, cool/precise tones), Secondary (former-official/private attire, reflecting his USCN background), Formal (elevated ceremonial Doctrine-leadership variant), Civilian (pre-radicalization Upper Grid identity, background-consistent, lowest priority). **Mission Outfit: Not Applicable** — his Locked role is strategic/ideological, never combat; no field-operations context exists for him anywhere in canon.
+
+**Recurring/optional/damaged/ceremonial categorization, now resolvable:** Primary is recurring (his default register across most of his schedule); Secondary and Formal are optional (context-specific); a "damaged/disrupted" state is Locked as a scheduled, not gradual, departure — pristine by default, visibly disrupted only at Episodes 30–31 and fully at Episode 35, never drifting between; Civilian remains flagged as background-consistent only, not screenplay-confirmed.
+
+**Concept Art References:** Phase 6B.3, Section 4 (full Production Attributes table). Concept Art Priority 1: Primary Outfit's default state and its Episode 35 disrupted state, as a coordinated pair.
+
+**Animation Notes (costume-specific):** low-to-moderate cloth simulation by default; a distinct, higher-fidelity simulation pass required specifically for his Episode 31/35 disruption states (collar, fastening); layer interaction must support visible disturbance at those beats only — per Phase 6B.3's Animation Considerations entry.
+
+No redesign or invention beyond what Phase 6B.3 itself establishes is performed here.
+
+**Historical Record — Original Phase 6B.0 Finding (preserved unmodified):** "Flagged as missing in full... No recurring/optional/damaged/ceremonial categorization is possible. Requires a future Founder directive or Art Bible expansion — not resolved here by invention or by analogy to his former-official/Doctrine-leader roles." This is exactly what Phase 6B.3 was commissioned to resolve.
 
 ---
 
@@ -125,6 +139,7 @@ Cross-checked against direct screenplay evidence. Cassian carries a speaker head
 ## 7. Animation Notes / Requirements
 
 **UPDATED 2026-07-15 per Phase 6B.2** — requirements unchanged in substance; now additionally governed by Phase 6B.2's Animation Notes (Section 5), which confirm reaction/facial animation must track his exact five-stage schedule as distinguishable, escalating states rather than a single reused "distress" animation.
+**UPDATED AGAIN 2026-07-15 per Phase 6B.3** — costume simulation now scoped: low-to-moderate cloth simulation by default; a distinct, higher-fidelity simulation pass required specifically for his Episode 31/35 disruption states (collar, fastening); layer interaction must support visible disturbance at those beats only. Full detail in Phase 6B.3, Section 7.
 
 - **Idle:** required (Conversation/Leadership baseline).
 - **Walk cycle:** flagged — not directly evidenced, retained as a baseline requirement.
@@ -179,7 +194,7 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 | Name | Dr. Cassian Veyrion Aurelian |
 | Category | Character |
 | Naming convention (Phase 6A.5) | `CHR_0002_Cassian_v001` |
-| Production status | Requested → In Progress → **Visual Canon Complete** *(updated 2026-07-15 per Phase 6B.2 — Physical Production Profile resolved beyond exact concept-art values; only Costume/Section 4 remains genuinely open)* |
+| Production status | Requested → In Progress → Visual Canon Complete → **Costume Authority Complete** *(updated 2026-07-15 per Phase 6B.3 — Costume Breakdown/Wardrobe now resolved; Mission Outfit correctly ruled Not Applicable; only exact concept-art numeric/color values and the background-only Civilian Outfit remain open)* |
 | Version | v1.0 (this package) |
 | Priority | 2 (Phase 6A Asset Priority Matrix) |
 | Episodes used | Phase 6A registry: 16. This pass: 10 (speaker header), 8 (action-verb evidence) — discrepancy flagged above, not resolved. |
@@ -239,7 +254,32 @@ Per Phase 6B.2's Automatic Workflow: "Reopen all three character packages. Updat
 
 ---
 
+## Phase 6B.3 Update Audit (Character Audit — Second Reopening)
+
+Per Phase 6B.3's Automatic Workflow. Both prior audits/approvals (Phase 6B.0 original, Phase 6B.2 update) are preserved unmodified above; this is a new, dedicated audit of this second reopening — the final of the four character-package reopenings required by Phase 6B.3.
+
+| Check | Result |
+|---|---|
+| Founder Review | PASS — only Costume Breakdown/Wardrobe (Section 4), Animation Notes (Section 7), Concept Art References (folded into Section 4), and Production Status (Section 10) were touched. |
+| Alignment Audit | PASS — every new Section 4 entry cross-references Phase 6B.3 rather than restating it independently; his pristine-by-default, scheduled-disruption Wear Pattern is confirmed as a direct extension of his already-Locked five-stage arc, not a new invention. |
+| Character Verification | PASS — no narrative fact altered; his Canon Alignment Principle and exact Locked schedule verified unchanged. |
+| Repository Verification | PASS — Phase 6B.3 read directly from its own Approved, Locked file. |
+| Regression Verification | PASS — the Phase 6B.2 update content confirmed intact and unaltered by this second reopening. |
+| Canon Verification | PASS — no screenplay, dialogue, or story beat touched; his Mission Outfit correctly ruled Not Applicable given his Locked non-combat role, consistent with the Guardian's own Combat Ready exclusion. |
+| Production Verification | PASS — Costume Breakdown now resolved beyond the background-only Civilian Outfit and exact concept-art values; Production status upgraded to Costume Authority Complete. |
+
+**Determination: PASS.** Ready for Founder Approval.
+
+---
+
+## Phase 6B.3 Update — Founder Approval
+
+**Approved 2026-07-15** following a clean PASS Phase 6B.3 Update Audit. No blocking condition found. This package's production status is updated to **Costume Authority Complete**. Concept art and turnaround work for Cassian may now proceed against Phase 6B.2 and Phase 6B.3's combined Visual Authority; the background-only Civilian Outfit and exact concept-art-stage values remain the only open items, logged rather than blocking. This completes the Phase 6B.3 reopening of all four active principal characters (Kael, Mira, Cassian, the Guardian).
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Character 4 of 4 (Cassian Veyrion Aurelian) — the final character in this directive's required production order. All 10 required sections built from direct repository citation only. Physical Production Profile (Section 3) and Costume Breakdown (Section 4), in full, flagged as missing rather than invented — same category of gap as Kael's package, distinct from the Guardian's structural non-applicability. A reasonable production inference (controlled bearing consistent with his Upper Grid/strategic-director background) was explicitly named and explicitly not adopted as Locked, preserving the "do not invent" instruction even where an inference might seem low-risk. Pose/Animation/Voice requirements (Sections 6–8) grounded directly in his exact Locked five-stage Cassian schedule (Episodes 28/29/30/31/35, Phase 5A.2), with his Canon Alignment Principle ("not a villain the story defeats") explicitly respected in the Anger expression flag and voice tone guidance. Registry discrepancies flagged, not resolved: FPP-CHAR-002 (Phase 6A) vs. CHR-0002 (Phase 6A.5) ID format, and a 16-episode (Phase 6A registry) vs. 10/8-episode (this pass's direct grep) count mismatch. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS Character Audit. No blocking condition found. Status: "Approved." Completes the four required Phase 6B.0 character packages (Kael, Mira, the Guardian, Cassian).`
 `[v2.0 — 2026-07-15] REOPENED per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)." Sections 1 (Art References), 3 (Physical Profile, Visual Identity, Silhouette), 6–7 (Animation Notes), and 10 (Production status) updated to apply the new Phase 6B.2 Locked Canon. Sections 2, 4, 5, 8, 9 left untouched — Section 4 (Costume) remains flagged missing. Original Phase 6B.0 findings preserved as historical record within Section 3, including the previously-declined Posture inference, now independently Locked by Phase 6B.2 at the Founder's own authority. Production status upgraded to "Visual Canon Complete." Re-audited PASS and re-approved via a dedicated Phase 6B.2 Update Audit appended after the original. Completes the Phase 6B.2 reopening of all three human principal characters.`
+`[v3.0 — 2026-07-15] REOPENED again per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)." Section 4 (Costume Breakdown/Wardrobe) resolved via the new Phase 6B.3 Locked Canon — Primary/Secondary/Formal/Civilian Outfits defined; Mission Outfit correctly ruled Not Applicable given his Locked non-combat role. His most distinctive costume feature: a pristine-by-default Wear/Repair Pattern that visibly disrupts only at his exact Locked schedule beats (Episodes 30–31, 35), never gradually — a direct visual extension of his already-Locked five-stage arc. Section 7 updated with costume-simulation scope, including a higher-fidelity pass specifically for his disruption states. Section 10 production status upgraded to "Costume Authority Complete." Original Phase 6B.0 and Phase 6B.2 content preserved unmodified. Re-audited PASS and re-approved via a dedicated Phase 6B.3 Update Audit appended after the prior two. Completes the Phase 6B.3 reopening of all four active principal characters.`
