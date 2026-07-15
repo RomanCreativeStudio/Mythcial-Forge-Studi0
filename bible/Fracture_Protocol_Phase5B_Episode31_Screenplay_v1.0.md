@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 31 of 36
 **Working Title (not final):** "Shaken"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 30's approval. Closes Arc Three's Movement II ("What Cassian Becomes") — stage four's fourth and final delivered beat within this movement. Maximum scrutiny episode: Cassian's final realization and self-dismantling remain entirely reserved for Episode 35, not paraphrased or anticipated anywhere.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 30's approval. Closes Arc Three's Movement II ("What Cassian Becomes") — stage four's fourth and final delivered beat within this movement. Maximum scrutiny episode: Cassian's final realization and self-dismantling remain entirely reserved for Episode 35, not paraphrased or anticipated anywhere. **Approved 2026-07-15 following clean PASS results across all three verification structures.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -325,9 +325,10 @@ Continuous, unhurried pacing across all three scenes — a single internal desce
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.**
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 31 package, Episodes 1–30's screenplays, Phase 5A framework, Phase 5A.1 lock, Phase 5A.2 lock, and all other canon and production authority documents remain unmodified. This closes Movement II. Phase 5B continues automatically to Episode 32 — the Guardian's own arc completing.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 30's approval. Fourth and final Movement II screenplay, closing Arc Three's Movement II — Cassian shaken, "Shaken," stage four's fourth and final delivered beat within this movement — built from the sole seed authority of the Approved Phase 4B Episode 31 Production Development Package, with maximum scrutiny applied to stage sequencing. Three scenes matching the package one-to-one (After, Undeniable, Without an Answer), mirroring Episode 17's own solo-interior-episode precedent. Cassian's shaken, answerless state verified directly against Phase 2A.2 Section 6's stage-four sequencing during compilation — his doubt is now undeniable but remains genuinely unresolved; his final realization ("a perfect humanity without freedom is not an evolution, it is another form of extinction") and self-dismantling remain entirely reserved for Episode 35, not paraphrased or anticipated anywhere. No other character appears. Signal/Cipher-work untouched. Regression Verification performed against Episodes 1–30; all sections PASS, with maximum verification on canon regression. Arc Three Progression Verification (per Phase 5A.2) performed across all seven categories, with maximum verification on Cassian's stage sequencing, confirming the full 28→29→30→31 sequence intact and cumulative; all PASS. Both assets flagged Asset Creation Required. No superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 31 package, Episodes 1–30's screenplays, Phase 5A framework, Phase 5A.1 lock, Phase 5A.2 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results across all three verification structures, with maximum verification confirming the full 28→29→30→31 stage-four sequence held intact and cumulative, and Cassian's Episode 35 final realization was never spoken, paraphrased, or anticipated. No blocking condition found. Status: "Approved — Founder Approved for Production." Movement II closes clean. Phase 5B continues automatically to Episode 32.`
