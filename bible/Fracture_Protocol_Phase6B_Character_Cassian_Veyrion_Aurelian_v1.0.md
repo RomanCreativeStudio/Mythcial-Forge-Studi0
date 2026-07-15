@@ -1,7 +1,7 @@
 # THE FRACTURE PROTOCOL — PHASE 6B: CHARACTER ASSET PRODUCTION PACKAGE
 ## Character 4 of 4 — Dr. Cassian Veyrion Aurelian
 
-**Classification:** Internal — Production Document (**Compiled — Pending Founder Review**)
+**Classification:** Internal — Production Document (**Approved**)
 **Status:** Compiled 2026-07-15 per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Step 4 of 4, the final character (Kael → Mira → the Guardian → **Cassian**). This document creates no story content, no canon expansion, and no screenplay revision — it is a production asset specification only.
 **Absolute authority:** subordinate to Master System Prompt → Locked Canon (Phase 1, 1C Character Bible, 1C Faction Bible, Phase 2 series) → Production Bible → Approved Production Packages (Phase 4B) → Approved Screenplays (Phase 5B, Locked under Phase 5B.5) → Phase 6.0 → Phase 6A → Phase 6A.5, in that order.
 **Working interpretation carried forward from all three prior packages, applied identically here:** field-level missing specification is flagged and the package continues to build; only a structural stop condition halts production. Cassian's Character Authority is fully Locked and sufficient to build a package around, even where physical/costume specification is incomplete.
@@ -167,7 +167,7 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 | Dependencies | See Section 9 |
 | Creator | Compiled per Phase 6B.0 directive execution |
 | Creation date | 2026-07-15 |
-| Approval date | *(pending — set upon Founder Approval below)* |
+| Approval date | 2026-07-15 |
 
 ---
 
@@ -192,9 +192,10 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 
 ## Founder Approval
 
-*(Pending — awaiting explicit Founder Approval before this section is completed and the document promoted from "Compiled — Pending Founder Review" to "Approved.")*
+**Approved 2026-07-15** following a clean PASS Character Audit. No blocking condition found. Physical Production Profile (Section 3) and Costume Breakdown (Section 4) gaps are logged as open production items pending future Locked specification, not treated as a stop condition, consistent with Kael's and Cassian's shared category of gap. This package is authoritative for all subsequent Cassian asset production within the bounds it establishes, and completes the four-character set required by Phase 6B.0 (Kael, Mira, the Guardian, Cassian — Titan remains excluded per the directive's own instruction). Subject to revision under Phase 6.0's Asset Revision Rule.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Character 4 of 4 (Cassian Veyrion Aurelian) — the final character in this directive's required production order. All 10 required sections built from direct repository citation only. Physical Production Profile (Section 3) and Costume Breakdown (Section 4), in full, flagged as missing rather than invented — same category of gap as Kael's package, distinct from the Guardian's structural non-applicability. A reasonable production inference (controlled bearing consistent with his Upper Grid/strategic-director background) was explicitly named and explicitly not adopted as Locked, preserving the "do not invent" instruction even where an inference might seem low-risk. Pose/Animation/Voice requirements (Sections 6–8) grounded directly in his exact Locked five-stage Cassian schedule (Episodes 28/29/30/31/35, Phase 5A.2), with his Canon Alignment Principle ("not a villain the story defeats") explicitly respected in the Anger expression flag and voice tone guidance. Registry discrepancies flagged, not resolved: FPP-CHAR-002 (Phase 6A) vs. CHR-0002 (Phase 6A.5) ID format, and a 16-episode (Phase 6A registry) vs. 10/8-episode (this pass's direct grep) count mismatch. Status: "Compiled — Pending Founder Review."`
+`[v1.1 — 2026-07-15] Approved following a clean PASS Character Audit. No blocking condition found. Status: "Approved." Completes the four required Phase 6B.0 character packages (Kael, Mira, the Guardian, Cassian).`
