@@ -6,6 +6,7 @@
 **Absolute authority:** subordinate to Master System Prompt → Locked Canon (Phase 1, 1C Character Bible, 1C Faction Bible, Phase 2 series) → Production Bible → Approved Production Packages (Phase 4B) → Approved Screenplays (Phase 5B, Locked under Phase 5B.5) → Phase 6.0 → Phase 6A → Phase 6A.5, in that order.
 **Working interpretation carried forward from Kael's and Mira's packages, applied identically here:** field-level missing specification is flagged and the package continues to build; only a structural stop condition halts production. The Guardian's Character Authority (identity, philosophy, role) is fully Locked and sufficient to build a package around, even where physical specification is entirely absent.
 **A distinct structural note for this character, stated explicitly rather than assumed:** unlike Kael and Mira, the Guardian's non-humanoid, form-unspecified nature (Locked: "an ancient artificial intelligence," Phase 1A) means several of the directive's 10 sections may be genuinely **not applicable** rather than merely missing — most notably clothing/costume. This distinction (not-applicable vs. missing) is made explicit field-by-field below rather than conflated.
+**REOPENED 2026-07-15 per "Founder Directive — Phase 6B.1 Visual Manifestation Canon (v1.0)."** That directive created `bible/Fracture_Protocol_Phase6B1_Visual_Manifestation_Canon_v1.0.md` as new Locked Canon resolving the form-determination gap this package originally flagged as its largest open item. Per Phase 6B.1's own Character Package Update Rule, only Sections 1 (Art References addition), 3 (Physical Description, Visual Identity, Silhouette), 6 and 7 (poses/animation notes that depend directly on Silhouette), and 10 (Production status) are updated below. **Every narrative section — 2, 4, 5, 8, 9 — is left untouched**, per that rule's explicit instruction; Section 4 (Costume Breakdown) in particular remains Not Applicable exactly as originally determined, since Phase 6B.1 does not establish clothing and was never asked to. The original Phase 6B.0 Founder Review & Alignment Audit and Founder Approval (below) are preserved unmodified as the historical record of that pass; a second, dedicated Phase 6B.1 Update Audit and Approval follow them rather than overwriting them.
 
 ---
 
@@ -24,6 +25,7 @@
 | `bible/Fracture_Protocol_Phase6A_Master_Production_Roadmap_v1.0.md` | Guardian's asset priority (Priority 2, 9 episodes) | Approved |
 | `bible/Fracture_Protocol_Phase6A5_Asset_Production_Standards_v1.0.md` | Asset ID/Naming/Version/Lifecycle standards for Section 10 | Locked |
 | `documentation/Asset_Registry.md` | Existing FPP-CHAR-004 backlog entry for the Guardian | Registry of record |
+| **`bible/Fracture_Protocol_Phase6B1_Visual_Manifestation_Canon_v1.0.md`** *(added on reopening, 2026-07-15)* | **Sole Art Reference for all Guardian visual production**: overall silhouette, visual scale, body proportions, surface treatment, motion language, facial language, presence, lighting behavior, environment interaction, distance behavior, camera behavior, color philosophy, symbolic design language, visual consistency rules. Supersedes this package's original "no visual specification exists" finding — that finding is preserved below as historical record (Section 3), not deleted, since it was accurate at the time and is what prompted Phase 6B.1's creation. | Locked Canon (new, same tier as Character Bible for this domain) |
 
 **Discrepancy noted, not silently resolved:** Phase 6A's registry lists 9 episodes for the Guardian. This session's `GUARDIAN` speaker-header grep found 10 files; a broader name+action-verb grep found 14. As with Mira, these different counts likely reflect different counting methods (speaking role vs. any mention) and are recorded rather than reconciled unilaterally.
 
@@ -45,24 +47,38 @@ No physical, costume, or purely-visual content appears anywhere in this section'
 
 ## 3. Physical Production Profile
 
-**Structurally different from Kael's and Mira's gaps — flagged as Not Applicable where the Guardian's Locked nature makes a field structurally inapplicable, and Missing where a field could in principle apply but has no Locked source.**
+**RESOLVED 2026-07-15 per Phase 6B.1 Visual Manifestation Canon.** The form-determination gap below is now closed by new Locked Canon. The original Phase 6B.0 findings are preserved immediately after, as historical record of the gap Phase 6B.1 was created to resolve — not deleted, since they remain an accurate account of what was and wasn't known at that time.
+
+### Visual Identity (new, per Phase 6B.1)
+
+The Guardian manifests as a **deliberately ordinary, unremarkable humanoid presence** — no glow, no VFX, no lighting distinction from any human character in the same scene. This is a production design choice, not a narrative claim: per Phase 6B.1's own Visual Manifestation Rule, "form is not origin," and a humanoid presence is specified here because it is the only design consistent with 14 screenplays' worth of "sits/stands/turns/speaks" staging evidence and the Locked "held two-shot" camera grammar (Episode 4) — not because it answers what the Guardian actually is. The full narrative Mystery Protection compliance check for this design is recorded in Phase 6B.1, Section 3, and is not repeated here.
+
+### Physical Production Profile (updated per Phase 6B.1)
 
 | Field | Status |
 |---|---|
-| Height | **Missing/Not Applicable — genuinely undetermined.** No Locked source states whether the Guardian has a fixed physical scale at all. |
-| Proportions / body type | **Missing/Not Applicable — no Locked form exists.** The Guardian is an "ancient artificial intelligence" with no confirmed physical embodiment anywhere in Locked canon. |
-| Silhouette | **Missing.** Even a non-humanoid entity typically requires a recognizable silhouette for character-recognition purposes in animation and marketing; none is specified. |
-| Posture | **Not Applicable, pending form determination** — cannot be specified before a form (embodied, projected, ambient, or otherwise) is established. |
-| Movement language | **Flagged, contradictory evidence.** Direct name+action-verb grep evidence exists across 14 screenplays ("Guardian sits," "stands," "speaks," "turns," etc. — verbs that imply a discrete, staged physical presence in at least some scenes). This sits alongside Episode 4's explicit Locked production note that "the Guardian's presence is established through performance and staging, not a visual effect" — which is consistent with a staged, performed presence, but still does not confirm a specific physical form, silhouette, or embodiment. **This tension — action-verb evidence implying physical staging, against zero Locked visual-form specification — is flagged explicitly rather than resolved by inventing a form.** |
-| Facial characteristics | **Not Applicable, pending form determination.** |
-| Hair | **Not Applicable, pending form determination.** |
-| Eyes | **Not Applicable, pending form determination.** No eye-glow or Signal-linked system is established for the Guardian (that system is Locked as Kael-specific). |
-| Skin tone / complexion | **Not Applicable, pending form determination.** |
-| Clothing / equipment | **Not Applicable.** An ancient artificial intelligence with no confirmed physical embodiment has no basis for a clothing/equipment specification; this is a structural non-applicability, not a missing-data gap, and should not be conflated with Kael's or Mira's genuinely missing uniform/costume data. |
+| Height | **Resolved: ordinary adult-human scale, fixed, no scene-to-scene variation.** Per Phase 6B.1, Visual Scale. |
+| Proportions / body type | **Resolved: ordinary humanoid proportions.** No robotic, ethereal, or otherwise inhuman stylization. Per Phase 6B.1, Body Proportions. |
+| Silhouette | **Resolved: humanoid-proportioned, deliberately generic.** No wings, halo, visible mechanism, elongation, or other non-human anatomical marker. Per Phase 6B.1, Overall Silhouette. |
+| Posture | **Resolved: calm, settled, ambient by default** — consistent with "ambient civilizational presence before any personal contact" (Episode 4). Per Phase 6B.1, Presence. |
+| Movement language | **Resolved: measured, economical, unhurried.** No sudden or erratic movement; the same restraint already Locked for its speech pattern ("slightly longer pause before speaking," Episode 8) now governs its physical motion too. Per Phase 6B.1, Motion Language. |
+| Facial characteristics | **Resolved: calm and settled, deliberately unremarkable.** Legible enough to support the already-Locked 10-expression Expression Library (Section 5, unchanged), but with no features distinctive enough to suggest a specific ethnicity, culture, or era. Per Phase 6B.1, Facial Language. |
+| Hair | **Still not specified — Phase 6B.1 does not define this level of detail**, consistent with its own scope limit (production-visible categories only, not a full character-design pass). Flagged as an open item for a future Art Bible expansion or concept-art pass, not a Phase 6B.1 gap. |
+| Eyes | **Resolved as a negative rule: no eye-glow or Signal-linked system** — that system remains exclusively Kael's. No other eye specification (color, shape) is defined by Phase 6B.1; same open-item status as Hair, above. |
+| Skin tone / complexion | **Still not specified**, same open-item status as Hair and Eyes above — outside Phase 6B.1's defined category list. |
+| Clothing / equipment | **Unchanged — remains Not Applicable.** Phase 6B.1's Character Package Update Rule does not list Costume Breakdown among the sections to update, and Phase 6B.1 itself does not define clothing (see Surface Treatment, below, which governs material/finish, not garments). See Section 4, unchanged. |
 
-**The one confirmed production instruction (Locked, Episode 4, line 403 and line 186):** the Guardian's presence must be established through **performance and staging**, not a visual effect, and its presence is **not marked by any lighting change** relative to the surrounding scene. This is a Locked negative constraint — what NOT to do (no VFX reveal, no lighting shift) — not a positive form specification. It is recorded here as the closest thing to a "physical production" rule that exists for the Guardian, and should govern any future form design (i.e., whatever form is eventually chosen, it must still be renderable without a VFX-driven reveal or a lighting cue, per this Locked instruction).
+### Surface Treatment, Lighting Behavior, Presence, Camera Behavior, Color Philosophy, Symbolic Design Language (new, per Phase 6B.1)
 
-**Rendering register (applies once/if a form is specified):** per `forbidden-elements.md`, the general "semi-realistic anime cinematic hybrid" register applies to all characters; no Guardian-specific exception or addition exists.
+Full definitions live in `Fracture_Protocol_Phase6B1_Visual_Manifestation_Canon_v1.0.md`, Section 4, and are incorporated here by reference rather than duplicated in full. Summarized for this package's own completeness: matte/non-reflective/non-luminous surface; ordinary practical lighting with no rim-light or highlight treatment and an explicit prohibition on the Locked-reserved cyan/icy-blue palette (Kael/Fracture-exclusive); physically integrated environment interaction (no floating, no independent light source); no forced-perspective distance tricks; no camera "reveal" treatment — held two-shots are the default grammar, per the already-Locked Episode 4 note; no assigned signature color; no religious/mythological/mechanical iconography.
+
+**The original Episode 4/186 negative constraint (Locked, unchanged, now formally subsumed by Phase 6B.1's Lighting Behavior and Camera Behavior rules):** the Guardian's presence must be established through performance and staging, not a visual effect, and is not marked by any lighting change. This is no longer merely "the closest thing to a physical production rule that exists" (as the original Phase 6B.0 audit described it) — it is now one formalized clause within a complete Visual Authority.
+
+**Rendering register:** per `forbidden-elements.md`, the general "semi-realistic anime cinematic hybrid" register applies, exactly as for every other character; Phase 6B.1 introduces no exception.
+
+### Historical Record — Original Phase 6B.0 Findings (2026-07-15, preserved unmodified)
+
+At the time this package was first compiled and Approved, no Locked source anywhere established whether the Guardian had a physical form at all. The Physical Production Profile fields above (Height, Proportions, Silhouette, Posture, Facial characteristics, Hair, Eyes, Skin tone) were all originally recorded as "Missing/Not Applicable, pending form determination," and Movement language was flagged as carrying a direct, unresolved tension between screenplay action-verb evidence (implying staged physical presence) and a total absence of Locked visual-form specification. This gap is what Phase 6B.1 was directly commissioned to resolve; it is preserved here as the record of that gap, not as current guidance — the resolved fields above supersede it.
 
 ---
 
@@ -93,39 +109,39 @@ The 10 required expressions (fixed list, per directive). **Flagged as structural
 
 ## 6. Pose Library
 
-Cross-checked against direct screenplay evidence, with the same structural caveat as Sections 3 and 5: "pose" presumes a physical form that is not itself Locked.
+**UPDATED 2026-07-15 per Phase 6B.1** — the form-determination block on this section is resolved; poses can now be defined against the Visual Identity established in Section 3.
 
 | Pose | Required? | Evidence |
 |---|---|---|
-| Standing | Flagged | Action-verb evidence ("stands") found, but form-undetermined (Section 3). |
-| Walking | Flagged | Not clearly evidenced as distinct from general "moves"/"steps" verbs; form-undetermined. |
-| Running | **Not required** | No evidence found; inconsistent with the Guardian's established "calm and certain," non-combat narrative register. |
-| Combat Ready | **Not required** | No Locked or screenplay evidence of the Guardian in a combat role; its Locked function is guidance/protection through wisdom, not direct combat. |
-| Conversation | Yes | Speaker header confirmed in 10 episodes; dialogue-bearing role is Locked and central (its relationship with Kael and Cassian are both dialogue-driven). |
-| Observation | Yes | Consistent with its Locked "observer" framing throughout the Character Bible (Character Arc: "having come to understand humanity mostly through pattern... at a distance"). |
-| Rest | **Not required** | No evidence; an ancient AI with no confirmed physical form has no clear basis for a "rest" pose distinct from Neutral/Conversation staging. |
-| Leadership | Flagged | Its guidance role is Locked, but "Leadership" as a staged pose (vs. Kael's command-briefing staging) has no direct screenplay evidence; flagged rather than assumed. |
-| Silhouette | Yes | Required as a marketing/key-art pose per Phase 6A's asset planning convention — but see Section 3's flagged silhouette gap; this requirement cannot be fulfilled until a form exists. |
+| Standing | Yes | Action-verb evidence ("stands") across multiple screenplays, now supported by a confirmed humanoid Silhouette (Section 3). |
+| Walking | Yes | Consistent with an ordinary humanoid presence physically integrated into environments (Phase 6B.1, Environment Interaction); no longer form-blocked, though not the dominant staging mode given its "ambient" default (Presence, Section 3). |
+| Running | **Not required** | Unchanged — inconsistent with the Guardian's "calm and certain," non-combat narrative register and its Locked Motion Language (measured, unhurried). |
+| Combat Ready | **Not required** | Unchanged — no combat role, Locked. |
+| Conversation | Yes | Unchanged — speaker header confirmed in 10 episodes; central, dialogue-driven role. |
+| Observation | Yes | Unchanged — consistent with its Locked "observer" framing. |
+| Rest | Flagged | No longer form-blocked, but still not directly evidenced by any specific staging; retained as a plausible baseline pose for an ordinary humanoid presence rather than confirmed by scene-specific evidence. |
+| Leadership | Flagged | Same status as before — its guidance role is Locked, but no direct "briefing"-style staging was found; the form-determination block is resolved, but the evidence gap for this specific pose is not. |
+| Silhouette | Yes | **Now fulfillable.** The marketing/key-art silhouette requirement (Phase 6A convention) can now be produced against the Overall Silhouette definition in Phase 6B.1 and Section 3, above. |
 
-Of the nine fixed-list poses, only two (Conversation, Observation) are confirmed both by direct evidence and consistency with Locked characterization; the rest are flagged, excluded, or blocked on the same form-determination gap running through this entire package.
+Six of nine fixed-list poses are now confirmed required (up from two); Running and Combat Ready remain correctly excluded by Locked characterization, not by the form-determination gap, which no longer applies to any entry in this table.
 
 ---
 
-## 7. Animation Requirements
+## 7. Animation Notes / Requirements
 
-Requirements only, with the form-determination caveat applying throughout.
+**UPDATED 2026-07-15 per Phase 6B.1** — requirements only; no design work performed here.
 
-- **Idle:** flagged — cannot be specified without a form.
-- **Walk cycle:** **not required** — no combat/urgency or general locomotion evidence found; consistent with an "ambient civilizational presence" framing (Episode 4, Story Purpose: "Establish the Guardian as ambient civilizational presence before any personal contact").
-- **Run cycle:** **not required.**
-- **Turn:** flagged — action-verb evidence exists ("turns") but form-undetermined.
-- **Look/head-track:** flagged — presumes a face/head, which is not confirmed (Section 3).
-- **Conversation animation:** required — dialogue-bearing role confirmed across 10 episodes; the specific mechanism (voice-only, staged presence, or something else) is exactly the open question Section 3 flags.
-- **Combat animation:** **not required.**
-- **Reaction animation:** required at the *voice/performance* level (its Internal Conflict must be conveyable) even though the *physical* animation question remains open.
-- **Facial animation:** flagged — presumes a face; not confirmed to apply.
+- **Idle:** required — Presence (Section 3) establishes a calm, settled ambient default this must support.
+- **Walk cycle:** required, but not dominant — resolved from "not required" now that a humanoid form is confirmed; still secondary to its default ambient/stationary staging (Episode 4).
+- **Run cycle:** **not required** — unchanged; excluded by Locked Motion Language (measured, unhurried), not by the former form-determination block.
+- **Turn:** required — action-verb evidence ("turns") is now supported by a confirmed Silhouette; no longer form-blocked.
+- **Look/head-track:** required — Facial Language (Section 3) confirms a face sufficient for this; resolved from "presumes a face, not confirmed."
+- **Conversation animation:** required — unchanged, dialogue-bearing role across 10 episodes; the mechanism question Section 3 previously flagged is now resolved (ordinary humanoid staging, per Phase 6B.1).
+- **Combat animation:** **not required** — unchanged.
+- **Reaction animation:** required at both the voice/performance level (unchanged) and now the physical level, per the resolved Motion/Facial Language.
+- **Facial animation:** required — resolved from "flagged, presumes a face"; must support the already-Locked 10-expression Expression Library (Section 5, unchanged) within the deliberately unremarkable Facial Language constraint (Section 3).
 
-**Governing production instruction repeated from Section 3:** whatever animation solution is eventually chosen must satisfy the Locked constraint that the Guardian's presence is established through performance and staging, not a visual effect, and is not marked by a lighting change.
+**Governing production instruction, updated:** whatever animation is produced must satisfy Phase 6B.1 in full — no glow, no VFX, no lighting distinction from human characters, no reveal-cut camera treatment, held two-shots as the default grammar. This directly extends, and no longer merely approximates, the original Locked Episode 4 constraint.
 
 ---
 
@@ -153,7 +169,7 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 | Storyboards | Depends on Phase 6A's Storyboard Plan; not yet asset-produced. |
 | Animation | Depends on Section 7 above, most of which is blocked on form-determination; not yet asset-produced. |
 | Voice | Depends on Section 8 above — the most production-ready dependency for this character; voice cast confirmed not-yet-existing (Phase 5C Recommendation R-2). |
-| Marketing | Silhouette pose (Section 6) flagged as required but currently unfulfillable pending form-determination (Section 3). |
+| Marketing | Silhouette pose (Section 6) **now fulfillable** per Phase 6B.1's Overall Silhouette definition (Section 3, updated 2026-07-15). |
 
 ---
 
@@ -163,7 +179,11 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 
 **Episode-count discrepancy also flagged:** Phase 6A's registry lists 9 episodes; this pass found 10 files with a `GUARDIAN` speaker header and 14 with direct name+action-verb evidence. Recorded as-is.
 
-**The central open item for this character, restated at the registry level:** unlike Kael and Mira (where the gap is "missing physical detail for an otherwise-humanoid character"), the Guardian's asset production cannot proceed to concept art or turnaround at all until a Founder decision establishes whether — and how — the Guardian has a physical form, consistent with the Locked "performance and staging, not a visual effect" constraint. This is the single largest open production question surfaced across all three character packages built so far.
+**RESOLVED 2026-07-15 per Phase 6B.1.** The central open item below (the form-determination block) has been resolved by new Locked Canon and is preserved as historical record, not current status:
+
+*Original text, preserved: "unlike Kael and Mira (where the gap is 'missing physical detail for an otherwise-humanoid character'), the Guardian's asset production cannot proceed to concept art or turnaround at all until a Founder decision establishes whether — and how — the Guardian has a physical form, consistent with the Locked 'performance and staging, not a visual effect' constraint. This is the single largest open production question surfaced across all three character packages built so far."*
+
+**Current status:** concept art and turnaround work may now proceed against Phase 6B.1's Visual Authority. The Guardian's remaining open items (Hair, Eyes detail, Skin tone — see Section 3) are the same category of genuinely-missing-but-fillable gap already carried by Kael's and Cassian's packages, not a structural block.
 
 | Field | Value |
 |---|---|
@@ -172,7 +192,7 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 | Name | The Guardian |
 | Category | Character |
 | Naming convention (Phase 6A.5) | `CHR_0004_Guardian_v001` |
-| Production status | Requested → **Blocked on form-determination** *(distinct from Kael's and Mira's "In Progress" status — this character cannot proceed to visual asset production until the Founder resolves whether/how it has a physical form)* |
+| Production status | Requested → **In Progress** *(updated 2026-07-15 per Phase 6B.1 — formerly "Blocked on form-determination"; now aligned with Kael's and Cassian's status. Remaining gaps — Hair, Eyes detail, Skin tone — are genuinely-missing-but-fillable, not structural.)* |
 | Version | v1.0 (this package) |
 | Priority | 2 (Phase 6A Asset Priority Matrix) |
 | Episodes used | Phase 6A registry: 9. This pass: 10 (speaker header), 14 (name+action-verb evidence) — discrepancy flagged above, not resolved. |
@@ -208,6 +228,31 @@ Tone, pace, energy, and emotional range only. **No casting or actor suggestion i
 
 ---
 
+## Phase 6B.1 Update Audit (Character Audit — Reopening)
+
+Per Phase 6B.1's Automatic Workflow: "Reopen Guardian Character Package. Apply visual authority. Run Character Audit." The original Phase 6B.0 audit and approval, above, are preserved unmodified as the historical record of that pass; this is a new, dedicated audit of the reopening itself.
+
+| Check | Result |
+|---|---|
+| Repository integrity | PASS — Phase 6B.1 read directly from its own approved, Locked file; no reliance on memory. |
+| Scope discipline | PASS — only Sections 1, 3, 6, 7, 10 were touched, exactly as Phase 6B.1's Character Package Update Rule specifies. Sections 2, 4, 5, 8, 9 verified untouched by direct comparison against the pre-reopening text. |
+| Mystery protection | PASS — no origin, creator, true-nature, purpose, destiny, or relationship content was added anywhere in this update; every new Section 3 entry is a production-visible quality only, cross-referenced to Phase 6B.1 rather than restated independently (avoiding any risk of drift between the two documents). |
+| Canon contradiction check | PASS — the new Visual Identity does not contradict any narrative fact in Sections 2, 4, 5, 8, or 9; Section 4 (Costume) correctly remains Not Applicable since Phase 6B.1 does not define clothing. |
+| Historical-record integrity | PASS — original Phase 6B.0 findings preserved verbatim in Section 3 and Section 10 rather than overwritten, so the record of what was unknown and when it was resolved remains intact. |
+| Screenplay consistency | PASS — every updated field traces to a specific Phase 6B.1 rule, which in turn traces to specific screenplay evidence (Phase 6B.1, Section 5); no new invention introduced at this layer. |
+| Production readiness | **Substantially improved.** Sections 1, 2, 3, 5, 6, 7, 8, 9, 10 are now populated (Section 6 six of nine poses confirmed, up from two). Section 4 remains the sole Not Applicable section. Three narrow open items remain in Section 3 (Hair, Eyes detail, Skin tone) — flagged, not blocking, same category as Kael's and Cassian's remaining gaps. |
+
+**Determination: PASS.** No canon contradiction, repository corruption, governance conflict, or asset dependency conflict found. Scope was held exactly to the five items Phase 6B.1 authorized. Ready for Founder Approval.
+
+---
+
+## Phase 6B.1 Update — Founder Approval
+
+**Approved 2026-07-15** following a clean PASS Phase 6B.1 Update Audit. No blocking condition found. This package's production status is updated to **In Progress**, consistent with Kael's and Cassian's packages. Concept art and turnaround work for the Guardian may now proceed against Phase 6B.1's Visual Authority. The three remaining narrow gaps (Hair, Eyes detail, Skin tone) do not block this progression and are logged as open items for a future concept-art or Art Bible pass, consistent with the same standard already applied to Kael's and Cassian's remaining gaps.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Character 3 of 4 (the Guardian). All 10 required sections built from direct repository citation only, with the Guardian mystery-protection rule (Phase 5A.2) fully respected — no origin theory asserted as fact. The largest open production question surfaced across all Phase 6B.0 characters so far: whether/how the Guardian has any physical form at all, given zero Locked visual specification exists anywhere (Art Bible, World Bible, Faction Bible, Phase 1B.3) against contradicting evidence of staged physical presence across 14 screenplays' action lines. Four screenplays (Episodes 18, 24, 26, 32) cross-reference "the Guardian's established Season One visual language, per lighting-system.md" — checked directly and found not actually present in that file, flagged as a genuine discrepancy rather than silently patched. Sections 3, 4, 6, 7, and 9 explicitly distinguish Not Applicable (structurally excluded by the Guardian's non-physical Locked nature) from Missing (could apply but lacks a source) rather than conflating the two, unlike Kael's and Mira's packages where nearly every gap was a true Missing. Registry Section 10 marks production status as "Blocked on form-determination," distinct from Kael's and Mira's "In Progress." Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a PASS Character Audit. No blocking condition found. Status: "Approved." The form-determination gap (Section 3) is logged as the largest open item across Phase 6B.0 so far, blocking visual asset production until a future Founder directive resolves it, but not treated as a package-level stop condition.`
+`[v2.0 — 2026-07-15] REOPENED per "Founder Directive — Phase 6B.1 Visual Manifestation Canon (v1.0)." Sections 1 (Art References), 3 (Physical Description, Visual Identity, Silhouette), 6 and 7 (poses/animation notes dependent on Silhouette), and 10 (Production status) updated to apply the new Phase 6B.1 Locked Canon. Sections 2, 4, 5, 8, 9 left untouched per Phase 6B.1's own Character Package Update Rule — Section 4 (Costume Breakdown) in particular remains Not Applicable, since Phase 6B.1 does not define clothing. Original Phase 6B.0 findings preserved as historical record within Section 3 and Section 10 rather than deleted. Production status upgraded from "Blocked on form-determination" to "In Progress," aligning the Guardian with Kael's and Cassian's status; three narrower open items remain (Hair, Eyes detail, Skin tone) as genuinely-missing-but-fillable gaps, not structural blocks. Re-audited below; see the Phase 6B.1 Update Audit and Approval that follow the original Phase 6B.0 audit and approval, which are preserved unmodified.`
