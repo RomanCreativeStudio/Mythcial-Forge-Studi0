@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 13 of 36
 **Working Title (not final):** "What the Rank Costs"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 12's approval. **First episode of Arc Two — highest scrutiny applied. Note: per the Approved Phase 4B Episode 13 package's own explicit scope, Cassian is NOT named and does NOT appear in this episode — his reveal is Locked to Episode 16 (Phase 4A.2's own seed entry). This screenplay follows that scope exactly rather than introducing him prematurely.**
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 12's approval. **First episode of Arc Two — highest scrutiny applied. Note: per the Approved Phase 4B Episode 13 package's own explicit scope, Cassian is NOT named and does NOT appear in this episode — his reveal is Locked to Episode 16 (Phase 4A.2's own seed entry). This screenplay follows that scope exactly rather than introducing him prematurely.** **Approved 2026-07-15 following clean PASS results from the Founder Review & Alignment Audit, Regression Verification, and the new mandatory Arc Two Reveal Progression Verification.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -442,9 +442,10 @@ Deliberately low-conflict pacing throughout, mirroring Episode 1's own restraint
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.** Only this document was created. The Phase 4B Episode 13 package, Episodes 1–12's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified.
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 13 package, Episodes 1–12's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 14.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 12's approval. First Arc Two screenplay — built from the sole seed authority of the Approved Phase 4B Episode 13 Production Development Package ("What the Rank Costs"). Five scenes matching the package one-to-one; Cassian, Mira, the Guardian, and Titan correctly do not appear, matching the seed entry's exact scope — Cassian's reveal explicitly noted as reserved for Episode 16, not introduced prematurely. The Light Order/Night Haven rivalry becomes concrete institutional reality without any named individual from either faction. Kael's burden-alone flaw continues quietly, undramatized. Regression Verification performed against Episodes 1–12; all ten sections PASS. A new, mandatory Arc Two Reveal Progression Verification (per the Continuous Phase 5B Screenplay Production Directive's Arc Two Activation Rule) confirms every reveal occurs only in its designated episode, Cassian's roadmap is honored exactly, and no revelation is accelerated or delayed. Both assets flagged Asset Creation Required. No new canon character, faction, ability, technology, or event introduced; no superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 13 package, Episodes 1–12's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from the Founder Review & Alignment Audit, Regression Verification, and the new mandatory Arc Two Reveal Progression Verification. No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 14.`
