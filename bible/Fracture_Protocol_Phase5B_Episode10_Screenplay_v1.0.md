@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 10 of 36
 **Working Title (not final):** "The Second Operation, Part Two"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 9's approval. Mira's first direct witnessing of Kael's pattern — heightened Episode 11 consequence-protection and Mira Emotional Continuity scrutiny applied.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 9's approval. Mira's first direct witnessing of Kael's pattern — heightened Episode 11 consequence-protection and Mira Emotional Continuity scrutiny applied. **Approved 2026-07-15 following clean PASS results from both audits, with primary verification confirming the civilian's fate remains unconfirmed and Mira's witnessing stays active, not passive.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -438,9 +438,10 @@ Sustained, escalating pace throughout — no scene may resolve into relief. Scen
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.** Only this document was created. The Phase 4B Episode 10 package, Episodes 1–9's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified.
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 10 package, Episodes 1–9's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 11.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 9's approval. Tenth Phase 5B screenplay — Mira's first direct witnessing of Kael's pattern — built from the sole seed authority of the Approved Phase 4B Episode 10 Production Development Package ("The Second Operation, Part Two"), with heightened primary verification applied to Episode 11 consequence protection and Mira's Emotional Continuity requirement. Five scenes matching the package one-to-one; the at-risk civilian's fate is never confirmed or denied anywhere, correctly reserved for Episode 11 exclusively; no new named character introduced. Mira remains an active, capable professional throughout Scenes 2 and 4, her witnessing carried entirely through controlled, processed recognition rather than distress. The Guardian, Cassian, and Night Haven correctly do not appear. Regression Verification performed against Episodes 1–9, with primary continuity comparison against Episode 9; all ten sections PASS. All five referenced assets flagged Asset Creation Required. No new canon character, faction, ability, technology, or event introduced; no superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 10 package, Episodes 1–9's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from both audits, with primary verification confirming the civilian's fate remains unconfirmed and Mira's witnessing stays active, controlled, and independently characterized. No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 11.`
