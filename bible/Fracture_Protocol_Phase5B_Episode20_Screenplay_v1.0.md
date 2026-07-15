@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 20 of 36
 **Working Title (not final):** "A Public Voice"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 19's approval. Continues Movement III ("What He Offers") — two parallel threads, both left open. Primary verification: Mira's expanding voice bounded to her own Locked framing, the Guardian/Kael disagreement bounded to their own Locked "Relationship Dynamics" entry, neither thread resolves.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 19's approval. Continues Movement III ("What He Offers") — two parallel threads, both left open. Primary verification: Mira's expanding voice bounded to her own Locked framing, the Guardian/Kael disagreement bounded to their own Locked "Relationship Dynamics" entry, neither thread resolves. **Approved 2026-07-15 following clean PASS results from all three verification structures.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -467,9 +467,10 @@ Alternating structure between the two threads throughout, building tension in pa
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.**
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 20 package, Episodes 1–19's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. Phase 5B continues automatically to Episode 21 — the major turning point.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 19's approval. Eighth Arc Two screenplay, continuing Movement III — two parallel threads, Mira's expanding public voice and the Guardian/Kael intervention-timing disagreement reaching its head — built from the sole seed authority of the Approved Phase 4B Episode 20 Production Development Package, with primary verification applied to both threads. Five scenes matching the package one-to-one (Recognized, What Kael Wants, She Simply Is the Argument, The Guardian Refuses, Two Threads, Still Open), alternating between the two threads throughout. Mira's voice verified directly against her own already-Locked "Philosophy & Internal Conflict" entry ("she simply is the argument") — grounded in lived experience, never becoming invented ideology or a platform; no scene with Kael this episode, establishing her independent narrative weight explicitly. The Guardian/Kael disagreement verified directly against their own already-Locked "Relationship Dynamics" entry — both positions sincere, the Guardian's refusal principled and costly, its full resolution reserved for Episode 24. Kael's push for direct action kept distinct from his burden-alone flaw, which remains untouched. Cassian, Titan, and Night Haven correctly do not appear. No world-fact expansion. Signal/Cipher-work untouched. Both threads left explicitly unresolved at the close, per the seed entry's own Ending Beat. Regression Verification and the Arc Two Reveal Progression Verification performed against Episodes 1–19; all sections PASS, with primary verification on canon regression. All five assets flagged Asset Creation Required. No superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 20 package, Episodes 1–19's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from all three verification structures, with primary verification confirming both threads stayed bounded to their own Locked Character Bible entries and remained unresolved at the close. No blocking condition found. Status: "Approved — Founder Approved for Production." Phase 5B continues automatically to Episode 21.`
