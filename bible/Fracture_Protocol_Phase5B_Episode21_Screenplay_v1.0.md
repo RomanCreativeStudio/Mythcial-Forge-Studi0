@@ -5,8 +5,8 @@
 **Series:** The Fracture Protocol
 **Episode:** 21 of 36
 **Working Title (not final):** "The Offer"
-**Classification:** Internal — Screenplay (**Compiled — Pending Founder Approval**)
-**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 20's approval. Closes Movement III ("What He Offers") — Arc Two's major turning point. Maximum scrutiny episode: the offer's specific scenario stays unspecified (no new named crisis, character, or location invented); Titan invoked only through his already-Locked words; Kael refuses but only barely, flaw unresolved.
+**Classification:** Internal — Screenplay (**Approved — Founder Approved for Production**)
+**Status:** Compiled 2026-07-15 per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 20's approval. Closes Movement III ("What He Offers") — Arc Two's major turning point. Maximum scrutiny episode: the offer's specific scenario stays unspecified (no new named crisis, character, or location invented); Titan invoked only through his already-Locked words; Kael refuses but only barely, flaw unresolved. **Approved 2026-07-15 following clean PASS results from all three verification structures.** Status: **Approved — Founder Approved for Production**.
 
 ---
 
@@ -503,9 +503,10 @@ Continuous pacing across Scenes 1–5, slowing deliberately through Scenes 3–4
 
 ## 20. Founder Approval Section
 
-**Status: Compiled — Pending Founder Approval.**
+**Status: Approved — Founder Approved for Production.** Only this document's Cover Information status line, this section, and the Changelog were modified for approval. The Phase 4B Episode 21 package, Episodes 1–20's screenplays, Phase 5A framework, Phase 5A.1 lock, and all other canon and production authority documents remain unmodified. This closes Movement III. Phase 5B continues automatically to Episode 22 — Arc Transition Two.
 
 ---
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per the Continuous Phase 5B Screenplay Production Directive, continuing from Episode 20's approval. Ninth Arc Two screenplay, closing Movement III — Arc Two's major turning point, "The Offer" — built from the sole seed authority of the Approved Phase 4B Episode 21 Production Development Package, with maximum scrutiny applied throughout. Six scenes matching the package one-to-one (Cassian Returns, What He Shows Him, A System That Carries It, What Titan Would Ask, He Refuses, But Only Barely, How Close It Came). The offer rendered exactly as Phase 2A.2's own Founder Decision 5 states it — a genuine offer, not a threat — with its specific scenario deliberately left unspecified, sourced only from the general pattern of people Kael has already learned to protect, avoiding any unauthorized new canon. Titan invoked only through his already-Locked standing question and Kael's own already-Locked understanding of shared strength, verified directly against Character Bible source — no new Titan history, mythology, or scene. Kael refuses, but only barely, with his burden-alone flaw explicitly tested at its most severe point yet and surviving unresolved. Cassian's offer rendered as sincere throughout, never manipulative, consistent with his established moral limits and tragedy. The Guardian, Mira, Titan (in person), and Night Haven correctly do not appear, matching the seed entry's own two-hander scope exactly. No power grant; Signal/Cipher-work untouched. The episode ends on proximity, not safety — no resolution, no gesture toward Arc Transition Two's specific content. Regression Verification and the Arc Two Reveal Progression Verification performed against Episodes 1–20; all sections PASS, with maximum scrutiny on canon regression and reveal progression. All three assets flagged Asset Creation Required. No superseded Series Bible material appears anywhere. Canon Verification and Production Readiness Review both pass in full. Only this document created; the Phase 4B Episode 21 package, Episodes 1–20's screenplays, Phase 5A framework, Phase 5A.1 lock, and all canon authority documents unmodified. Status: "Compiled — Pending Founder Approval."`
+`[v1.1 — 2026-07-15] Approved following clean PASS results from all three verification structures, with maximum scrutiny confirming the offer stayed within Phase 2A.2's Founder Decision 5 text exactly and Kael's flaw survived unresolved. No blocking condition found. Status: "Approved — Founder Approved for Production." Movement III closes clean. Phase 5B continues automatically to Episode 22.`
