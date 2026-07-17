@@ -175,3 +175,40 @@ Internally consistent across all 6 episodes in both Phase 4B and Phase 5B — ev
 
 ### Changelog (Reconciliation)
 `[v2.0 — 2026-07-15] Reconciliation Section appended per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Original Phase 6C content (v1.0–v1.1) preserved unmodified. Phase 4B Episode 17 Production Package re-verification found the minimalism here is a deliberate, explicit planning-stage decision ("rather than inventing new detail"), not an information gap lost during drafting — this reframes but does not resolve the blocker. Production Readiness: BLOCKED, severity Moderate, with a specific recommended resolution offered for Founder decision (ratify deliberate minimalism as permanent design intent, rather than commissioning new architecture).`
+
+---
+
+## Phase 6C.6 Blocker Resolution Section
+
+*(Appended 2026-07-15 per "Founder Directive — Phase 6C.6 Environment Blocker Resolution (v1.0)," Step 1. Everything above this line is preserved unmodified.)*
+
+### Determination: Intentionally Undefined
+
+Re-verified directly against the full body of existing Locked Canon (Faction Bible, Character Bible, World Bible, Art Bible, Canon Registry) and every production-stage source (Phase 4B, Phase 5B) that references this environment. Finding:
+
+- **Only one substantive Locked source exists anywhere**: Faction Bible, line 67 — a purely functional description ("his personal command center, a repository of historical and civilization-scale research, and a symbol of his belief that humanity's future can be calculated and guided"). It contains zero architectural, material, dimensional, or structural language of any kind.
+- **No other Locked document adds architecture.** The Character Bible, World Bible, Art Bible, and Canon Registry entries referencing "the Ascendant Core" (checked directly again for this directive) all cite the same Faction Bible line or Cassian's own personal register — none independently supplies design detail.
+- **Every production-stage reference to this environment, across both Phase 4B and Phase 5B, explicitly declines to invent detail**, using near-identical language each time: Episode 17's Phase 4B package ("reusing Cassian's already-Locked... designation **rather than inventing new detail**"); its final screenplay ("no new interior detail invented beyond what's necessary"); and every subsequent reuse (Episodes 24, 25, 28, 30, 31) at both stages repeats the same "reused, no new location" framing without exception.
+
+This pattern — a single functional Locked source, paired with six independent, repeated, explicit "do not invent" instructions across two separate production stages — is conclusive. There is not "enough existing canon to establish architectural authority"; nor is this an accidental gap. **This environment is intentionally undefined by design**, consistent with its own narrative function (the one place Cassian's composure drops with no one watching — its minimalism is not incidental to that function, it protects it, the same way an over-designed space would compete with the beat rather than serve it).
+
+### Permanent Production Rule — Cassian's Private Interior (the Ascendant Core)
+
+This rule is now Locked and governs all future production work on this environment:
+
+1. **No architecture, construction style, materials, dimensions, scale, structural language, or exterior design may be invented for this environment under any future directive**, unless a Founder directive explicitly authorizes new architectural canon and cites this rule by name to override it.
+2. **Production must derive this environment's entire visual brief from three sources only:**
+   - Its confirmed function (Faction Bible line 67: personal command center / research repository / symbol of controlled belief);
+   - Its confirmed mood and lighting register (quiet, private, controlled — Grounded-register by default, shifting toward Wounded at Cassian's Locked schedule beats, Episodes 31/35);
+   - Cassian's own already-Locked personal color palette (Phase 6B.2/6B.3), extended into his private space as a reasonable, stated inference.
+3. **Concept art may proceed on this basis.** A deliberately spare, mood-driven, minimally-furnished interior — sufficient to stage a solo seated/still performance beat — satisfies this environment's full confirmed design intent. No further detail should be added beyond what a given scene's blocking requires.
+4. **This rule does not apply to any other environment.** It is specific to this location's own confirmed, repeated, deliberate minimalism and must not be cited as precedent for leaving any other environment's architecture unspecified.
+
+### Production Readiness: READY
+
+Upgraded from BLOCKED. The Permanent Production Rule above resolves the blocker directly: this environment was never missing information that needed to be supplied — it was always intended to remain undesigned beyond function, mood, and palette. That confirmed intent is now itself the design brief. Concept art may proceed immediately under the rule above.
+
+---
+
+### Changelog (Blocker Resolution)
+`[v3.0 — 2026-07-15] Phase 6C.6 Blocker Resolution Section appended per "Founder Directive — Phase 6C.6 Environment Blocker Resolution (v1.0)," Step 1. Original Phase 6C and Phase 6C.5 content (v1.0–v2.0) preserved unmodified. Re-verification against the full body of Locked Canon confirms this environment is intentionally undefined by design, not an unresolved specification gap — a single functional Faction Bible source paired with six independent, repeated "do not invent new detail" instructions across two production stages. A Permanent Production Rule is established: no architecture may be invented; the environment's visual brief derives from confirmed function, mood/lighting register, and Cassian's own Locked personal palette only. Production Readiness upgraded from BLOCKED to READY.`

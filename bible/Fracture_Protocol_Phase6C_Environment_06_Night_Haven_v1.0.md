@@ -174,3 +174,34 @@ Episode range (22, 27) internally consistent; both appearances functionally simi
 
 ### Changelog (Reconciliation)
 `[v2.0 — 2026-07-15] Reconciliation Section appended per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Original Phase 6C content (v1.0–v1.1) preserved unmodified. Both prior episode-range corrections (Episode 14 removed, Episode 27 added) independently re-confirmed against Phase 4B and final Phase 5B screenplays at both episodes — no reversal. Lighting Canon Determination B applied: the warm/cool contradiction is confirmed genuine, independently reproduced at both the Phase 4B and Phase 5B production stages, not an intentional difference — flagged for Founder decision per the Lighting Canon rule, not resolved. Production Readiness: BLOCKED, with full blocker documentation (exact blocker, severity, required Founder decision, recommended resolution offered only).`
+
+---
+
+## Phase 6C.6 Blocker Resolution Section
+
+*(Appended 2026-07-15 per "Founder Directive — Phase 6C.6 Environment Blocker Resolution (v1.0)," Step 2. Everything above this line is preserved unmodified.)*
+
+### Re-Verification: Every Screenplay Reference, Direct
+
+Per Step 2's explicit instruction, every screenplay reference to this environment's lighting was re-checked directly at the final Phase 5B screenplay level (not merely Phase 4B, already checked in the Phase 6C.5 pass):
+
+- **Episode 14** — Action line (Scene 2): "A formal, cool register — distinct from Light Order's familiar warmth." Section 14, Lighting Direction: "Ordinary (Scenes 1, 4–5); **cooler, more formal register** marking Night Haven as distinct (Scenes 2–3)." Section 10, Audio Direction independently echoes the same register: "cooler, more formal (Scenes 2–3)."
+- **Episode 22** — No Night Haven-specific lighting line exists; its own Lighting Direction (Section 14) describes only the season's shared "institutional/briefing register... graver throughout," without restating either "cooler" or "warmer" for Night Haven specifically. Confirmed silent, not a third data point either way.
+- **Episode 27** — Scene 2 Lighting Notes: "**Night Haven's warmer resistance tone**, per `lighting-system.md`." Section 14, Lighting Direction: "Each faction's established visual register (Light Order's institutional tone, **Night Haven's warmer resistance tone**, the Doctrine's controlled formal tone) carried forward, converging toward a shared, tense register in Scene 5."
+
+### Determination: Contradictory
+
+**A genuine contradiction exists, confirmed at the final screenplay level itself, not merely at the earlier Phase 4B planning stage.** Per Step 2's own instruction, the exact conflict is identified below and no solution is invented:
+
+**Exact conflict:** Episode 14 describes Night Haven's environmental lighting register as "cooler, more formal... distinct from Light Order's familiar warmth" (repeated twice within the same document, in both its Action text and its formal Lighting Direction section). Episode 27 describes the same environment's register as "Night Haven's warmer resistance tone" (also repeated twice, in its Lighting Notes and its formal Lighting Direction section). These are direct opposites — "cooler" and "warmer" — applied to the same named environment, each stated as that episode's own settled, formal Lighting Direction rather than a passing or ambiguous note. **No time-of-day change, story mood shift, power failure, or any other in-text narrative cause is stated anywhere in either episode to justify or explain the difference.** Episode 27's own phrasing — "each faction's **established** visual register... **carried forward**" — explicitly treats "warmer" as Night Haven's standing, already-established register being continued, not as a new or situational deviation from a "cooler" baseline. This rules out reading it as a deliberate, in-story intentional shift; it reads as two independent, mutually exclusive statements of the same environment's default register.
+
+Per this directive's explicit instruction, **no solution is proposed here.** This is a genuine, unresolved authorial contradiction between two Locked-Approved screenplays, requiring direct Founder adjudication — not a production-detail ambiguity this reconciling authority may resolve by inference, recommendation, or default.
+
+### Production Readiness: BLOCKED (unchanged)
+
+The blocker is confirmed, not newly discovered — re-verification did not change its status, only strengthened its evidentiary basis by confirming the contradiction exists at the final screenplay level in addition to the Phase 4B planning stage. Full blocker documentation from the Phase 6C.5 Reconciliation Section, above, stands unchanged: exact blocker (the warm/cool contradiction itself), severity (Moderate — blocks concept-art lighting/color finalization only), and required Founder decision (select a single baseline register, or supply an in-story justification converting this to an intentional-difference rule). Per this directive's explicit instruction, **no recommended resolution is restated or offered here** — the Phase 6C.5 package's own prior recommendation remains on record above for reference, but this section deliberately does not repeat or reinforce it, consistent with Step 2's "do not invent a solution" instruction.
+
+---
+
+### Changelog (Blocker Resolution)
+`[v3.0 — 2026-07-15] Phase 6C.6 Blocker Resolution Section appended per "Founder Directive — Phase 6C.6 Environment Blocker Resolution (v1.0)," Step 2. Original Phase 6C and Phase 6C.5 content (v1.0–v2.0) preserved unmodified. Every screenplay reference re-verified directly at the final Phase 5B level: Episode 14's Lighting Direction ("cooler, more formal... distinct from Light Order's familiar warmth") and Episode 27's Lighting Direction ("Night Haven's warmer resistance tone... carried forward") are each stated twice, as each episode's own settled formal lighting instruction, with no in-text narrative cause for the difference. Determination: CONTRADICTORY, not contextual. Exact conflict identified; per this directive's explicit instruction, no solution is proposed or invented. Production Readiness: BLOCKED, unchanged, pending direct Founder adjudication.`
