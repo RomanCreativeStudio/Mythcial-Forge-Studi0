@@ -126,3 +126,39 @@ Single-episode use (Episode 23, corrected from Phase 6A's original 22/23 listing
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Environment 10 of 10 (Populated Civilian Area, Production Priority 4, tied lowest) — the final of the 10 named environments. Corrects Phase 6A's episode range: Episode 22 contains zero civilian-district content on direct verification and is removed; Episode 23 is the sole confirmed appearance. Honors the screenplay's own explicit restraint mandate ("rendered with clarity, not spectacle... shown with dignity, not detail") as a Locked production constraint rather than a specification gap to fill. Flags the open Lower Sector-vs-Mid Zone layer choice, explicitly left undecided by the screenplay's own Production Notes, as the environment's central unresolved production question — not adjudicated here. Confirms zero new props/weapons/VFX required even for the disaster event itself. Production Status: "Flagged for Founder Decision." Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a PASS across all five required audits. Status: "Approved." The layer choice remains open, flagged for future Founder decision. Completes all 10 named Environment Production Packages.`
+
+---
+
+## Phase 6C.5 Reconciliation Section
+
+*(Appended 2026-07-15 per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Everything above this line is preserved unmodified.)*
+
+### Re-Verification Against Full Source Set
+
+Master System Prompt and Production Bible confirmed silent. Both directions of the original correction were independently re-checked directly:
+
+- **Episode 22:** Phase 4B's own Episode 22 Production Package contains **zero** occurrences of "civilian," "Lower Sector," or "Mid Zone" anywhere in its text — confirming, at the earliest planning stage as well as the final screenplay, that this environment never appears in Episode 22. Correction stands.
+- **Episode 23:** Phase 4B's own Episode 23 Production Package repeats the exact "Lower Sector or Mid Zone" either/or phrasing **three separate times** — its Primary Scope Note ("the disaster's setting is drawn only from already-Locked location categories: Lower Sector or Mid Zone, World Bible §3"), its Scene 1 Location field, and its Required Environments field. This is identical, word-for-word-in-substance phrasing repeated consistently across the entire production package, not information that was lost or a gap that crept in during drafting — it is a deliberate, stable production-flexibility mechanism, structurally the same kind of intentional either/or already found for the Guardian/Kael Partnership Environment (Episode 4) and the Formal Meeting Environment's early Episode 16 either/or (though that one was later resolved to a single site; this one is not, and was never meant to be, at the blueprint stage).
+
+Recurring Episodes confirmed final: **23 only.** No further episode-range correction required.
+
+### Lighting Canon Determination
+
+**Not applicable — no conflicting lighting description exists.** Only one lighting reference is confirmed ("ordinary morning light, uncomfortably normal against what's beginning," Episode 23), consistent across all sources checked.
+
+### Environment Identity
+
+[13-field table: Permanent Identity=an ordinary civilian district in either the Lower Sector or Mid Zone, deliberately left as a build-stage either/or by production design; Purpose=depict Arc Two's civilian-scale loss "with dignity, not detail," per the screenplay's own explicit restraint mandate; Narrative Function=the human cost of the widening crisis, echoing the Sol Collapse; Visual Function=ordinary civilian normalcy the moment before, during, and after disaster, deliberately non-spectacular; Production Function=single-use set, layer choice (Lower Sector vs. Mid Zone) deferred to build stage by design, not a specification failure; Reuse Strategy=Lowest, tied with Environment 9, genuinely one-time; Asset Dependencies=unnamed response personnel and named-but-not-core-cast civilians (names deferred to script stage per Founder Decision 6), no core cast character confirmed present, zero new props/VFX required even for the disaster itself; Animation Complexity=significant crowd/evacuation-movement load, disaster rendering itself must stay restrained; Lighting Rules=ordinary morning light, uncomfortably normal mood, confirmed consistent across all sources; Material Rules=dependent on the still-open Lower Sector/Mid Zone choice, genuinely deferred, not missing; Color Rules=neutral three-color-system application, specific palette dependent on the same open layer choice; Camera Rules=general restraint mandate against spectacle-driven treatment ("clarity, not spectacle," "dignity, not detail"), no specific lens instruction; Environmental Storytelling Rules=dependent on the open layer choice — Breach-adjacent texture if Lower Sector, normalized surveillance character if Mid Zone]
+
+### Environment Consistency
+
+Internally consistent: the single confirmed appearance (Episode 23) carries one stable, deliberately-flexible either/or specification repeated identically three times within its own source, not a contradiction or drift.
+
+### Production Readiness: IN PROGRESS
+
+Upgraded from the original Phase 6C "Flagged for Founder Decision" status. The Lower Sector-vs-Mid Zone ambiguity is now understood, via Phase 4B's own threefold repetition of the identical either/or language, to be a deliberate production-flexibility mechanism built into the episode from its earliest planning stage — not an unresolved research gap. This downgrades the required Founder input from a deep specification blocker to a lighter production choice: a layer must still be picked once, for build purposes (since concept art and materials do differ meaningfully between the two), but no contradiction or missing authority stands in the way of proceeding. **Recommended resolution (offered only, not self-authorized):** defer the final Lower Sector/Mid Zone pick to the concept-art stage, exactly as the screenplay's own Production Notes structure allows, rather than forcing a premature choice now.
+
+---
+
+### Changelog (Reconciliation)
+`[v2.0 — 2026-07-15] Reconciliation Section appended per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Original Phase 6C content (v1.0–v1.1) preserved unmodified. Episode 22's absence and Episode 23's sole-appearance status both independently reconfirmed against Phase 4B. Phase 4B's threefold repetition of the identical "Lower Sector or Mid Zone" either/or phrasing confirms this ambiguity is a deliberate production-flexibility mechanism, not lost information or a genuine gap. Lighting Canon: not applicable, no conflict. Production Readiness upgraded from "Flagged for Founder Decision" to IN PROGRESS — a lightweight, deferrable production choice remains, not a blocker. This completes reconciliation of all 10 named Environment Production Packages.`
