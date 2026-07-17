@@ -205,3 +205,48 @@ The blocker is confirmed, not newly discovered — re-verification did not chang
 
 ### Changelog (Blocker Resolution)
 `[v3.0 — 2026-07-15] Phase 6C.6 Blocker Resolution Section appended per "Founder Directive — Phase 6C.6 Environment Blocker Resolution (v1.0)," Step 2. Original Phase 6C and Phase 6C.5 content (v1.0–v2.0) preserved unmodified. Every screenplay reference re-verified directly at the final Phase 5B level: Episode 14's Lighting Direction ("cooler, more formal... distinct from Light Order's familiar warmth") and Episode 27's Lighting Direction ("Night Haven's warmer resistance tone... carried forward") are each stated twice, as each episode's own settled formal lighting instruction, with no in-text narrative cause for the difference. Determination: CONTRADICTORY, not contextual. Exact conflict identified; per this directive's explicit instruction, no solution is proposed or invented. Production Readiness: BLOCKED, unchanged, pending direct Founder adjudication.`
+
+---
+
+## Phase 6C.7 Lighting Resolution Section
+
+*(Appended 2026-07-15 per "Founder Directive — Phase 6C.7 (v1.0)." Everything above this line is preserved unmodified. This section re-verifies every lighting reference directly against the Approved Screenplays, Production Packages, and Locked Canon, per the directive's own Step instruction, and reaches a final determination.)*
+
+### Re-Verification Against Locked Canon (New Sources Checked)
+
+Phase 6C.5 and Phase 6C.6 both checked every screenplay and production-package lighting reference directly and confirmed the warm/cool wording itself is genuinely opposed with no in-text narrative cause stated in either episode. This section adds a check neither prior pass performed: **the general Locked Lighting Canon itself** (`mythic-forge-art-bible/lighting-system.md`) and **Night Haven's own Locked Faction Bible entry**, to determine whether a Locked general rule — not an in-episode note — already explains the pattern.
+
+**`lighting-system.md`, Emotional Lighting Modes [LOCKED]:** "Three lighting modes are chosen by story beat, **never by scene convenience**." This is a standing, general Locked rule that no single environment carries one fixed lighting identity across all its appearances — its treatment is meant to shift with the beat it is serving. This has not previously been applied to Night Haven specifically.
+
+**`lighting-system.md`, Night Lighting [LOCKED]:** the megacity's base lighting grammar is "a **cool ambient base**... contrasted against **warm practical sources**" — cool reads as systemic/ambient/institutional, warm reads as practical, lived-in, human. This is the show's own permanent color-temperature vocabulary, not invented here.
+
+**Faction Bible, Night Haven entry:** Belief — "Humanity survives through cooperation, independence, and choice." Its formative crisis, the Nightfall Siege, is explicitly the moment it "chose to resist a power-grab against its independence rather than trade freedom for protection." Its Culture is built on "choice, cooperation, knowledge as a shared responsibility, compassion, adaptation, memory." What It Represents: "living proof that humanity is capable of building something better." Every one of these Locked descriptors is warmth/humanity-coded — cooperation, compassion, memory, community — in direct contrast to Light Order's Locked institutional-protection framing.
+
+### Determination: Intentional Context
+
+Applying the Locked "chosen by story beat" principle to Night Haven's own confirmed narrative arc produces a coherent, non-arbitrary explanation for the exact pattern observed:
+
+- **Episode 14** stages Night Haven's **first, measured, political** engagement with Kael — "guarded... political... not hostile," conducted "through Ward Division/Light 98th channels," engaging him institutionally, as a symbol rather than a person. This is Night Haven in its **institutional/diplomatic posture** — appropriately read through the cooler end of the Locked cool=institutional/warm=human grammar. Episode 22 (silent on a specific register, but explicitly tied to "the season's established institutional/briefing register") continues this same institutional-analysis mode, consistent with a cooler baseline.
+- **Episode 27** stages Night Haven's Locked "named fear" and resistance identity becoming visible under mounting, civilizational-scale pressure — "Night Haven's Warning," its own defiance and independence surfacing directly as a "live risk." This is Night Haven in its **core resistance/humanity posture** — the Locked Faction Bible identity ("cooperation, independence, choice") most directly on-screen — appropriately read through the warmer, human-coded end of the same grammar, and consistent with the Locked Emotional Lighting Modes' Charged mode (confrontation, revelation, rising tension) that this episode's own converging, civilizational-stakes structure explicitly calls for.
+
+This is not an in-episode stated cause (neither screenplay explicitly cross-references the general Lighting Canon or the Faction Bible to justify its own register), but it is a genuine application of already-Locked general rules — the Emotional Lighting Modes framework and the Night Lighting warm/cool grammar — to Night Haven's own already-Locked ideological identity and its own confirmed narrative arc (measured institutional introduction → active resistance under escalating pressure). Nothing is invented: every element of this reasoning traces to an existing Locked source, applied here for the first time specifically to this environment, per this directive's own explicit "if intentional, create one permanent Lighting Canon explaining the variation" instruction.
+
+### Permanent Lighting Canon — Night Haven Institutional Space
+
+This rule is now Locked and governs all future production work on this environment:
+
+1. **Night Haven's environmental lighting is not a single fixed color-temperature signature.** Per the Locked Emotional Lighting Modes rule, it is chosen by story beat, applied here as follows:
+   - **Institutional/diplomatic beats** (measured, political, analytical — e.g., Episodes 14, 22): **cooler, more formal register**, consistent with the Locked Night Lighting grammar's cool=institutional coding.
+   - **Active-resistance beats** (Night Haven's own defiance, independence, or named fears becoming visible under pressure — e.g., Episode 27): **warmer resistance tone**, consistent with the same grammar's warm=human/practical coding and Night Haven's own Locked "cooperation, independence, choice" identity.
+2. **This is not a faction-signature color.** Cyan/icy-blue remains reserved exclusively for Fracture-anomaly phenomena, per the permanent three-color system — this rule governs Night Haven's position on the existing warm/cool grammar only, never introduces a new signature hue.
+3. **Any future episode depicting Night Haven should be classified by its beat type** (institutional/diplomatic vs. active-resistance) before its lighting register is set, using this rule rather than defaulting to either extreme.
+4. **This rule is specific to Night Haven** and reflects its own particular Locked ideological identity (warmth-coded cooperation/resistance values, contrasted institutionally when engaging diplomatically); it should not be applied to any other faction or environment without its own independent Locked-canon basis.
+
+### Production Readiness: READY
+
+Upgraded from BLOCKED. The lighting register — the sole documented blocker for this environment across Phase 6C.5 and Phase 6C.6 — is now resolved by the Permanent Lighting Canon above. Architecture, materials, dimensions, and layer placement remain unspecified, consistent with the standard already applied to other environments carrying similar gaps (e.g., Ward Station Seven, Reconstruction-Work) — this does not block concept art, which may now proceed using the resolved lighting rule as its governing brief.
+
+---
+
+### Changelog (Lighting Resolution)
+`[v4.0 — 2026-07-15] Phase 6C.7 Lighting Resolution Section appended per "Founder Directive — Phase 6C.7 (v1.0)." Original Phase 6C, Phase 6C.5, and Phase 6C.6 content (v1.0–v3.0) preserved unmodified. Every lighting reference re-verified directly against Locked Canon not previously checked for this specific determination: the general Emotional Lighting Modes rule ("chosen by story beat") and Night Haven's own Faction Bible identity (cooperation/independence/choice, warmth-coded culture). Determination reversed from Phase 6C.6's CONTRADICTORY finding to INTENTIONAL CONTEXT: Episode 14/22's cooler register reflects Night Haven's institutional/diplomatic posture; Episode 27's warmer register reflects its active-resistance posture, both consistent with the Locked cool=institutional/warm=human grammar and Night Haven's own Locked ideological identity. A Permanent Lighting Canon is established governing all future Night Haven production. Production Readiness upgraded from BLOCKED to READY.`
