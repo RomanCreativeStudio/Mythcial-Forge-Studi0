@@ -172,3 +172,36 @@ No blocker. Layer placement, exact materials, and Episode 33's deliberately-unde
 
 ### Changelog (Reconciliation)
 `[v2.0 — 2026-07-15] Reconciliation Section appended per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Original Phase 6C content (v1.0–v1.1) preserved unmodified. Phase 4B Episode 19 re-verification confirms, rather than expands, the original findings — no new discrepancy, no episode-range correction. Production Readiness: READY, no blocker.`
+
+---
+
+## ENV-016 Merge Section
+
+*(Appended 2026-07-15 per "Founder Directive — ENV-016 Repository Reconciliation (v1.0)." Everything above this line is preserved unmodified.)*
+
+### Merge Finding
+
+Episode 26 ("Both of Them at Once") is confirmed to use this environment, under a scene-specific descriptive label — "Private Kael/Mira environment" — rather than as an independent asset. Direct evidence, checked across both production stages of both episodes:
+
+- **Episode 19, Scene 3's** own Location field already reads "Civilian reconstruction work environment **(adjacent informal space)**" — this environment's own confirmed private/off-hours sub-dressing, established at its own earliest planning stage (Episode 19's Phase 4B Production Package, Scene 2: "Same as Scene 1, **or an adjacent informal space**").
+- **Episode 26's** own Phase 4B Production Package states directly: "A private, informal environment consistent with Kael and Mira's established relationship spaces **(from Episode 19's quiet-beat environment)**" and "**The private, informal Kael/Mira environment established in Episode 19 — reused**; no new location category."
+- **Episode 26's** final screenplay independently confirms the same: Asset Requirements table — "Private Kael/Mira environment **(reused from Episode 19)**"; Scene 1 Camera Notes — "Shared, intimate framing, **consistent with Episode 19's established register**."
+
+This is a direct, repeated citation chain across four separate source documents (both episodes, both production stages), not an inference. Full comparative evidence in `bible/Fracture_Protocol_ENV016_Repository_Reconciliation_v1.0.md`.
+
+### Episode Range Corrected
+
+**Recurring Episodes updated: 19, 24, 25, 26, 33, 34, 35, 36 — 8 episodes** (was 7; Episode 26 added). This environment's private/off-hours sub-dressing (Episode 19, Scenes 3–4; Episode 26, all scenes) is confirmed EXT., late-afternoon-to-evening, Kael/Mira exclusive, warm/intimate register — distinct in mood from the environment's main daytime work-site scenes (Episode 19, Scenes 1–2) but the same underlying physical asset.
+
+### Sub-Dressing Note
+
+This environment carries two confirmed registers, both the same physical site:
+1. **Active work-site dressing** (Episode 19, Scenes 1–2; Episodes 24, 25, 33, 34, 35, 36): daytime, work team present, "wide, active framing showing her competence and the scale of the work."
+2. **Adjacent informal/private dressing** (Episode 19, Scenes 3–4; Episode 26, all 4 scenes): late-afternoon-to-evening, Kael/Mira exclusive, "still, close framing," warm/intimate lighting — used for the relationship's quietest beats, including the full reciprocal Titan-memory exchange (Episode 26).
+
+No new Production Status, Priority, or Classification change results from this merge — Reuse Opportunities remains High (now 8 episodes, strengthening rather than changing the existing finding), and Production Readiness remains **READY**.
+
+---
+
+### Changelog (ENV-016 Merge)
+`[v3.0 — 2026-07-15] ENV-016 Merge Section appended per "Founder Directive — ENV-016 Repository Reconciliation (v1.0)." Original Phase 6C and Phase 6C.5 content (v1.0–v2.0) preserved unmodified. Episode 26 confirmed, via a direct citation chain across both its own Phase 4B Production Package and final screenplay, to use this environment's own "adjacent informal space" sub-dressing (first established as such in Episode 19's own Phase 4B package and Scene 3) — not an independent environment. Episode range corrected to 19, 24, 25, 26, 33, 34, 35, 36 (8 episodes, Episode 26 added). A two-register sub-dressing note (active work-site vs. adjacent informal/private) is documented. Production Readiness unchanged: READY.`

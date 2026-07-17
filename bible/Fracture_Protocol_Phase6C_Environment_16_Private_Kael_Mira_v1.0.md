@@ -1,3 +1,7 @@
+> **MERGED — SUPERSEDED 2026-07-15 per "Founder Directive — ENV-016 Repository Reconciliation (v1.0)."** This environment is confirmed to be FPP-ENV-004 (Reconstruction-Work Environment)'s own "adjacent informal space" dressing, not an independent asset. It is no longer tracked as a separate entry in the Environment Inventory or Asset Registry. This file is preserved as the historical research record of that resolution, per the standing "nothing disappears without a record" practice — it is not the current production authority for this content. **Current authority:** `Fracture_Protocol_Phase6C_Environment_04_Reconstruction_Work_v1.0.md`, ENV-016 Merge Section. **Full merge evidence:** `Fracture_Protocol_ENV016_Repository_Reconciliation_v1.0.md`.
+
+---
+
 # THE FRACTURE PROTOCOL — PHASE 6C.9: ENVIRONMENT PRODUCTION PACKAGE
 ## Environment 16 — Private Kael/Mira Environment
 
