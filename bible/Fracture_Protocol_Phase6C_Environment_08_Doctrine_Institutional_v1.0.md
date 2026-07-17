@@ -126,3 +126,46 @@ Spans from Episode 21 through Episode 34 (corrected range) — a wider span than
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6C Environment Production Canon (v1.0)," Environment 8 of 10 (Doctrine Institutional Environment, Production Priority 3, final of the Priority 3 cluster). Corrects Phase 6A's episode range: Episode 21 added as the environment's actual first appearance (Scenes 3, 5), predating the originally-listed Episode 27 by six episodes. Flags a genuine structural tension, not resolved here: the Faction Bible's "no single headquarters" description of the Doctrine's distributed network (already confirmed for Environment 7) sits alongside this environment's staging as a specific, recurring "formal Doctrine gathering" space — plausibly reconcilable as one node within a distributed structure, but that reconciliation is not stated anywhere in Locked Canon. Production Status: "Flagged for Founder Decision." Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a PASS across all five required audits. Status: "Approved." The headquarters interpretive question remains open, flagged for future Founder decision.`
+
+---
+
+## Phase 6C.5 Reconciliation Section
+
+*(Appended 2026-07-15 per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Everything above this line is preserved unmodified.)*
+
+### Re-Verification Against Full Source Set — Self-Correction of a Prior Phase 6C Error
+
+Master System Prompt and Production Bible confirmed silent. Per this directive's own explicit "never trust previous summaries, always verify directly" instruction, Episode 21 was re-checked directly against both its Phase 4B Production Package and its final Phase 5B screenplay — and **the original Phase 6C addition of Episode 21 to this environment's range is confirmed to be an error, corrected here.**
+
+- Episode 21's own final screenplay Location List (Section 7) contains exactly one entry: "Formal meeting environment (reused from Episodes 16–17)." There is no "Doctrine institutional environment" entry anywhere in the file.
+- Episode 21's Phase 4B Production Package independently confirms the same: "The existing meeting environment established in Episodes 16–17, reused; no new location required." Every scene in the episode is staged in that single reused space.
+- The word "Doctrine" appears in Episode 21 only as dialogue/thematic content — Cassian's offer of "Doctrine-style control" — never as a location name or Location List entry.
+
+This traces back to an error in the original Phase 6C research pass, which incorrectly reported "Episode 21's own Location List names 'Doctrine institutional environment (new)' for Scenes 3 and 5" (Section 3, above) — a claim that does not survive direct re-verification against either source. No such entry exists in Episode 21 at any production stage. **This correction is reverted:** Episode 21 is removed from this environment's range. The true, confirmed range is **Episodes 27 and 34 only** — matching Phase 6A's original, un-"corrected" data. This is flagged here explicitly as a self-caught correction of the reconciling authority's own prior mistake, consistent with the standing practice of flagging every discrepancy including this one's own.
+
+Episodes 27 and 34 were independently re-checked directly: Phase 4B Episode 27 confirms "a new Doctrine institutional environment, distinct from Cassian's private interior, built strictly from the already-Locked Faction Bible description"; Phase 4B Episode 34 confirms "the Doctrine institutional space introduced there [Episode 27]" is reused, not rebuilt — both consistent with the original Section 3 findings once Episode 21 is removed.
+
+### Headquarters Tension — Resolved
+
+Phase 4B's own language for Episode 34 resolves the interpretive question this package originally left open: "the Doctrine institutional space **introduced** [in Episode 27]" is explicitly **reused**, not re-established or treated as one of several distributed sites. This confirms the environment is production-intended as **one specific, recurring physical location** — establishing it once (Episode 27) and returning to the same set (Episode 34) — not a distributed network of interchangeable Doctrine nodes. This does not contradict the Faction Bible's "no single headquarters" language describing the Doctrine's *ideological/operational* structure (its membership, cells, and influence are still distributed) — it simply confirms that *this one gathering space*, wherever it is, is treated as a single standing set for production purposes, exactly as Ward Station Seven or the Formal Meeting Environment are. The architecture of that single space remains unspecified beyond "built strictly from the Faction Bible description," which is a genuine open item, but the "how many sites" interpretive question itself is resolved.
+
+### Lighting Canon Determination
+
+**Not applicable — no conflicting lighting description exists.** Only one lighting reference is confirmed ("the Doctrine's controlled formal tone," Episode 27), consistently extended across both confirmed appearances; no second, conflicting description was found in either Phase 4B or Phase 5B sources.
+
+### Environment Identity
+
+[13-field table: Permanent Identity=the Doctrine's single standing institutional gathering space, established Episode 27, reused Episode 34; Purpose=the movement's public/outward face, distinct from Cassian's private Ascendant Core; Narrative Function=leading visual indicator of the institution's strain, paralleling Cassian's own Locked private unraveling schedule; Visual Function=formal, controlled, institutional — a movement gathering, not an intimate space; Production Function=single reusable set, confirmed reused rather than rebuilt for Episode 34; Reuse Strategy=Moderate, 2 confirmed episodes (corrected); Asset Dependencies=unnamed Doctrine representatives/gathering attendees only, no core cast character confirmed present; Animation Complexity=institutional gathering/crowd-adjacent staging, brief non-lingering treatment in Episode 34's cross-cut; Lighting Rules=controlled, formal tone, consistent across both appearances, no contradiction found; Material Rules=missing, not specified in any source, architecture must be built strictly from the Faction Bible's operational description per Episode 27's own production note; Color Rules=neutral three-color-system application, a reasonable extension of Cassian's own Locked cool/precise/formal personal palette, flagged as inference rather than independently confirmed; Camera Rules=missing, standard institutional framing assumed as default, Episode 34 confirms rapid cross-cutting treatment; Environmental Storytelling Rules=cannot be applied, no confirmed layer]
+
+### Environment Consistency
+
+Corrected episode range (27, 34) is internally consistent — a single site established once and explicitly reused, not independently re-described each time. No spatial-continuity or reuse contradiction found once Episode 21 is removed.
+
+### Production Readiness: IN PROGRESS
+
+Upgraded from the original Phase 6C "Flagged for Founder Decision" status. The single-headquarters-vs-distributed-network interpretive question that originally blocked this environment is now resolved: it is one specific, reusable site, not a distributed network of gathering spaces. This is not yet READY because concrete architecture, materials, and dimensions remain genuinely unspecified beyond "built strictly from the Faction Bible description" — a real open item requiring either a design pass grounded in the Faction Bible's existing operational-structure text or a Founder-supplied reference, but not a blocking contradiction or missing-authority condition.
+
+---
+
+### Changelog (Reconciliation)
+`[v2.0 — 2026-07-15] Reconciliation Section appended per "Founder Directive — Phase 6C.5 Environment Canon Reconciliation & Production Certification (v1.0)." Original Phase 6C content (v1.0–v1.1) preserved unmodified. Self-correction: the original Phase 6C addition of Episode 21 to this environment's range is confirmed, on direct re-verification against both its Phase 4B package and final screenplay, to be an error — Episode 21 contains no Doctrine institutional environment at any production stage, only dialogue referencing "Doctrine-style control." Episode 21 removed; true range reverts to Episodes 27, 34 only, matching Phase 6A's original data. Headquarters tension resolved via Phase 4B Episode 34's own "introduced [in Episode 27]... reused" language — confirmed as one specific standing site, not a distributed network. Production Readiness upgraded from "Flagged for Founder Decision" to IN PROGRESS.`
