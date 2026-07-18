@@ -58,3 +58,43 @@ None of these constitutes a missing phase or blocks the LOCKED determination; ea
 
 ### Changelog
 `[v1.0 — 2026-07-18] Compiled per "Founder Directive — Storyboard Discipline Closure." Verified Phase 6E.0 (Governance, Locked Canon), Phase 6E.1 (Inventory, Approved), Phase 6E.2 (Production Packages, Approved, 16 packages confirmed with no duplicates, v2.0 with Amendment), and Phase 6I.1.5 (Reconciliation, Approved) directly against their own source documents. Determined the Storyboard discipline is LOCKED — its full governance/inventory/package arc is complete, and the one post-hoc reconciliation raised against it is itself closed. Confirmed no Phase 6E.3 has ever been defined by any Founder Directive and none is invented here. Listed four already-disclosed open items (Ward Station Seven's missing general camera template, several groups' unverified Transition Rules, Kael's Transitional Space's interior-scale ambiguity, the Populated Civilian Area's open layer choice and Episode 23's unconfirmed cross-cut partner) for transparency — none blocks the LOCKED determination, none is resolved or expanded here. No storyboard content created; no existing document modified. Status: "Approved."`
+
+---
+
+## Amendment — Storyboard Discipline Closure Audit
+
+*(Appended 2026-07-18 per "Founder Directive — Storyboard Discipline Closure Audit," a distinct directive independently re-verifying the same determination via its own named source list — Phase 6E Storyboard Documentation, Phase 6I.1 Master Editing Inventory, Asset Registry, Approved Screenplays. Everything above this line is preserved unmodified.)*
+
+### Independent Re-Verification
+
+Each of the four items was re-checked directly, not assumed from the v1.0 certification above:
+
+| Item | Re-Verification | Result |
+|---|---|---|
+| Storyboard Governance | `Fracture_Protocol_Phase6E0_Storyboard_Production_Governance_v1.0.md` re-read directly: 10 required sections present (9 numbered rules + unnumbered Version Control), Founder Approval reads "**LOCKED CANON, effective immediately**." | Complete |
+| Storyboard Inventory | `Fracture_Protocol_Phase6E1_Storyboard_Asset_Inventory_v1.0.md` re-read directly: Classification confirms **Approved**; 175-scene/16-group inventory unchanged. | Complete |
+| Storyboard Production Packages | `Fracture_Protocol_Phase6E2_Storyboard_Production_Packages_v1.0.md` re-counted directly: exactly 16 `## FPP-SB-NNN —` headers (no duplicates, no drift since the v1.0 certification above), Amendment's own "Founder Approval (Amendment)" section present and unmodified. | Complete |
+| Editing Reconciliation | `Fracture_Protocol_Phase6I1_Editing_Inventory_v1.0.md` re-read directly at its Cross-Cut Groups section (Section D): the "**Resolved 2026-07-18 per 'Founder Directive — Phase 6I.1.5...'**" note is present and intact, closing the conflict originally flagged there. `documentation/Asset_Registry.md`'s Editing section carries the matching resolution note. | Complete |
+
+### Determination (Audit)
+
+**Storyboard discipline is fully LOCKED.** No additional storyboard work is explicitly required by any source consulted. No new Phase 6E step, no new storyboard package, and no new production requirement is invented by this audit — this is a second, independent confirmation of the same v1.0 determination above, not a new finding.
+
+**No update to `documentation/Asset_Registry.md` is required** — its Storyboard and Editing sections already accurately reflect the current, unchanged state (16 Package Complete entries; the Cross-Cut conflict already logged as resolved). **No new closure record is required** — this Amendment, appended to the existing v1.0 certification, is the complete record of this second audit.
+
+### Founder Review & Alignment Audit (Amendment)
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — all four items re-verified directly against the specific source list this directive named (Phase 6E documentation, Phase 6I.1, Asset Registry, Approved Screenplays), independently of the v1.0 certification's own prior verification. |
+| Alignment Audit | PASS — no new Phase 6E step, storyboard package, or production requirement invented; determination matches the v1.0 certification exactly, with no drift found in either the Storyboard Production Packages document or the Editing Inventory/Asset Registry resolution notes since 2026-07-18. |
+| Regression Verification | PASS — no existing document was modified by this audit; this is a read-only re-confirmation appended to the existing certification, per the reopen-and-append method. |
+
+**Determination: PASS.** No canon contradiction, repository corruption, or governance conflict found.
+
+### Founder Approval (Amendment)
+
+**Approved 2026-07-18** following a clean PASS Founder Review & Alignment Audit. No blocking condition found. The Storyboard discipline's LOCKED status (v1.0, above) is independently reconfirmed. No registry update and no new closure record were required.
+
+### Changelog (Amendment)
+`[v1.1 — 2026-07-18] Amendment appended per "Founder Directive — Storyboard Discipline Closure Audit." Independently re-verified all four items (Governance, Inventory, Production Packages, Editing Reconciliation) directly against this directive's own named source list (Phase 6E Storyboard Documentation, Phase 6I.1 Master Editing Inventory, Asset Registry, Approved Screenplays) rather than relying on the v1.0 certification's prior findings. No drift found in any source. Reconfirmed the Storyboard discipline is fully LOCKED; no additional storyboard work required; no new Phase 6E step, package, or requirement invented. Determined no Asset Registry update and no new closure record were required, since both already accurately reflect the current state. Status: "Approved."`
