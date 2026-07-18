@@ -103,3 +103,46 @@ production on that specific effect stops, and the conflict is flagged for Founde
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6H.0 Visual Effects Production Governance (v1.0)." Continues directly from Phase 6G.2. Establishes seven governance rules (VFX Authority, Effects Authority, Compositing Authority, Continuity Rule, Effect Revision Rule, Version Control, Production Conflict Rule) governing all subsequent Phase 6H work, each derived from and subordinate to existing Locked Canon (`system-interference-visual-rules.md`, `color-language.md`, `global-consistency-rules.md`, Kael's eye-glow Emotion Modifier system, ENV-011's Breach-adjacent disturbance effect lineage, the Guardian's Mystery Protection Rule, Phase 5A.2's mystery-protection lock) rather than restating any prior governance. Establishes that the production's own repeatedly reconfirmed "zero visual effects" default for the overwhelming majority of scenes is a governing instruction, not an unexamined gap. No visual effect created; no canon modified; no screenplay rewritten. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS Founder Review & Alignment Audit. No blocking condition found. Status: "LOCKED CANON, effective immediately."`
+
+---
+
+## Amendment — Full Six-Source VFX Authority
+
+*(Appended 2026-07-15 per the reissued "Founder Directive — Phase 6H.0 Visual Effects Production Governance (v1.0)," which explicitly enumerates six authorized derivation sources. Everything above this line is preserved unmodified, per the Effect Revision Rule's own reopen-and-append method.)*
+
+### Finding
+
+The original Section 2 (VFX Authority) cited three sources — Approved Screenplays, Approved Character Production Packages, Approved Environment Production Packages — while Approved Storyboard Packages and Approved Animation Packages appeared only under Section 4 (Compositing Authority), not as primary VFX-authorizing sources in their own right. The reissued directive explicitly requires all six sources (Locked Canon, Approved Screenplays, Approved Character Packages, Approved Environment Packages, Approved Storyboard Packages, Approved Animation Packages) to govern VFX derivation directly. This amendment closes that gap.
+
+### VFX Authority — Amended (supersedes Section 2's source list, all other Section 2 text unchanged)
+
+A visual effect is authorized only by:
+1. **Locked Canon** — the World Bible, Character Bible, Faction Bible, and the Art Bible's own system-interference and color-language rules, which bound every effect's permissible visual character before any specific citation is checked.
+2. **Approved Screenplays** — the specific scene's own Required Visual Effects field, cited directly (confirmed "None" in the overwhelming majority of scenes, which is binding).
+3. **Approved Character Production Packages** — a confirmed character-level visual effect (Kael's eye-glow Emotion Modifier system).
+4. **Approved Environment Production Packages** — a confirmed Environmental Effects field (e.g., ENV-011's Breach-adjacent disturbance effect lineage).
+5. **Approved Storyboard Production Packages** — where a Storyboard Package's own Composition or Blocking Rules already presuppose an effect's presence within a shot (e.g., a confirmed camera treatment built around an effect's occurrence), that package is itself an authorizing source, not merely a compositing constraint applied after the fact.
+6. **Approved Animation Production Packages** — where an Animation Package's own Facial Performance or Body Mechanics fields already confirm an effect-linked requirement (e.g., FPP-ANIM-001's own confirmed eye-glow/facial synchronization requirement), that package is itself an authorizing source for the corresponding effect.
+
+A visual effect with no citable source in any of these six categories does not exist for production purposes — it must be flagged as missing, never invented. This amendment does not change the underlying determination already made under the original three-source reading: no additional effect is newly authorized by broadening the source list, since no Storyboard or Animation Package currently on record introduces an effect requirement beyond what the original three sources already established (Kael's eye-glow, the Breach-adjacent lineage). The amendment closes a citation-structure gap, not a substantive one.
+
+### Flag-Don't-Invent Rule (explicit standalone restatement)
+
+Per the reissued directive's own explicit emphasis, this is restated here as its own standing rule, not left implicit within Section 2 alone: **wherever any of the six authority sources is silent, incomplete, or ambiguous about a visual effect, VFX production must flag that gap explicitly and stop — it must never fill the gap with an invented effect, mechanism, or visual detail, regardless of how minor or seemingly-obvious the addition might appear.** This applies with equal force to every one of the six sources, not only to screenplays.
+
+### Founder Review & Alignment Audit (Amendment)
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — the amendment adds the two missing sources (Storyboard, Animation Packages) to VFX Authority's primary source list and explicitly restates the flag-don't-invent rule as its own standing provision, exactly as the reissued directive requires. |
+| Alignment Audit | PASS — no new effect is authorized by this amendment; it is confirmed and stated explicitly that broadening the source list changes no substantive finding, since no Storyboard or Animation Package currently on record introduces an effect requirement not already captured by the original three sources. |
+| Regression Verification | PASS — Sections 1, 3–7, the original Founder Approval, and the original Changelog remain unmodified above this amendment. |
+
+**Determination: PASS.** No canon contradiction, repository corruption, or governance conflict found.
+
+### Founder Approval (Amendment)
+
+**Approved 2026-07-15** following a clean PASS Founder Review & Alignment Audit. No blocking condition found. VFX Authority (Section 2) is amended as set out above; all other sections of this document remain Locked Canon, effective immediately, unmodified.
+
+### Changelog (Amendment)
+`[v2.0 — 2026-07-15] Amendment appended per the reissued "Founder Directive — Phase 6H.0 Visual Effects Production Governance (v1.0)," which explicitly enumerates six authorized VFX derivation sources. Original v1.0–v1.1 content preserved unmodified. VFX Authority's source list expanded from three to six (adding Approved Storyboard Production Packages and Approved Animation Production Packages as primary authority sources, not merely compositing constraints), and the flag-don't-invent rule is explicitly restated as its own standing provision. No new effect authorized — the amendment closes a citation-structure gap, not a substantive one; no Storyboard or Animation Package on record introduces an effect requirement beyond what was already captured. Status: "Approved."`
