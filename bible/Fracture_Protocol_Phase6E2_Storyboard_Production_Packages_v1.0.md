@@ -267,3 +267,42 @@
 
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6E.2 (v1.0)." Built one Production Package for each of the 16 storyboard sequence groups identified in Phase 6E.1, each defining Authority, Governing Screenplay Scenes, Governing Environment, Camera Language, Composition Rules, Blocking Rules, Lighting Reference, Transition Rules, Continuity Requirements, and Reuse Opportunities — every field cited directly from an Approved Environment Production Package or a directly-read screenplay scene, with missing information flagged rather than invented. No storyboard panel, shot, or artwork created. Status: "Approved."`
+
+---
+
+## Amendment — Storyboard / Editing Cross-Cut Reconciliation
+
+*(Appended 2026-07-18 per "Founder Directive — Phase 6I.1.5 Storyboard / Editing Cross-Cut Reconciliation (v1.0)," resolving the Production Conflict flagged at Phase 6I.1 Section D: Episodes 10, 20, and 23's own Editing Direction contain confirmed multi-environment cross-cut/intercut language not reflected in FPP-SB-007's scene list. Full investigation and determination in `bible/Fracture_Protocol_Phase6I1_5_Storyboard_Editing_CrossCut_Reconciliation_v1.0.md`. Everything above this line is preserved unmodified, per the Storyboard Revision Rule's own reopen-and-append method, Phase 6E.0 §9.)*
+
+### FPP-SB-007 — Scope Clarification (no substantive change)
+
+Re-verification confirms FPP-SB-007 is already correctly scoped and requires no expansion. Its own self-cited Camera Language definition ("rapid cross-cutting between institutional spaces," Episode 34's own Camera Notes; the Light Order/Night Haven/Doctrine convergence, Episode 27 Scene 5) governs convergence *among* institutional/political environments specifically. Episodes 10 (a field-operation/command-center intercut), 20 (a personal two-thread alternation), and 23 (a civilian/single-institution alternation) each fall outside this definition and are correctly excluded. Their confirmed intercuts are cross-referenced in their own already-governing packages below, not folded into this group.
+
+### FPP-SB-002 — Amendment: Transition Rules Cross-Reference
+
+**Added Transition Rules content (supplements the original field, does not replace it):** Episode 10, Scene 5 carries a confirmed intercut between this group's own operation-site content and Ward Station Seven's communications context (FPP-SB-001 / FPP-ENV-001), per Episode 10's own Editing Direction ("Scene 5's intercut should end on the operation site, not the command context") and Location List. The scene must end on the operation site, not the Ward Station Seven side, per that same instruction. This is a confirmed fact drawn directly from an Approved screenplay; no new shot or camera angle is invented.
+
+### FPP-SB-003 and FPP-SB-004 — Amendment: Transition Rules Cross-Reference
+
+**Added Transition Rules content (supplements each original field, does not replace either):** Episode 20 carries a confirmed alternating two-thread structure spanning both of these groups: Scenes 1, 3, 5a (Reconstruction-Work Environment, FPP-SB-003) alternate with Scenes 2, 4, 5b (Guardian/Kael Partnership Environment, FPP-SB-004), per Episode 20's own Editing Direction ("Alternating structure between the two threads throughout... Scene 5 intercuts both to close without resolving either") and Location List. Each package now cross-cites the other for this episode specifically; this is a confirmed fact drawn directly from an Approved screenplay, not an invented device.
+
+### FPP-SB-011 — Amendment: Transition Rules Cross-Reference
+
+**Added Transition Rules content (supplements the original field, does not replace it):** Episode 23, Scenes 1–2 carry a confirmed cross-cut between this group's own Populated Civilian Area content and an institutional space reused from Episodes 13–22, per Episode 23's own Editing Direction ("Escalating cross-cutting through Scenes 1–2") and Location List. **The specific institutional environment is not itemized in any governing source and is flagged as unconfirmed, not invented** — consistent with this environment's own pre-existing "Lower Sector or Mid Zone" flexibility (Phase 6C.5).
+
+### Founder Review & Alignment Audit (Amendment)
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — FPP-SB-007's scope is clarified and confirmed correct; FPP-SB-002, FPP-SB-003, FPP-SB-004, and FPP-SB-011 each receive a narrow Transition Rules cross-reference resolving the Phase 6I.1 flag, exactly as the reconciliation determined. |
+| Alignment Audit | PASS — no new shot, camera angle, or storyboard content is invented; every addition cites a fact already established in an Approved screenplay's own Location List or Editing Direction. Episode 23's specific cross-cut partner is flagged as unconfirmed rather than assumed. |
+| Regression Verification | PASS — all 16 original v1.0 packages, and the original Founder Approval and Changelog above, remain unmodified above this amendment. |
+
+**Determination: PASS.** No canon contradiction, repository corruption, or governance conflict found.
+
+### Founder Approval (Amendment)
+
+**Approved 2026-07-18** following a clean PASS Founder Review & Alignment Audit. No blocking condition found. FPP-SB-007 remains unchanged in substance; FPP-SB-002, FPP-SB-003, FPP-SB-004, and FPP-SB-011 are amended as set out above. All other sections of this document remain Approved, effective immediately, unmodified.
+
+### Changelog (Amendment)
+`[v2.0 — 2026-07-18] Amendment appended per "Founder Directive — Phase 6I.1.5 Storyboard / Editing Cross-Cut Reconciliation (v1.0)," resolving the Phase 6I.1 Production Conflict flag (Episodes 10, 20, 23's cross-cut/intercut language not reflected in FPP-SB-007). Original v1.0 content preserved unmodified. FPP-SB-007 confirmed correctly scoped, no substantive change — its own self-cited "institutional convergence" definition does not cover any of the three flagged episodes. FPP-SB-002 (Episode 10), FPP-SB-003/FPP-SB-004 (Episode 20), and FPP-SB-011 (Episode 23) each receive a narrow Transition Rules cross-reference citing facts already established in each episode's own Approved Location List and Editing Direction — no storyboard content invented. Episode 23's specific cross-cut institutional partner remains unconfirmed and flagged. Full investigation in `bible/Fracture_Protocol_Phase6I1_5_Storyboard_Editing_CrossCut_Reconciliation_v1.0.md`. Status: "Approved."`
