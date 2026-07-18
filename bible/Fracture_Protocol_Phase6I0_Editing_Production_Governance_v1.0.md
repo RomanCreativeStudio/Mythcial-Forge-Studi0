@@ -128,3 +128,48 @@ production on that specific edit stops, and the conflict is flagged for Founder 
 ### Changelog
 `[v1.0 — 2026-07-18] Compiled per "Founder Directive — Phase 6I.0 Editing Production Governance (v1.0)." Continues directly from Phase 6H.2. Establishes nine governance rules (Editing Authority, Assembly Authority, Continuity Authority, Transition Authority, Color Consistency Rule, Final Timing Rule, Editing Revision Rule, Version Control, Production Conflict Rule) governing all subsequent Phase 6I work, each derived from and subordinate to existing Locked Canon and every prior Phase 6 discipline's own governance and Production Packages (Storyboard, Animation, Audio, Visual Effects) rather than restating any of them. Establishes that editing is strictly an assembly discipline over already-Approved assets — it authorizes no new visual, motion, dialogue, effects, or transition content of its own. Transition Authority is grounded directly in Phase 6H.1's own confirmed, exhaustive finding that no rendered transition effect exists anywhere in the 36 Approved screenplays, fixing the hard-cut tonal-break device (FPP-AUD-014) as the default and only confirmed standard. No edit created; no canon modified; no screenplay rewritten; no transition invented. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-18] Approved following a clean PASS Founder Review & Alignment Audit. No blocking condition found. Status: "LOCKED CANON, effective immediately."`
+
+---
+
+## Amendment — Explicit Editing Restriction List
+
+*(Appended 2026-07-18 per the reissued "Founder Directive — Phase 6I.0 Editing Production Governance (v1.0)," which explicitly enumerates seven categories editing may never alter and explicitly requires flagging both missing information and production conflicts. Everything above this line is preserved unmodified, per the Editing Revision Rule's own reopen-and-append method, Section 8.)*
+
+### Finding
+
+The original document's nine sections already ground Dialogue (§2.4, §7), Scene Order (§3), Canon (header, Purpose), and Approved Timing (§7) as protected against alteration, each tied to a specific cited authority. Three items the reissued directive names explicitly — **Story**, **Character Intent**, and **Approved Pacing** — were not previously named as their own standalone restriction anywhere in this document, even though they are consistent with (and do not extend beyond) the editing-is-assembly-only principle already established in Section 1 (Purpose) and Section 2 (Editing Authority). This amendment closes that naming gap; it authorizes no new editing behavior and narrows nothing already Locked.
+
+### Editing Restriction List (new, standalone; supplements Sections 2–7, does not replace any of them)
+
+Editing may never alter any of the following. Each restriction is enforcement-only, citing an authority already established above or in prior Locked Canon:
+
+1. **Story** — the narrative content and events of each Approved Screenplay are fixed by Locked Canon and the Production Bible; editing may resequence *presentation* only where Section 3 (Assembly Authority) already permits, and may never add, remove, or alter a story event itself. This is the same "never rewrite screenplays" limit already stated in this document's Status line, restated here as its own standing restriction.
+2. **Canon** — no assembled edit may contradict or modify Locked Canon (World Bible, Character Bible, Faction Bible), consistent with this document's Absolute Authority chain.
+3. **Dialogue** — governed by §2.4 and §7: the Audio Dialogue Authority's exact-text lock; no edit may truncate, overlap, reorder, or paraphrase a Locked line.
+4. **Scene order** — governed by §3: assembly may not reorder scenes beyond what an Approved Screenplay itself specifies.
+5. **Character intent** — each character's Locked characterization (Character Bible; each Character Production Package's own Personality/Internal Conflict fields) governs the intent behind every line and action; editing may not recut footage in a way that reverses, undercuts, or reassigns a character's confirmed intent in a scene (e.g., assembling reaction shots out of their governing Storyboard/Animation Package's own sequence in a way that changes what a character is understood to mean or want). Where an edit's effect on character intent is ambiguous, it is flagged under the Production Conflict Rule (§9), never resolved by editorial judgment.
+6. **Approved timing** — governed by §7 (Final Timing Rule): no edit may compress, extend, or truncate timing beyond what the governing Animation, Audio, or screenplay source supports.
+7. **Approved pacing** — the relative rhythm and sequencing established collectively by each scene's Approved Storyboard Package (Camera Language, Composition Rules), Animation Package (Timing), and Audio Package (Continuity, music/dialogue placement) is fixed; editing may not re-pace an assembled sequence (e.g., by shortening held beats, accelerating cross-cut rhythm, or altering the confirmed escalation structure such as FPP-SB-002's Episode 9–11 structural echo) beyond what those governing packages already define.
+
+### Flagging Restated (explicit, standalone)
+
+Per the reissued directive's explicit two-part instruction, this document already requires both, and both are restated here as standing, co-equal obligations, not one subsuming the other:
+- **Flag missing information** — wherever Editing, Assembly, Continuity, Transition, Color Consistency, or Final Timing Authority (Sections 2–7) is silent or incomplete for a given edit, that gap is flagged and production on that edit stops, per the flag-don't-invent discipline already Locked at Phase 6H.0 and carried forward throughout this document.
+- **Flag production conflicts** — governed in full by Section 9 (Production Conflict Rule); restated here as its own explicit obligation per the reissued directive's own phrasing, not merely folded into the missing-information flag.
+
+### Founder Review & Alignment Audit (Amendment)
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — the amendment adds an explicit, standalone Editing Restriction List covering all seven items the reissued directive names (Story, Canon, Dialogue, Scene Order, Character Intent, Approved Timing, Approved Pacing) and explicitly restates both flagging obligations (missing information, production conflicts) as co-equal, exactly as the reissued directive requires. |
+| Alignment Audit | PASS — no new editing behavior is authorized by this amendment; every restriction either cites a section already present above (§2, §3, §7, §9) or a Locked Canon source already governing this production (Character Bible, Production Bible, World/Faction Bible) at a higher authority than Phase 6I itself. Character Intent and Approved Pacing are the only genuinely new named items, and both are grounded in already-Locked sources (Character Production Packages' Personality/Internal Conflict fields; Storyboard/Animation/Audio Packages' own Camera Language/Timing/Continuity fields) rather than invented. |
+| Regression Verification | PASS — Sections 1–9, the original Founder Approval, and the original Changelog remain unmodified above this amendment. |
+
+**Determination: PASS.** No canon contradiction, repository corruption, or governance conflict found.
+
+### Founder Approval (Amendment)
+
+**Approved 2026-07-18** following a clean PASS Founder Review & Alignment Audit. No blocking condition found. The Editing Restriction List is appended as set out above; all other sections of this document remain Locked Canon, effective immediately, unmodified.
+
+### Changelog (Amendment)
+`[v2.0 — 2026-07-18] Amendment appended per the reissued "Founder Directive — Phase 6I.0 Editing Production Governance (v1.0)," which explicitly enumerates seven categories editing may never alter (Story, Canon, Dialogue, Scene Order, Character Intent, Approved Timing, Approved Pacing) and explicitly requires flagging both missing information and production conflicts as co-equal obligations. Original v1.0–v1.1 content preserved unmodified. Adds a standalone Editing Restriction List: four items (Canon, Dialogue, Scene Order, Approved Timing) were already grounded in existing sections and are cross-referenced; three items (Story, Character Intent, Approved Pacing) were not previously named as standalone restrictions and are now added, each grounded in already-Locked sources (Character Production Packages, Storyboard/Animation/Audio Packages, the Production Bible) rather than invented. No new editing behavior authorized — the amendment closes a naming gap, not a substantive one. Status: "Approved."`
