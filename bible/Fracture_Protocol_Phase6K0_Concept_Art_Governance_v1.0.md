@@ -121,3 +121,56 @@ This framework sits entirely atop already-Locked authority and creates no indepe
 ### Changelog
 `[v1.0 — 2026-07-18] Compiled per "Founder Directive — Phase 6K.0 Concept Art Governance." Continues directly from the Phase 6 Lock Certification, Phase 6J.0, the Concept Art Governance Discovery, and the Production Authority Naming Decision. Establishes eight governance rules (Concept Art Authority, Visual Design Constraint Authority, Approval Authority, Continuity Rules, Revision Rules, Version Control, Production Conflict Resolution, Cross-Reference Authority) governing all subsequent Phase 6K work, each derived from and subordinate to existing Locked Canon and Production Packages (Character, Environment, Prop & Technology, Storyboard, Visual Effects) and Phase 6A.5's own Asset Production Standards, rather than restating any prior governance. Flagged two genuine, pre-existing ambiguities rather than resolving them: (1) a tension between Phase 6A.5's literal Asset Authority text (which excludes Production Packages as a source) and this directive's own explicit instruction to use them, resolved only for this document's own scope per the current directive, not globally; (2) the long-standing, unreconciled discrepancy between Phase 6A.5's CHR-0001-style Asset ID Standard and the FPP-CHAR-001-style format actually used throughout the Asset Registry, directly relevant to future Concept Art asset IDs. Reconfirmed, rather than invented, that no color-management profile, resolution standard, file-format standard, or rendering style exists anywhere for Concept Art specifically — each remains an open, flagged item per Phase 6A.5's own prior language. No concept art created; no character design, environment, prop, color palette, or rendering style invented; no canon expanded. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-18] Approved following a clean PASS Founder Review & Alignment Audit. No blocking condition found. Status: "LOCKED CANON, effective immediately."`
+
+---
+
+## Amendment — Rendering-Register Governance Reconciliation
+
+*(Appended 2026-07-18 per "Founder Directive — Phase 6K.0 Governance Reconciliation," resolving the rendering-register contradiction flagged at `Fracture_Protocol_FPP_CHAR_001_Kael_Concept_Art_Exploration_v1.0.md` §1. Everything above this line is preserved unmodified, per this document's own Revision Rules, Section 6.)*
+
+### Finding
+
+Section 3's original text stated: "no rendering style (flat-vector, painterly, photorealistic, or any other) is specified anywhere in this production's existing documentation." **This was incorrect, confirmed on direct re-verification, not a misinterpretation.** Two Locked Art Bible sources establish a rendering register and name concept art specifically:
+
+- `mythic-forge-art-bible/visual-development-guide.md` (Core Visual Identity — One Register, **[LOCKED]**, Master System Prompt Section 8 authority): *"Register: Semi-Realistic Anime Cinematic Hybrid... This is the **only** sanctioned register — it governs both the animated footage and all promotional stills (thumbnails, **concept art**, social/marketing images). No shot or still may shift to a different register (flat cel-shading, photoreal hyperrealism, painterly-fantasy) without a documented, founder-approved exception."*
+- `mythic-forge-art-bible/forbidden-elements.md` (Blacklist item 2, **[LOCKED]**): flat cel-shaded/TV-anime-signature rendering is explicitly forbidden, enforced as "an automatic Quality Assurance failure... regardless of how far along the asset is in the pipeline."
+- `mythic-forge-art-bible/global-consistency-rules.md` (item 1, **[LOCKED]**): confirms the only lawful deviation mechanism is "a documented, deliberate, founder-approved exception **logged here**" — i.e., logged in `global-consistency-rules.md` itself, not granted by any downstream governance document including this one.
+
+**No Concept Art-specific fidelity carve-out exists anywhere in Locked Canon.** `visual-development-guide.md` names concept art explicitly, at the same register as finished footage — there is no "rough pass" or "exploration-stage" exemption stated anywhere in the Art Bible.
+
+### Determination
+
+**Phase 6K.0 requires amendment.** The Art Bible reference in the original Section 3 was not misinterpreted — re-verification confirms the finding was accurate and, if anything, understated. No new documented exception is created or granted here; Phase 6K.0 has no authority to grant one (only `global-consistency-rules.md` itself, via Founder sign-off, can log an exception — this amendment does not attempt that).
+
+### Section 3 — Amended (supersedes the rendering-style sentence only; all other Section 3 text unchanged)
+
+Replace: *"No color palette, rendering style, or art-direction approach is created or selected by this document... no rendering style... is specified anywhere in this production's existing documentation for character, environment, prop, or VFX concept art, and none is invented here."*
+
+With: **A rendering register is already Locked and governs Concept Art explicitly: Semi-Realistic Anime Cinematic Hybrid (`visual-development-guide.md`), enforced by `forbidden-elements.md`'s prohibition on flat cel-shaded rendering with automatic QA-failure consequence at any pipeline stage. This is the only sanctioned register for any finished character, environment, prop, or VFX concept art depiction — no other register may be used without a documented, founder-approved exception logged in `global-consistency-rules.md` itself, which this document has no authority to grant.**
+
+**Scope clarification, offered as an interpretation requiring Founder confirmation, not asserted as settled Locked fact:** a silhouette, proportion, or scale-reference study that does not attempt to depict a character's face, color, or finished surface treatment — i.e., does not attempt the sanctioned register at all — is not "a shot or still" shifting to a different register in the sense `global-consistency-rules.md` item 1 addresses; it is a distinct, lower-fidelity production-planning deliverable, consistent with Phase 6A.5's own separate "Scale Reference" category. This reading permits pre-visualization work to proceed without triggering the register requirement, but does **not** permit any actual facial, color, or finished-surface concept art render to depart from the sanctioned register. The Founder should confirm or reject this reading explicitly; it is not treated as final by this amendment alone.
+
+### Capability Consequence (restated, not newly invented)
+
+This production environment has no image-generation or painting tool capable of producing the Semi-Realistic Anime Cinematic Hybrid register. Consequently: **no finished, facial/color/surface-rendered Concept Art asset can currently be produced or Approved in this environment**, for Kael or any other subject, until either (a) a documented Founder-approved exception is logged in `global-consistency-rules.md`, or (b) a capable rendering tool becomes available. Silhouette/proportion/scale-reference work, per the scope clarification above, remains available in the interim, pending the Founder's confirmation of that reading.
+
+### FPP-CHAR-001 Status — Unchanged by This Amendment
+
+`Fracture_Protocol_FPP_CHAR_001_Kael_Concept_Art_Exploration_v1.0.md` remains at **Exploration — Pending Founder Review**. This amendment does not approve it as final, does not upgrade its status, and does not alter Kael's canon in any respect.
+
+### Founder Review & Alignment Audit (Amendment)
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — the rendering-register contradiction is traced to its exact Locked sources (`visual-development-guide.md`, `forbidden-elements.md`, `global-consistency-rules.md`), confirmed as a factual correction rather than a misinterpretation, and Section 3 is amended accordingly. |
+| Alignment Audit | PASS — no new artwork created; no Art Bible rule overridden or weakened (the amendment enforces the existing rule more accurately, it does not relax it); no Kael canon changed; the current Exploration asset is explicitly not approved as final by this amendment. The silhouette/scale-reference scope clarification is disclosed as an interpretation pending Founder confirmation, not asserted as a self-granted exception. |
+| Regression Verification | PASS — Sections 1–2 and 4–8, the original Founder Approval, and the original Changelog remain unmodified above this amendment. |
+
+**Determination: PASS.** No canon contradiction, repository corruption, or governance conflict found.
+
+### Founder Approval (Amendment)
+
+**Approved 2026-07-18** following a clean PASS Founder Review & Alignment Audit. No blocking condition found. Section 3 is amended as set out above; all other sections of this document remain Locked Canon, effective immediately, unmodified. No documented exception is granted by this Approval — any future exception must be logged in `global-consistency-rules.md` itself, via its own Founder sign-off.
+
+### Changelog (Amendment)
+`[v2.0 — 2026-07-18] Amendment appended per "Founder Directive — Phase 6K.0 Governance Reconciliation," resolving the rendering-register contradiction flagged during the FPP-CHAR-001 Kael Concept Art Exploration. Confirmed, on direct re-verification, that the original Section 3 claim (no rendering style specified anywhere) was a factual error, not a misinterpretation: `visual-development-guide.md` Locks a single sanctioned register (Semi-Realistic Anime Cinematic Hybrid) explicitly naming concept art as governed by it, `forbidden-elements.md` enforces this with automatic QA failure at any pipeline stage, and `global-consistency-rules.md` confirms the only lawful deviation is a documented, founder-approved exception logged there, which this document has no authority to grant. Amended Section 3 to state the correct rule. Offered, as an interpretation requiring Founder confirmation rather than settled fact, that silhouette/proportion/scale-reference studies not attempting facial/color/surface rendering fall outside the register requirement, consistent with Phase 6A.5's own separate Scale Reference category — actual finished concept art remains bound to the sanctioned register with no exception. Confirmed no finished, facial/color-rendered Concept Art can currently be produced in this environment absent a logged exception or a capable tool. FPP-CHAR-001's Exploration status is explicitly unchanged and not approved as final. No new artwork created; no Art Bible rule overridden; no Kael canon changed. Status: "Approved."`
