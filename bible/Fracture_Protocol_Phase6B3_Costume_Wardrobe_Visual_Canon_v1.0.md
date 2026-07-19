@@ -50,7 +50,7 @@ Costume exists to reinforce identity, profession, culture, status, history, pers
 | Sleeve Design | Practical sleeve construction allowing full combat range of motion; no restrictive or purely decorative sleeve styling. |
 | Fabric Movement | Fabric should read as sturdy and low-drape — moves with disciplined, economical motion (Phase 6B.2 Movement Style), never flowing or theatrical. |
 | Weather Adaptation | Must plausibly function across the megacity's Lower Sector conditions (World Bible §3, §10) — layerable for temperature variation, not a single fixed-climate design. |
-| Color Distribution | Muted neutrals dominate; cyan/icy-blue appears nowhere on the costume itself — reserved exclusively to his eyes (Phase 6B.2 Color Philosophy, Locked). |
+| Color Distribution | Muted neutrals dominate; cyan/icy-blue appears nowhere on the costume itself — reserved exclusively to his eyes (Phase 6B.2 Color Philosophy, Locked). **[Superseded — see Amendment v2.0, below.]** |
 | Texture Distribution | Matte, practical textures throughout — no glossy or attention-drawing surface treatment, consistent with `forbidden-elements.md`'s sanctioned rendering register. |
 | Visual Weight | Grounded and practical — the costume should never visually overpower his face/eye-glow, which remains his primary readable signal (Phase 6B.2). |
 | Recognizable Silhouette | The Primary Outfit's practical Cadet silhouette is his default recognizable read; the eye-glow remains his singular unmistakable identifier across all outfit variants. |
@@ -254,6 +254,29 @@ Per the directive's explicit instruction, this section identifies shared product
 
 ---
 
+## Amendment v2.0 — Kael Outfit Cyan-Accent Restoration (Master System Prompt Reconciliation)
+
+**Reopened 2026-07-18** per `Fracture_Protocol_Kael_Prompt_Costume_Canon_Reconciliation_v1.0.md` and the corresponding Phase 6B.2 v1.3 Amendment. Master System Prompt Section 4 (`[LOCKED]`, "core design — never change") explicitly includes "subtle cyan accents" as part of Kael's outfit. Section 2's Color Distribution field, as originally written, cited Phase 6B.2's own then-uncorrected Color Philosophy rule and inherited the same gap — excluding cyan from the costume entirely without cross-checking against the Master System Prompt. The original field is preserved unmodified above, marked superseded; this amendment states the corrected field.
+
+**Corrected Color Distribution field:** Muted neutrals dominate his Primary Outfit; per Master System Prompt Section 4 (`[LOCKED]`) and Phase 6B.2 Amendment v1.3, the outfit also carries subtle cyan accents as a static, structural design element. Cyan/icy-blue's *primary, dynamic, diagnostic* use remains his eyes — the eye-glow's prominence is not diminished or rivaled by the outfit's accents. No exact placement, shade, or extent of the outfit's cyan accents is specified here; that remains a concept-art-stage decision, consistent with every other unLocked exact value already flagged in this document.
+
+### Amendment Founder Review & Alignment Audit
+
+| Check | Result |
+|---|---|
+| Founder Review | PASS — the correction traces directly to Master System Prompt Section 4 and Phase 6B.2 Amendment v1.3, both re-read and cited, not inferred. |
+| Alignment Audit | PASS — Section 2's other 12 attribute rows (Silhouette, Fabric, Fit, Layering, Footwear, Gloves, Belt, Collar, Sleeve, Fabric Movement, Weather Adaptation, Texture Distribution, Visual Weight, Recognizable Silhouette, Animation/Storyboard Considerations, Concept Art Priorities) are unaffected and unchanged; only Color Distribution is corrected. |
+| Regression Verification | PASS — original Color Distribution text preserved unmodified above, marked superseded; Mira's, Cassian's, and the Guardian's Section 2/3/4/5 content unaffected. |
+
+**Determination: PASS.**
+
+### Amendment Founder Approval
+
+**Approved 2026-07-18.** Section 2's Color Distribution field (Kael) is corrected to restore Master System Prompt Section 4's own "subtle cyan accents" outfit element, matching Phase 6B.2 Amendment v1.3. This document's LOCKED CANON status (2026-07-15) is otherwise unaffected; Mira, Cassian, and the Guardian entries are unchanged.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)," resolving the last shared production gap across all four active principal characters (Kael, Mira, Cassian, the Guardian; Titan remains excluded). Full costume canon built per the directive's 5-outfit + 32-field structure for each character, every decision traced to a cited Locked source. New direct screenplay evidence found and cited: Episode 1's "different uniform" dialogue line, confirming Kael's Primary/Secondary outfit distinction rather than requiring it to be inferred from role alone. Two deliberate non-inventions flagged rather than silently filled: Mira's Mission Outfit (protecting Phase 5A.2's deliberately-unspecified Episode 33 active-role mechanism) and Mira's Formal Outfit (genuinely absent from all Locked sources). The Guardian's apparent Costume-Breakdown-vs-costume-canon tension with its own Phase 6B.1 package is explicitly reasoned through: an unclothed "ordinary" humanoid would itself be distinctive, so a deliberately unremarkable single-register costume is the correct extension of Phase 6B.1, not a contradiction of it. Section 8 identifies shared-asset reuse opportunities (boots, belts, fasteners) without creating any asset. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS Founder Review & Alignment Audit. No blocking condition found. Status: "LOCKED CANON, effective immediately." Authoritative for all future costume/wardrobe production; all four Character Production Packages are being reopened and updated to apply this authority in separate, immediately following commits.`
+`[v2.0 — 2026-07-18] Amendment appended per "Founder Directive — Kael Prompt / Costume Canon Reconciliation" and the corresponding Phase 6B.2 v1.3 Amendment. Section 2's Color Distribution field (Kael) corrected to restore Master System Prompt Section 4's [LOCKED] "subtle cyan accents" outfit element, which the original 2026-07-15 text excluded by inheriting Phase 6B.2's then-uncorrected Color Philosophy rule without independently cross-checking the Master System Prompt. Original field preserved above, marked superseded. Eye-glow's primacy as the primary, dynamic cyan signal explicitly reaffirmed; no exact placement, shade, or extent invented. Mira, Cassian, and the Guardian entries unaffected. Status: "Approved."`

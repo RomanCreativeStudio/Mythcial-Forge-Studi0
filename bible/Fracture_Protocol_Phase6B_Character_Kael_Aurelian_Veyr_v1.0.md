@@ -85,7 +85,7 @@ Eye-glow Emotion Modifiers (`prompt-library.md`), to be applied per-scene per hi
 
 **Rendering register (applies to all of the above).** Per `forbidden-elements.md`: "semi-realistic anime cinematic hybrid — detailed, cinematically lit, high-detail facial focus." Flat cel-shading, speed lines, chibi proportion breaks, and flat single-tone eye highlights are explicitly forbidden for Kael as for every character — restated in Phase 6B.2's own Do Not Do section, not altered.
 
-**Do Not Do (new, per Phase 6B.2):** never render the eye-glow at Activation intensity unless Signal-Sensitivity is active in-scene; never use idealized hypermasculine proportions; never use cyan decoratively anywhere but his eyes; never render him as physically flawless or unweathered.
+**Do Not Do (new, per Phase 6B.2):** never render the eye-glow at Activation intensity unless Signal-Sensitivity is active in-scene; never use idealized hypermasculine proportions; never use cyan decoratively anywhere but his eyes; never render him as physically flawless or unweathered. **[Superseded in part by the Phase 6B.2 v1.3 Amendment Reopening, below — original text preserved here as historical record.]**
 
 **Color Philosophy / Lighting Behavior / Camera Language (new, per Phase 6B.2):** practical muted tones for wardrobe/palette, cyan reserved exclusively to his eyes; scene lighting follows the Locked Emotional Lighting Modes (Grounded/Charged/Wounded, `lighting-system.md`) independently of his personal eye-glow overlay; standard Lens Philosophy (35–50mm) for dialogue work, deliberate negative space during his early-season isolation beats, handheld instability reserved exclusively for Breach/Fracture/Burnout sequences. Full definitions in Phase 6B.2, Section 3, incorporated by reference rather than duplicated in full.
 
@@ -300,8 +300,33 @@ Per Phase 6B.3's Automatic Workflow: "Reopen Character Packages... Append Phase 
 
 ---
 
+## Phase 6B.2 v1.3 Amendment Reopening (Third Reopening)
+
+**Reopened 2026-07-18** per `Fracture_Protocol_Kael_Prompt_Costume_Canon_Reconciliation_v1.0.md` and the corresponding Phase 6B.2 v1.3 Amendment (item 16, item 20, Kael entry). Master System Prompt Section 4 (`[LOCKED]`, "core design — never change") explicitly includes "subtle cyan accents" as part of Kael's outfit; the "Do Not Do" line above, as originally written per Phase 6B.2's original text, excluded cyan from the costume entirely. All prior content (Phase 6B.0 original, Phase 6B.2 v1.0 update, Phase 6B.3 v3.0 update) is preserved unmodified above, marked superseded-in-part where directly affected.
+
+**Corrected Do Not Do line:** never render the eye-glow at Activation intensity unless Signal-Sensitivity is active in-scene; never use idealized hypermasculine proportions; never let the outfit's subtle cyan accents (Master System Prompt Section 4) rival, echo, or approach the eye-glow's own visual prominence — the eye-glow remains the singular, primary cyan signal, the outfit's accents secondary, static, and subordinate; never render him as physically flawless or unweathered.
+
+**Corrected Color Philosophy cross-reference:** the "Color Philosophy / Lighting Behavior / Camera Language" paragraph above ("cyan reserved exclusively to his eyes") is superseded in the same narrow respect — the outfit also carries subtle cyan accents per Master System Prompt Section 4 — and now incorporates Phase 6B.2's Amendment v1.3, Section 3, by reference, exactly as it already incorporated Phase 6B.2's original Section 3.
+
+### Third Reopening Audit
+
+| Check | Result |
+|---|---|
+| Founder Review | PASS — only the Do Not Do line and the Color Philosophy cross-reference are touched, matching exactly what Phase 6B.2 v1.3 corrected. |
+| Alignment Audit | PASS — the eye-glow's primacy is explicitly reaffirmed, not diminished; no new costume placement, shade, or extent invented. |
+| Regression Verification | PASS — all prior content (Phase 6B.0, Phase 6B.2 v1.0, Phase 6B.3 v3.0) preserved unmodified above. |
+
+**Determination: PASS.**
+
+### Third Reopening — Founder Approval
+
+**Approved 2026-07-18.** This package's Do Not Do line and Color Philosophy cross-reference are corrected to match Phase 6B.2 Amendment v1.3, restoring Master System Prompt Section 4's own "subtle cyan accents" outfit element. Production status remains **Costume Authority Complete**; no other field is affected.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Character 1 of 4 (Kael Aurelian Veyr). All 10 required sections built from direct repository citation only. Physical Production Profile (Section 3, most fields) and Costume Breakdown (Section 4, in full) flagged as missing rather than invented — no Locked source specifies Kael's height, proportions, silhouette, build, posture, facial characteristics, hair, or Ward Division uniform/equipment anywhere in the Character Bible, World Bible, Faction Bible, or Phase 1B.3 Production Bible. The one Locked physical field (eyes — icy blue-cyan eye-glow, Signal-Sensitivity-linked) transcribed exactly from the Art Bible under Master System Prompt Section 4 authority. Pose and Animation requirements (Sections 6–7) grounded in direct grep evidence against all 36 Approved Phase 5B screenplays rather than assumed from the fixed list wholesale. FPP-CHAR-001 (Phase 6A) vs. CHR-0001 (Phase 6A.5) Asset ID naming inconsistency flagged explicitly in Section 10, not silently resolved. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS Character Audit. No blocking condition found. Status: "Approved." Section 3/4 physical and costume gaps remain open production items, logged for future revision under Phase 6.0's Asset Revision Rule, not treated as a stop condition. Authoritative for all subsequent Kael asset production.`
 `[v2.0 — 2026-07-15] REOPENED per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)." Sections 1 (Art References), 3 (Physical Profile, Visual Identity, Silhouette), 6–7 (Animation Notes), and 10 (Production status) updated to apply the new Phase 6B.2 Locked Canon. Sections 2, 4, 5, 8, 9 left untouched — Section 4 (Costume) remains flagged missing, since Phase 6B.2 does not define clothing. Original Phase 6B.0 findings preserved as historical record within Section 3. Production status upgraded to "Visual Canon Complete." Re-audited PASS and re-approved via a dedicated Phase 6B.2 Update Audit appended after the original.`
 `[v3.0 — 2026-07-15] REOPENED again per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)." Section 4 (Costume Breakdown/Wardrobe) resolved via the new Phase 6B.3 Locked Canon — Primary/Secondary/Formal/Mission Outfits defined, grounded in Episode 1's "different uniform" dialogue evidence and his Locked Combat Ready role; Formal Outfit remains flagged pending a confirmed ceremonial scene. Section 7 updated with costume-simulation scope. Section 10 production status upgraded to "Costume Authority Complete." Original Phase 6B.0 and Phase 6B.2 content preserved unmodified. Re-audited PASS and re-approved via a dedicated Phase 6B.3 Update Audit appended after the prior two.`
+`[v4.0 — 2026-07-18] REOPENED a third time per "Founder Directive — Kael Prompt / Costume Canon Reconciliation" and the corresponding Phase 6B.2 v1.3 Amendment. The Do Not Do line and Color Philosophy cross-reference corrected to restore Master System Prompt Section 4's [LOCKED] "subtle cyan accents" outfit element, which the original Phase 6B.2-derived text excluded without cross-checking against the Master System Prompt. Eye-glow's primacy as the singular, primary cyan signal explicitly reaffirmed; no new placement, shade, or extent invented. All prior content (Phase 6B.0, Phase 6B.2 v1.0, Phase 6B.3 v3.0) preserved unmodified above, marked superseded-in-part where directly affected. Production status remains "Costume Authority Complete." Re-audited PASS and re-approved via a dedicated Third Reopening Audit.`
