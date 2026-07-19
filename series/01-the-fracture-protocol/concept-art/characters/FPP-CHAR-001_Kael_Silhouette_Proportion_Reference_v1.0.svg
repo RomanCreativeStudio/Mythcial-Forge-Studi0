@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1300" viewBox="0 0 900 1300" font-family="Helvetica, Arial, sans-serif">
+  <!-- FPP-CHAR-001 — Kael Aurelian Veyr — Silhouette / Proportion Reference v1.0 -->
+  <!-- NOT a finished cinematic concept art render. See companion Exploration Brief for full citation and scope disclosure. -->
+
+  <rect x="0" y="0" width="900" height="1300" fill="#111316"/>
+
+  <!-- Header -->
+  <text x="450" y="46" fill="#e8e8e8" font-size="26" font-weight="bold" text-anchor="middle">FPP-CHAR-001 — KAEL AURELIAN VEYR</text>
+  <text x="450" y="72" fill="#9aa0a6" font-size="15" text-anchor="middle">Silhouette / Proportion Reference — Primary Outfit — Calm Eye-Glow State</text>
+  <text x="450" y="94" fill="#6b7280" font-size="12" text-anchor="middle">NOT a finished semi-realistic anime cinematic hybrid render — see Exploration Brief, Section on Rendering Register Gap</text>
+
+  <!-- Proportion grid: 8-head reference, height range annotated -->
+  <g stroke="#2a2e33" stroke-width="1">
+    <line x1="120" y1="140" x2="780" y2="140"/>
+    <line x1="120" y1="270" x2="780" y2="270"/>
+    <line x1="120" y1="400" x2="780" y2="400"/>
+    <line x1="120" y1="530" x2="780" y2="530"/>
+    <line x1="120" y1="660" x2="780" y2="660"/>
+    <line x1="120" y1="790" x2="780" y2="790"/>
+    <line x1="120" y1="920" x2="780" y2="920"/>
+    <line x1="120" y1="1050" x2="780" y2="1050"/>
+    <line x1="120" y1="1150" x2="780" y2="1150"/>
+  </g>
+  <text x="795" y="145" fill="#5a6068" font-size="11">head</text>
+  <text x="795" y="1155" fill="#5a6068" font-size="11">ground</text>
+  <text x="130" y="1180" fill="#6b7280" font-size="12">Height reference: 178–185cm range (Phase 6B.2). Figure drawn at range midpoint — not a Locked final value.</text>
+
+  <!-- ===== FIGURE ===== -->
+  <g transform="translate(450,140)">
+
+    <!-- Legs / boots (Mission-adjacent practical boots, muted earth tone) -->
+    <path d="M -55,610 L -70,970 L -30,970 L -20,700 L 20,700 L 30,970 L 70,970 L 55,610 Z" fill="#3a3d42"/>
+    <!-- boots -->
+    <path d="M -80,960 L -20,960 L -15,1010 L -85,1010 Z" fill="#5c4f42"/>
+    <path d="M 20,960 L 80,960 L 85,1010 L 15,1010 Z" fill="#5c4f42"/>
+
+    <!-- torso base layer (visible at collar/cuffs only) -->
+    <rect x="-60" y="330" width="120" height="290" fill="#2b2e33"/>
+
+    <!-- torso shell (Cadet field uniform, muted neutral) — lean-athletic, not bulky -->
+    <path d="M -95,300
+             C -100,260 -70,210 -30,200
+             L 30,200
+             C 70,210 100,260 95,300
+             L 80,470
+             C 60,540 40,600 0,615
+             C -40,600 -60,540 -80,470
+             Z" fill="#41454b"/>
+
+    <!-- situational outer layer (looser overlay, shoulders/upper torso only) -->
+    <path d="M -100,290 C -105,250 -75,205 -30,195 L 30,195 C 75,205 105,250 100,290
+             L 92,360 L -92,360 Z" fill="#4d5a63" opacity="0.85"/>
+
+    <!-- collar (practical, high-function, no decoration) -->
+    <path d="M -32,198 C -15,215 15,215 32,198 L 24,180 C 8,192 -8,192 -24,180 Z" fill="#23262a"/>
+
+    <!-- belt (utilitarian, load-bearing) -->
+    <rect x="-82" y="560" width="164" height="20" fill="#5c4f42"/>
+    <rect x="-12" y="558" width="24" height="24" fill="#3a2f26"/>
+
+    <!-- arms, economical/controlled stance, slightly bent, not rigid -->
+    <path d="M -95,300 C -130,330 -145,400 -135,470 L -110,590 L -80,580 L -100,460 C -108,410 -100,350 -80,310 Z" fill="#41454b"/>
+    <path d="M 95,300 C 130,330 145,400 135,470 L 110,590 L 80,580 L 100,460 C 108,410 100,350 80,310 Z" fill="#41454b"/>
+
+    <!-- gloves (functional, close-fitting, not obscuring hand read) -->
+    <ellipse cx="-97" cy="595" rx="20" ry="26" fill="#2b2e33"/>
+    <ellipse cx="97" cy="595" rx="20" ry="26" fill="#2b2e33"/>
+
+    <!-- neck -->
+    <rect x="-18" y="150" width="36" height="55" fill="#8a7566"/>
+
+    <!-- head — deliberately abstracted, no facial bone-structure/features (unspecified, not invented) -->
+    <ellipse cx="0" cy="90" rx="62" ry="78" fill="#8a7566"/>
+
+    <!-- hair — dark, short, practical (exact shade open, mid-dark value used as placeholder only) -->
+    <path d="M -62,70 C -62,20 -30,-10 0,-10 C 30,-10 62,20 62,70
+             C 62,45 45,25 20,20 C 5,17 -5,17 -20,20 C -45,25 -62,45 -62,70 Z" fill="#1c1a18"/>
+
+    <!-- eyes — only Locked color exception; Calm state = muted icy cyan, low intensity, soft/stable glow -->
+    <ellipse cx="-22" cy="92" rx="7" ry="4.5" fill="#7fd6d6" opacity="0.9"/>
+    <ellipse cx="22" cy="92" rx="7" ry="4.5" fill="#7fd6d6" opacity="0.9"/>
+    <ellipse cx="-22" cy="92" rx="12" ry="8" fill="#7fd6d6" opacity="0.25"/>
+    <ellipse cx="22" cy="92" rx="12" ry="8" fill="#7fd6d6" opacity="0.25"/>
+
+  </g>
+
+  <!-- Callouts -->
+  <g fill="#9aa0a6" font-size="12">
+    <text x="130" y="240">Layering: base + Cadet shell +</text>
+    <text x="130" y="256">situational outer (Phase 6B.3 §2)</text>
+
+    <text x="600" y="240" text-anchor="end">Silhouette: lean-athletic,</text>
+    <text x="600" y="256" text-anchor="end">Cadet-trained, not bulky (Phase 6B.2)</text>
+
+    <text x="130" y="700">Belt: utilitarian,</text>
+    <text x="130" y="716">load-bearing (Phase 6B.3 §2)</text>
+
+    <text x="600" y="700" text-anchor="end">Gloves: functional,</text>
+    <text x="600" y="716" text-anchor="end">not a signature feature (Phase 6B.3 §2)</text>
+
+    <text x="130" y="1000">Boots: field-practical,</text>
+    <text x="130" y="1016">Lower Sector terrain (Phase 6B.3 §2)</text>
+
+    <text x="600" y="90" text-anchor="end">Eyes: only Locked color</text>
+    <text x="600" y="106" text-anchor="end">exception — Calm state shown</text>
+    <text x="600" y="122" text-anchor="end">(color-language.md)</text>
+  </g>
+
+  <!-- Footer flags -->
+  <text x="450" y="1230" fill="#6b7280" font-size="12" text-anchor="middle">Flagged, not invented: exact height/hair-shade/skin-tone values; exact eye-glow hex/luminance; facial bone structure; rank-marker design.</text>
+  <text x="450" y="1250" fill="#6b7280" font-size="12" text-anchor="middle">Formal Outfit not depicted (lowest concept-art priority, unconfirmed scene, Phase 6B.3 §2).</text>
+  <text x="450" y="1275" fill="#4b5158" font-size="11" text-anchor="middle">FPP-CHAR-001 · Concept Art Exploration · v1.0 · 2026-07-18 · Phase 6K — Not yet Approved</text>
+</svg>
