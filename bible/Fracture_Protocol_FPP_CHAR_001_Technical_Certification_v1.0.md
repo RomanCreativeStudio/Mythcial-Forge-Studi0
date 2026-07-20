@@ -1,7 +1,7 @@
 # THE FRACTURE PROTOCOL — FPP-CHAR-001 TECHNICAL CERTIFICATION (STAGE 2)
 
-**Classification:** Internal — Certification Conflict Record (**Technical Revision Required**)
-**Status:** Compiled 2026-07-19 per "Founder Directive — FPP-CHAR-001 Technical Certification & Asset Approval," continuing from the Stage 1 Creative Validation PASS, Phase 6K.0 v2.2, and the Production Workflow Authorization v1.1. First two attempts: no production file existed anywhere in the repository. Third attempt (2026-07-20): a real file was found delivered via direct commit, moved into the correct location/naming, and measured directly — resolution (1254×1254px vs. the required 4000×4000px) fails, and color space cannot be confirmed compliant (no embedded profile). **Determination: Technical Revision Required. The asset is not registered.** All attempts preserved below in full.
+**Classification:** Internal — Certification Record (**Approved for Registration**)
+**Status:** Compiled 2026-07-19 per "Founder Directive — FPP-CHAR-001 Technical Certification & Asset Approval," continuing from the Stage 1 Creative Validation PASS, Phase 6K.0 v2.2, and the Production Workflow Authorization v1.1. First two attempts: no production file existed anywhere in the repository. Third attempt (2026-07-20): a real file was delivered via direct commit, moved into the correct location/naming, and measured directly — resolution and color space both failed. Fourth attempt (2026-07-20): per an explicit Founder-authorized technical rebuild (resize + sRGB profile embed from the same, unaltered creative source), all seven checks now pass. **Determination: Approved for Registration. FPP-CHAR-001 (Concept Art — Primary Outfit, Calm State) is registered.** All attempts preserved below in full.
 **Absolute authority:** subordinate to Master System Prompt → Locked Canon → `Fracture_Protocol_FPP_CHAR_001_Third_Generation_Review_v1.0.md` (Stage 1 PASS) → `Fracture_Protocol_Phase6K0_Concept_Art_Governance_v1.0.md` (v2.2) → `Fracture_Protocol_Concept_Art_Production_Workflow_Authorization_v1.0.md` (v1.1) → this record.
 
 ---
@@ -128,7 +128,63 @@ A corrected master file is required: **4000 × 4000 px**, with a verifiable sRGB
 
 ---
 
+## RETRY — Technical Master Rebuild (2026-07-20)
+
+**Reopened 2026-07-20** per "Founder Directive — FPP-CHAR-001 Master File Technical Rebuild." This directive explicitly authorizes a **technical rebuild of the existing, already-Stage-1-passed image** — not a re-generation, not a redesign, and not a re-run of Stage 1 Creative Validation. All prior records above are preserved unmodified.
+
+### Step 1 — Method, Disclosed in Full
+
+The source file is the same PNG already reviewed and technically certified as deficient in the v3.0 record above (1254×1254px, no color-space tag) — the identical pixel content underlying the Stage-1-passed Third Generation Review. Two operations were performed, both purely technical, no creative content altered:
+
+1. **Resize to 4000×4000px** using high-quality Lanczos resampling.
+2. **Embed a verifiable sRGB ICC color profile** (generated via Pillow's `ImageCms.createProfile('sRGB')`, a standard, industry-recognized sRGB profile, embedded as the PNG's `iCCP` chunk).
+
+**Disclosed plainly, not glossed over:** this produces a file that satisfies the Resolution check's pixel-dimension requirement via upscaling from a 1254px-native source, not a native 4000px capture or generation. The Technical Standard Decision's own resolution figure was justified in part by "high-detail facial focus" — an upscale does not add real detail beyond what the 1254px source already contains; it only meets the dimensional requirement, which is what this directive explicitly asked for by name ("produce a final master file... using the approved image as source"). This is stated here so no future reviewer mistakes this master for a higher native-detail capture than it actually is.
+
+### Step 2 — Seven Required Technical Checks (Re-Measured)
+
+| # | Check | Result |
+|---|---|---|
+| 1 | File integrity | **PASS** — valid PNG; full pixel decode succeeds without error. |
+| 2 | Resolution | **PASS** — measured exactly **4000 × 4000 px**. |
+| 3 | Color space | **PASS** — direct PNG chunk inspection confirms an `iCCP` chunk is now present, containing a standard sRGB ICC profile (588 bytes), verifiable and re-readable by any standard image tool. |
+| 4 | File format | **PASS** — valid PNG. |
+| 5 | Naming convention | **PASS** — `FPP-CHAR-001_Kael_Primary_Outfit_Concept_Art_Calm_v1.0.png`, unchanged from the already-corrected v3.0 placement, matching the External Production Package's naming convention. |
+| 6 | Folder placement | **PASS** — `series/01-the-fracture-protocol/concept-art/characters/`, unchanged from v3.0. |
+| 7 | Duplicate/orphan status | **PASS** — same Asset ID, same filename, in-place technical correction of the same delivery, not a new or colliding asset; no existing Registry entry silently superseded (none existed for this deliverable prior to this determination). |
+
+### Step 3 — Determination
+
+**APPROVED FOR REGISTRATION.** All seven technical checks pass. Creative content is unchanged from the Stage 1 PASS (Third Generation Review) — same design, same costume, same eye-glow, same expression, same rendering register — confirmed by construction, since no pixel content was altered beyond resampling and color-profile embedding. Stage 1 was **not** re-run, per this directive's own instruction; its original PASS determination is what carries forward.
+
+---
+
+## Asset Registration
+
+Per Phase 6K.0 §4 (Approval Authority) and the Two-Stage framework (v2.2): both stages now pass. **FPP-CHAR-001 (Concept Art — Primary Outfit) is registered as Approved.** See `documentation/Asset_Registry.md` for the updated entry and changelog.
+
+---
+
+## Retry Founder Review & Alignment Audit
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — the rebuild method is disclosed in full (resize + ICC embed from the existing source), not hidden behind a bare "APPROVED" claim; all seven checks re-measured directly from the rebuilt file's own bytes. |
+| Alignment Audit | PASS — no creative content altered (verified by construction: only resampling and color-profile embedding were performed); Stage 1 not re-run; no canon changed; no prompt changed; Kael not redesigned. |
+| Regression Verification | PASS — all four prior records (v1.0–v3.0) preserved unmodified above. |
+
+**Determination: PASS.** No canon contradiction, repository corruption, or governance conflict found.
+
+---
+
+## Retry Founder Approval
+
+**Approved 2026-07-20** following a clean PASS Founder Review & Alignment Audit. FPP-CHAR-001 (Concept Art — Primary Outfit, Calm State) is **Approved and registered**, the first Concept Art asset in this production to complete the full Two-Stage Validation and Asset Registry approval chain.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-19] Compiled per "Founder Directive — FPP-CHAR-001 Technical Certification & Asset Approval." Performed a precondition check before attempting any of the seven required technical checks: searched the target folder, the full repository, and git state for the original production file this directive's own "Use only" list requires. Found none — only the pre-existing, unrelated silhouette/proportion reference SVG exists. Determined neither "APPROVED FOR REGISTRATION" nor "TECHNICAL REVISION REQUIRED" applies, since both presuppose a file was actually checked; used the established "Cannot Proceed" category instead of fabricating technical results. Did not re-run Stage 1 Creative Validation, per this directive's own instruction — its PASS stands unaffected. No canon changed; no prompt changed; no asset registered. Identified the unchanged required next step: direct upload of the production file to this repository branch before Technical Certification can be attempted. Status: "Cannot Proceed — No Production File Delivered."`
 `[v2.0 — 2026-07-19] RETRIED with an image attached again, visually matching the already-Stage-1-passed third-generation image. A fresh precondition check confirmed, unchanged, that no file was delivered to this repository — only a chat attachment. Did not re-run Stage 1 (unaffected, still PASS); did not fabricate any Stage 2 technical result. Determination unchanged: Cannot Proceed — No Production File Delivered. Clarified explicitly that the only remaining requirement is the file itself, delivered to the repository — not a further chat-attached image, however many times submitted. FPP-CHAR-001 remains unregistered. Status: "Cannot Proceed — No Production File Delivered."`
 `[v3.0 — 2026-07-20] RETRIED per "Founder Directive — FPP-CHAR-001 Production File Ingestion & Technical Certification." A fresh repository check found a genuine new commit (f39fad1) with an actual delivered file, arriving at the repository root under a mangled filename (path separators converted to colons, filename component empty). Moved via git mv to the correct folder and naming convention, no re-encoding. Measured all seven checks directly from the file's own bytes: file integrity PASS; resolution FAIL (1254×1254px measured, 4000×4000px required); color space UNCONFIRMED (no iCCP/sRGB/gAMA chunk present, only an unrelated caBX content-credential chunk); file format PASS (valid PNG); naming and folder placement corrected via this ingestion pass itself; duplicate/orphan status PASS. Determined TECHNICAL REVISION REQUIRED — resolution fails outright and color space cannot be confirmed compliant. Did not register the asset. Did not re-run Stage 1 (unaffected). Identified the required next step: a corrected 4000×4000px master with a verifiable sRGB tag, delivered to the same now-corrected repository location. Status: "Technical Revision Required."`
+`[v4.0 — 2026-07-20] RETRIED per "Founder Directive — FPP-CHAR-001 Master File Technical Rebuild." Performed a purely technical rebuild of the same already-Stage-1-passed source file: resized to 4000×4000px via Lanczos resampling and embedded a standard, verifiable sRGB ICC profile (iCCP chunk) — no creative content altered, disclosed explicitly that this satisfies the pixel-dimension requirement via upscaling from a 1254px-native source, not a native high-resolution capture. Re-measured all seven checks directly from the rebuilt file's bytes: file integrity PASS, resolution PASS (4000×4000px exact), color space PASS (verifiable iCCP chunk present), file format PASS, naming convention PASS, folder placement PASS, duplicate/orphan status PASS. Determined APPROVED FOR REGISTRATION. Did not re-run Stage 1 — its original PASS carries forward unchanged. Registered FPP-CHAR-001 (Concept Art — Primary Outfit, Calm State) as Approved in the Asset Registry — the first Concept Art asset in this production to complete the full Two-Stage Validation and registration chain. Status: "Approved for Registration."`
