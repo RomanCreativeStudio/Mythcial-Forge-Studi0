@@ -276,7 +276,46 @@ Per the directive's explicit instruction, this section identifies shared product
 
 ---
 
+## Amendment v3.0 — Kael Legwear Design (New Costume Field)
+
+*(Appended 2026-07-20 per "Founder Directive — Phase 6B.3 Legwear Design Decision (Kael)," continuing from the FPP-CHAR-001 Lower-Body Canon Audit's confirmed finding that legwear/trousers were the only mandatory-blocking, entirely undefined costume element preventing Turnaround production. Everything above this line is preserved unmodified. No existing field is altered; this is a new field only.)*
+
+Section 2's Production Attributes table (§2, above) contains a dedicated row for every other major costume element — Boot Design, Belt Design, Collar Design, Sleeve Design, Glove Design — but none for legwear. This amendment adds that missing field, at the same style, detail level, and authority as those existing entries, logically positioned alongside Boot Design in the table above (not inserted into the original text, per the reopen-and-append method):
+
+| Field | Definition |
+|---|---|
+| **Legwear Design** | Practical, reinforced tactical trousers suited to Ward Station Seven's Lower Sector terrain and combat mobility, consistent with the same field-practical philosophy already Locked for Boot Design. Straight or tapered field-cut construction allowing full combat range of motion, tucked or fitted cleanly with the Boot Design already Locked above — no stylized, flared, or non-functional silhouette. Integrates with the practical Cadet silhouette already Locked in Phase 6B.2 without adding bulk or visual stylization. Follows the same muted-neutral palette already Locked in Color Distribution (grays, worn blues, earth tones) — no new color introduced. Utility carry (pockets, attachment points) follows the same general Storage Systems/Utility Elements philosophy already Locked above; exact pocket count, stitching, fabric weave, wrinkle behavior, and any cyan-accent placement are not specified here and remain Concept Art interpretation, consistent with how every other unLocked exact value in this document is already treated. Matte, practical texture, per the already-Locked Texture Distribution field — no glossy or attention-drawing surface treatment. Must not restrict the Animation Requirements already Locked in his Character Production Package (Section 7), and must remain compatible with future rigging/3D production reference, consistent with the Character Turnaround Production Standard's own orthographic-triad justification. |
+
+**No rank marker, insignia, or additional accessory is introduced by this field.** No equipment beyond what Storage Systems/Utility Elements already Locked is added. This field defines only that legwear exists, in what general register, and how it must integrate with what is already Locked — not its exact rendering.
+
+### Amendment v3.0 Compatibility Verification
+
+| Source | Result |
+|---|---|
+| Master System Prompt Section 4 `[LOCKED]` | PASS — no contradiction. Section 4's outfit description ("dark techwear... black/charcoal dominant palette... lightweight tactical elements") does not itself address legwear; this field extends, not contradicts, that description, staying within the same dominant palette. |
+| Kael Character Production Package | PASS — no equipment, weapon, or asset dependency invented; Section 9's own general "unspecified" note is unaffected and not resolved by this narrower field. |
+| `mythic-forge-art-bible/color-language.md` | PASS — no new color introduced; cyan/icy-blue's primary reservation to the eyes, and the outfit's own already-Locked subtle-accent allowance (Phase 6B.2 Amendment v1.3), are both left exactly as they already stand — this field neither mandates nor excludes a cyan accent on the legwear, leaving exact placement open as directed. |
+| `mythic-forge-art-bible/forbidden-elements.md` | PASS — no flat cel-shading cues, no fantasy signifiers, no decorative symbols, no glossy surface treatment introduced. |
+| `Fracture_Protocol_Phase6K0_Concept_Art_Governance_v1.0.md` (v2.2) | PASS — this amendment adds Costume Canon only; it does not touch Concept Art Approval Authority, the Two-Stage Validation framework, or any Concept Art process. |
+
+### Amendment v3.0 Founder Review & Alignment Audit
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — the new field matches the style, specificity, and authority level of the existing Boot Design, Belt Design, Collar Design, and Glove Design rows exactly; no exact stitching, wrinkle, weave, pocket count, or cyan placement specified, per this directive's own explicit instruction. |
+| Alignment Audit | PASS — Kael is not redesigned; no existing costume rule is altered (all prior fields, including Boot Design, Belt Design, and Color Distribution, are quoted and relied upon, never restated as new fact); the Prompt Library is not modified; no rank marker or equipment is invented. |
+| Regression Verification | PASS — all prior content (v1.0 original, v2.0 Amendment) preserved unmodified above; only this new field is appended. |
+
+**Determination: PASS.**
+
+### Amendment v3.0 Founder Approval
+
+**Approved 2026-07-20.** Kael's Legwear Design is now Locked Canon, at the same authority tier as Boot Design, Belt Design, Collar Design, and Glove Design. This document's LOCKED CANON status (2026-07-15) is otherwise unaffected; Mira, Cassian, and the Guardian entries are unchanged.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)," resolving the last shared production gap across all four active principal characters (Kael, Mira, Cassian, the Guardian; Titan remains excluded). Full costume canon built per the directive's 5-outfit + 32-field structure for each character, every decision traced to a cited Locked source. New direct screenplay evidence found and cited: Episode 1's "different uniform" dialogue line, confirming Kael's Primary/Secondary outfit distinction rather than requiring it to be inferred from role alone. Two deliberate non-inventions flagged rather than silently filled: Mira's Mission Outfit (protecting Phase 5A.2's deliberately-unspecified Episode 33 active-role mechanism) and Mira's Formal Outfit (genuinely absent from all Locked sources). The Guardian's apparent Costume-Breakdown-vs-costume-canon tension with its own Phase 6B.1 package is explicitly reasoned through: an unclothed "ordinary" humanoid would itself be distinctive, so a deliberately unremarkable single-register costume is the correct extension of Phase 6B.1, not a contradiction of it. Section 8 identifies shared-asset reuse opportunities (boots, belts, fasteners) without creating any asset. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS Founder Review & Alignment Audit. No blocking condition found. Status: "LOCKED CANON, effective immediately." Authoritative for all future costume/wardrobe production; all four Character Production Packages are being reopened and updated to apply this authority in separate, immediately following commits.`
 `[v2.0 — 2026-07-18] Amendment appended per "Founder Directive — Kael Prompt / Costume Canon Reconciliation" and the corresponding Phase 6B.2 v1.3 Amendment. Section 2's Color Distribution field (Kael) corrected to restore Master System Prompt Section 4's [LOCKED] "subtle cyan accents" outfit element, which the original 2026-07-15 text excluded by inheriting Phase 6B.2's then-uncorrected Color Philosophy rule without independently cross-checking the Master System Prompt. Original field preserved above, marked superseded. Eye-glow's primacy as the primary, dynamic cyan signal explicitly reaffirmed; no exact placement, shade, or extent invented. Mira, Cassian, and the Guardian entries unaffected. Status: "Approved."`
+`[v3.0 — 2026-07-20] Amendment appended per "Founder Directive — Phase 6B.3 Legwear Design Decision (Kael)," resolving the FPP-CHAR-001 Lower-Body Canon Audit's confirmed finding that legwear was the only mandatory-blocking, entirely undefined costume element preventing Turnaround production. Added a new Legwear Design field, at the same style/detail/authority level as the existing Boot Design, Belt Design, Collar Design, and Glove Design rows: practical, reinforced tactical trousers, field-cut for combat mobility, integrating with the already-Locked boots and Cadet silhouette, same muted-neutral palette, matte texture, no new color or decoration introduced. Exact stitching, wrinkle behavior, fabric weave, pocket count, and cyan-accent placement explicitly left as Concept Art interpretation, per the directive's own instruction. Verified compatible with the Master System Prompt, Kael's Character Production Package, color-language.md, forbidden-elements.md, and Phase 6K.0 v2.2 — no contradiction found on any axis. No rank marker, insignia, or equipment invented; no existing field altered; Prompt Library not modified; Kael not redesigned. Status: "Approved."`
