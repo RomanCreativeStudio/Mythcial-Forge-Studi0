@@ -102,5 +102,41 @@ Matching the location already established and used for every prior FPP-CHAR-001 
 
 ---
 
+## Amendment v2.0 — Framing Gap Resolved (Turnaround View Modifier Applied)
+
+*(Appended 2026-07-20 per "Founder Directive — Turnaround View Modifier Standard." Everything above this line — including the original, then-unresolved Step 1 prompt and Step 2 flag — is preserved unmodified as historical record.)*
+
+`Fracture_Protocol_Turnaround_View_Modifier_Standard_v1.0.md` now supplies the reusable Front View Modifier this package's original Step 2 identified as missing. The complete Final Production Prompt for FPP-CHAR-002 is the original Locked prompt with that modifier appended — the Base Prompt Template and Emotion Modifier remain exactly as Locked, unmodified:
+
+```
+Late teen to early adult male protagonist named Kael (17–20), semi-realistic anime
+cinematic style, futuristic dystopian megacity environment, dark techwear outfit
+with subtle cyan accents, glowing icy-blue cyan eyes, emotional expression focus,
+cinematic lighting, high detail face, shallow depth of field, moody atmosphere,
+sci-fi identity theme, soft stable eye glow, calm expression, gentle lighting,
+full-body front view, standing neutral reference pose, facing camera directly,
+orthographic character reference framing, feet visible, no dramatic angle or
+foreshortening
+```
+
+**Readiness determination: FPP-CHAR-002 is now fully ready for external generation.** No other item from the original Step 2 Verification changes — Character Canon, Costume Canon (including Legwear Design), Rendering Register, and Forbidden Elements all remain PASS as already established. Output Specifications, Naming Convention, and Folder Destination (Step 3, above) are unchanged.
+
+### Amendment Founder Review & Alignment Audit
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — the appended modifier is quoted exactly from the newly-Approved standard, not re-derived or altered. |
+| Alignment Audit | PASS — the Locked Base Prompt Template and Emotion Modifier are unmodified; only the already-authorized View Modifier is appended. |
+| Regression Verification | PASS — the original Step 1/Step 2 content is preserved unmodified above. |
+
+**Determination: PASS.**
+
+### Amendment Founder Approval
+
+**Approved 2026-07-20.** FPP-CHAR-002's Final Production Prompt is complete. **Still no artwork generated, no validation begun, no asset registered** — this amendment resolves the prompt-assembly gap only; external generation itself remains a separate, not-yet-taken step.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-20] Compiled per "Founder Directive — FPP-CHAR-002 Kael Turnaround (Front View)." Assembled the Locked Production Prompt verbatim (Base Prompt Template + Calm Emotion Modifier, unmodified), verified against current Locked Canon including the newly-added Phase 6B.3 v3.0 Legwear Design field — no contradiction found. Flagged a genuine, unresolved framing gap: the Locked prompt's own bust/portrait-oriented language ("high detail face, shallow depth of field") has produced only bust-crop output across all three prior generation attempts, while a true Front View orthographic Turnaround requires full-body coverage, and no Locked View/Framing Modifier exists anywhere to resolve this — recommended a future Founder Decision rather than inventing framing language unilaterally. Compiled Output Specifications (4000×4000px, PNG, sRGB), the Founder-directed naming convention (establishing FPP-CHAR-002 as a new, distinct Asset ID separate from FPP-CHAR-001, flagged rather than silently adopted), folder destination, and a Production Checklist disclosing the framing risk to any external generator. No artwork generated; no character redesigned; no asset registered; no validation begun. Status: "Compiled — Pending Founder Review."`
+`[v2.0 — 2026-07-20] Amendment appended per "Founder Directive — Turnaround View Modifier Standard." Applied the newly-Approved, reusable Front View Modifier to the original prompt, resolving the framing gap flagged in v1.0. Final Production Prompt now complete: Locked Base Prompt Template + Calm Emotion Modifier + Front View Modifier, in that order, with the first two unmodified from their Locked source. Determined FPP-CHAR-002 is now fully ready for external generation. No other Verification item changes. No artwork generated; no validation begun; no asset registered. Status: "Ready for External Generation."`
