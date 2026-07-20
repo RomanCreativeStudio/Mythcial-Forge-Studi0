@@ -48,5 +48,34 @@ Unchanged from every prior point this same gap has been flagged: the Founder (or
 
 ---
 
+## RETRY — Image Attached Again, Same Blocking Finding (2026-07-19)
+
+**Reopened 2026-07-19** with an image attached directly to the Founder's message, visually matching the third-generation image Stage 1 already passed. The v1.0 record above is preserved unmodified.
+
+A fresh precondition check (target folder, full repository, git state) was run before assuming anything had changed. **Finding: unchanged.** No file was delivered to this repository — the image again arrived as a chat attachment, not a branch upload. This is the same category of gap already established repeatedly in this production line (BRA-0001A's own delivery note; the Concept Art Production Capability Audit; the Ingestion Attempt; the v1.0 record above): a chat-attached image is visible to this session but is not a file this session can read bytes from, measure, or place at a path.
+
+**This is not a Stage 1 issue and Stage 1 was not re-run** — the image's creative content already passed review in the Third Generation Review, and nothing about that determination is affected. The blocker is exclusively that Stage 2, by Phase 6K.0 v2.2's own explicit text, requires "the original production file... not a chat-visible image," and no such file exists in this repository regardless of how many times the same or a similar image is attached to a message.
+
+**Determination: unchanged — Cannot Proceed — No Production File Delivered.** No technical check was attempted against this attachment for the same reason none was attempted against the first: there is nothing on disk to check. FPP-CHAR-001 remains unregistered.
+
+**What would actually resolve this:** the file itself — not a further chat attachment of the same or a similar image — delivered by commit/push or direct upload to `series/01-the-fracture-protocol/concept-art/characters/` in this repository. No number of additional chat-attached reviews can substitute for that one step.
+
+### Retry Founder Review & Alignment Audit
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — a fresh check was run rather than assuming the prior finding still held; the result is the same, confirmed, not carried forward blindly. |
+| Alignment Audit | PASS — no technical result fabricated; Stage 1 not re-run since its PASS is unaffected; no canon or prompt changed. |
+| Regression Verification | PASS — v1.0 preserved unmodified above. |
+
+**Determination: PASS on process; BLOCKED on certification.**
+
+### Retry Founder Approval
+
+**Approved 2026-07-19** as a **repeat blocked certification attempt**. FPP-CHAR-001 remains unregistered. Stage 1's PASS is unaffected.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-19] Compiled per "Founder Directive — FPP-CHAR-001 Technical Certification & Asset Approval." Performed a precondition check before attempting any of the seven required technical checks: searched the target folder, the full repository, and git state for the original production file this directive's own "Use only" list requires. Found none — only the pre-existing, unrelated silhouette/proportion reference SVG exists. Determined neither "APPROVED FOR REGISTRATION" nor "TECHNICAL REVISION REQUIRED" applies, since both presuppose a file was actually checked; used the established "Cannot Proceed" category instead of fabricating technical results. Did not re-run Stage 1 Creative Validation, per this directive's own instruction — its PASS stands unaffected. No canon changed; no prompt changed; no asset registered. Identified the unchanged required next step: direct upload of the production file to this repository branch before Technical Certification can be attempted. Status: "Cannot Proceed — No Production File Delivered."`
+`[v2.0 — 2026-07-19] RETRIED with an image attached again, visually matching the already-Stage-1-passed third-generation image. A fresh precondition check confirmed, unchanged, that no file was delivered to this repository — only a chat attachment. Did not re-run Stage 1 (unaffected, still PASS); did not fabricate any Stage 2 technical result. Determination unchanged: Cannot Proceed — No Production File Delivered. Clarified explicitly that the only remaining requirement is the file itself, delivered to the repository — not a further chat-attached image, however many times submitted. FPP-CHAR-001 remains unregistered. Status: "Cannot Proceed — No Production File Delivered."`
