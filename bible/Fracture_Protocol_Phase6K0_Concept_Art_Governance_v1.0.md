@@ -185,3 +185,52 @@ Section 3's original v1.0 language ("a single consistent color-management profil
 
 ### Changelog (Cross-Reference Note)
 `[v2.1 — 2026-07-18] Cross-reference note appended per "Founder Decision — Concept Art Standard Canon Placement." Closed Section 3's own stale "not yet Locked" flag at the Phase 6K governance layer by citing the newly Approved Technical Standard Decision (category-specific Resolution Standards, universal sRGB Color-Management Standard). Confirmed these standards were evaluated for promotion to Art Bible Locked Canon and explicitly declined for now, per the Canon Placement Decision's own reasoning (administrative, unvalidated, one explicitly provisional figure). No Art Bible file modified. Status: "Approved."`
+
+---
+
+## Amendment v2.2 — Two-Stage Validation and Founder-Attached Delivery
+
+*(Appended 2026-07-19 per "Founder Decision — External Concept Art Delivery." Everything above this line is preserved unmodified.)*
+
+This amendment resolves the delivery-method question first surfaced in `Fracture_Protocol_FPP_CHAR_001_Ingestion_Attempt_v1.0.md` (v2.0, Step 0): whether a Concept Art image attached directly within Founder review may be treated as a valid input to any part of the Approval Authority chain (§4, above), given this session's own confirmed, standing inability to export a chat-submitted image to a file on disk.
+
+**Decision, stated in full:** A Concept Art image attached directly within Founder review is now an **authorized review deliverable**. Approval Authority (§4) is divided into two distinct stages, each with its own valid input:
+
+**Stage 1 — Creative Validation.** May proceed using a Founder-attached image, without that image existing as a file in this repository. Covers:
+- Canon Compliance
+- Character Compliance
+- Costume Compliance
+- Rendering Register
+- Forbidden Elements
+- Overall Artistic Direction
+
+**Stage 2 — Technical Certification.** Requires the original production file — an actual file this session (or the Founder) can measure and place, not a chat-visible image — **before Asset Registry approval**. Covers:
+- Resolution
+- File Format
+- Color Space
+- Naming Convention
+- Folder Placement
+- File Integrity
+
+**Sequencing:** Stage 1 may be completed on a Founder-attached image alone and stands as valid, final Creative Validation once passed — it does not need to be repeated once the original production file is later delivered for Stage 2, unless the delivered file is not the same image Stage 1 reviewed. **No asset may be registered in `documentation/Asset_Registry.md` until both stages pass.** A Stage 1 pass alone is not sufficient for registration, consistent with §4's own unchanged rule that no concept art is "real" until logged in the Registry.
+
+**Retroactive application, not reopening:** `Fracture_Protocol_FPP_CHAR_001_Ingestion_Attempt_v1.0.md` (v2.0)'s review of the Founder-attached image already performed exactly this kind of assessment (Canon Compliance, Character Compliance, Costume Compliance, Rendering Register, Forbidden Elements) before this amendment formally authorized the method. That review's findings stand and require no rework — this amendment confirms the method was sound, it does not retroactively alter the review's own Revision Required determination.
+
+**This decision applies to all future Concept Art production** unless superseded by a later Founder Directive, per the Founder Decision's own explicit scope statement.
+
+### Amendment v2.2 Founder Review & Alignment Audit
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — the decision is transcribed exactly as issued, with no added interpretation beyond mapping it onto the existing §4 Approval Authority structure. |
+| Alignment Audit | PASS — no Approval Authority requirement is removed, only sequenced into two stages; the Registry's own "no asset is real until logged" rule is preserved unchanged; the prior Ingestion Attempt's Revision Required finding is confirmed valid, not overturned. |
+| Regression Verification | PASS — all prior sections and amendments (v1.0/v1.1 original; v2.0 Rendering-Register Reconciliation; v2.1 Cross-Reference Note) preserved unmodified above. |
+
+**Determination: PASS.**
+
+### Amendment v2.2 Founder Approval
+
+**Approved 2026-07-19.** The Two-Stage Validation structure and Founder-attached-image authorization above are Locked, effective immediately, governing all future Concept Art Approval Authority under this document until superseded.
+
+### Changelog (Amendment v2.2)
+`[v2.2 — 2026-07-19] Amendment appended per "Founder Decision — External Concept Art Delivery." Divided Approval Authority (§4) into Stage 1 (Creative Validation: Canon Compliance, Character Compliance, Costume Compliance, Rendering Register, Forbidden Elements, Overall Artistic Direction — may proceed on a Founder-attached image) and Stage 2 (Technical Certification: Resolution, File Format, Color Space, Naming Convention, Folder Placement, File Integrity — requires the original production file, required before Asset Registry approval). Resolves the delivery-method question first flagged in the FPP-CHAR-001 Ingestion Attempt v2.0. Confirmed the prior Ingestion Attempt's Stage-1-equivalent review and its Revision Required finding remain valid and require no rework. Applies to all future Concept Art production unless superseded. Status: "Approved."`

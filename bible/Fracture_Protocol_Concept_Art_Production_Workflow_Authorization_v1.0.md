@@ -70,3 +70,34 @@ Failure at any checkpoint stops registration and Approval; the specific failure 
 
 ### Changelog
 `[v1.0 — 2026-07-18] Compiled per "Founder Directive — Concept Art Production Workflow Authorization," continuing from Phase 6K.0 v2.1, the Concept Art Technical Standards Authorization, the Concept Art Capability Audit, and the FPP-CHAR-001 Kael Concept Art Exploration. Evaluated three options: Option A (internal AI-assisted) rejected as currently non-viable, per the Capability Audit's own confirmed absence of an internal image-generation tool; Option B (external production, controlled ingestion) selected, directly modeled on the already-proven BRA-0001A precedent in this repository; no distinct Option C identified, with internal silhouette/proportion exploration work folded into Option B's own supporting pre-visualization tier rather than treated as a separate path. Documented a six-step production path (scope directive, Locked-prompt assembly, external generation, direct delivery, ingestion pass, full Phase 6K.0 §4 approval chain) and six validation checkpoints (file integrity, canon compliance, Forbidden Elements compliance, rendering-register compliance, technical-standard compliance, duplicate/orphan check). No artwork created; no asset approved; no visual standard lowered; no canon modified. Status: "Approved."`
+
+---
+
+## Amendment v1.1 — Two-Stage Validation (Founder-Attached Delivery)
+
+*(Appended 2026-07-19 per "Founder Decision — External Concept Art Delivery" and Phase 6K.0's own Amendment v2.2. Everything above this line is preserved unmodified.)*
+
+Step 4 (Direct delivery) and the six Validation Checkpoints above are now split into two stages, per Phase 6K.0 v2.2:
+
+**Stage 1 — Creative Validation.** May be performed against a Concept Art image attached directly within Founder review, without that image existing as a repository file. Maps to Checkpoints 2 (Canon compliance), 3 (Forbidden Elements compliance), and 4 (Rendering register compliance) above, plus Character Compliance, Costume Compliance, and Overall Artistic Direction as sub-elements of Canon compliance.
+
+**Stage 2 — Technical Certification.** Requires the original production file delivered by direct upload to the repository branch, exactly as Step 4 already specified — this requirement is unchanged and unrelaxed. Maps to Checkpoints 1 (File integrity), 5 (Technical standard compliance), and 6 (No duplicate or orphaned asset) above, plus Naming Convention and Folder Placement as sub-elements of Checkpoint 6.
+
+**No asset may be registered until both stages pass.** Stage 1 passing on a Founder-attached image does not itself satisfy Step 4 or authorize registration — Stage 2 remains mandatory and unchanged. This amendment reclassifies the existing six checkpoints into two sequenced stages; it does not remove, weaken, or add any checkpoint.
+
+### Amendment v1.1 Founder Review & Alignment Audit
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — every original checkpoint is preserved and mapped, not altered; the reclassification matches Phase 6K.0 Amendment v2.2 exactly. |
+| Alignment Audit | PASS — no checkpoint removed or weakened; Stage 2's file-delivery requirement is explicitly unrelaxed. |
+| Regression Verification | PASS — original v1.0 content (Documented Production Path, six checkpoints) preserved unmodified above. |
+
+**Determination: PASS.**
+
+### Amendment v1.1 Founder Approval
+
+**Approved 2026-07-19.** The Two-Stage Validation structure above governs all future Concept Art ingestion under this Workflow Authorization, consistent with Phase 6K.0 Amendment v2.2.
+
+### Changelog (Amendment v1.1)
+`[v1.1 — 2026-07-19] Amendment appended per "Founder Decision — External Concept Art Delivery," mirroring Phase 6K.0's own Amendment v2.2. Reclassified the existing six Validation Checkpoints into Stage 1 (Creative Validation: canon/character/costume/rendering-register/forbidden-elements/artistic-direction — may proceed on a Founder-attached image) and Stage 2 (Technical Certification: file integrity/resolution/color-space/naming/folder-placement — requires the original production file, unchanged from Step 4's existing delivery requirement). No checkpoint removed, weakened, or added. Status: "Approved."`
