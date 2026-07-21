@@ -138,5 +138,51 @@ Per Phase 6K.0 v2.2's Two-Stage framework: Stage 1 (Creative Validation, the eig
 
 ---
 
+## Amendment v2.0 — Reconfirmation Against Phase 1.3A/1.3B and Itemized Forbidden Elements
+
+**Reopened 2026-07-21** per "Founder Directive — FPP-ART-001 External Production Package (Mira Primary Outfit Concept Art — Calm State)," received after this package's original v1.0 compilation and after two newly Locked documents this v1.0 predates: `Fracture_Protocol_Mira_Visual_Identity_Specification_v1.0.md` (LOCKED — Phase 1.3A) and `Fracture_Protocol_Mira_Costume_Visual_Integration_Audit_v1.0.md` (Phase 1.3B, PASS). **This is the same asset, FPP-ART-001 — reopened and appended, not duplicated as a second competing package.** Everything above this line is preserved unmodified.
+
+**Citation discrepancy, flagged rather than silently substituted:** this directive's own "Continue from" list cites `Fracture_Protocol_Phase6B3_Costume_Design_Mira_v1.0.md`. No file with that name exists anywhere in the repository. The actual, correct source is `Fracture_Protocol_Phase6B3_Costume_Wardrobe_Visual_Canon_v1.0.md`, Section 3 (Mira Costume Canon) — already cited correctly in this package's own Absolute Authority chain and Section 3 verification table above. Treated as an informal/misremembered filename reference, not a request for a different document; the content requested (Mira's Locked Costume Canon) is unaffected.
+
+**Final Production Prompt: unchanged.** The Locked Mira Base Prompt Template and Calm Emotion Modifier have not changed since v1.0 (still `prompt-library.md` v3.1) — Section 2's prompt above remains current and is not re-quoted here.
+
+**Re-verification against the two newly Locked documents:**
+
+| Check | Result |
+|---|---|
+| Consistent with Visual Identity Specification (Phase 1.3A) | PASS — the prompt's "ordinary steady human eyes," "high-detail hands," and "of Spanish heritage" all fall within the Specification's own defined ranges (Sections 1C, 1F, 1D); no fixed hair/eye/skin value is asserted by the prompt, consistent with the Specification's own range-not-fixed-value method. |
+| Consistent with Costume Visual Integration Audit (Phase 1.3B) | PASS — the audit's own Concept Art Readiness determination was **READY FOR FPP-ART-001**, confirming every input this package depends on (physical/build canon, costume canon, prompt infrastructure, Asset ID namespace) was already complete at the time of that audit. |
+
+**Itemized Forbidden Elements check, per this directive's own explicit list** (more granular than v1.0's general Forbidden Elements row, verified individually against the assembled prompt text):
+
+| Forbidden item | Result |
+|---|---|
+| Dark Ward armor aesthetic | **PASS — absent.** The prompt specifies "practical civilian work-wear," structurally and coloristically distinct from Kael's tactical Ward silhouette (Phase 1.3B, Section 3). |
+| Cyan accents | **PASS — absent.** Confirmed by direct text search; zero cyan/icy-blue language anywhere. |
+| Glowing elements | **PASS — absent.** "Ordinary steady human eyes" explicitly excludes any glow; no lit or illuminated element specified anywhere. |
+| Logos | **PASS — absent.** Not present in the prompt text; also a standing post-generation Canon Compliance criterion for the future Creative Validation pass. |
+| Insignia | **PASS — absent.** Same as Logos. |
+| Symbols | **PASS — absent.** Same as Logos. |
+| Branding | **PASS — absent.** Same as Logos. |
+
+**"First generation establishes consistent interpretation" rule, confirmed already governed, not newly created here:** this directive's own Step 2 states the first Concept Art generation may establish a consistent interpretation within the approved hair/eye/skin range, to be held thereafter. This is not a new rule — it restates `Fracture_Protocol_Mira_Visual_Identity_Specification_v1.0.md`, Section 1D's own Visual Consistency Rule ("Whichever specific tone is selected at first Concept Art finalization becomes the binding reference for all subsequent assets") and Section 1C/1B's equivalent range language for eyes and hair. No new canon is created by restating it here.
+
+### Amendment Founder Review & Alignment Audit
+
+| Audit type | Result |
+|---|---|
+| Founder Review | PASS — the citation discrepancy was checked directly (file search), not silently resolved; both newly Locked documents were re-verified against this specific package rather than assumed compatible. |
+| Alignment Audit | PASS — no artwork generated; no asset registered; no canon modified; Prompt Library not modified; the Final Production Prompt is unchanged, not re-derived. |
+| Regression Verification | PASS — all v1.0 content preserved unmodified above; this is the same FPP-ART-001 package, reopened once, not a second competing document. |
+
+**Determination: PASS.**
+
+### Amendment Founder Approval
+
+**Pending Founder Review**, unchanged from v1.0 — this amendment adds confirming cross-references and an itemized Forbidden Elements check; it does not itself advance FPP-ART-001's status. **No artwork exists yet. FPP-ART-001 remains unapproved and unregistered.**
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-21] Compiled per "Founder Directive — Phase 1.3: Mira External Production Package (Primary Outfit — Calm)," Mira's first Concept Art asset and the first asset ever issued under the FPP-ART-XXXX namespace (FPP-ART-001), continuing from the Approved Asset Identifier Governance Standard, Mira Prompt Foundation, and Spanish Heritage Canon Amendment. Assembled the Final Production Prompt from the Locked Mira Base Prompt Template (v3.1, including the Spanish heritage clause) and the Locked Calm Emotion Modifier, verbatim, no View Modifier. Verified against Mira Identity Requirements, Costume Canon, Color Language, the Ancestry-Informed Physical Range amendment, Rendering Register, and Forbidden Elements — no contradiction found; confirmed by direct text search that no Kael-specific visual language (eye-glow, Signal effects, cyan lighting, glitch effects, technological markings) appears anywhere in the prompt. Set Production Format (portrait-focused Concept Art reference, no props), Output Specifications (4000×4000px, PNG, sRGB), the new FPP-ART-001 naming convention, and the shared folder destination. Built an eight-item Validation Preparation checklist for the future, separate review pass. No artwork generated; no character redesigned; no asset registered; no canon modified; Prompt Library not modified; no additional emotion state created; no unsupported physical trait added. Status: "Compiled — Pending Founder Review."`
+`[v2.0 — 2026-07-21] Reopened per "Founder Directive — FPP-ART-001 External Production Package (Mira Primary Outfit Concept Art — Calm State)," received after two newly Locked documents this package's v1.0 predates: the Mira Visual Identity Specification (Phase 1.3A) and the Mira Costume Visual Integration Audit (Phase 1.3B, READY FOR FPP-ART-001). Flagged a citation discrepancy rather than silently substituting: the directive's cited "Fracture_Protocol_Phase6B3_Costume_Design_Mira_v1.0.md" does not exist; the correct source is Fracture_Protocol_Phase6B3_Costume_Wardrobe_Visual_Canon_v1.0.md §3, already correctly cited in this package's own authority chain. Re-verified the unchanged Final Production Prompt against both newly Locked documents — PASS on both. Performed a more granular, itemized Forbidden Elements check (Dark Ward armor aesthetic, cyan accents, glowing elements, logos, insignia, symbols, branding) against the assembled prompt text, per this directive's own explicit list — all PASS, absent. Confirmed the directive's "first generation establishes a consistent interpretation within the approved range" instruction restates, rather than newly creates, the Visual Identity Specification's own already-Locked Visual Consistency Rule. This is the same FPP-ART-001 package, reopened once — not a second, competing document. No artwork generated; no asset registered; no canon modified; Prompt Library not modified. Status: "Compiled — Pending Founder Review" (unchanged).`
