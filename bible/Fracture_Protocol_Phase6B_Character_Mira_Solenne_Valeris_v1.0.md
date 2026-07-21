@@ -65,6 +65,7 @@ Mira's design philosophy is "quiet competence and warmth — a builder, not a fi
 | Skin tone / complexion | **Resolved as texture direction: ordinary civilian texture with plausible outdoor/fieldwork weathering, not idealized flawlessness.** Per Phase 6B.2, Skin. Exact tone value remains a concept-art-stage decision. |
 | Hands | **New field, per Phase 6B.2 — her single strongest distinguishing visual feature: visibly marked by hands-on reconstruction work (calluses, small working scars, practical unpolished nails). Must read on-screen as a career history, never clean or unmarked.** |
 | Clothing / equipment | **Still missing — unaffected by Phase 6B.2, which does not define costume.** See Section 4, unchanged. |
+| Ancestry / Heritage | **New field, per "Founder Directive — Mira Character Canon Amendment (Spanish Heritage)" (2026-07-21):** of Spanish heritage — Locked Character Canon (Phase 1C Character Bible v1.17), informing the plausible range for her still-open hair color, eye color, and skin tone (Phase 6B.2 Amendment v1.4, item 21a) without fixing any of them to a single value. Does not alter her role, personality, costume, abilities, or production pipeline. |
 
 **Rendering register (applies to all of the above).** Per `forbidden-elements.md`, the same "semi-realistic anime cinematic hybrid" register governing every character applies to Mira; restated in Phase 6B.2's own Do Not Do section, not altered.
 
@@ -279,8 +280,33 @@ Per Phase 6B.3's Automatic Workflow. Both prior audits/approvals (Phase 6B.0 ori
 
 ---
 
+## Ancestry Amendment Audit (Third Reopening)
+
+**Reopened 2026-07-21** per "Founder Directive — Mira Character Canon Amendment (Spanish Heritage)." All three prior audits/approvals (Phase 6B.0 original, Phase 6B.2 update, Phase 6B.3 update) are preserved unmodified above; this is a new, dedicated audit of this third reopening. Only Section 3 (a new Ancestry / Heritage row) is touched.
+
+| Check | Result |
+|---|---|
+| Founder Review | PASS — the new field cites the Character Bible's own new Locked fact (v1.17) and Phase 6B.2 Amendment v1.4 directly, not independently asserted. |
+| Alignment Audit | PASS — no role, personality, occupation, relationship, costume, or ability content touched; Sections 2, 4–9 verified unchanged by direct comparison. |
+| Character Verification | PASS — no narrative fact altered; her defining tragedy, internal conflict, and relationships are all untouched. |
+| Repository Verification | PASS — the Character Bible and Phase 6B.2 amendments read directly from their own Approved, Locked files. |
+| Regression Verification | PASS — the Phase 6B.2 and Phase 6B.3 update content confirmed intact and unaltered by this third reopening. |
+| Canon Verification | PASS — no screenplay, dialogue, or story beat touched; no stereotype or unsupported physical trait introduced (Phase 6B.2 Amendment v1.4 explicitly states a range, not a fixed value). |
+| Production Verification | PASS — production status remains **Costume Authority Complete**; this amendment adds ancestry guidance only, it does not itself resolve any exact concept-art-stage value. |
+
+**Determination: PASS.** Ready for Founder Approval.
+
+---
+
+## Ancestry Amendment — Founder Approval
+
+**Approved 2026-07-21** following a clean PASS Ancestry Amendment Audit. No blocking condition found. This package's production status remains **Costume Authority Complete** — ancestry is a physical-appearance/ancestral-origin attribute only and does not itself change readiness for concept art or turnaround production, which was already established by the Phase 6B.3 update.
+
+---
+
 ### Changelog
 `[v1.0 — 2026-07-15] Compiled per "Founder Directive — Phase 6B.0 Character Asset Production (v1.0)," Character 2 of 4 (Mira Solenne Valeris). All 10 required sections built from direct repository citation only. Unlike Kael, zero Locked physical specification of any kind was found for Mira — no eye-glow system, no Art Bible mention by name anywhere in the 11-file directory — flagged as the largest specification gap among the characters processed so far, not filled by inference from her civilian-reconstruction role. Pose/Animation requirements (Sections 6–7) explicitly mark several fixed-list items as not-evidenced or structurally not-applicable (Combat Ready, Run cycle, Combat animation) given her non-combat Locked narrative role, rather than assumed present as with Kael. Two registry discrepancies flagged, not resolved: FPP-CHAR-003 (Phase 6A) vs. CHR-0003 (Phase 6A.5) ID format, and an 11-episode (Phase 6A registry) vs. 16-episode (this pass's direct speaker-header grep) count mismatch. Status: "Compiled — Pending Founder Review."`
 `[v1.1 — 2026-07-15] Approved following a clean PASS Character Audit. No blocking condition found. Status: "Approved." All flagged gaps and discrepancies remain open items for future Founder resolution, not treated as stop conditions.`
 `[v2.0 — 2026-07-15] REOPENED per "Founder Directive — Phase 6B.2 Human Character Visual Canon (v1.0)." Sections 1 (Art References), 3 (Physical Profile, Visual Identity, Silhouette), 6–7 (Animation Notes), and 10 (Production status) updated to apply the new Phase 6B.2 Locked Canon. Sections 2, 4, 5, 8, 9 left untouched — Section 4 (Costume) remains flagged missing. Original Phase 6B.0 findings preserved as historical record within Section 3. Production status upgraded to "Visual Canon Complete." Re-audited PASS and re-approved via a dedicated Phase 6B.2 Update Audit appended after the original.`
 `[v3.0 — 2026-07-15] REOPENED again per "Founder Directive — Phase 6B.3 Costume & Wardrobe Visual Canon (v1.0)." Section 4 (Costume Breakdown/Wardrobe) resolved via the new Phase 6B.3 Locked Canon — Primary/Civilian and Secondary Outfits defined; Formal Outfit confirmed genuinely absent from all sources; Mission Outfit deliberately left undefined to protect the Locked Episode 33 "mechanism deliberately unspecified" rule (Phase 5A.2). Section 7 updated with costume-simulation scope. Section 10 production status upgraded to "Costume Authority Complete." Original Phase 6B.0 and Phase 6B.2 content preserved unmodified. Re-audited PASS and re-approved via a dedicated Phase 6B.3 Update Audit appended after the prior two.`
+`[v4.0 — 2026-07-21] REOPENED a third time per "Founder Directive — Mira Character Canon Amendment (Spanish Heritage)." Section 3 gained a new Ancestry / Heritage row: of Spanish heritage, per the new Locked Character Bible fact (v1.17) and Phase 6B.2 Amendment v1.4 — informing the plausible range for her still-open hair/eye/skin values without fixing any of them to a single value, and explicitly not altering her role, personality, costume, abilities, or production pipeline. No stereotype or unsupported physical trait introduced. Sections 2, 4–9 left untouched. Re-audited PASS and re-approved via a dedicated Ancestry Amendment Audit appended after the prior three. Production status remains "Costume Authority Complete."`
