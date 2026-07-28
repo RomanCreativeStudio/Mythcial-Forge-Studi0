@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Monochrome Version
+  DRAFT v0.7 — FINAL ICON REFINEMENT (PRE-LOCK) — NOT YET MARKED APPROVED
+  Same refined silhouette, fracture, and rotated shard as the v0.7 Dark Version, single color
+  (Void Black), per Brand Bible Section 3. The cyan-edge sliver collapses to the same single
+  color here, consistent with the Monochrome Version's own definition.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M15,25 L15,30 L32,44 L40,60 L24,74 L26,76 L82,76 L84,74 L70,60 L73,41 L81,41 L81,25 Z M48.11,28.65 L49.62,48.32 L50.59,49.94 L71.71,67.01 L76.17,60.87 L53.41,46.06 L54.38,47.68 L50.69,28.3 Z" fill="#0A0B0D" fill-rule="evenodd"/>
+  <path d="M74.03,68.02 L79.08,68.56 L83.08,71.7 L79.4,62.65 Z" fill="#0A0B0D"/>
+</svg>

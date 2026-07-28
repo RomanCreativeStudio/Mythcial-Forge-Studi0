@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Dark Version
+  DRAFT v0.9 — FOUNDER DIRECTION: SINGLE DIAGONAL FRACTURE — NOT YET MARKED APPROVED
+  Anvil silhouette UNCHANGED. Fracture replaced per explicit Founder Direction Override:
+  ONE continuous straight diagonal, top-left edge (28,25.5) to bottom-right edge (70,76),
+  50.3° angle, zero kinks — verified computationally to stay inside the mass for its entire
+  length before building (checked against every boundary edge, not assumed). Gap tapers
+  narrow-to-wide (half-width 1.3 to 3.4) along the single path. Shard falls beyond the
+  bottom-right exit, same validated rotate + steel-white-with-cyan-edge technique from v0.7/v0.8.
+  This is a fracture-geometry-only change — mass, color, typography, and layout are untouched.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="0" y="0" width="100" height="100" fill="#0A0B0D"/>
+  <path d="M15,25 L15,30 L32,44 L40,60 L24,74 L26,76 L82,76 L84,74 L70,60 L73,41 L81,41 L81,25 Z M28.92,28.64 L67.39,78.17 L72.61,73.83 L30.92,26.98 Z" fill="#F5F7FA" fill-rule="evenodd"/>
+  <path d="M69.04,79.49 L73.34,80.94 L76.14,84.51 L74.83,75.91 Z" fill="#F5F7FA"/>
+  <path d="M69.04,79.49 L70.76,80.07 L75.25,78.66 L74.83,75.91 Z" fill="#00E5FF"/>
+</svg>

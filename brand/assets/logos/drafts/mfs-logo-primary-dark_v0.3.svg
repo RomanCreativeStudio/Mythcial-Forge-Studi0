@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Primary Lockup, Dark Version
+  DRAFT v0.3 — CONCEPT REFINEMENT PASS — NOT APPROVED — NOT THE FINAL LOCKED ASSET
+  v0.3 anvil icon + wordmark. Canvas/font-size carried over from the v0.2 clipping fix
+  (520 wide, 30px wordmark) — re-verified by render below, not assumed to still work
+  just because it worked for the old icon shape.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120">
+  <rect x="0" y="0" width="520" height="120" fill="#0A0B0D"/>
+  <g transform="translate(10,10) scale(0.9)">
+    <path d="M8,36 L26,28 L26,26 L76,26 L76,42 L60,42 L66,60 L80,74 L78,76 L22,76 L20,74 L36,60 L42,42 L26,42 Z M40.03,29.37 L43.53,50.41 L44.68,52.12 L71.33,68.78 L73.98,64.54 L47.32,47.88 L48.47,49.59 L44.96,28.55 Z" fill="#F5F7FA" fill-rule="evenodd"/>
+    <path d="M71.33,68.78 L80.29,71.43 L73.98,64.54 Z" fill="#00E5FF"/>
+  </g>
+  <text x="130" y="60" font-family="'Space Grotesk', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700" fill="#F5F7FA">MYTHIC FORGE</text>
+  <text x="130" y="86" font-family="'Space Grotesk', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" letter-spacing="3" fill="#F5F7FA">STUDIOS</text>
+</svg>

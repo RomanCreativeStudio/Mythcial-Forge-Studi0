@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Monochrome Version
+  DRAFT v0.2 — REFINEMENT PASS — NOT APPROVED — NOT THE FINAL LOCKED ASSET
+  Fixes the v0.1 finding (fracture fully invisible against a same-color fill): the fracture
+  is now a knocked-out gap through the solid mass, so it reads as an empty channel regardless
+  of color mode — no color contrast is required for legibility, only geometric contrast.
+  The escape shard is solid mass-color, fully outside the silhouette, visible by outline
+  against the empty background rather than by hue.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M30,26 L32,24 L68,24 L70,26 L70,58 L82,58 L82,74 L80,76 L20,76 L18,74 L18,58 L30,58 Z M31.66,41.14 L60.14,54.46 L59.77,54.25 L82,69.75 L82,63.65 L62.63,50.15 L62.26,49.94 L33.78,36.61 Z" fill="#0A0B0D" fill-rule="evenodd"/>
+  <path d="M82,69.75 L88.56,71.27 L82,63.65 Z" fill="#0A0B0D"/>
+</svg>

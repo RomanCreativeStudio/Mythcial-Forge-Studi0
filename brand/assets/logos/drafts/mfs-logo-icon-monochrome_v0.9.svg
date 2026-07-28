@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Monochrome Version
+  DRAFT v0.9 — FOUNDER DIRECTION: SINGLE DIAGONAL FRACTURE — NOT YET MARKED APPROVED
+  Same single-diagonal fracture and shard as the v0.9 Dark Version, single color (Void Black),
+  per Brand Bible Section 3.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M15,25 L15,30 L32,44 L40,60 L24,74 L26,76 L82,76 L84,74 L70,60 L73,41 L81,41 L81,25 Z M28.92,28.64 L67.39,78.17 L72.61,73.83 L30.92,26.98 Z" fill="#0A0B0D" fill-rule="evenodd"/>
+  <path d="M69.04,79.49 L73.34,80.94 L76.14,84.51 L74.83,75.91 Z" fill="#0A0B0D"/>
+</svg>

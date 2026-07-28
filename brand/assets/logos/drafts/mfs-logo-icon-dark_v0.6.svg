@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Dark Version
+  DRAFT v0.6 — FRACTURE REFINEMENT PASS — NOT YET MARKED APPROVED
+  Anvil silhouette UNCHANGED from v0.5 (approved as the foundation, not touched). This pass
+  only rebuilds the fracture's construction so it reads as a true structural break rather
+  than a decorative line:
+  (1) the gap now TAPERS — narrow at the entry (half-width 1.3, "compression where force
+      begins") to wide at the exit (half-width 3.8, "widening where material separates"),
+      instead of v0.1-v0.5's constant 2.5 half-width channel;
+  (2) the cyan shard is now physically DETACHED from the mass by a 3-unit gap along the
+      fracture's exit direction, so it reads as a fragment that has broken free rather than
+      a continuation of the crack — this is the direct fix for "no longer the continuation
+      of the crack... should feel like it broke free."
+  The fracture's centerline (entry, kink, exit) and the shard's single facet are otherwise
+  unchanged from v0.5 — same validated technique, different width/attachment parameters only.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="0" y="0" width="100" height="100" fill="#0A0B0D"/>
+  <path d="M15,25 L15,30 L32,44 L40,60 L24,74 L26,76 L82,76 L84,74 L70,60 L73,41 L81,41 L81,25 Z M48.11,28.65 L49.62,48.32 L50.59,49.94 L71.71,67.01 L76.17,60.87 L53.41,46.06 L54.38,47.68 L50.69,28.3 Z" fill="#F5F7FA" fill-rule="evenodd"/>
+  <path d="M74.13,68.78 L79.21,68.52 L83.65,70.99 L78.6,62.63 Z" fill="#00E5FF"/>
+</svg>

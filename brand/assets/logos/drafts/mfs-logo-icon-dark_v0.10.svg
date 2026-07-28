@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BRA-0001 — Primary Logo Master — Icon Only, Dark Version
+  DRAFT v0.10 — REFERENCE-TRACE GEOMETRY REBUILD — NOT YET MARKED APPROVED
+  Alternative candidate to v0.9, built per explicit "BRA-0001 FINAL LOGO PRODUCTION
+  CONVERSION" instruction: trace the submitted photorealistic reference image's
+  silhouette, fracture, and shard as the literal source of truth, converted to pure
+  flat-vector construction. Changes from v0.9: horn rebuilt as a smooth curve (was
+  angular), a rounded arch cutout added to the base (present in the reference, absent
+  from v0.1-v0.9), fracture rebuilt as a jagged 4-segment path (was a single diagonal),
+  shard relocated to the new exit point. Mass silhouette built as one simple path;
+  fracture is a true knocked-out hole (second subpath, fill-rule="evenodd"), not a
+  stroke. Every segment of the fracture centerline was verified by ray-segment
+  intersection to stay inside the mass boundary before this file was built. Zero
+  gradients, filters, blurs, or shadows — grep-verified. See the v0.10 Review Package
+  for the full comparison against v0.9, including a measured 16px legibility
+  regression this jaggedness introduces relative to v0.9's single-diagonal fracture.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="0" y="0" width="100" height="100" fill="#0A0B0D"/>
+  <path d="M8,42 C12,34 18,29 27,27 L79,27 L79,43 L71,56 L83,73 L81,77 L58,77 C58,68 42,68 42,77 L23,77 L21,73 L33,56 C25,54 15,50 8,42 Z M48.93,27.46 L42.33,40.31 L52.84,50.4 L47.36,60.58 L67.94,78.58 L72.06,73.42 L52.64,59.42 L57.16,49.6 L45.67,39.69 L51.07,28.54 Z" fill="#F5F7FA" fill-rule="evenodd"/>
+  <path d="M70.0,80.05 L71.67,84.36 L70.8,88.85 L76.37,81.92 Z" fill="#F5F7FA"/>
+  <path d="M70.0,80.05 L70.81,81.89 L75.03,83.57 L76.37,81.92 Z" fill="#00E5FF"/>
+</svg>
